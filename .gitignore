@@ -1,0 +1,14 @@
+# Ignore system files
+.bash_history
+.condarc
+.gitconfig
+
+# Ignore Docker-related files
+*.lock
+docker/*
+
+# Ignore logs
+*.log
+
+# Ignore Conda environments
+environments.txt
