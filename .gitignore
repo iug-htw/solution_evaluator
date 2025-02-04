@@ -12,3 +12,6 @@ docker/*
 
 # Ignore Conda environments
 environments.txt
+
+#ignore .env file
+.env
