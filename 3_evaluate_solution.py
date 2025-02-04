@@ -3,7 +3,7 @@ import csv
 import os
 from dotenv import load_dotenv
 
-def evaluate_solutions(input_file, output_file, model="gpt-4o"):
+def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o"):
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=api_key)
@@ -15,8 +15,19 @@ def evaluate_solutions(input_file, output_file, model="gpt-4o"):
         "Correctness of Final Answer",
         "Learning Appropriateness (Is the Explanation Suitable for Learners?)",
         "Generalization (Can the Learner Apply This Method to Similar Problems?)",
+        "Technical Terms Explanation",
+        "Addressing Common Errors",
         "Explanation"
     ]
+    
+    # Read technical terms from terms_file
+    technical_terms_dict = {}
+    with open(terms_file, mode='r', encoding='utf-8') as termsfile:
+        terms_reader = csv.reader(termsfile)
+        next(terms_reader)  # Skip header
+        for row in terms_reader:
+            key = (row[0], row[1], row[2], row[3])  # (Topic Area, Topic, Progress Level, Exercise)
+            technical_terms_dict[key] = row[4]
     
     with open(input_file, mode='r', encoding='utf-8') as infile, open(output_file, mode='w', encoding='utf-8', newline='') as outfile:
         reader = csv.reader(infile)
@@ -28,8 +39,11 @@ def evaluate_solutions(input_file, output_file, model="gpt-4o"):
         
         for i, row in enumerate(reader):
             topic_area, topic, progress_level, exercise, solution = row
+            if i >= 10:
+                break
+            technical_terms = technical_terms_dict.get((topic_area, topic, progress_level, exercise), "")
             prompt = (
-                f"You are a very demanding teacher trainer. Critically evaluate the solution '{solution}' by a tutor to the problem '{exercise}' using the following 6 criteria:\n"
+                f"You are a very critical teacher trainer. Critically evaluate the solution '{solution}' by a tutor to the problem '{exercise}' using the following 8 criteria:\n"
                 "Criterion\tKey Aspects\tScoring (0-2 points per criterion)\n"
                 "1) Problem Understanding (Comprehension)\t- Does the solution correctly interpret the problem?\n"
                 "- Are key terms/concepts properly introduced?\t0: Misunderstands or omits key elements\n"
@@ -54,8 +68,15 @@ def evaluate_solutions(input_file, output_file, model="gpt-4o"):
                 "- Does it explain the reasoning behind the approach?\t0: Too problem-specific, not generalizable\n"
                 "1: Some generalizability, but limited explanation\n"
                 "2: Strongly generalizable method with clear reasoning\n"
-                "Provide a score from 0 to 2 for each criterion, separated by commas (e.g., 2,2,2,2,2,2)\n"
+                "7) Technical Terms Explanation\t- Are the technical terms '{technical_terms}' fully explained and correctly used?\t0: Terms not explained or used incorrectly\n"
+                "1: Some terms explained but lacks clarity\n"
+                "2: All terms fully explained and correctly used\n"
+                "8) Addressing Common Errors\t- Does the solution address common errors?\t0: Does not address common errors\n"
+                "1: Addresses some common errors but lacks clarity\n"
+                "2: Fully addresses common errors with clear explanations\n"
+                "Provide a score from 0 to 2 for each criterion, separated by commas (e.g., 2,2,2,2,2,2,2,2)\n"
                 "Provide a very short text (not more than 20 words) at the end to justify your scores."
+                "scores and justification must be separated by a double line break\n"
             )
             print(f"Evaluating solution for task {i+1}: {exercise}")
             completion = client.chat.completions.create(
@@ -65,11 +86,12 @@ def evaluate_solutions(input_file, output_file, model="gpt-4o"):
                 ]
             )
             evaluation = completion.choices[0].message.content.strip()
-            scores, explanation = evaluation.split('\n')[-1].split(' ', 1)
+            scores, explanation = map(str.strip, evaluation.split('\n\n', 1))
             scores = scores.split(',')
             writer.writerow(row[:-1] + scores + [explanation])  # Exclude the solution column
 
 if __name__ == "__main__":
     input_file = '1_topic_areas_solutions.csv'
+    terms_file = '2_topic_areas_technical_terms.csv'
     output_file = '3_topic_areas_evaluations.csv'
-    evaluate_solutions(input_file, output_file)
+    evaluate_solutions(input_file, terms_file, output_file)
