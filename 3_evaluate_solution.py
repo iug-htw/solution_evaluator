@@ -1,6 +1,7 @@
 from openai import OpenAI
 import csv
 import os
+import time
 from dotenv import load_dotenv
 
 def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o"):
@@ -39,7 +40,7 @@ def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o"):
         
         for i, row in enumerate(reader):
             topic_area, topic, progress_level, exercise, solution = row
-            if i >= 10:
+            if i >= 400:
                 break
             technical_terms = technical_terms_dict.get((topic_area, topic, progress_level, exercise), "")
             prompt = (
@@ -79,12 +80,24 @@ def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o"):
                 "scores and justification must be separated by a double line break\n"
             )
             print(f"Evaluating solution for task {i+1}: {exercise}")
-            completion = client.chat.completions.create(
-                model=model,
-                messages=[
-                    {"role": "user", "content": prompt},
-                ]
-            )
+            retry_count = 0
+            while retry_count < 5:
+                try:
+                    completion = client.chat.completions.create(
+                        model=model,
+                        messages=[
+                            {"role": "user", "content": prompt},
+                        ]
+                    )
+                    break
+                except openai.error.RateLimitError:
+                    retry_count += 1
+                    print(f"Rate limit exceeded. Retrying in {retry_count * 10} seconds...")
+                    time.sleep(retry_count * 10)
+            else:
+                print("Failed to get a response after multiple retries.")
+                continue
+
             evaluation = completion.choices[0].message.content.strip()
             scores, explanation = map(str.strip, evaluation.split('\n\n', 1))
             scores = scores.split(',')
