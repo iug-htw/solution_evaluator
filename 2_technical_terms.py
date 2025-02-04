@@ -3,7 +3,7 @@ import csv
 import os
 from dotenv import load_dotenv
 
-def extract_technical_terms(input_file, output_file, model="gpt-4o"):
+def extract_technical_terms(input_file, output_file, target_language='en', model="gpt-4o"):
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=api_key)
@@ -21,6 +21,9 @@ def extract_technical_terms(input_file, output_file, model="gpt-4o"):
                 break
             topic_area, topic, progress_level, exercise = row
             prompt = f"Which technical terms need to be understood to solve the following problem: {exercise} Provide only a list of the terms, no further text."
+            if target_language != 'en':
+                prompt += f"The technical terms should be in {target_language}."
+            
             print(f"Extracting technical terms for task {i+1}: {exercise}")
             completion = client.chat.completions.create(
                 model=model,
