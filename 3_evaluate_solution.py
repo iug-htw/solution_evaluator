@@ -4,7 +4,7 @@ import os
 import time
 from dotenv import load_dotenv
 
-def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o"):
+def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o-mini"):
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=api_key)
