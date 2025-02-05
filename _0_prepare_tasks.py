@@ -6,8 +6,11 @@ def clean_csv(input_file, output_file):
         reader = csv.reader(infile)
         writer = csv.writer(outfile)
         
-        # Write header
-        writer.writerow(next(reader))
+        header = next(reader)
+
+        # Update the header for the output file
+        updated_header = header[:3] + ['Exercise']
+        writer.writerow(updated_header)
         
         for row in reader:
             if not any(row):

@@ -12,7 +12,7 @@ METRICS = [
     "Addressing Common Errors",
 ]
 
-# File paths for the three languages (replace with your actual file paths)
+# File paths for the three languages
 files = {
     "en": "3_topic_areas_evaluations.csv",
     "ar": "3_topic_areas_evaluations_ar.csv",
@@ -25,6 +25,7 @@ def load_csv(file_path):
 
 def calculate_metric_averages(df):
     """Calculate the average values for the specified metrics."""
+    df[METRICS] = df[METRICS].apply(pd.to_numeric, errors='coerce')  # Coerce non-numeric to NaN
     return df[METRICS].mean()
 
 def compare_results(files):
@@ -39,7 +40,7 @@ def compare_results(files):
     comparison_df = pd.DataFrame(results)
 
     # Save the comparison to a CSV file
-    comparison_df.T.to_csv("4_comparison_results.csv", index=True)
+    comparison_df.T.to_csv("comparison_results.csv", index=True)
 
     # Print the comparison
     print("\n=== Comparison of Metrics Across Languages ===\n")
@@ -51,7 +52,7 @@ def compare_results(files):
     print(highest_avg)
 
     # Save the highest averages to a separate CSV file
-    highest_avg.to_csv("4_highest_averages.csv", header=["Language"], index_label="Metric")
+    highest_avg.to_csv("highest_averages.csv", header=["Language"], index_label="Metric")
 
 if __name__ == "__main__":
     compare_results(files)

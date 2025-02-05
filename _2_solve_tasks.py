@@ -15,7 +15,7 @@ def solve_tasks(input_file, output_file, model="gpt-4o-mini"):
         
         # Write header with new column for solutions
         header = next(reader)
-        writer.writerow(header + ["gpt-4o solution"])
+        writer.writerow(header + [f"{model} solution"])
         
         for i, row in enumerate(reader):
             topic_area, topic, progress_level, exercise = row
@@ -44,5 +44,5 @@ def solve_tasks(input_file, output_file, model="gpt-4o-mini"):
 
 if __name__ == "__main__":
     input_file = 'topic_areas_cleaned.csv'
-    output_file = '1_topic_areas_solutions.csv'
+    output_file = '2_topic_areas_solutions.csv'
     solve_tasks(input_file, output_file)

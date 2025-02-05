@@ -1,0 +1,3542 @@
+"Topic Area","Topic","Progress Level","Exercise","Technical Terms"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","B","Count objects up to 20","1. Zählen  
+2. Objekte  
+3. Mengen  
+4. Zahlenreihe  
+5. Quantitative Erfassung  
+6. Kardinalität  
+7. Zahlensystem  
+8. Eins-zu-eins-Zuordnung  
+9. Addition  
+10. Subtraktion  
+11. Zahlenverständnis  
+12. Numerische Reihenfolge  
+13. Vergleich  
+14. Mathematikgrundlagen  
+15. Zahlenraum"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","B","Write 15 in tens and ones","1. Zehner  
+2. Einer  
+3. Stellenwertnotation"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","C","Write 234 in expanded form","1. Dezimalzahl
+2. Stellenwert
+3. Hunderterstelle
+4. Zehnerstelle
+5. Einerstelle
+6. Addieren
+7. Multiplikation"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","C","Show ½ with a fraction bar","1. Bruch
+2. Zähler
+3. Nenner
+4. Bruchstrich"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","D","Express 3.75 as a fraction","1. Bruch
+2. Dezimalzahl
+3. Umwandlung
+4. Zähler
+5. Nenner
+6. Gemeinsamer Teiler
+7. Kürzen"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","D","Convert 27 (base 10) to base 2","1. Zahlensystem
+2. Dezimalsystem
+3. Binärsystem
+4. Basis
+5. Division
+6. Rest
+7. Umwandlung"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","E","Plot negative numbers on a line","1. Negative Zahlen
+2. Zahlenstrahl
+3. Koordinatensystem
+4. Achse
+5. Ursprung
+6. Maßstab
+7. Einheitsintervall"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","E","Illustrate 3/5 as decimal and percent","1. Bruch
+2. Dezimalzahl
+3. Prozent
+4. Division
+5. Umrechnung"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","F","Rewrite 2.4×10³ in standard form","1. Standardform
+2. Dezimalzahl
+3. Exponent
+4. Potenz
+5. Basis"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","F","Represent 125 in binary","1. Binärsystem
+2. Dezimalsystem
+3. Stellenwert
+4. Umwandlung
+5. Bit"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","G","Change 5¼ to improper fraction","1. Gemischter Bruch
+2. Unechter Bruch
+3. Zähler
+4. Nenner
+5. Ganzzahl"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","G","Plot ¾, √2, –1.5 on a line","1. Bruch
+2. Quadratwurzel
+3. negative Zahl
+4. Dezimalzahl
+5. Zahlenstrahl"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","H","Compare decimal/binary/hex","1. Dezimalsystem  
+2. Binärsystem  
+3. Hexadezimalsystem  
+4. Zahlensystem  
+5. Stellenwert  
+6. Basis  
+7. Konvertierung  
+8. Bit  
+9. Byte  
+10. Ziffer  
+11. Umwandlung  
+12. Zahlenrepräsentation"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","H","Evaluate best representations in context","1. Kontext
+2. Repräsentation
+3. Evaluierung
+4. Bewertung
+5. Kontextualität
+6. Modell
+7. Datenanalyse
+8. Algorithmus
+9. Metriken
+10. Optimierung"
+"Zahlen und Operationen","Zahlen ordnen","B","Compare two-digit numbers","1. Ziffer  
+2. Stellenwert  
+3. Zahlenwert  
+4. Dezimalsystem  
+5. Größenvergleich"
+"Zahlen und Operationen","Zahlen ordnen","B","Place 5 numbers on a number line","1. Zahlengerade  
+2. Zahlenreihe  
+3. Zahlenabstand  
+4. Positionierung  
+5. Ordnen  
+6. Abstandsmessung"
+"Zahlen und Operationen","Zahlen ordnen","C","Order fractions 1/2, 2/3, 3/4","1. Bruch
+2. Zähler
+3. Nenner
+4. Hauptnenner
+5. Erweitern
+6. Gemeinsamer Nenner
+7. Vergleich von Brüchen"
+"Zahlen und Operationen","Zahlen ordnen","C","Sort decimals 0.2, 0.15, 0.35","1. Dezimalzahl
+2. Vergleich
+3. Sortierung
+4. Reihenfolge"
+"Zahlen und Operationen","Zahlen ordnen","D","Round 345.67 to nearest whole/tenth","1. Runden  
+2. Ganze Zahl  
+3. Zehntelstelle"
+"Zahlen und Operationen","Zahlen ordnen","D","Explain ordering negative numbers","1. Negative Zahlen  
+2. Betragswert  
+3. Zahlenstrahl  
+4. Vergleichsoperatoren  
+5. Ordnungsrelation"
+"Zahlen und Operationen","Zahlen ordnen","E","Arrange decimals/fractions/percents","1. Dezimalzahlen  
+2. Brüche  
+3. Prozente  
+4. Zahlenordnung  
+5. Größer als  
+6. Kleiner als  
+7. Gleichheit  
+8. Gemeinsamer Nenner  
+9. Dezimalumrechnung  
+10. Prozentumrechnung"
+"Zahlen und Operationen","Zahlen ordnen","E","Choose rounding strategies for money","1. Rundung
+2. Dezimalstelle
+3. Aufrunden
+4. Abrunden
+5. Kaufmännisches Runden
+6. Mathematisches Runden
+7. Rundungsregel
+8. Gleitkommazahl
+9. Genauigkeit
+10. Trunkierung"
+"Zahlen und Operationen","Zahlen ordnen","F","Order rational/irrational numbers","1. Rationalzahl  
+2. Irrationalzahl  
+3. Zahlensystem  
+4. Bruch  
+5. Dezimalzahl  
+6. periodischer Dezimalbruch  
+7. nichtperiodischer Dezimalbruch  
+8. Wurzel  
+9. Approximieren  
+10. Größenvergleich  
+11. Ungleichung"
+"Zahlen und Operationen","Zahlen ordnen","F","Discuss rounding errors (financial)","1. Rundungsfehler  
+2. Gleitkommazahl  
+3. Dezimaldarstellung  
+4. Binärdarstellung  
+5. Genauigkeit  
+6. Fehlertoleranz  
+7. Rechenoperationen  
+8. Rundungsmodus  
+9. Trunkierung  
+10. Finanzmathematik  
+11. Signifikante Stellen  
+12. Abweichung  
+13. Numerische Stabilität  
+14. Algorithmus  
+15. Konvertierung"
+"Zahlen und Operationen","Zahlen ordnen","G","Compare expressions for x-values","1. Gleichung  
+2. Ausdruck  
+3. Variable  
+4. Term  
+5. Unbekannte  
+6. Koeffizient  
+7. Gleichungssystem  
+8. Lösen  
+9. Substitution  
+10. Eliminierung  
+11. Äquivalenzumformung  
+12. Bruch  
+13. Summand  
+14. Differenz  
+15. Produkt  
+16. Quotient"
+"Zahlen und Operationen","Zahlen ordnen","G","Use inequalities x<y<z in relationships","1. Ungleichung
+2. Beziehung
+3. Variablen
+4. Ordnung
+5. Transitivität
+6. Rechenregeln"
+"Zahlen und Operationen","Zahlen ordnen","H","Discuss ordering complex numbers","1. Komplexe Zahlen
+2. Realteil
+3. Imaginärteil
+4. Betrag
+5. Argument
+6. Polarform
+7. Gaußsche Zahlenebene
+8. Ordnungsrelation"
+"Zahlen und Operationen","Zahlen ordnen","H","Examine modular arithmetic ordering","1. Modulare Arithmetik  
+2. Restklassen  
+3. Kongruenz  
+4. Modulus  
+5. Teilerfremd  
+6. Ganzzahlige Division  
+7. Modulare Inverse  
+8. Zahlentheorie  
+9. Ordnung (in der Algebra)  
+10. Gruppenstruktur  
+11. Zyklische Gruppe  
+12. Primzahl  
+13. Eulersche Phi-Funktion  
+14. Fermatscher Kleiner Satz  
+15. Chinesischer Restsatz"
+"Zahlen und Operationen","Operationen verstehen und ausführen","B","Add two-digit numbers mentally","- Zehnerstelle
+- Einerstelle
+- Übertrag
+- Addition
+- Kopfrechnen"
+"Zahlen und Operationen","Operationen verstehen und ausführen","B","Subtract 42 – 17 and explain","- Subtraktion  
+- Minuend  
+- Subtrahend  
+- Differenz  
+- Zahl  
+- Ziffer"
+"Zahlen und Operationen","Operationen verstehen und ausführen","C","Multiply 2-digit by 1-digit (distributive)","1. Distributivgesetz
+2. Multiplikation
+3. Ziffer
+4. Produkt
+5. Faktoren
+6. Addition
+7. Stelle (Einserstelle, Zehnerstelle)
+8. Vorzeichen"
+"Zahlen und Operationen","Operationen verstehen und ausführen","C","Divide 3-digit by 1-digit with remainder","1. Division  
+2. Dividend  
+3. Divisor  
+4. Quotient  
+5. Rest"
+"Zahlen und Operationen","Operationen verstehen und ausführen","D","Use standard algorithm for 234×12","1. Multiplikation
+2. Faktor
+3. Produkt
+4. Übertrag
+5. Stellenwert
+6. Addition"
+"Zahlen und Operationen","Operationen verstehen und ausführen","D","Long division with decimals (75.6 ÷ 3.2)","1. Dividend
+2. Divisor
+3. Quotient
+4. Remainder
+5. Decimalstelle
+6. Komma
+7. Stellenwert
+8. Multiplikation
+9. Subtraktion
+10. Verschiebung des Kommas
+11. Division"
+"Zahlen und Operationen","Operationen verstehen und ausführen","E","Use commutative/associative laws","1. Kommutativgesetz
+2. Assoziativgesetz
+3. Operand
+4. Operator
+5. Binäre Operation"
+"Zahlen und Operationen","Operationen verstehen und ausführen","E","Solve real-life percentage problems","1. Prozentsatz  
+2. Grundwert  
+3. Prozentwert  
+4. Prozentpunkt  
+5. Zinsen  
+6. Rabatt  
+7. Aufschlag  
+8. Abnahme  
+9. Zuwachs  
+10. Brutto  
+11. Netto  
+12. Promille"
+"Zahlen und Operationen","Operationen verstehen und ausführen","F","Operate with rational numbers","1. Rationale Zahlen  
+2. Bruch  
+3. Zähler  
+4. Nenner  
+5. Gemeinsamer Nenner  
+6. Umkehrwert  
+7. Dezimalbruch  
+8. Kürzen  
+9. Erweitern  
+10. Addition  
+11. Subtraktion  
+12. Multiplikation  
+13. Division"
+"Zahlen und Operationen","Operationen verstehen und ausführen","F","Find GCD/LCM via prime factorization","1. Primfaktorzerlegung
+2. Größter gemeinsamer Teiler (GGT)
+3. Kleinstes gemeinsames Vielfaches (KGV)
+4. Faktor
+5. Potenz"
+"Zahlen und Operationen","Operationen verstehen und ausführen","G","Apply exponent rules","1. Exponent
+2. Basis
+3. Potenzregel
+4. Multiplikation von Potenzen
+5. Division von Potenzen
+6. Potenz eines Produkts
+7. Potenz einer Potenz
+8. Nullte Potenz
+9. Negative Potenz"
+"Zahlen und Operationen","Operationen verstehen und ausführen","G","Simplify expressions with negative exponents","1. Basis
+2. Exponent
+3. Potenzgesetz
+4. Negativer Exponent
+5. Kehrwert
+6. Multiplikation
+7. Division
+8. Vereinfachung"
+"Zahlen und Operationen","Operationen verstehen und ausführen","H","Operate with polynomials (factor, expand)","1. Polynom
+2. Faktor
+3. Ausmultiplizieren
+4. Faktorisieren
+5. Koeffizient
+6. Grad
+7. Monom
+8. Binom
+9. Trinom
+10. Polynombasis
+11. Distributivgesetz
+12. Associativgesetz
+13. Kommutativgesetz"
+"Zahlen und Operationen","Operationen verstehen und ausführen","H","Handle surds/advanced symbolic forms","1. Radikanden  
+2. Radikalisierung  
+3. Vereinfachung  
+4. Rationalisierung  
+5. Wurzelausdruck  
+6. Konjugiert  
+7. Termumformung  
+8. Algebraische Formeln  
+9. Binomische Formeln  
+10. Grundrechenarten"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","B","Identify odd/even to 100","1. Zahl
+2. Gerade
+3. Ungerade
+4. Division
+5. Modulo
+6. Rest
+7. Ganzzahl"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","B","Find multiples of 2, 5, 10","1. Vielfache  
+2. Teilerregel  
+3. Teilbarkeit"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","C","Place fractions (1/2, 1/4) on a line","1. Bruch
+2. Zähler
+3. Nenner
+4. Zahlenstrahl
+5. Verhältnis
+6. Teilung
+7. Ordnen"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","C","Convert 1/2, 3/4 to decimals","- Bruch
+- Dezimalzahl
+- Umwandlung
+- Division"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","D","Use negative integers (temperature)","1. Negative Zahlen
+2. Temperatur
+3. Skala
+4. Celsius
+5. Negatives Vorzeichen
+6. Absoluter Nullpunkt
+7. Gefrierpunkt
+8. Temperaturdifferenz
+9. Messwert
+10. Kälteeinheit"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","D","Add/subtract fractions (unlike denominators)","- Bruch
+- Zähler
+- Nenner
+- Hauptnenner
+- Erweitern
+- Kürzen
+- Addition
+- Subtraktion"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","E","Apply percent calculations","1. Prozentwert
+2. Grundwert
+3. Prozentsatz
+4. Prozentpunkt
+5. Prozentrechnung
+6. Relative Änderung
+7. Absolute Änderung
+8. Zinsrechnung
+9. Rabatt
+10. Aufschlag
+11. Abzinsung
+12. Prozentsatzformel"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","E","Convert fraction/decimal/percent in word problems","1. Bruch
+2. Dezimalzahl
+3. Prozent
+4. Umwandlung
+5. Zähler
+6. Nenner
+7. Dezimalkomma
+8. Verhältnis
+9. Prozentsatz
+10. Konvertieren"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","F","Add/subtract rational expressions","1. Rationaler Ausdruck
+2. Zähler
+3. Nenner
+4. Bruch
+5. Hauptnenner
+6. Kürzen
+7. Erweitern
+8. Gleichnamig
+9. Ungleichnamig
+10. Summenregel
+11. Differenzregel"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","F","Convert repeating decimals to fractions","1. Dezimalbruch
+2. Periodizität
+3. Periode
+4. gemischter Dezimalbruch
+5. Bruch
+6. Zähler
+7. Nenner
+8. gekürzter Bruch"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","G","Distinguish rational vs. irrational","1. Rationalität  
+2. Irrationalität  
+3. Bruch  
+4. Dezimalzahl  
+5. Periode  
+6. Nicht-periodisch  
+7. Wurzel  
+8. Quadratwurzel  
+9. Verhältnis  
+10. Endlich  
+11. Unendlich  
+12. Zahlensystem  
+13. Kürzen  
+14. Näherung  
+15. Reelle Zahl"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","G","Approximate √2 or π to given precision","1. Näherungsverfahren  
+2. Konvergenz  
+3. Iterationsverfahren  
+4. Genauigkeit  
+5. Rundungsfehler  
+6. Zahlenreihe  
+7. Grenzwert  
+8. Algorithmus  
+9. Gleitkommazahl  
+10. Abbruchkriterium"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","H","Explore complex numbers overview","1. Komplexe Zahlen
+2. Imaginäre Einheit
+3. Realteil
+4. Imaginärteil
+5. Polarform
+6. Exponentialform
+7. Betrag
+8. Argument
+9. Konjugation
+10. Addition komplexer Zahlen
+11. Multiplikation komplexer Zahlen
+12. Division komplexer Zahlen
+13. Gaußsche Zahlenebene
+14. Euler’sche Formel
+15. Wurzeln komplexer Zahlen"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","H","Extend to advanced sets (complex plane)","1. Komplexe Zahlen  
+2. Argand-Diagramm  
+3. Realteil  
+4. Imaginärteil  
+5. Betrag  
+6. Konjugation  
+7. Exponentialfunktion  
+8. Polarform  
+9. Algebraische Form  
+10. Nullstellen  
+11. Cauchy-Riemann-Gleichungen  
+12. Holomorphe Funktion  
+13. Meromorphe Funktion  
+14. Branch-Cut  
+15. Riemannsche Fläche  
+16. Konvergenz  
+17. Divergenz  
+18. Topologie  
+19. Abbildung  
+20. Transformation  
+21. Residuen  
+22. Laurentreihen  
+23. Einheitskreis  
+24. Möbiustransformation  
+25. Bilineartransformation"
+"Zahlen und Operationen","Rechenstrategien anwenden","B","Mentally add/subtract single-digit to 2-digit","1. Addition
+2. Subtraktion
+3. Ziffer
+4. Stellenwert
+5. Zehnersystem
+6. Einfache Mathematik
+7. Kopfrechnen"
+"Zahlen und Operationen","Rechenstrategien anwenden","B","Explain adding 9 to a number","1. Zahl
+2. Addition
+3. Summand
+4. Ergebnis
+5. Stellenwert
+6. Dezimalsystem
+7. Kommutativgesetz"
+"Zahlen und Operationen","Rechenstrategien anwenden","C","Check subtraction by adding","1. Subtraktion  
+2. Addition  
+3. Differenz  
+4. Minuend  
+5. Subtrahend  
+6. Übertrag"
+"Zahlen und Operationen","Rechenstrategien anwenden","C","Use doubling/halving to simplify multiplication","1. Verdopplung  
+2. Halbierung  
+3. Multiplikation  
+4. Vereinfachung  
+5. Operanden  
+6. Produkt"
+"Zahlen und Operationen","Rechenstrategien anwenden","D","Estimate 398×52, then verify","1. Schätzung
+2. Multiplikation
+3. Produkt
+4. Näherungswert
+5. Verifikation"
+"Zahlen und Operationen","Rechenstrategien anwenden","D","Combine mental math & written methods","1. Kopfrechnen  
+2. schriftliche Rechenverfahren  
+3. Addition  
+4. Subtraktion  
+5. Multiplikation  
+6. Division  
+7. Stellenwert  
+8. Übertrag  
+9. Zwischenschritte  
+10. Algorithmus  
+11. Dezimalsystem  
+12. Rechenoperationen"
+"Zahlen und Operationen","Rechenstrategien anwenden","E","Solve multi-step word problems (percents)","1. Prozent
+2. Grundwert
+3. Prozentwert
+4. Prozentsatz
+5. Rabatt
+6. Zunahme
+7. Abnahme
+8. Verhältnis
+9. Bruch
+10. Dezimalzahl
+11. Prozentrechnung
+12. Multiplikation
+13. Division
+14. Addition
+15. Subtraktion"
+"Zahlen und Operationen","Rechenstrategien anwenden","E","Compare mental vs. written vs. calculator","1. Kopfrechnen  
+2. Schriftliches Rechnen  
+3. Taschenrechner  
+4. Rechenverfahren  
+5. Effizienz  
+6. Genauigkeit  
+7. Geschwindigkeit  
+8. Bedienbarkeit  
+9. Fehleranfälligkeit  
+10. Benutzerfreundlichkeit  
+11. Zahlensystem  
+12. Arithmetik  
+13. Multiplikation  
+14. Addition  
+15. Subtraktion  
+16. Division  
+17. Dezimalsystem  
+18. Rechenweg  
+19. Problemlösung  
+20. Vergleichsanalyse"
+"Zahlen und Operationen","Rechenstrategien anwenden","F","Use factorization for large calculations","1. Faktorisierung
+2. Primzahlzerlegung
+3. Teiler
+4. Vielfaches
+5. Gemeinsamer Teiler
+6. Größter gemeinsamer Teiler (ggT)
+7. Kleinstes gemeinsames Vielfaches (kgV)
+8. Algebraische Ausdrücke
+9. Zahlenebene
+10. Multiplikation"
+"Zahlen und Operationen","Rechenstrategien anwenden","F","Explain error-checking with decimals/fractions","1. Rundungsfehler  
+2. Gleitkommazahl  
+3. Dezimalbruch  
+4. Genauigkeit  
+5. Überlauf  
+6. Unterlauf  
+7. Fehlerfortpflanzung  
+8. Numerische Stabilität  
+9. Konvertierung  
+10. Approximation"
+"Zahlen und Operationen","Rechenstrategien anwenden","G","Approximate solutions (Newton’s method)","- Iteration
+- Ableitung
+- Konvergenz
+- Anfangswert
+- Nullstelle
+- Näherung
+- Taylorreihe
+- quadratische Konvergenz
+- Funktionenwert
+- Tangente"
+"Zahlen und Operationen","Rechenstrategien anwenden","G","Analyze efficiency of multiple strategies","1. Algorithmus  
+2. Komplexität  
+3. Laufzeit  
+4. Datenstruktur  
+5. Optimierung  
+6. Metrik  
+7. Vergleichsanalyse  
+8. Heuristik  
+9. Ressourcennutzung  
+10. Parallelverarbeitung"
+"Zahlen und Operationen","Rechenstrategien anwenden","H","Generalize symbolic manipulation strategies","1. Symbolische Manipulation  
+2. Generalisierung  
+3. Strategie  
+4. Algebraische Strukturen  
+5. Syntax  
+6. Semantik  
+7. Algorithmus  
+8. Repräsentation  
+9. Formale Systeme  
+10. Transformation  
+11. Logik  
+12. Regelbasierte Systeme  
+13. Abstraktion  
+14. Rechenregeln  
+15. Ausdrucksformen  
+16. Techniken  
+17. Automatisierung  
+18. Heuristik  
+19. Mustererkennung  
+20. Variablensubstitution"
+"Zahlen und Operationen","Rechenstrategien anwenden","H","Compare mental, symbolic, tech approaches","1. Mentalmodell  
+2. Symbolische Repräsentation  
+3. Technologische Entwicklung  
+4. Kognitive Prozesse  
+5. Algorithmus  
+6. Datenanalyse  
+7. Informationsverarbeitung  
+8. User Experience  
+9. Mensch-Maschine-Interaktion  
+10. Systemarchitektur"
+"Raum und Form","Raumorientierung und Lagebeziehungen","B","Identify left/right in classroom","1. Raumorientierung  
+2. Perspektive  
+3. Blickrichtung  
+4. Bezugspunkt  
+5. Koordinatensystem  
+6. Referenzrahmen  
+7. Symmetrie  
+8. Anzeichenentwertung  
+9. Parallaxeeffekt  
+10. Wahrnehmung"
+"Raum und Form","Raumorientierung und Lagebeziehungen","B","Follow directions on a simple grid","1. Gitter
+2. Koordinaten
+3. Achsen
+4. Ursprung
+5. Raster
+6. Richtungen
+7. Schritte
+8. Abszisse
+9. Ordinate
+10. Quadranten"
+"Raum und Form","Raumorientierung und Lagebeziehungen","C","Plot integer points on a grid","1. Koordinatensystem
+2. Achse
+3. Gitternetz
+4. Punkt
+5. Ganzzahl
+6. Ursprung
+7. Fläche
+8. Skala
+9. Abszisse
+10. Ordinate"
+"Raum und Form","Raumorientierung und Lagebeziehungen","C","Describe point locations as (x,y)","1. Koordinatensystem  
+2. Achse  
+3. Ursprung  
+4. Punkt  
+5. Ort  
+6. x-Koordinate  
+7. y-Koordinate  
+8. kartesisches Koordinatensystem  
+9. Ebene  
+10. rechtwinkliges Koordinatensystem  
+11. Parallelen  
+12. Senkrechten"
+"Raum und Form","Raumorientierung und Lagebeziehungen","D","Use scale/compass directions on a map","1. Maßstab  
+2. Himmelsrichtungen  
+3. Kompass  
+4. Nord  
+5. Süd  
+6. Ost  
+7. West  
+8. Gradnetz  
+9. Länge  
+10. Breite"
+"Raum und Form","Raumorientierung und Lagebeziehungen","D","Place negative coordinates in four quadrants","1. Koordinatensystem  
+2. Quadrant  
+3. Negative Koordinaten  
+4. X-Achse  
+5. Y-Achse  
+6. Ursprung  
+7. Punkteschreibweise  
+8. Nullpunkt"
+"Raum und Form","Raumorientierung und Lagebeziehungen","E","Translate real-world paths into coordinates","1. Koordinatensystem
+2. kartesische Koordinaten
+3. Georeferenzierung
+4. Projektion
+5. GPS (Globales Positionsbestimmungssystem)
+6. Transformation
+7. Längen- und Breitengrad
+8. Digitalisierung
+9. Vektorgraphik
+10. Geodatensystem
+11. räumliche Daten
+12. Referenzsystem"
+"Raum und Form","Raumorientierung und Lagebeziehungen","E","Identify geometry transformations on a plan","1. Translation (Translation)
+2. Rotation (Drehung)
+3. Reflection (Spiegelung)
+4. Dilation (Streckung)
+5. Symmetry (Symmetrie)
+6. Isometry (Isometrie)
+7. Transformation (Transformation)
+8. Congruence (Kongruenz)
+9. Similarity (Ähnlichkeit)
+10. Vector (Vektor)"
+"Raum und Form","Raumorientierung und Lagebeziehungen","F","Use vectors for positions/movements","1. Vektor  
+2. Position  
+3. Bewegung  
+4. Richtung  
+5. Betrag  
+6. Koordinatensystem  
+7. Komponenten  
+8. Addition von Vektoren  
+9. Subtraktion von Vektoren  
+10. Multiplikation mit einem Skalar  
+11. Einheitsvektor  
+12. Vektorielle Darstellung  
+13. Ortsvektor  
+14. Differenzvektor"
+"Raum und Form","Raumorientierung und Lagebeziehungen","F","Solve distance/midpoint problems","1. Abstand
+2. Mittelpunkt
+3. Koordinatensystem
+4. Punkt(e)
+5. Koordinaten
+6. Strecke
+7. Vektor
+8. Betrag
+9. Gleichung
+10. Kartesisches Koordinatensystem"
+"Raum und Form","Raumorientierung und Lagebeziehungen","G","Apply matrices for transformations","1. Matrix
+2. Vektor
+3. Transformation
+4. Lineare Abbildung
+5. Determinante
+6. Eigenwert
+7. Eigenvektor
+8. Diagonalisierung
+9. Inverse Matrix
+10. Skalar
+11. Basis
+12. Koordinatensystem
+13. Translation
+14. Rotation
+15. Skalierung
+16. Shear
+17. Homogene Koordinaten
+18. Affine Transformation
+19. Orthogonale Matrix
+20. Symmetrische Matrix"
+"Raum und Form","Raumorientierung und Lagebeziehungen","G","Describe 3D coordinates or cross-sections","1. Koordinatensystem  
+2. kartesische Koordinaten  
+3. Zylinderkoordinaten  
+4. Kugelkoordinaten  
+5. Achsenabschnitt  
+6. Schnittebene  
+7. Querschnitt  
+8. Abszisse  
+9. Ordinaten  
+10. Ordinate  
+11. Abszisse  
+12. Projektion  
+13. Transformation  
+14. Vektor  
+15. Ursprung"
+"Raum und Form","Raumorientierung und Lagebeziehungen","H","Advanced vector/matrix in spatial tasks","1. Vektor
+2. Matrix
+3. Dimension
+4. Koordinate
+5. Transformation
+6. Lineare Abbildung
+7. Eigenwert
+8. Eigenvektor
+9. Skalarprodukt
+10. Kreuzprodukt
+11. Matrizenmultiplikation
+12. Transponierte Matrix
+13. Inverse Matrix
+14. Determinante
+15. Orthogonalität
+16. Basis
+17. Affiner Raum
+18. Translation
+19. Rotation
+20. Homogene Koordinaten"
+"Raum und Form","Raumorientierung und Lagebeziehungen","H","Examine transformations in higher dimensions","1. Lineare Transformation  
+2. Vektorraum  
+3. Basis  
+4. Dimension  
+5. Eigenwert  
+6. Eigenvektor  
+7. Matrix  
+8. Determinante  
+9. Rang  
+10. Abbildung  
+11. Affiner Raum  
+12. Homogene Koordinaten  
+13. Skalarprodukt  
+14. Orthogonalität  
+15. Singulärwertzerlegung  
+16. Diagonalisierung  
+17. Rotation  
+18. Translation  
+19. Projektion  
+20. Skalierung"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","B","Identify basic shapes (circle, square)","1. Algorithmus  
+2. Bilderkennung  
+3. Klassifizierung  
+4. Konturerkennung  
+5. Merkmalsextraktion  
+6. Figuren  
+7. Form  
+8. Segmentierung  
+9. Mustererkennung  
+10. Trainingsdaten"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","B","Sort real objects (cube vs. prism)","1. Objekt
+2. Würfel
+3. Prisma
+4. Volumen
+5. Oberfläche
+6. Kanten
+7. Ecken
+8. Flächen
+9. Geometrie
+10. Dimensionen"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","C","Classify polygons by sides/angles","1. Polygon
+2. Seite
+3. Winkel
+4. Dreieck
+5. Quadrat
+6. Rechteck
+7. Vieleck
+8. Gleichseitig
+9. Gleichschenklig
+10. Unregelmäßig
+11. Konvex
+12. Konkav
+13. Innenwinkel
+14. Außenwinkel
+15. Diagonale"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","C","Compare shapes by parallel sides or right angles","1. Parallel
+2. Senkrecht
+3. Seite
+4. Winkel
+5. Rechteck
+6. Parallelogramm
+7. Quadrat
+8. Trapez
+9. Raute
+10. Fünfeck"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","D","Name 3D solids & identify nets","1. Körper
+2. Netz
+3. Flächen"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","D","Explore angle sums in polygons","1. Winkel
+2. Polygon
+3. Innenwinkel
+4. Außenwinkel
+5. Winkelmaß
+6. Winkelsumme
+7. Dreieck
+8. Viereck
+9. Vieleck
+10. Ecken
+11. Seiten
+12. Diagonale"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","E","Analyze circle properties (radius, diameter)","1. Radius  
+2. Durchmesser  
+3. Umfang  
+4. Fläche  
+5. Kreis  
+6. Kreislinie  
+7. Mittelpunkt  
+8. Pi (π)  
+9. Sekante  
+10. Tangente  
+11. Sekantenwinkel  
+12. Chord  
+13. Bogen  
+14. Segment"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","E","Find angle sums in polygons (triangles, quadrilaterals)","1. Winkel
+2. Innenwinkel
+3. Außenwinkel
+4. Dreieck
+5. Viereck
+6. Vieleck
+7. Winkelsumme
+8. Kongruenz
+9. Parallelogramm
+10. Diagonale
+11. Gleichseitiges Dreieck
+12. Gleichschenkliges Dreieck
+13. Regelmäßiges Vieleck"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","F","Compare volume/surface area of prisms","1. Prisma  
+2. Volumen  
+3. Oberfläche  
+4. Grundfläche  
+5. Höhe  
+6. Seitenfläche  
+7. Kantenlänge  
+8. Querschnitt  
+9. Quader  
+10. Rechteck  
+11. Dreieck  
+12. Trapez  
+13. Basislinie"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","F","Recognize Platonic solids (properties)","1. Platonischer Körper  
+2. Polyeder  
+3. Symmetrie  
+4. Flächen  
+5. Ecken  
+6. Kanten  
+7. Regelmäßiges Vieleck  
+8. Konvexität  
+9. Diederwinkel  
+10. Euler'sche Polyederformel  
+11. Tetraeder  
+12. Würfel  
+13. Oktaeder  
+14. Dodekaeder  
+15. Ikosaeder"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","G","Examine cross-sections of 3D shapes","1. Querschnitt
+2. dreidimensional
+3. Geometrie
+4. Ebene
+5. Schnittfläche
+6. Rotation
+7. Projektion
+8. Symmetrie
+9. Achse
+10. Volumen
+11. Fläche
+12. Kante
+13. Kontur
+14. Vektor
+15. Perspektive
+16. Perspektivische Ansicht"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","G","Use Euler’s formula (faces, edges, vertices)","1. Eulersche Formel  
+2. Fläche  
+3. Kante  
+4. Ecke"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","H","Investigate complex solids or fractals","1. Komplexe Körper  
+2. Fraktale  
+3. Dimension  
+4. Skalierbarkeit  
+5. Selbstähnlichkeit  
+6. Iteration  
+7. Geometrie  
+8. Topologie  
+9. Chaos-Theorie  
+10. Fraktale Dimension  
+11. Hausdorff-Dimension  
+12. Rekursion  
+13. Nichtlineare Systeme  
+14. Attraktor  
+15. Mandelbrot-Menge  
+16. Julia-Menge"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","H","Apply advanced polyhedral geometry","1. Polyeder  
+2. Facette  
+3. Ecken  
+4. Kanten  
+5. Hyperflächen  
+6. Konvexität  
+7. Dimension  
+8. Polytope  
+9. Vektorraumn  
+10. Extrempunkte  
+11. Adjazenzmatrix  
+12. Inzidenzmatrix  
+13. Dualität  
+14. Projektion  
+15. affine Räume  
+16. Volumenberechnung  
+17. Polyedrische Zerlegung  
+18. Stützhyperberfläche  
+19. Hülle  
+20. Geometrische Algorithmen"
+"Raum und Form","Konstruktionen und Zeichnungen","B","Draw a line segment (8 cm) with a ruler","1. Linie
+2. Liniensegment
+3. Zentimeter
+4. Lineal
+5. Messen"
+"Raum und Form","Konstruktionen und Zeichnungen","B","Draw a rectangle with given sides","- Rechteck  
+- Seite  
+- Länge  
+- Breite  
+- Koordinatensystem  
+- Achsen  
+- Ursprung  
+- Maßstab  
+- Einheiten  
+- Winkel  
+- Parallelität  
+- Winkelrechtigkeit"
+"Raum und Form","Konstruktionen und Zeichnungen","C","Construct perpendicular lines (set square)","- Senkrechte  
+- Winkel  
+- Linie  
+- Scheitelpunkt  
+- Grad  
+- Hypotenuse  
+- Kathete  
+- Geodreieck  
+- Lot  
+- Maßstab"
+"Raum und Form","Konstruktionen und Zeichnungen","C","Use a compass for a circle (radius given)","1. Zirkel  
+2. Radius  
+3. Kreis  
+4. Mittelpunkt  
+5. Skalierung  
+6. Bleistiftmine  
+7. Einstellschraube"
+"Raum und Form","Konstruktionen und Zeichnungen","D","Bisect an angle (compass/straightedge)","1. Winkel
+2. Winkelhalbierende
+3. Zirkel
+4. Lineal
+5. Schnittpunkt
+6. Gerade
+7. Konstruktion
+8. Geometrie"
+"Raum und Form","Konstruktionen und Zeichnungen","D","Construct a triangle (given side lengths)","1. Dreieck
+2. Seite
+3. Länge
+4. Winkel
+5. Schnittpunkt
+6. Winkelhalbierende
+7. Hypotenuse
+8. rechtwinklig
+9. kongruent
+10. Konstruktion
+11. Geometrie"
+"Raum und Form","Konstruktionen und Zeichnungen","E","Inscribe a circle in a polygon","1. Kreis
+2. Polygon
+3. Inkreismittelpunkt
+4. Tangente
+5. Winkelhalbierende
+6. Normalvektor
+7. Umkreis
+8. Seitenlänge
+9. Flächeninhalt
+10. Schwerpunkt"
+"Raum und Form","Konstruktionen und Zeichnungen","E","Construct regular polygons (where possible)","1. Regelmäßiges Polygon
+2. Konstruktion
+3. Winkel
+4. Symmetrieachse
+5. Seitenlänge
+6. Mittelpunktswinkel
+7. Innenwinkel
+8. Zirkel
+9. Lineal
+10. Umkreis
+11. Ecken
+12. Diagonale
+13. Teilungspunkt"
+"Raum und Form","Konstruktionen und Zeichnungen","F","Use coordinate geometry for precise drawings","1. Koordinatensystem
+2. Achsenabschnitt
+3. Ursprung
+4. X-Achse
+5. Y-Achse
+6. Punkt
+7. Gerade
+8. Steigung
+9. Vektor
+10. Abstand
+11. Lot
+12. Schnittpunkt
+13. Gleichung
+14. Parabel
+15. Ellipse
+16. Hyperbel
+17. Winkel
+18. Skalarprodukt
+19. Kreuzprodukt
+20. Transformationsmatrix"
+"Raum und Form","Konstruktionen und Zeichnungen","F","Construct complex polygons with software","1. Polygon
+2. Knotenpunkt
+3. Kante
+4. Fläche
+5. Vektor
+6. Koordinatensystem
+7. Geometrie
+8. Transformation
+9. Skalierung
+10. Drehung
+11. Translation
+12. Rendering
+13. Computergrafik
+14. CAD-Software
+15. Mesh
+16. Bezierkurve
+17. Parametrisierung
+18. Topologie
+19. Datenstruktur
+20. Algorithmus"
+"Raum und Form","Konstruktionen und Zeichnungen","G","Analyze geometric loci","1. Punkt
+2. Linie
+3. Kurve
+4. Kreis
+5. Ellipse
+6. Parabel
+7. Hyperbel
+8. Tangente
+9. Sekante
+10. Normalvektor
+11. Zentrum
+12. Radius
+13. Brennpunkt
+14. Parameterdarstellung
+15. Gleichung
+16. Abbildung
+17. Transformation
+18. Symmetrie
+19. Ort
+20. Koordinatensystem"
+"Raum und Form","Konstruktionen und Zeichnungen","G","Demonstrate advanced constructions (Apollonius circles)","1. Apollonius-Kreis
+2. Tangente
+3. Sehne
+4. Inversion
+5. Potenzreihe
+6. Zentroid
+7. Geometrischer Ort
+8. Schnittpunkt
+9. Kegelschnitt
+10. Hyperbel
+11. Ellipse
+12. Fokusse
+13. Lotgerade
+14. Mathematik
+15. Konstruktion
+16. Verhältnis
+17. Äquidistanz
+18. Bisektion
+19. Transformation"
+"Raum und Form","Konstruktionen und Zeichnungen","H","Study constructibility (Galois theory)","1. Körper
+2. Erweiterung
+3. Polynom
+4. Algebraisch
+5. Grad
+6. Automorphismus
+7. Galoisgruppe
+8. Fixkörper
+9. Zwischenkörper
+10. Zerfällungskörper
+11. Irreduzibel
+12. Transzendenz
+13. Normal
+14. Separable
+15. Radikal
+16. Kette
+17. Primzahl
+18. Kongruenz
+19. Diskriminante
+20. Permutation"
+"Raum und Form","Konstruktionen und Zeichnungen","H","Explore higher-dimensional or advanced geometry constructions","1. Mehrdimensionale Geometrie
+2. Nichteuklidische Geometrie
+3. Topologie
+4. Mannigfaltigkeit
+5. Tensoren
+6. Homöomorphismus
+7. Isometrie
+8. Symmetriegruppe
+9. Affiner Raum
+10. Projektive Geometrie
+11. Fraktale Geometrie
+12. Hyperfläche
+13. Geodäte
+14. Kurvenintegral
+15. Differentialgeometrie
+16. Homologie
+17. Knoten
+18. Vielseitigkeit
+19. Quaternionen
+20. Fiberräume"
+"Raum und Form","Symmetrien und Abbildungen","B","Fold test for line symmetry","- Faltungstest
+- Linien-Symmetrie
+- Symmetrieachse
+- Spiegelung
+- Geometrie
+- Achsensymmetrie
+- Gleichheit
+- Überlagerung"
+"Raum und Form","Symmetrien und Abbildungen","B","Make a symmetrical pattern (paper folding)","1. Symmetrie  
+2. Faltlinie  
+3. Spiegelachse  
+4. Falz  
+5. Knickpunkt  
+6. Faltmuster  
+7. Achsensymmetrie  
+8. Überlappung  
+9. Papiergewicht  
+10. Präzision  
+11. Geometrie  
+12. Falttechnik  
+13. Origami  
+14. Faltvorgang"
+"Raum und Form","Symmetrien und Abbildungen","C","Reflect a figure across a grid line","1. Reflexion
+2. Gitterlinie
+3. Achse
+4. Koordinatensystem
+5. Symmetrie
+6. Spiegelachse
+7. Punktspiegelung
+8. Abbildung
+9. Transformation"
+"Raum und Form","Symmetrien und Abbildungen","C","Describe symmetrical objects (butterfly wings)","1. Symmetrie  
+2. Achsensymmetrie  
+3. Bilaterale Symmetrie  
+4. Musterwiederholung  
+5. Flügelstruktur  
+6. Formgebung  
+7. Proportionen  
+8. Spiegelbildlichkeit  
+9. Morphe  
+10. Farbmuster  
+11. Geometrie  
+12. Fraktale  
+13. Sektionslinie  
+14. Symmetrieachse  
+15. Asymmetrie"
+"Raum und Form","Symmetrien und Abbildungen","D","Translate/reflect/rotate on coordinates","1. Translation
+2. Reflexion
+3. Rotation
+4. Koordinaten
+5. Ursprung
+6. Achse
+7. Vektor
+8. Winkel
+9. Spiegelung
+10. Verschiebung"
+"Raum und Form","Symmetrien und Abbildungen","D","Identify rotational symmetry (square, triangle)","1. Rotationssymmetrie  
+2. Symmetriezentrum  
+3. Drehsymmetrie  
+4. Drehwinkel  
+5. Symmetrieachse  
+6. Quadrat  
+7. Dreieck  
+8. Winkelgrad  
+9. Regelmäßiges Vieleck  
+10. Ordnungszahl der Symmetrie"
+"Raum und Form","Symmetrien und Abbildungen","E","Construct symmetry lines for polygons","1. Symmetrieachse
+2. Spiegelachse
+3. Kongruenz
+4. Achsensymmetrie
+5. Mittelpunkt
+6. Geometrische Transformation
+7. Winkelhalbierende
+8. Regelmäßiges Vieleck
+9. Spiegelung
+10. Invarianz"
+"Raum und Form","Symmetrien und Abbildungen","E","Compose transformations (reflection then rotation)","1. Komposition
+2. Transformation
+3. Spiegelung
+4. Rotation
+5. Achse
+6. Winkel
+7. Bild
+8. Vektor
+9. Drehpunkt
+10. Ursprung
+11. Symmetrie
+12. Matrixmultiplikation"
+"Raum und Form","Symmetrien und Abbildungen","F","Use transformations to prove congruence","1. Transformationen  
+2. Kongruenz  
+3. Translation  
+4. Rotation  
+5. Spiegelung  
+6. Vektor  
+7. Achse  
+8. Winkel  
+9. Geometrische Figuren  
+10. Deckabbildung"
+"Raum und Form","Symmetrien und Abbildungen","F","Investigate tessellations (Escher patterns)","1. Parkettierung
+2. Kongruenzabbildung
+3. Symmetrie
+4. Translation
+5. Rotation
+6. Spiegelung
+7. Gleitspiegelung
+8. Mosaik
+9. Periodizität
+10. Zellteilung
+11. Symmetriegruppe
+12. Kristallographie
+13. Kachel
+14. Raster
+15. Transformation
+16. Fraktal
+17. Muster
+18. Ornamentik"
+"Raum und Form","Symmetrien und Abbildungen","G","Represent transformations via vectors/matrices","1. Vektor  
+2. Matrix  
+3. Transformation  
+4. Lineare Abbildung  
+5. Koordinatensystem  
+6. Basis  
+7. Determinante  
+8. Inverse Matrix  
+9. Transposition  
+10. Eigenwert  
+11. Eigenvektor  
+12. Diagonalisierung  
+13. Skalarmultiplikation  
+14. Vektorraumbasis  
+15. Lineare Unabhängigkeit"
+"Raum und Form","Symmetrien und Abbildungen","G","Apply inverse transformations to geometry tasks","1. Inverse Transformation - Inverse Transformation  
+2. Geometrische Transformation - Geometric Transformation  
+3. Matrixinversion - Matrix Inversion  
+4. Lineare Algebra - Linear Algebra  
+5. Koordinatensystem - Coordinate System  
+6. Homogene Koordinaten - Homogeneous Coordinates  
+7. Vektorrechnung - Vector Calculus  
+8. Drehmatrix - Rotation Matrix  
+9. Translationsmatrix - Translation Matrix  
+10. Skalierungsmatrix - Scaling Matrix  
+11. Determinante - Determinant  
+12. Affine Transformation - Affine Transformation  
+13. Euklidische Transformation - Euclidean Transformation  
+14. Projektion - Projection  
+15. Transformationsmatrix - Transformation Matrix"
+"Raum und Form","Symmetrien und Abbildungen","H","Explore symmetry groups (group theory)","1. Symmetriegruppe
+2. Gruppentheorie
+3. Gruppe
+4. Element
+5. Operation
+6. Identitätselement
+7. Inverses Element
+8. Assoziativität
+9. Untergruppe
+10. Zyklische Gruppe
+11. Permutationsgruppe
+12. Abelsche Gruppe
+13. Normalteiler
+14. Quotientengruppe
+15. Homomorphismus
+16. Isomorphismus
+17. Automorphismus
+18. Direkte Summe
+19. Produktgruppe
+20. Satz von Lagrange
+21. Gruppenordnung
+22. Darstellung
+23. Cayley-Diagramm
+24. Gruppenhomologie
+25. Erzeugendensystem"
+"Raum und Form","Symmetrien und Abbildungen","H","Real-world symmetry (crystals, physics)","1. Symmetrie
+2. Kristallstruktur
+3. Translationssymmetrie
+4. Punktgruppe
+5. Raumgruppe
+6. Gitter
+7. Kristallsystem
+8. Bravais-Gitter
+9. Symmetrieoperation
+10. Inversionszentrum
+11. Rotationsachse
+12. Spiegelungsebene
+13. Symmetrieelement
+14. Kristallographie
+15. Asymmetrische Einheit"
+"Raum und Form","Messen und Berechnen","B","Measure objects in cm, compare results","1. Zentimeter (cm)
+2. Messung
+3. Vergleich
+4. Objekte
+5. Länge
+6. Ergebnis"
+"Raum und Form","Messen und Berechnen","B","Estimate perimeter of a desk, then measure","- Abschätzung
+- Umfang
+- Schätzen
+- Messen
+- Maßband
+- Einheit
+- Geometrie"
+"Raum und Form","Messen und Berechnen","C","Compute perimeter/area of a rectangle","- Umfang
+- Fläche
+- Rechteck
+- Länge
+- Breite"
+"Raum und Form","Messen und Berechnen","C","Calculate classroom floor area","1. Fläche  
+2. Länge  
+3. Breite  
+4. Quadratmeter  
+5. Maßstab  
+6. Rechteck  
+7. Umrechnung  
+8. Dimensionsangaben"
+"Raum und Form","Messen und Berechnen","D","Circumference of a circle (given radius)","- Umfang  
+- Kreis  
+- Radius  
+- Pi (π)"
+"Raum und Form","Messen und Berechnen","D","Use Pythagorean theorem (right triangle side)","1. Satz des Pythagoras
+2. Hypotenuse
+ ( Hokamkekpov servants )1. Kathete"
+"Raum und Form","Messen und Berechnen","E","Area of combined shapes (rectangle+triangle)","- Fläche
+- Rechteck
+- Dreieck
+- Basis
+- Höhe
+- Länge
+- Breite
+- Hypotenuse
+- Kathete
+- Geometrie
+- Addition"
+"Raum und Form","Messen und Berechnen","E","Volume of a cylinder","- Volumen  
+- Zylinder  
+- Radius  
+- Durchmesser  
+- Höhe  
+- Kreisfläche  
+- Pi (π)"
+"Raum und Form","Messen und Berechnen","F","Use trigonometry in right triangles","1. Hypotenuse  
+2. Gegenkathete  
+3. Ankathete  
+4. Sinus  
+5. Kosinus  
+6. Tangens  
+7. Winkel  
+8. Grad  
+9. Radians  
+10. Pythagoras  
+11. Satz des Pythagoras  
+12. Dreieck  
+13. Kathete  
+14. Trigonometrische Funktionen"
+"Raum und Form","Messen und Berechnen","F","Compute surface area (pyramids, cones)","1. Grundfläche  
+2. Seitenfläche  
+3. Mantelfläche  
+4. Höhe (Höhe der Pyramide oder Höhe des Kegels)  
+5. Seitenhöhe  
+6. Radius  
+7. Basis  
+8. Spitze  
+9. Umfang  
+10. Schrägkante"
+"Raum und Form","Messen und Berechnen","G","Solve advanced geometry tasks (circle theorems)","1. Umfangswinkel
+2. Mittelpunktswinkel
+3. Sekante
+4. Tangente
+5. Passante
+6. Sehne
+7. Kreisumfang
+8. Kreisfläche
+9. Tangentenviereck
+10. Sehnensatz
+11. Sekantensatz
+12. Satz des Thales
+13. Peripheriewinkel
+14. Segment
+15. Kreisbogen
+16. Kreissektor
+17. Inkreis
+18. Umkreis
+19. Tangentenabschnittssatz
+20. Kongruenzsätze"
+"Raum und Form","Messen und Berechnen","G","Apply law of cosines/sines","1. Winkel
+2. Dreieck
+3. Seite
+4. Kosinussatz
+5. Sinussatz
+6. gegenüberliegend
+7. eingeschlossen
+8. Hypotenuse
+9. Kathete
+10. Verhältnis"
+"Raum und Form","Messen und Berechnen","H","Prove advanced geometry statements","1. Vektorraum
+2. Konvexität
+3. Vektorprodukt
+4. Skalarprodukt
+5. Affiner Raum
+6. Transformationsmatrix
+7. Isometrie
+8. Homothetie
+9. Symmetrie
+10. Translation
+11. Projektion
+12. Winkel
+13. Schnittpunkt
+14. Inzidenz
+15. Parallelität
+16. Orthogonalität
+17. Diagonale
+18. Kongruenz
+19. Mittelsenkrechte
+20. Schwerpunkt"
+"Raum und Form","Messen und Berechnen","H","Use advanced geometry/trig in real contexts","1. Vektor
+2. Skalarprodukt
+3. Sinusfunktion
+4. Kosinusfunktion
+5. Tangensfunktion
+6. Winkel
+7. Hypotenuse
+8. Kathete
+9. Trigonometrischer Satz
+10. Einheitskreis
+11. Kreis
+12. Parabel
+13. Ellipse
+14. Hyperbel
+15. Koordinatensystem
+16. Transformation
+17. Matrix
+18. Determinante
+19. Skalar
+20. Norm
+21. Winkelhalbierende
+22. Lot
+23. Parallel
+24. Orthogonal
+25. Kongruenz
+26. Ähnlichkeit"
+"Größen und Messen","Größen erfassen und vergleichen","B","Compare length with paperclips","1. Länge
+2. Vergleich
+3. Maßeinheit
+4. Standardreferenz
+5. Papierklammer
+6. Kalibrierung"
+"Größen und Messen","Größen erfassen und vergleichen","B","Sort containers by capacity","1. Kapazität
+2. Container
+3. Sortierung
+4. Vergleichsalgorithmus
+5. Datenstruktur
+6. Liste
+7. Array
+8. Algorithmus"
+"Größen und Messen","Größen erfassen und vergleichen","C","Measure length in cm/m","- Zentimeter (cm)
+- Meter (m)
+- Länge
+- Maßband
+- Lineal
+- Messgerät"
+"Größen und Messen","Größen erfassen und vergleichen","C","Compare weights with balance scale","1. Waage
+2. Gleichgewicht
+3. Gewichtseinheit
+4. Vergleichsverfahren
+5. Kalibrierung
+6. Messgenauigkeit
+7. Gewichtsdifferenz
+8. Nullpunkt
+9. Hebelgesetz
+10. Auflagepunkt
+11. Ungleichgewicht
+12. Ausgleichsverfahren"
+"Größen und Messen","Größen erfassen und vergleichen","D","Estimate length, then measure","1. Schätzung
+2. Länge
+3. Messung
+4. Maßstab
+5. Messgerät
+6. Einheiten
+7. Genauigkeit
+8. Kalibrierung
+9. Toleranz
+10. Auflösung"
+"Größen und Messen","Größen erfassen und vergleichen","D","Interpret temperature in Celsius","1. Temperatur
+2. Celsius
+3. Grad
+4. Thermometer
+5. Messtechniken
+6. Wärmeenergie
+7. Absolute Nullpunkt"
+"Größen und Messen","Größen erfassen und vergleichen","E","Analyze measurement accuracy","1. Messgenauigkeit  
+2. Kalibrierung  
+3. Abweichung  
+4. Fehleranalyse  
+5. Toleranzbereich  
+6. Wiederholbarkeit  
+7. Präzision  
+8. Systematischer Fehler  
+9. Zufälliger Fehler  
+10. Messunsicherheit  
+11. Eichung  
+12. Messgerät  
+13. Auflösung  
+14. Linearität  
+15. Empfindlichkeit"
+"Größen und Messen","Größen erfassen und vergleichen","E","Compare metric vs. imperial in context","1. Längeneinheit
+2. Gewichtseinheit
+3. Volumeneinheit
+4. Maßeinheit 
+5. Umrechnung
+6. metrisches System
+7. imperiales System
+8. Temperaturmessung
+9. Flächeneinheit
+10. Einheitensystem"
+"Größen und Messen","Größen erfassen und vergleichen","F","Use precision tools (calipers)","1. Kaliber
+2. Messschieber
+3. Skalierung
+4. Innenmessung
+5. Außenmessung
+6. Tiefenmessung
+7. Ablesegenauigkeit
+8. Nullpunktjustierung
+9. Messbereich
+10. Feststellschraube
+11. Nonius
+12. Digitalanzeige"
+"Größen und Messen","Größen erfassen und vergleichen","F","Discuss error margins in a lab","1. Fehlergrenze
+2. Messunsicherheit
+3. Kalibrierung
+4. Messabweichung
+5. Genauigkeit
+6. Präzision
+7. Standardabweichung
+8. Signifikanzniveau
+9. Toleranzbereich
+10. Zufälliger Fehler
+11. Systematischer Fehler
+12. Konfidenzintervall"
+"Größen und Messen","Größen erfassen und vergleichen","G","Design an experiment for reliability","1. Zuverlässigkeit  
+2. Lebensdauerprüfung  
+3. Ausfallrate  
+4. Fehlermodus  
+5. Testdesign  
+6. Belastungstest  
+7. Stresstest  
+8. Probenahmeverfahren  
+9. Versuchsplan  
+10. Stichprobe  
+11. Konfidenzintervall  
+12. Varianzanalyse  
+13. Bauteilprüfung  
+14. Systemzuverlässigkeit  
+15. Fehleranalyse  
+16. Überlebensanalyse  
+17. Zuverlässigkeitskennzahlen  
+18. Weibull-Verteilung  
+19. Zensierung  
+20. Zeitabhängiger Ausfall"
+"Größen und Messen","Größen erfassen und vergleichen","G","Analyze significant figures in data","1. Signifikante Stellen  
+2. Messwert  
+3. Genauigkeit  
+4. Präzision  
+5. Rundung  
+6. Fehleranalyse  
+7. Unsicherheit  
+8. Messunsicherheit  
+9. Dezimalstelle  
+10. Exaktheit"
+"Größen und Messen","Größen erfassen und vergleichen","H","Advanced measurement methods (wave-based)","1. Welleninterferenz
+2. Wellenlänge
+3. Beugung
+4. Kohärenz
+5. Amplitude
+6. Phasenverschiebung
+7. Schallwellen
+8. Lichtwellen
+9. Resonanz
+10. Streuung
+11. Spektroskopie
+12. Reflexion
+13. Transmission
+14. Breitbandinterferometrie
+15. Frequenz
+16. Quantenmechanik
+17. Dopplereffekt
+18. Auflösung
+19. Wellenfronten
+20. Holografie"
+"Größen und Messen","Größen erfassen und vergleichen","H","Critique SI vs. alternative systems","1. Internationales Einheitensystem (SI)  
+2. Basiseinheiten  
+3. Kohärenz  
+4. Dimensionen  
+5. Messgenauigkeit  
+6. Standardisierung  
+7. Metrologie  
+8. Konversion  
+9. Messeinheit  
+10. Kalibrierung  
+11. Konsistenz  
+12. Nachvollziehbarkeit  
+13. Normung  
+14. Referenzwert  
+15. Streuung  
+16. Fehleranalyse  
+17. Vergleichbarkeit"
+"Größen und Messen","Umgang mit Maßeinheiten","B","Recognize cm/m for length","1. Maßeinheit  
+2. Zentimeter  
+3. Meter  
+4. Umrechnung  
+5. Längeneinheit"
+"Größen und Messen","Umgang mit Maßeinheiten","B","Identify € for money","1. Währungssymbol
+2. Zeichencodierung
+3. Unicode
+4. ASCII
+5. Zeichensatz
+6. Textverarbeitung
+7. Regularer Ausdruck
+8. String-Matching"
+"Größen und Messen","Umgang mit Maßeinheiten","C","Convert cm ↔ m","1. Zentimeter
+2. Meter
+3. Umrechnung
+4. Längenmaß
+5. Einheit
+6. Faktor"
+"Größen und Messen","Umgang mit Maßeinheiten","C","Measure objects in cm","1. Längenmessung  
+2. Zentimeter  
+3. Lineal  
+4. Maßband  
+5. Kalibrierung  
+6. Genauigkeit  
+7. Skala  
+8. Einheit  
+9. Messabweichung  
+10. Messgerät"
+"Größen und Messen","Umgang mit Maßeinheiten","D","Convert mm, cm, m, km","1. Millimeter (mm)
+2. Zentimeter (cm)
+3. Meter (m)
+4. Kilometer (km)
+5. Längeneinheit
+6. Umrechnung
+7. Messsystem
+8. Dezimalsystem"
+"Größen und Messen","Umgang mit Maßeinheiten","D","Solve length/mass word problems","1. Länge  
+2. Masse  
+3. Gewicht  
+4. Einheit  
+5. Umrechnung  
+6. Bruch  
+7. Linie  
+8. Maßeinheit  
+9. Verhältnis  
+10. Proportion"
+"Größen und Messen","Umgang mit Maßeinheiten","E","Convert decimals (e.g., 1.25 kg = 1250 g)","1. Dezimalzahl  
+2. Umrechnung  
+3. Kilogramm  
+4. Gramm  
+5. Maßeinheit  
+6. Gewicht  
+7. Multiplikation  
+8. Umrechnungsfaktor  
+9. Numerische Werte  
+10. Exponentielle Darstellung"
+"Größen und Messen","Umgang mit Maßeinheiten","E","Handle time units (hours ↔ minutes)","1. Stunde  
+2. Minute  
+3. Zeiteinheit  
+4. Umrechnung  
+5. Verhältnis  
+6. Multiplikation  
+7. Division  
+8. Zeitumrechnung  
+9. Zeitintervall  
+10. Einheitenkonversion"
+"Größen und Messen","Umgang mit Maßeinheiten","F","Compare metric vs. imperial (miles↔km)","1. Maßsystem  
+2. Längeneinheit  
+3. Meile  
+4. Kilometer  
+5. Umrechnungsfaktor  
+6. Einheit  
+7. Maßumrechnung  
+8. Dezimalsystem  
+9. Imperiales System  
+10. Metrisches System"
+"Größen und Messen","Umgang mit Maßeinheiten","F","Convert volume units (L, mL, cm³)","1. Volumen  
+2. Liter (L)  
+3. Milliliter (mL)  
+4. Kubikzentimeter (cm³)  
+5. Umrechnung  
+6. Einheit  
+7. Verhältnis  
+8. Maßeinheit  
+9. Dezimalsystem"
+"Größen und Messen","Umgang mit Maßeinheiten","G","Use dimensional analysis","1. Dimension
+2. Einheit
+3. Dimensionsanalyse
+4. Größenordnung
+5. Skalierung
+6. Leistungsformel
+7. Basisgröße
+8. Abgeleitete Größe
+9. Dimensionsgleichung
+10. Dimensionalität
+11. Dimensionslose Größe
+12. Konstanten"
+"Größen und Messen","Umgang mit Maßeinheiten","G","Discuss historical/scientific units (parsec)","1. Parsec
+2. Astronomische Einheit (AE)
+3. Lichtjahr
+4. Sekunde
+5. Winkelminute
+6. Winkelsekunde
+7. Entfernung
+8. Himmelsmechanik
+9. Sternparallaxe
+10. Bogenmaß"
+"Größen und Messen","Umgang mit Maßeinheiten","H","Examine Planck length/light-year","1. Planck-Länge
+2. Lichtjahr
+3. Quantenmechanik
+4. Relativitätstheorie
+5. Dimension
+6. Raumzeit
+7. Naturkonstanten
+8. Größenskala
+9. Physikalische Einheiten
+10. Kosmologie"
+"Größen und Messen","Umgang mit Maßeinheiten","H","Critique SI vs. universal measurement","1. Internationales Einheitensystem (SI)
+2. Basiseinheit
+3. Maßeinheit
+4. Physikalische Größe
+5. Messgenauigkeit
+6. Kalibrierung
+7. Normung
+8. Konsistenz
+9. Dimensionsanalyse
+10. Skalenäquivalenz"
+"Größen und Messen","Berechnungen von Größen","B","Add lengths in cm","- Addition  
+- Zentimeter  
+- Länge  
+- Summe  
+- Einheitenumrechnung"
+"Größen und Messen","Berechnungen von Größen","B","Combine volumes in liters","1. Volumen
+2. Liter 
+3. Addieren
+4. Einheitenumrechnung
+5. Gesamtvolumen
+6. Messgenauigkeit
+7. Messinstrument
+8. Differenz
+9. Flüssigkeit
+10. Dichte"
+"Größen und Messen","Berechnungen von Größen","C","Compute perimeter from side lengths","1. Umfang
+2. Seitenlängen
+3. Addition"
+"Größen und Messen","Berechnungen von Größen","C","Add/subtract weights in g or kg","1. Gewicht
+2. Gramm
+3. Kilogramm
+4. Einheitenumrechnung
+5. Addition
+6. Subtraktion"
+"Größen und Messen","Berechnungen von Größen","D","Area of rectangles/squares","- Fläche  
+- Rechteck  
+- Quadrat  
+- Länge  
+- Breite  
+- Seite"
+"Größen und Messen","Berechnungen von Größen","D","Volume (in cm³) of a small box","1. Volumen  
+2. Kubikzentimeter (cm³)  
+3. Kante  
+4. Länge  
+5. Breite  
+6. Höhe  
+7. Maße  
+8. Geometrie  
+9. Quader  
+10. Multiplikation"
+"Größen und Messen","Berechnungen von Größen","E","Paint wall area or calculate floor area","1. Wandfläche
+2. Bodenfläche
+3. Quadratmeter
+4. Raumhöhe
+5. Länge
+6. Breite
+7. Fläche
+8. Volumen
+9. Maßeinheit
+10. Grundfläche"
+"Größen und Messen","Berechnungen von Größen","E","Use area of triangle/circle formulas","1. Dreieck
+2. Kreis
+3. Fläche
+4. Basis
+5. Höhe
+6. Radius
+7. Durchmesser
+8. Pi (π)"
+"Größen und Messen","Berechnungen von Größen","F","Calculate speed = distance/time","1. Geschwindigkeit
+2. Strecke
+3. Zeit
+4. Berechnung"
+"Größen und Messen","Berechnungen von Größen","F","Convert mph ↔ km/h in real contexts","1. Geschwindigkeit
+2. Meilen pro Stunde (mph)
+3. Kilometer pro Stunde (km/h)
+4. Umrechnungsfaktor
+5. Einheitensystem
+6. Proportionalität
+7. Multiplikation
+8. Division"
+"Größen und Messen","Berechnungen von Größen","G","Surface area/volume of spheres/cones","1. Oberfläche  
+2. Volumen  
+3. Kugel  
+4. Kegel  
+5. Radius  
+6. Durchmesser  
+7. Höhe  
+8. Grundfläche  
+9. Mantelfläche  
+10. Kreis  
+11. Pi (π)"
+"Größen und Messen","Berechnungen von Größen","G","Solve optimization of dimensions","1. Optimierung  
+2. Dimensionen  
+3. Zielfunktion  
+4. Nebenbedingungen  
+5. Lösungsraum  
+6. Gradient  
+7. Konvergenz  
+8. Iteration  
+9. Ableitung  
+10. Objektive Funktion  
+11. Parameter  
+12. Variablen  
+13. Lineare Optimierung  
+14. Nichtlineare Optimierung  
+15. Machbarkeitsbereich  
+16. Dualität  
+17. Heuristiken  
+18. Restriktionen  
+19. Sensitivitätsanalyse  
+20. Skaliertheit"
+"Größen und Messen","Berechnungen von Größen","H","Use integrals for irregular volumes","1. Integralrechnung  
+2. Volumen  
+3. Rotationskörper  
+4. Querschnittsfläche  
+5. Achse der Rotation  
+6. Grenzen der Integration  
+7. Funktionen  
+8. Differential  
+9. Integrationskonstante  
+10. Scheibchenmethode  
+11. Zylindermantelmethode (oder Schalenelementmethode)"
+"Größen und Messen","Berechnungen von Größen","H","Apply advanced dimensional calculations","1. Dimension
+2. Vektorraum
+3. Basis
+4. Lineare Abhängigkeit
+5. Linearkombination
+6. Matrizen
+7. Rang
+8. Determinante
+9. Eigenwerte
+10. Eigenvektoren
+11. Skalarprodukt
+12. Orthogonalität
+13. Transformationsmatrix
+14. Koordinatensystem
+15. Homogene Gleichungssysteme"
+"Größen und Messen","Größen in Sachzusammenhängen","B","Compare prices in €","1. Preise
+2. Vergleich
+3. Währung
+4. Umrechnung
+5. Kurs
+6. Angebot
+7. Nachfrage
+8. Marktanalyse
+9. Statistiken
+10. Datenquellen"
+"Größen und Messen","Größen in Sachzusammenhängen","B","Discuss 5 min vs. 15 min","1. Zeitmanagement
+2. Effizienz
+3. Ressourcenallokation
+4. Kommunikationsstrategien
+5. Entscheidungsfindung"
+"Größen und Messen","Größen in Sachzusammenhängen","C","Plan a simple budget","1. Einnahmen
+2. Ausgaben
+3. Fixkosten
+4. Variable Kosten
+5. Sparquote
+6. Rücklagen
+7. Liquidität
+8. Budgetdefizit
+9. Überschuss
+10. Zahlungsziel
+11. Investitionen
+12. Cashflow
+13. Nettogewinn
+14. Bruttogewinn"
+"Größen und Messen","Größen in Sachzusammenhängen","C","Estimate travel time (hours/minutes)","1. Geschwindigkeit  
+2. Entfernung  
+3. Route  
+4. Verkehrsdichte  
+5. Fahrzeit  
+6. Durchschnittsgeschwindigkeit  
+7. Zeitmanagement  
+8. Reisemodus  
+9. Straßenverhältnisse  
+10. Echtzeitinformationen"
+"Größen und Messen","Größen in Sachzusammenhängen","D","Calculate total grocery cost","1. Warenkorb
+2. Einzelpreis
+3. Menge
+4. Gesamtpreis
+5. Mehrwertsteuer
+6. Rabatt
+7. Einheitspreis
+8. Artikelnummer
+9. Summe
+10. Gesamtbetrag"
+"Größen und Messen","Größen in Sachzusammenhängen","D","Convert time zones","1. Zeitzone  
+2. Koordinierte Weltzeit (UTC)  
+3. Sommerzeit  
+4. Normalzeit  
+5. Zeitverschiebung  
+6. Datumsgrenze  
+7. Ortszeit  
+8. GMT (Greenwich Mean Time)  
+9. MEZ (Mitteleuropäische Zeit)  
+10. MESZ (Mitteleuropäische Sommerzeit)"
+"Größen und Messen","Größen in Sachzusammenhängen","E","Fuel cost per km or partial usage","1. Kraftstoffverbrauch  
+2. Kraftstoffpreis  
+3. Teilstrecke  
+4. Kilometerstand  
+5. Verbrauchseinheit  
+6. Effizienz  
+7. Kostenkalkulation  
+8. Fahrleistung"
+"Größen und Messen","Größen in Sachzusammenhängen","E","Scale a recipe for different portions","1. Proportion
+2. Verhältnis
+3. Mengenangabe
+4. Umrechnungsfaktor
+5. Portion
+6. Einheit
+7. Skalierung
+8. Rezept
+9. Zutatenmenge
+10. Faktor"
+"Größen und Messen","Größen in Sachzusammenhängen","F","Use scale drawings or architectural plans","1. Maßstab
+2. Grundriss
+3. Seitenansicht
+4. Schnittansicht
+5. Vermessung
+6. Perspektive
+7. Lageplan
+8. Bauplan
+9. Projektion
+10. Bemaßung
+11. Linienführung
+12. Schraffur
+13. Draufsicht
+14. Höhenvermaßung
+15. Ansichtszeichnung"
+"Größen und Messen","Größen in Sachzusammenhängen","F","Solve tax or interest with unit conversions","1. Steuern
+2. Zinsen
+3. Einheitenumrechnung
+4. Prozent
+5. Währung
+6. Zinssatz
+7. Zinsertrag
+8. Kapital
+9. Zinsperiode
+10. Steuerklasse
+11. Nettobetrag
+12. Bruttobetrag
+13. Mehrwertsteuer
+14. Einkommenssteuer
+15. Abgeltungssteuer
+16. Umrechnungskurs"
+"Größen und Messen","Größen in Sachzusammenhängen","G","Analyze water/electric bills","1. Verbrauchsdaten
+2. Grundgebühr
+3. Verbrauchseinheit
+4. Tarifstruktur
+5. Schwachlasttarif
+6. Hochlasttarif
+7. Abrechnungszeitraum
+8. Messwert
+9. Zählerstand
+10. Abschlagszahlung
+11. Netzgebühren
+12. Stromanbieter
+13. Wasserzähler
+14. Energieeffizienz
+15. Lastprofil
+16. Kilowattstunde (kWh)
+17. Kubikmeter (m³)
+18. Mehrwertsteuer
+19. Konzessionsabgabe
+20. Umlage"
+"Größen und Messen","Größen in Sachzusammenhängen","G","Plan multi-step resource/time usage","1. Ressourcenmanagement  
+2. Zeitmanagement  
+3. Projektplanung  
+4. Meilensteinplanung  
+5. Kapazitätsplanung  
+6. Terminplanung  
+7. Abhängigkeitsanalyse  
+8. Workflow-Optimierung  
+9. Pufferzeit  
+10. Kritischer Pfad  
+11. Gantt-Diagramm  
+12. Engpassanalyse  
+13. Ressourcenallokation  
+14. Zeitschätzung  
+15. Priorisierung  
+16. Risikomanagement  
+17. Aufwandsabschätzung  
+18. Projektstrukturplan  
+19. Phasenmodell  
+20. Fortschrittskontrolle  
+21. Ressourcenengpass"
+"Größen und Messen","Größen in Sachzusammenhängen","H","Assess large-scale environmental data","1. Umweltüberwachung  
+2. Fernerkundung  
+3. Geoinformationssystem (GIS)  
+4. Statistik  
+5. Datenanalyse  
+6. Klimamodellierung  
+7. Zeitreihenanalyse  
+8. Räumliche Auflösung  
+9. Datenvisualisierung  
+10. Fernerkundungsdaten  
+11. Big Data  
+12. Umweltindikatoren  
+13. Satellitendaten  
+14. Datenverarbeitung  
+15. Validierung  
+16. Interpolation  
+17. Atmosphärische Korrektur"
+"Größen und Messen","Größen in Sachzusammenhängen","H","Use advanced modeling/simulation","1. Modellierung  
+2. Simulation  
+3. Algorithmus  
+4. Datensatz  
+5. Parameter  
+6. Validierung  
+7. Kalibrierung  
+8. Verifikation  
+9. Prognose  
+10. Szenario  
+11. Numerische Analyse  
+12. Rechenleistung  
+13. Variablen  
+14. Optimierung  
+15. Sensitivitätsanalyse  
+16. Monte-Carlo-Simulation  
+17. nichtlineare Gleichungen  
+18. Iteration  
+19. Eingabedaten  
+20. Ausgabeergebnisse"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","B","Collect data on favorite fruits (tally)","1. Daten
+2. Sammlung
+3. Favoriten
+4. Früchte
+5. Strichliste"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","B","Make a bar chart of fruit counts","1. Balkendiagramm
+2. Obst
+3. Anzahl
+4. Achse
+5. Daten
+6. Kategorie
+7. Skala
+8. Beschriftung
+9. Visualisierung
+10. Diagrammtitel"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","C","Read values from a line graph","1. Achse
+2. Koordinatensystem
+3. Skala
+4. Datenpunkte
+5. Interpolation
+6. Trendlinie
+7. Schnittpunkt
+8. Messwert
+9. X-Achse
+10. Y-Achse"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","C","Make a table from a short survey","1. Tabelle
+2. Umfrage
+3. Datenanalyse
+4. Datenstruktur
+5. Statisik
+6. Datenverarbeitung
+7. Visualisierung
+8. Datensätze
+9. Fragebogen
+10. Antworten
+11. Variablen
+12. Datenformat
+13. Ergebnisdarstellung"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","D","Interpret data in a pie chart","1. Kreisdiagramm
+2. Sektor
+3. Prozent
+4. Anteil
+5. Gesamtwert
+6. Legende
+7. Beschriftung
+8. Farbcode
+9. Visualisierung
+10. Dateninterpretation"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","D","Organize data in a two-way table","1. Daten
+2. Zwei-Wege-Tabelle
+3. Kategorien
+4. Zeilen
+5. Spalten
+6. Kreuztabelle
+7. Variablen
+8. Matrix
+9. Häufigkeit
+10. Kontingenz
+11. Klassifikation
+12. Datenstruktur
+13. Merkmal
+14. Ausprägung
+15. Dimension"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","E","Construct line graphs for time series","1. Zeitreihe  
+2. Datenpunkt  
+3. Achse  
+4. X-Achse  
+5. Y-Achse  
+6. Skalierung  
+7. Interpolation  
+8. Glättung  
+9. Trendlinie  
+10. Diagramm  
+11. Gitternetzlinien  
+12. Legende  
+13. Stichprobe  
+14. Visualisierung  
+15. Korrelation"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","E","Analyze misleading scales in graphs","1. Achsenskalierung  
+2. Skalierungsverzerrung  
+3. Nullpunktmanipulation  
+4. Verhältnisskala  
+5. Balkendiagramm  
+6. Liniendiagramm  
+7. Datenmanipulation  
+8. Graphische Darstellung  
+9. Maßstab  
+10. Intervallskala  
+11. Relativer Anstieg  
+12. Absoluter Anstieg"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","F","Use spreadsheets for visualization","1. Tabellenkalkulation  
+2. Datenvisualisierung  
+3. Diagrammarten  
+4. Datenreihe  
+5. Achsenbeschriftung  
+6. Pivot-Tabelle  
+7. Filter  
+8. Formatierung  
+9. Zellfunktionen  
+10. Datensatz  
+11. Bedingte Formatierung  
+12. Bereichsnamen  
+13. Arbeitsblatt  
+14. Diagrammtitel  
+15. Datenquellen"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","F","Discuss sampling methods/bias","1. Stichprobe
+2. Zufallsstichprobe
+3. Schichtstichprobe
+4. Klumpenstichprobe
+5. Geschichtete Stichprobe
+6. Systematische Stichprobe
+7. Auswahlbias
+8. Nicht-Antwort-Bias
+9. Verzerrung
+10. Repräsentativität
+11. Stichprobenfehler
+12. Überdeckungsfehler
+13. Stichprobenrahmen
+14. Stratifizierung
+15. Gewichtung
+16. Stichprobenverfahren
+17. Verzerrte Auswahl
+18. Selektionsbias"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","G","Make box plots or histograms","1. Boxplot  
+2. Histogramm  
+3. Median  
+4. Quartile  
+5. Interquartilsabstand  
+6. Ausreißer  
+7. Achse  
+8. Datenverteilung  
+9. Spannweite  
+10. Balken (bei Histogramm)  
+11. Klassenbreite  
+12. Häufigkeit  
+13. Kasten  
+14. Whisker"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","G","Interpret cumulative frequency graphs","1. Kumulative Häufigkeit  
+2. Klassengrenzen  
+3. Häufigkeitsverteilung  
+4. Histogramm  
+5. Mediale Klasse  
+6. Quartile  
+7. Median  
+8. Prozentil  
+9. Interquartilsabstand  
+10. Datenpunkte"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","H","Apply advanced stats (regression, tests)","1. Regressionsanalyse  
+2. Signifikanzniveau  
+3. Konfidenzintervall  
+4. Varianz  
+5. Standardabweichung  
+6. p-Wert  
+7. Nullhypothese  
+8. Alternativhypothese  
+9. Stichprobe  
+10. Datenverteilung  
+11. Multikollinearität  
+12. Residuen  
+13. Determinationskoeffizient  
+14. Kovarianz  
+15. Zufallsvariable  
+16. Bias  
+17. Überanpassung  
+18. Modellannahmen  
+19. t-Test  
+20. F-Test"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","H","Evaluate reliability of large data sets","1. Zuverlässigkeit
+2. Datenqualität
+3. Signifikanz
+4. Stichprobe
+5. Fehlerrate
+6. Validierung
+7. Verifizierung
+8. Skalierbarkeit
+9. Datenintegrität
+10. Anomalieerkennung
+11. statistische Analyse
+12. Datenbereinigung
+13. Konsistenzprüfung"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","B","Identify mode in a small data set","- Modus  
+- Datensatz  
+- Häufigkeit  
+- Element  
+- Unimodal  
+- Mehrfach auftretend"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","B","Find largest/smallest in a chart","1. Diagramm
+2. Achse
+3. Datenreihe
+4. Wert
+5. Maximum
+6. Minimum
+7. Skala
+8. Vergleich
+9. Extremwert
+10. Intervall"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","C","Compute mean of test scores","1. Mittelwert
+2. Testpunkte
+3. Datensatz
+4. Berechnung
+5. Summe
+6. Stichprobe
+7. Anzahl"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","C","Find the range (max-min)","1. Bereich
+2. Maximum
+3. Minimum
+4. Differenz"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","D","Compare two sets by mean/range","1. Durchschnitt
+2. Mittelwert
+3. Spannweite
+4. Datenreihe
+5. Stichprobe
+6. Wertebereich
+7. Vergleich
+8. Statistik
+9. Messwerte
+10. Analyse"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","D","Interpret the median in contexts","1. Median
+2. Verteilung
+3. Datenmenge
+4. Zentralwert
+5. Streuung
+6. Ausreißer
+7. Häufigkeitsverteilung
+8. Quantile
+9. Skalenlevel
+10. Schiefe"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","E","Explain outliers’ effect on mean/median","1. Ausreißer  
+2. Mittelwert  
+3. Median  
+4. Verteilung  
+5. Streuung  
+6. Schiefe  
+7. Robustheit  
+8. Empfindlichkeit  
+9. Datenverzerrung  
+10. Statistische Analyse"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","E","Use quartiles/box plots","1. Quartile  
+2. Median  
+3. Interquartilsabstand  
+4. Boxplot  
+5. Whisker  
+6. Ausreißer  
+7. Streudiagramm  
+8. Datenverteilung"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","F","Construct & interpret box plots","1. Boxplot  
+2. Median  
+3. Quartile  
+4. Interquartilsabstand (IQR)  
+5. Whisker  
+6. Ausreißer  
+7. Minimum  
+8. Maximum  
+9. Perzentil  
+10. Datenverteilung"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","F","Introduce standard deviation","1. Standardabweichung  
+2. Mittelwert  
+3. Varianz  
+4. Streuung  
+5. Normalverteilung  
+6. Datenreihe  
+7. Stichprobe  
+8. Population  
+9. Zufallsvariable  
+10. quadratische Abweichung"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","G","Use z-scores or distribution overlap","1. z-Wert
+2. Normalverteilung
+3. Standardabweichung
+4. Mittelwert
+5. Wahrscheinlichkeitsverteilung
+6. Überlappung der Verteilungen
+7. Standardisierung
+8. Stichprobe
+9. Populationsparameter
+10. Konfidenzintervall"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","G","Analyze correlation vs. causation","1. Korrelation  
+2. Kausalität  
+3. Zufallsvariable  
+4. Korrelationkoeffizient  
+5. Störvariable  
+6. Kontrollvariable  
+7. Kausaler Zusammenhang  
+8. Koinzidenz  
+9. Regressionsanalyse  
+10. Drittvariable  
+11. Scheinkorrelation  
+12. Zeitliche Abfolge  
+13. Experimente  
+14. Beobachtungsstudie  
+15. Signifikanzniveau"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","H","Regression or hypothesis testing","1. Regressionsanalyse  
+2. Hypothesentest  
+3. Unabhängige Variable  
+4. Abhängige Variable  
+5. Konfidenzintervall  
+6. Signifikanzniveau  
+7. Nullhypothese  
+8. Alternativhypothese  
+9. P-Wert  
+10. Modellanpassung  
+11. Residuum  
+12. Varianz  
+13. Kovarianz  
+14. Korrelation  
+15. Normalverteilung  
+16. Stichprobenverteilung  
+17. Lineare Regression  
+18. Multikollinearität  
+19. Ausreißer  
+20. Freiheitsgrade"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","H","Confidence intervals/significance tests","1. Konfidenzintervall
+2. Signifikanztest
+3. Nullhypothese
+4. Alternativhypothese
+5. p-Wert
+6. Stichprobe
+7. Standardabweichung
+8. Standardfehler
+9. Schätzfunktion
+10. Normalverteilung
+11. Z-Wert
+12. t-Verteilung
+13. Freiheitsgrade
+14. Alpha-Niveau
+15. Kritischer Wert
+16. Vertrauensniveau"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","B","Discuss certain vs. impossible events","1. Wahrscheinlichkeit
+2. Ereignis
+3. Sicheres Ereignis
+4. Unmögliches Ereignis
+5. Wahrscheinlichkeitstheorie
+6. Ergebnismenge
+7. Zufallsexperiment
+8. Elementarereignis
+9. Komplementäres Ereignis
+10. Wahrscheinlichkeitssatz"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","B","Rank events by likelihood","1. Wahrscheinlichkeit  
+2. Wahrscheinlichkeitsverteilung  
+3. Ereignisraum  
+4. Zufallsvariablen  
+5. Erwartungswert  
+6. Varianz  
+7. Standardabweichung  
+8. Bedingte Wahrscheinlichkeit  
+9. Unabhängigkeit  
+10. Bayes-Theorem"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","C","Coin toss experiment","1. Münzwurf  
+2. Wahrscheinlichkeit  
+3. Wahrscheinlichkeitstheorie  
+4. Zufallsvariable  
+5. Bernoulli-Experiment  
+6. Ergebnismenge  
+7. Ereignis  
+8. Unabhängigkeit  
+9. Wahrscheinlichkeitssumme  
+10. Diskrete Verteilung  
+11. Erwartungswert  
+12. Varianz  
+13. Standardabweichung  
+14. Binomialverteilung"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","C","Compare actual frequency to expected","1. Häufigkeit
+2. Erwartungswert
+3. Verteilung
+4. Stichprobe
+5. Signifikanzniveau
+6. Hypothesentest
+7. Chi-Quadrat-Test
+8. Wahrscheinlichkeit
+9. Statistik
+10. Varianz"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","D","Probability of rolling a 3 = 1/6","1. Wahrscheinlichkeit  
+2. Würfel  
+3. Ereignis  
+4. Zufallsexperiment  
+5. Ergebnisraum  
+6. Laplace-Experiment  
+7. Zufallsvariable"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","D","Express probability as fraction/decimal/%","1. Wahrscheinlichkeit  
+2. Bruch  
+3. Dezimalzahl  
+4. Prozent  
+5. Ereignisraum  
+6. Zufallsvariable  
+7. Anteilswert"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","E","Compare theoretical vs. experimental outcomes","1. Theoretische Wahrscheinlichkeit  
+2. Experimentelle Wahrscheinlichkeit  
+3. Hypothese  
+4. Datenanalyse  
+5. Stichprobe  
+6. Zufallsexperiment  
+7. Ergebnisraum  
+8. Verteilung  
+9. Signifikanz  
+10. Fehlerquote  
+11. Messunsicherheit  
+12. Reproduzierbarkeit  
+13. Validität  
+14. Korrelation  
+15. Varianz  
+16. Standardabweichung"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","E","Use relative frequency in real contexts","1. Relative Häufigkeit  
+2. Stichprobe  
+3. Wahrscheinlichkeit  
+4. Ereignis  
+5. Zufallsversuch  
+6. Datenanalyse  
+7. Frequenzverteilung  
+8. Histogramm  
+9. Statistische Auswertung  
+10. Prozentwert"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","F","Probability of combined events","1. Wahrscheinlichkeit
+2. Ereignis
+3. Kombinatorik
+4. Unabhängigkeit
+5. Abhängigkeit
+6. Schnittmenge
+7. Vereinigung
+8. Bedingte Wahrscheinlichkeit
+9. Additionsregel
+10. Multiplikationsregel"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","F","Analyze everyday chance statements","1. Wahrscheinlichkeit
+2. Zufallsvariable
+3. Erwartungswert
+4. Varianz
+5. Standardabweichung
+6. Ereignis
+7. Verteilung
+8. Unabhängigkeit
+9. Bedingte Wahrscheinlichkeit
+10. Stochastik
+11. Hypothesentest"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","G","Apply addition/multiplication rules","1. Addition
+2. Multiplikation
+3. Regel
+4. Wahrscheinlichkeit
+5. Ereignis
+6. Unabhängigkeit"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","G","Use tree diagrams/binomial distributions","1. Baumdiagramm  
+2. Binomialverteilung  
+3. Zufallsversuch  
+4. Wahrscheinlichkeitsverteilung  
+5. Ereignis  
+6. Pfadregel  
+7. Kombinatorik  
+8. Erfolgswahrscheinlichkeit  
+9. Bernoulli-Experiment  
+10. Fakultät  
+11. Binomialkoeffizient"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","H","Continuous distributions/advanced models","1. Wahrscheinlichkeitsdichtefunktion
+2. Verteilungsfunktion
+3. Erwartungswert
+4. Varianz
+5. Normalverteilung
+6. Exponentialverteilung
+7. Gamma-Verteilung
+8. Log-Normalverteilung
+9. Parameterschätzung
+10. Maximum-Likelihood-Methode
+11. Bayessche Statistik
+12. Monte-Carlo-Simulation
+13. Copula
+14. Stochastische Modelle
+15. Zufallsvariable
+16. Skalierung
+17. Hypothesenprüfung
+18. Konfidenzintervall
+19. Bootstrap-Methode
+20. Likelihood-Funktion"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","H","Evaluate probability in finance or science","1. Wahrscheinlichkeit
+2. Zufallsvariable
+3. Verteilungsfunktion
+4. Dichtefunktion
+5. Varianz
+6. Kovarianz
+7. Erwartungswert
+8. Stochastische Unabhängigkeit
+9. Normalverteilung
+10. Binomialverteilung
+11. Poisson-Verteilung
+12. Markov-Kette
+13. Monte-Carlo-Simulation
+14. Bayes-Theorem
+15. Stochastischer Prozess
+16. Risikoanalyse
+17. Zeitreihenanalyse
+18. Hypothesentest
+19. Signifikanzniveau
+20. Konfidenzintervall"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","B","Arrange 3 objects in order","1. Kombinatorik
+2. Permutation
+3. Fakultät
+4. Anordnung
+5. Objekte"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","B","List pairs from 4 items","1. Kombination
+2. Reihenfolge
+3. Permutation
+4. Binomialkoeffizient"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","C","Use fundamental counting principle","1. Fundamentales Zählprinzip  
+2. Ereignis  
+3. Ergebnis  
+4. Unabhängigkeit  
+5. Multiplikationsregel  
+6. Wahrscheinlichkeitsraum"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","C","Draw a tree diagram (2 coin flips)","- Baumdiagramm  
+- Münze  
+- Münzwurf  
+- Wahrscheinlichkeit  
+- Ergebnis  
+- Pfad  
+- Verzweigung  
+- Knoten  
+- Zufallsexperiment  
+- Ergebnisraum"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","D","Calculate small permutations/combos","1. Permutation
+2. Kombination
+3. Fakultät
+4. Anordnung
+5. Reihenfolge
+6. Wiederholung
+7. Binomialkoeffizient
+8. Formel
+9. Element
+10. Menge"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","D","Apply combinatorial reasoning in seating","1. Kombinatorik
+2. Permutation
+3. Kombination
+4. Factorial
+5. Anordnung
+6. Reihenfolge
+7. Variation
+8. Sitzplatz
+9. Probabilität
+10. Restriktionen"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","E","Use nCr/nPr notation","1. Kombination
+2. Permutation
+3. Fakultät
+4. Binomialkoeffizient
+5. Anordnung
+6. Auswahl
+7. Reihenfolge
+8. Element
+9. Menge
+10. Zählprinzipien"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","E","Apply to dealing cards or real scenarios","1. Deck
+2. Karte
+3. Reihenfolge
+4. Mischen
+5. Ziehen
+6. Verteilen
+7. Spieler
+8. Hand
+9. Runde
+10. Stapel
+11. Zufall
+12. Wahrscheinlichkeiten
+13. Strategie
+14. Tausch
+15. Reshuffle"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","F","Explore Pascal’s triangle patterns","1. Binomialkoeffizient
+2. Kombination
+3. Rekursion
+4. Symmetrie
+5. Dreiecksform
+6. Fibonacci-Folge
+7. Sierpinski-Dreieck
+8. Modulo
+9. Reihenentwicklung
+10. Arithmetische Progression"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","F","Solve constrained combinatorial tasks","1. Kombinatorik  
+2. Einschränkungen  
+3. Optimierung  
+4. Lösungsraum  
+5. Heuristik  
+6. Algorithmus  
+7. Sucheverfahren  
+8. Graphentheorie  
+9. NP-vollständig  
+10. Fitnessfunktion  
+11. Backtracking  
+12. Dynamische Programmierung  
+13. Zweig-und-Schranke-Verfahren  
+14. Constraint-Satisfaction-Problem (CSP)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","G","Inclusion-exclusion principle","1. Menge
+2. Schnittmenge
+3. Vereinigungsmenge
+4. Kardinalität
+5. Kombinatorik
+6. Disjunkt
+7. Überlappung
+8. Teilmenge
+9. Element
+10. endliche Mengen"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","G","Use combinatorics in graph/network theory","1. Graphentheorie
+2. Knoten
+3. Kante
+4. Grad eines Knotens
+5. Adjazenzmatrix
+6. Inzidenzmatrix
+7. Weg
+8. Kreis
+9. Zusammenhang
+10. Zusammenhangskomponente
+11. Baum
+12. Spannbaum
+13. Matchings
+14. Pfad
+15. Fluss
+16. Kapazität
+17. Kürzester Pfad
+18. Graphenfärbung
+19. Eulerkreis
+20. Hamiltonkreis
+21. Cliquen
+22. Abstand
+23. Isomorphismus
+24. Netzwerktheorie
+25. Kantenüberdeckung"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","H","Advanced methods (generating functions)","1. Erzeugende Funktionen  
+2. Potenzreihe  
+3. Koeffizienten  
+4. Rekursion  
+5. Konvergenzradius  
+6. Funktionalanalysis  
+7. Kombinatorik  
+8. Rekursionsgleichung  
+9. Differenzengleichung  
+10. Transformationsmethode  
+11. Zähler  
+12. Nenner"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","H","Combinatorial designs or coding theory","1. Blockplan
+2. Steiner-System
+3. Blockdesign
+4. Transversaldesign
+5. Orthogonales Lateinisches Quadrat
+6. Hadamard-Matrix
+7. Fehlerkorrigierender Code
+8. Hamming-Abstand
+9. Verschwindeplatz
+10. Replikationszahl
+11. Balanciertheit
+12. Inzidenzmatrix"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","B","Identify repeating pattern (2,4,6)","- Wiederholungsmuster
+- Sequenz
+- Zahlenfolge
+- Periode
+- Modulo
+- Zyklus
+- Regelmäßigkeit
+- Mustererkennung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","B","Extend the sequence by 2 terms","1. Folge
+2. Glied
+3. Muster
+4. Arithmetische Folge
+5. Geometrische Folge
+6. Rekursive Formel
+7. Explizite Formel
+8. Differenz
+9. Quotient"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","C","Describe pattern rule (add 3)","1. Folge
+2. Glied
+3. Regel
+4. Addition
+5. Inkrement
+6. Konstante Differenz
+7. Arithmetische Folge"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","C","Form a rule (start at 2, add 5)","1. Regel
+2. Sequenz
+3. Addition
+4. Startwert"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","D","Recognize arithmetic sequences","1. Arithmetische Folge
+2. Differenz
+3. Glied
+4. Konstante
+5. Reihenfolge
+6. Summe
+7. Sequenz
+8. Progression"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","D","Find nth term of a geometric sequence","1. Geometrische Folge  
+2. n-te Stelle  
+3. Allgemeines Glied  
+4. Quotient  
+5. Anfangsglied"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","E","Predict future terms or positions","1. Zeitreihe  
+2. Prognose  
+3. Modell  
+4. Algorithmus  
+5. Regression  
+6. Klassifikation  
+7. Korrelation  
+8. Varianz  
+9. Kovarianz  
+10. Autoregression  
+11. Zufallsvariable  
+12. Verteilung  
+13. Mittelwert  
+14. Varianzanalyse  
+15. Normalverteilung  
+16. Wahrscheinlichkeitsverteilung  
+17. Machine Learning  
+18. Neuronales Netz  
+19. Faktorenanalyse  
+20. Trendanalyse  
+21. Saisonalität  
+22. Stochastischer Prozess  
+23. Überanpassung  
+24. Kreuzvalidierung  
+25. Datenvorverarbeitung  
+26. Feature Engineering  
+27. Zeitreihenzerlegung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","E","Apply sequence patterns in real contexts","1. Sequenzmuster  
+2. Kontextanalyse  
+3. Datenmuster  
+4. Algorithmus  
+5. Zeitreihenanalyse  
+6. Vorhersagemodell  
+7. Mustererkennung  
+8. Abstraktionsniveau  
+9. Informationsextraktion  
+10. Musterabgleich"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","F","Handle Fibonacci-type recurrence","1. Rekursion
+2. Fibonacci-Folge
+3. Rekursionsformel
+4. Anfangsbedingungen
+5. Rekurrenzrelation
+6. Mathematik-Induktion
+7. Rekursive Funktion
+8. Iterative Methode
+9. Komplexität
+10. Folge
+11. Sequenz
+12. Partielle Lösung
+13. Generierung von Funktionen"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","F","Observe binomial or geometric patterns","1. Binomialverteilung  
+2. Geometrische Verteilung  
+3. Zufallsvariable  
+4. Erwartungswert  
+5. Varianz  
+6. Wahrscheinlichkeit  
+7. Bernoulli-Experiment  
+8. Parameter  
+9. Unabhängigkeit  
+10. Erfolgswahrscheinlichkeit"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","G","Study primes or fractals","1. Primzahl
+2. Fraktal
+3. Euklidischer Algorithmus
+4. Menger-Schwamm
+5. Goldbachsche Vermutung
+6. Cantor-Menge
+7. Fermatscher Satz
+8. Mandelbrot-Menge
+9. Sieb des Eratosthenes
+10. Hausdorff-Dimension
+11. Riemannsche Vermutung
+12. Iteration
+13. Rekursion
+14. Komplexe Zahlen
+15. Fibonacci-Folge
+16. Totient-Funktion
+17. Julia-Menge
+18. Algorithmus
+19. Faktorzerlegung
+20. Selbstähnlichkeit"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","G","Link sequences to functional relationships","1. Sequenz
+2. Funktionale Beziehung
+3. Algorithmen
+4. Datenanalyse
+5. Mustererkennung
+6. Zeitreihenanalyse
+7. Korrelation
+8. Abhängigkeit
+9. Regressionsanalyse
+10. Transformation
+11. Kausalität
+12. Modellierung
+13. Variablen
+14. Abbildungsfunktion
+15. Datenstrukturen"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","H","Explore infinite series/limits","1. Unendliche Reihe  
+2. Konvergenz  
+3. Divergenz  
+4. Grenzwert  
+5. Partialsummen  
+6. Reihenprüfung  
+7. Absolut konvergent  
+8. Bedingt konvergent  
+9. Konvergenzradius  
+10. Konvergenzintervall  
+11. Cauchy-Kriterium  
+12. Majorantenkriterium  
+13. Minorantenkriterium"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","H","Use generating functions or recurrences","1. Erzeugende Funktion  
+2. Rekurrenzrelation  
+3. Potenzreihe  
+4. Koeffizient  
+5. Grenzwert  
+6. Konvergenzradius  
+7. Analytische Fortsetzung  
+8. Kombinatorik  
+9. Differenzengleichung  
+10. Initialbedingungen"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","B","One-to-one match (child→pencil)","1. Bijektion
+2. Funktion
+3. Zuordnung
+4. Kind
+5. Bleistift"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","B","Discuss bigger/smaller relationships","1. Verhältnis
+2. Vergleich
+3. Größer
+4. Kleiner
+5. Gleichheit
+6. Ungleichheit
+7. Proportion
+8. Skalierung
+9. Dimension
+10. Relation"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","C","Double a recipe, note proportionality","1. Rezept
+2. Verdoppeln
+3. Proportionalität
+4. Zutat
+5. Menge
+6. Verhältnis
+7. Umrechnung
+8. Skalierung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","C","Use ratio tables to scale quantities","1. Verhältnis
+2. Tabelle
+3. Skalierung
+4. Mengen
+5. Verhältnisgleichung
+6. Proportionalität
+7. Einheit
+8. Berechnung
+9. Multiplikation
+10. Division"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","D","Solve direct proportion (unitary)","1. Direkte Proportionalität  
+2. Unitary Methode  
+3. Verhältnis  
+4. Konstante  
+5. Proportionalitätsfaktor  
+6. Quotient  
+7. Lineare Gleichung  
+8. Variable  
+9. Unbekannte  
+10. Berechnung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","D","Recognize inverse proportion (workers/time)","1. Verhältnis
+2. Proportionalität
+3. Inverse Proportionalität
+4. Direkte Proportionalität
+5. Multiplikation
+6. Division
+7. Verhältnisgleichung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","E","Write y=kx as linear proportion","1. Variable  
+2. Konstante  
+3. Verhältnis  
+4. Proportionalität  
+5. Lineare Funktion  
+6. Steigung  
+7. Achsenabschnitt"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","E","Interpret slope as rate of change","1. Steigung  
+2. Änderungsrate  
+3. Funktion  
+4. Gerade  
+5. Differentialrechnung  
+6. Intervall  
+7. Abszisse  
+8. Ordinate  
+9. Tangente  
+10. Proportionalität"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","F","Handle compound proportions","1. Verhältnis
+2. Proportion
+3. Zusammengesetztes Verhältnis
+4. Dreisatz
+5. Anteilswert
+6. Grundwert
+7. Prozentsatz
+8. Verhältnisgleichung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","F","Solve direct/inverse variation in real tasks","1. Direkte Proportionalität
+2. Inverse Proportionalität
+3. Verhältnissatz
+4. Konstantenfaktor
+5. Variation
+6. Funktion
+7. Proportionalitätskonstante
+8. Quotient
+9. Produktregel
+10. Verhältnis
+11. Verhältnisgleichung
+12. Mathematisches Modell"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","G","Analyze partial proportionality","1. Partielle Proportionalität
+2. Proportionalitätsfaktor
+3. Proportionalitätskonstante
+4. Abhängige Variable
+5. Unabhängige Variable
+6. Lineare Funktion
+7. Verhältnis
+8. Skalar
+9. Lineare Abhängigkeit
+10. Graphische Darstellung
+11. Funktionsgleichung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","G","Apply ratios in geometry (similar triangles)","1. Verhältnis
+2. Proportion
+3. Ähnlichkeit
+4. Ähnliche Dreiecke
+5. Winkel
+6. Seitenverhältnis
+7. Kongruenz
+8. Skalenfaktor
+9. Maßstab
+10. Streckenlänge"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","H","Transform y=kx into y=kx+b","- Transformation
+- Steigung
+- y-Achsenabschnitt
+- lineare Funktion"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","H","Explore advanced proportional forms","1. Verhältnis
+2. Proportionalität
+3. Direkte Proportionalität
+4. Indirekte Proportionalität
+5. Verhältnisgleichung
+6. Faktor  
+7. Maßstab 
+8. Quotient
+9. Variable
+10. Konstanten"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","B","Read input→output table (x→x+2)","1. Eingabetabelle
+2. Ausgabetabelle
+3. Funktion
+4. Abbildung
+5. Funktionale Zuordnung
+6. Argument
+7. Funktionswert
+8. Regel
+9. Arithmetische Operation
+10. Addition"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","B","Plot points for y=x+2","1. Koordinatensystem  
+2. Funktionsgraph  
+3. Achsenbeschriftung  
+4. Punktdarstellung  
+5. Geradengleichung  
+6. Steigung  
+7. y-Achsenabschnitt  
+8. Lineare Funktion  
+9. Wertepaare  
+10. Zeichensystem"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","C","Identify linear pattern in a table","1. Lineare Funktion  
+2. Steigung  
+3. Achsenabschnitt  
+4. Korrelation  
+5. Regressionsanalyse  
+6. Gleichungssystem  
+7. Datenpunkte  
+8. Unabhängige Variable  
+9. Abhängige Variable  
+10. Residuum  
+11. Bestimmtheitsmaß  
+12. Kovarianz  
+13. Streudiagramm"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","C","Create line graph from y=2x","1. Linie
+2. Graph
+3. Achse
+4. Funktion
+5. Steigung
+6. Koordinatensystem
+7. Punkt
+8. y-Achse
+9. x-Achse
+10. Diagramm
+11. Schnittpunkt"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","D","Find slope from two points","- Punkt
+- Steigung
+- Koordinaten
+- x-Wert
+- y-Wert
+- Achse
+- Differenz
+- Quotient"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","D","Write y=mx+b from slope/intercept","1. Steigung (m)
+2. y-Achsenabschnitt (b)
+3. lineare Funktion
+4. x-Wert
+5. y-Wert
+6. Gleichung
+7. Variablen
+8. Koordinatensystem
+9. Schnittpunkt
+10. Graph"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","E","Describe distance-time linear model","1. Entfernung
+2. Zeit
+3. Geschwindigkeit
+4. Graph
+5. Achse
+6. Steigung
+7. Funktionsgleichung
+8. Intercept
+9. Unabhängige Variable
+10. Abhängige Variable
+11. Lineares Modell
+12. Konstante Rate"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","E","Examine simple non-linear y=x²","1. Nichtlinearität  
+2. Quadratfunktion  
+3. Parabel  
+4. Scheitelpunkt  
+5. Achsensymmetrie  
+6. Steigung  
+7. Funktionsgraph  
+8. Quadratische Beziehung  
+9. unabhängige Variable  
+10. abhängige Variable  
+11. Koordinatensystem  
+12. Punktspiegelung  
+13. Scheitelpunktsform  
+14. Normalform  
+15. Wertemenge  
+16. Definitionsmenge"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","F","Transform functions (shifts, reflections)","1. Funktionstransformation
+2. Verschiebung
+3. Spiegelung
+4. Achsensymmetrie
+5. Punktsymmetrie
+6. Skalierung
+7. Drehung
+8. Streckung
+9. Stauchung
+10. Graph
+11. Koordinatensystem
+12. Punkt
+13. Achse"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","F","Compare linear vs. exponential growth","1. Lineares Wachstum  
+2. Exponentielles Wachstum  
+3. Wachstumsfaktor  
+4. Wachstumsrate  
+5. Zeitintervall  
+6. Anfangswert  
+7. Funktionsgraph  
+8. Verdopplungszeit  
+9. Differenzierung  
+10. Ableitung  
+11. Skalierung  
+12. Zeitkonstante  
+13. Asymptote  
+14. Potenzfunktion  
+15. Logarithmus"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","G","Use piecewise/ polynomial functions","1. Stückweise definierte Funktionen
+2. Polynomfunktion
+3. Intervall
+4. Stetigkeit
+5. Glattheit
+6. Grad eines Polynoms
+7. Knotenpunkt
+8. Stützstelle
+9. Koeffizient
+10. Ableitung
+11. Nullstelle
+12. Lineare Funktion
+13. Quadratische Funktion
+14. Kubische Funktion
+15. Extrapolation
+16. Interpolation"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","G","Analyze quadratic (vertex, roots)","1. Quadratische Funktion  
+2. Scheitelpunkt  
+3. Nullstellen  
+4. Diskriminante  
+5. Parabel  
+6. Koeffizienten  
+7. Scheitelpunktform  
+8. Allgemeine Form  
+9. Faktorisierte Form  
+10. Quadratische Ergänzung  
+11. Achsensymmetrie"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","H","Investigate rational/logarithmic families","1. Rationalität
+2. Logarithmus
+3. Funktion
+4. Familie von Funktionen
+5. Polynom
+6. Exponent
+7. Asymptote
+8. Diskriminante
+9. Nullstelle
+10. Differentialgleichung
+11. Ableitung
+12. Integral
+13. Konvergenz
+14. Divergenz
+15. Wachstumsrate"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","H","Use calculus to analyze function behavior","1. Funktion  
+2. Ableitung  
+3. Integral  
+4. Grenzwert  
+5. Stetigkeit  
+6. Differenzierbarkeit  
+7. Kritischer Punkt  
+8. Extremwert  
+9. Wendepunkt  
+10. Asymptote  
+11. Konvergenz  
+12. Divergenz  
+13. Monotonie  
+14. Intervall  
+15. Kurvendiskussion  
+16. Tangente  
+17. Sekante  
+18. Infinitesimalrechnung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","B","Solve x+2=5 in a story context","1. Variable  
+2. Gleichung  
+3. Lösung  
+4. Addition  
+5. Subtraktion"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","B","x=3 by basic arithmetic","1. Variablen  
+2. Gleichung  
+3. Lösung  
+4. Addition  
+5. Subtraktion  
+6. Multiplikation  
+7. Division  
+8. Konstante  
+9. Gleichheitszeichen"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","C","Substitute x=4 in 3x+1","- Ersetzen  
+- Variable  
+- Ausdruck  
+- Substitution"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","C","Solve one/two-step linear equations","1. Lineare Gleichung  
+2. Variable  
+3. Koeffizient  
+4. Konstante  
+5. Term  
+6. Äquivalenzumformung  
+7. Additionsregel  
+8. Subtraktionsregel  
+9. Multiplikationsregel  
+10. Divisionsregel"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","D","Simplify 2x+3x=5x","- Koeffizient  
+- Variable  
+- Term  
+- Gleichung  
+- Addition  
+- Zusammenfassen"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","D","Solve multi-step linear eq. (2x+3=11)","- Variable  
+- Koeffizient  
+- Konstante  
+- Gleichung  
+- Gleichheitszeichen  
+- Terme  
+- Äquivalenzumformung  
+- Lösung der Gleichung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","E","Solve simultaneous linear eq. in 2 vars","1. Gleichungssystem  
+2. Variable  
+3. Koeffizient  
+4. Lösung  
+5. Matrix  
+6. Determinante  
+7. Eliminationsmethode  
+8. Substitutionsmethode  
+9. Graphische Darstellung  
+10. Inverse Matrix  
+11. Unabhängigkeit  
+12. Konsistenz  
+13. Lineare Kombination  
+14. Vektorraume  
+15. Rang"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","E","Interpret solutions (intersection points)","1. Lösung
+2. Schnittpunkt
+3. Intersektion
+4. Gleichung
+5. System von Gleichungen
+6. Graph
+7. Koordinatensystem
+8. Achse
+9. Nullstelle
+10. Funktion
+11. Variable
+12. Parameter
+13. Steigung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","F","Factor x²+5x+6","1. Polynom  
+2. Koeffizient  
+3. Faktor  
+4. Nullstelle  
+5. Binom  
+6. Quadratische Gleichung  
+7. Wurzel  
+8. Summe  
+9. Produktregel"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","F","Solve quadratics by factoring or formula","1. Quadratische Gleichung  
+2. Faktorisierung  
+3. Binomische Formel  
+4. Diskriminante  
+5. Linearfaktor  
+6. Nullstellen  
+7. Koeffizienten  
+8. Wurzelziehen  
+9. Summe  
+10. Produkt  
+11. Parabel  
+12. Auflösen"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen and Algebra","G","Manipulate algebraic fractions","1. Zähler
+2. Nenner
+3. Bruch
+4. Wert von Null
+5. Polynom
+6. Bruchrechnung
+7. Erweitern
+8. Kürzen
+9. Addition
+10. Subtraktion
+11. Multiplikation
+12. Division
+13. Gemeinsamer Nenner
+14. Faktorisierung
+15. Binom
+16. Gleichung
+17. Variable
+18. Konstante"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen and Algebra","G","Solve systems (linear/quadratic)","1. Gleichungssystem  
+2. Lineare Gleichung  
+3. Quadratische Gleichung  
+4. Variable  
+5. Koeffizient  
+6. Lösungsmenge  
+7. Determinante  
+8. Matrix  
+9. Gauss-Algorithmus  
+10. Einsetzungsverfahren  
+11. Additionsverfahren  
+12. Substitutionsverfahren  
+13. Parabel  
+14. Nullstelle  
+15. Diskriminante"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","H","Higher-degree polynomials/complex factors","1. Polynom
+2. Grad eines Polynoms
+3. Komplexe Zahl
+4. Faktorisierung
+5. Nullstelle
+6. Vielfachheit (Multiplikation)
+7. Konjugierte Paare
+8. Algebraische Identität
+9. Wurzelbestimmung
+10. Polynomdivision"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","H","Use computer algebra for symbolic tasks","1. Computer-Algebra-System
+2. Symbolische Mathematik
+3. Variablen
+4. Gleichungen
+5. Ausdrücke
+6. Vereinfachung
+7. Algebraische Manipulation
+8. Polyome
+9. Faktorisierung
+10. Differentiation
+11. Integration
+12. Substitution
+13. Lösungsmethoden
+14. Funktionen
+15. Parameter"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","B","Notice x→x² (small x) vs. linear","1. Funktion
+2. Quadratische Funktion
+3. Lineare Funktion
+4. Konvergenz
+5. Grenzwert
+6. Steigung
+7. Achsenabschnitt
+8. Asymptotisches Verhalten"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","B","Discuss doubling sequence (exponential idea)","1. Exponentielles Wachstum  
+2. Verdopplung  
+3. Sequenz  
+4. Basiswert  
+5. Wachstumsrate  
+6. Potenzfunktion  
+7. Geometrische Folge  
+8. Zeitintervall  
+9. Anfangswert  
+10. Logarithmus  
+11. Zuwachs  
+12. Funktion  
+13. Progression  
+14. Skala  
+15. Iteration"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","C","Identify curved graph vs. line","1. Kurve
+2. Gerade
+3. Funktion
+4. Ableitung
+5. Krümmung
+6. Steigung
+7. Graf
+8. Linearisierung
+9. Parabel
+10. Nichtlinearität"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","C","Sketch y=x² for integer x","1. Funktion
+2. Quadratische Funktion
+3. Koeffizient
+4. Graph
+5. Koordinatensystem
+6. Punkte
+7. Parabel
+8. (x, y)-Koordinaten
+9. Achse
+10. Integer (Ganzzahl)
+11. Symmetrie
+12. Skizzieren"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","D","Compare linear vs. quadratic tables","1. Lineare Funktion  
+2. Quadratische Funktion  
+3. Tabelle  
+4. Steigung  
+5. Konstante  
+6. Koeffizient  
+7. Exponent  
+8. Schnittpunkt  
+9. Funktionsterm  
+10. Wachstumsrate  
+11. Intervall  
+12. Achsenabschnitt  
+13. Symmetrie  
+14. Parabel  
+15. Geradengleichung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","D","Explore basic exponentials (y=2^x)","1. Exponentialfunktion
+2. Basis
+3. Exponent
+4. Potenz
+5. Wachstumsrate
+6. Funktionsgraph
+7. Asymptote
+8. Logarithmus
+9. y-Achsenabschnitt
+10. Steigung"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","E","Analyze compound interest growth","1. Zinseszins  
+2. Anfangskapital  
+3. Zinssatz  
+4. Zinsperiode  
+5. Kapitalendwert  
+6. Laufzeit  
+7. Verzinsung  
+8. Zinsgutschrift  
+9. Nominalzins  
+10. Effektivzins"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","E","Use tech to plot polynomial vs. exponential","1. Polynom
+2. Exponentialfunktion
+3. Graph
+4. Achsensystem
+5. Funktion
+6. Plotten
+7. Skalierung
+8. Intervall
+9. Software
+10. Datenpunkt
+11. Kurve
+12. Y-Achse
+13. X-Achse"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","F","Investigate y=1/x or rational funcs","1. Funktion
+2. Variable
+3. Definitionsmenge
+4. Wertebereich
+5. Asymptote
+6. Unstetigkeitsstelle
+7. Polstelle
+8. Bruch
+9. Nenner
+10. Zähler
+11. Graph
+12. Grenzwert
+13. Verhalten gegen Unendlich
+14. Nullstelle"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","F","Solve half-life or depreciation problems","1. Halbwertszeit
+2. Exponentialfunktion
+3. Zerfallskonstante
+4. Startwert
+5. Abnahmefaktor
+6. Zeitkonstante
+7. Exponentieller Zerfall
+8. Exponentialgleichung
+9. Logarithmus
+10. Effektiver Jahreszins"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","G","Introduce logs or trig briefly","1. Logarithmus  
+2. Exponentialfunktion  
+3. Basis  
+4. Argument  
+5. Trigonometrische Funktionen  
+6. Sinus  
+7. Kosinus  
+8. Tangens  
+9. Winkel  
+10. Bogenmaß  
+11. Amplitude  
+12. Frequenz"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","G","Discuss domain/range for new function types","1. Funktionstyp  
+2. Definitionsbereich  
+3. Wertebereich  
+4. Transformation  
+5. Verschiebung  
+6. Skalierung  
+7. Spiegelung  
+8. Symmetrie  
+9. Asymptote  
+10. Unstetigkeit  
+11. Grenzwert"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","H","Use calculus for advanced analysis","1. Ableitung  
+2. Integral  
+3. Grenzwert  
+4. Funktion  
+5. Infinitesimalrechnung  
+6. Differential  
+7. Integralrechnung  
+8. Konvergenz  
+9. Divergenz  
+10. Kurvendiskussion  
+11. Extremwertbestimmung  
+12. Tangente  
+13. Wendepunkt  
+14. Partielle Ableitung  
+15. Funktionalreihe  
+16. Taylorreihe  
+17. Stetigkeit  
+18. Laplace-Transformation  
+19. Fourier-Transformation  
+20. Infinitesimal"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","H","Model phenomena with combined function types","1. Funktion
+2. Funktionstyp
+3. Lineare Funktion
+4. Quadratische Funktion
+5. Exponentielle Funktion
+6. Periodische Funktion
+7. Trigonometrische Funktion
+8. Superposition
+9. Linearkombination
+10. Parameter
+11. Koeffizient
+12. Variable
+13. Transformation
+14. Differentialgleichung
+15. Nichtlinearität"
