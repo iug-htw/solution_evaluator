@@ -3,7 +3,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 
-def translate_csv(input_csv, output_csv, target_language, model="gpt-4o"):
+def translate_csv(input_csv, output_csv, target_language, model="gpt-4o-mini"):
     print(f"Translating exercises from English to {target_language}...")
 
     load_dotenv()

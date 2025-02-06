@@ -3,7 +3,7 @@ import csv
 import os
 from dotenv import load_dotenv
 
-def extract_technical_terms(input_file, output_file, target_language='en', model="gpt-4o"):
+def extract_technical_terms(input_file, output_file, target_language='en', model="gpt-4o-mini"):
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=api_key)
