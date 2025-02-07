@@ -15,11 +15,9 @@ def clean_csv(input_file, output_file):
         for row in reader:
             if not any(row):
                 continue  # Skip empty rows
-            topic_area, topic, progress_level, exercise1, exercise2 = row
-            if exercise1:
-                writer.writerow([topic_area, topic, progress_level, exercise1])
-            if exercise2:
-                writer.writerow([topic_area, topic, progress_level, exercise2])
+            topic_area, topic, progress_level, exercise = row
+            if exercise.strip() != '':
+                writer.writerow([topic_area, topic, progress_level, exercise])
 
 if __name__ == "__main__":
     clean_csv('topic_areas.csv','topic_areas_cleaned.csv')
