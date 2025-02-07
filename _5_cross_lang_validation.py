@@ -10,6 +10,7 @@ METRICS = [
     "Generalization (Can the Learner Apply This Method to Similar Problems?)",
     "Technical Terms Explanation",
     "Addressing Common Errors",
+    "Appropriateness Based on Progress Level (Grade)",
 ]
 
 # File paths for the three languages
@@ -41,10 +42,6 @@ def compare_results(files):
 
     # Save the comparison to a CSV file
     comparison_df.T.to_csv("comparison_results.csv", index=True)
-
-    # Print the comparison
-    print("\n=== Comparison of Metrics Across Languages ===\n")
-    print(comparison_df.T)  # Transpose for better readability
 
     # Identify the language with the highest average for each metric
     highest_avg = comparison_df.idxmax(axis=1)

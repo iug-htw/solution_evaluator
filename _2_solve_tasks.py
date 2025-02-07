@@ -1,4 +1,4 @@
-from openai import OpenAI
+from openai import OpenAI, RateLimitError
 import csv
 import os
 import time
@@ -31,9 +31,14 @@ def solve_tasks(input_file, output_file, model="gpt-4o-mini"):
                         ]
                     )
                     break
-                except openai.error.RateLimitError:
+                except RateLimitError:
                     retry_count += 1
                     print(f"Rate limit exceeded. Retrying in {retry_count * 10} seconds...")
+                    time.sleep(retry_count * 10)
+                except Exception as e:
+                    retry_count += 1
+                    # Code to handle any exception
+                    print(f"An error occurred: {e}")
                     time.sleep(retry_count * 10)
             else:
                 print("Failed to get a response after multiple retries.")

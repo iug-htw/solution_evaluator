@@ -29,8 +29,20 @@ def find_differently_performing_exercises(files):
             'Learning Appropriateness (Is the Explanation Suitable for Learners?)',
             'Generalization (Can the Learner Apply This Method to Similar Problems?)',
             'Technical Terms Explanation',
-            'Addressing Common Errors'
+            'Addressing Common Errors',
+            "Appropriateness Based on Progress Level (Grade)",
         ]
+        
+        for col in df[score_columns]:
+            for score in df[col]:
+                # check if the value can be converted to a float
+                try:
+                    float_score = float(score)
+                    if float_score < 0 or float_score > 2:
+                        raise ValueError(f"Invalid score: {float_score}")
+                    
+                except ValueError:
+                    print(f"Invalid value: {score}")
         df["score"] = df[score_columns].mean(axis=1)
         
         # Keep only the necessary columns

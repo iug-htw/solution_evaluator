@@ -18,8 +18,20 @@ def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o-mini")
         "Generalization (Can the Learner Apply This Method to Similar Problems?)",
         "Technical Terms Explanation",
         "Addressing Common Errors",
+        "Appropriateness Based on Progress Level (Grade)",
         "Explanation"
     ]
+
+    progress_levels = {
+        "B": "2nd grade (7yo)",
+        "C": "4th grade (9yo)",
+        "D": "6th grade (11yo)", 
+        "E": "7th grade (12 yo)",
+        "F": "8th grade (13yo)",
+        "G": "9th grade (14yo)",
+        "H": "10th grade (15yo)"
+    }
+
     
     # Read technical terms from terms_file
     technical_terms_dict = {}
@@ -44,7 +56,8 @@ def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o-mini")
                 break
             technical_terms = technical_terms_dict.get((topic_area, topic, progress_level, exercise), "")
             prompt = (
-                f"You are a very critical teacher trainer. Critically evaluate the solution '{solution}' by a tutor to the problem '{exercise}' using the following 8 criteria:\n"
+                f"You are a very critical teacher trainer. Critically evaluate the solution '{solution}' by a tutor to the math problem '{exercise}' "
+                "for progress level '{progress_level}' ({progress_levels[progress_level]}) using the following 9 criteria:\n" 
                 "Criterion\tKey Aspects\tScoring (0-2 points per criterion)\n"
                 "1) Problem Understanding (Comprehension)\t- Does the solution correctly interpret the problem?\n"
                 "- Are key terms/concepts properly introduced?\t0: Misunderstands or omits key elements\n"
@@ -78,6 +91,13 @@ def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o-mini")
                 "Provide a score from 0 to 2 for each criterion, separated by commas (e.g., 2,2,2,2,2,2,2,2)\n"
                 "Provide a very short text (not more than 20 words) at the end to justify your scores."
                 "scores and justification must be separated by a double line break\n"
+                "9) Appropriateness Based on Progress Level (Grade)\t- Is the explanation appropriate for the given grade level (2nd-10th grade)?\n"
+                "- Does the solution take into account the grade level of the exercise and adjust its language and depth accordingly?\t0: Explanation too advanced or too simple for the grade level\n"
+                "1: Explanation suitable for the grade level but could be better adjusted\n"
+                "2: Perfectly suited to the grade level with the right amount of detail and complexity\n"
+                "Provide a score from 0 to 2 for each criterion (show ONLY the numeric score for each criterion), separated by commas (e.g., 2,2,2,2,2,2,2,2,2)\n"
+                "Provide a very short text (not more than 20 words) at the end to justify your scores."
+                "Scores and justification must be separated by a double line break\n"
             )
             print(f"Evaluating solution for task {i+1}: {exercise}")
             retry_count = 0
