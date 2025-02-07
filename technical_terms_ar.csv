@@ -1,3208 +1,3590 @@
 "Topic Area","Topic","Progress Level","Exercise","Technical Terms"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","B","Count objects up to 20","- عد  
-- أرقام  
-- كائنات  
-- كمية  
-- مجموع"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","B","Write 15 in tens and ones","1. Number
-2. Place Value
-3. Tens
-4. Ones"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","C","Write 234 in expanded form","1. رقم  
-2. قيمة رقمية  
-3. شكل موسع  
-4. منزلة الآحاد  
-5. منزلة العشرات  
-6. منزلة المئات"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","C","Show ½ with a fraction bar","- كسر (Fraction)
-- بسط (Numerator)
-- مقام (Denominator)
-- خط الكسر (Fraction bar)"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","D","Express 3.75 as a fraction","1. Decimal
-2. Fraction
-3. Numerator
-4. Denominator
-5. Simplification"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","D","Convert 27 (base 10) to base 2","1. Base (Radix)  
-2. Decimal  
-3. Binary  
-4. Conversion  
-5. Division  
-6. Remainder  
-7. Positional Notation"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","E","Plot negative numbers on a line","- أعداد سالبة
-- خط الأعداد
-- محور
-- نقط
-- اتجاه"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","E","Illustrate 3/5 as decimal and percent","1. كسر (Fraction)  
-2. عدد عشري (Decimal Number)  
-3. نسبة مئوية (Percentage)  
-4. تحويل (Conversion)  
-5. تبسيط (Simplification)"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","F","Rewrite 2.4×10³ in standard form","1. Scientific notation  
-2. Standard form  
-3. Exponent  
-4. Base  
-5. Power"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","F","Represent 125 in binary","1. Binary
-2. Base-2
-3. Bit
-4. Positional Notation
-5. Conversion
-6. Decimal
-7. Base-10
-8. Divisor
-9. Remainder
-10. Quotient"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","G","Change 5¼ to improper fraction","1. كسر  
-2. كسر مختلط  
-3. كسر غير حقيقي  
-4. مقام  
-5. بسط"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","G","Plot ¾, √2, –1.5 on a line","1. خط الأعداد
-2. الأعداد العشرية
-3. الأعداد الكسرية
-4. الجذور التربيعية
-5. الأعداد السالبة
-6. تقريب الأعداد"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","H","Compare decimal/binary/hex","1. النظام العشري
-2. النظام الثنائي
-3. النظام الست عشري
-4. بت
-5. بايت
-6. تحويل الأعداد
-7. قيمة خانات الأعداد
-8. شفرة الأعداد
-9. أساس النظام العددي
-10. تمثيل البيانات
-11. نظام العد
-12. مقارنة الأعداد"
-"Zahlen und Operationen","Zahlen auffassen und darstellen","H","Evaluate best representations in context","- تقييم (Evaluation)
-- تمثيلات (Representations)
-- سياق (Context)"
-"Zahlen und Operationen","Zahlen ordnen","B","Compare two-digit numbers","1. الأرقام ذات الرقمين
-2. المقارنة
-3. القيمة المكانية
-4. أكبر من
-5. أصغر من
-6. يساوي
-7. الأعداد الصحيحة
-8. الترتيب
-9. التباين
-10. العمليات الحسابية"
-"Zahlen und Operationen","Zahlen ordnen","B","Place 5 numbers on a number line","1. عدد
-2. خط الأعداد
-3. ترتيب
-4. قيمة
-5. مسافة"
-"Zahlen und Operationen","Zahlen ordnen","C","Order fractions 1/2, 2/3, 3/4","- كسر  
-- البسط  
-- المقام  
-- الترتيب  
-- تحويل الكسر المشترك  
-- المقارنة"
-"Zahlen und Operationen","Zahlen ordnen","C","Sort decimals 0.2, 0.15, 0.35","1. ترتيب
-2. النظام العشري
-3. مقارنة
-4. الأعداد العشرية"
-"Zahlen und Operationen","Zahlen ordnen","D","Round 345.67 to nearest whole/tenth","1. Rounding
-2. Nearest whole number
-3. Nearest tenth
-4. Decimal places
-5. Rounding rules"
-"Zahlen und Operationen","Zahlen ordnen","D","Explain ordering negative numbers","1. أعداد سالبة
-2. نظام الأعداد
-3. خط الأعداد
-4. تتابع الأعداد
-5. قيمة أكبر/أصغر
-6. مقارنة الأعداد"
-"Zahlen und Operationen","Zahlen ordnen","E","Arrange decimals/fractions/percents","- الأعداد العشرية  
-- الكسور  
-- النسب المئوية  
-- القيم العددية  
-- التقريب  
-- ترتيب الأعداد  
-- المقامات  
-- القيم المتكافئة"
-"Zahlen und Operationen","Zahlen ordnen","E","Choose rounding strategies for money","1. تقريب الأرقام  
-2. الاستدارة  
-3. القيم العشرية  
-4. الرقم البدائي  
-5. أقرب عدد صحيح  
-6. التقريب لأقرب سنت  
-7. خطأ التقريب  
-8. عملية التقريب  
-9. الكسور العشرية  
-10. الأعداد الصحيحة"
-"Zahlen und Operationen","Zahlen ordnen","F","Order rational/irrational numbers","1. الأعداد الكسرية
-2. الأعداد غير الكسرية
-3. الأعداد العشرية
-4. الأعداد الجذرية
-5. الأعداد الحقيقية
-6. الترتيب العددي"
-"Zahlen und Operationen","Zahlen ordnen","F","Discuss rounding errors (financial)","1. أخطاء التقريب  
-2. الكسور العشرية  
-3. الدقة العددية  
-4. التقدير  
-5. النظام الثنائي  
-6. النظام العشري  
-7. تحويل الأعداد  
-8. قابلية القسمة  
-9. العمليات الحسابية  
-10. التجميع الحسابي  
-11. تراكب الدوال الحسابية  
-12. انحراف التقريب  
-13. معامل الدقة  
-14. القيم الحدية  
-15. الحساب العائم  
-16. الحساب الثابت"
-"Zahlen und Operationen","Zahlen ordnen","G","Compare expressions for x-values","1. المتغير (Variable)  
-2. المتباينة (Inequality)  
-3. المصطلح الجبري (Algebraic Term)  
-4. القيمة (Value)  
-5. المعادلة (Equation)  
-6. الخطوة (Step)  
-7. التبسيط (Simplification)  
-8. التعبير الجبري (Algebraic Expression)  
-9. الحل (Solution)"
-"Zahlen und Operationen","Zahlen ordnen","G","Use inequalities x<y<z in relationships","1. المتباينات  
-2. العلاقات  
-3. المتغيرات  
-4. الحلول  
-5. النطاق  
-6. الترتيب   
-7. التمثيل البياني  
-8. خاصية التعدي"
-"Zahlen und Operationen","Zahlen ordnen","H","Discuss ordering complex numbers","1. الأعداد المركبة
-2. الأجزاء الحقيقية
-3. الأجزاء التخيلي
-4. الدالة الجدولية
-5. الطول أو المقياس (المعيار)
-6. الطور أو الزاوية
-7. التمثيل القطبي
-8. الترتيب الجزئي
-9. الترتيب الكلي
-10. مقارنة الأعداد المركبة"
-"Zahlen und Operationen","Zahlen ordnen","H","Examine modular arithmetic ordering","Sure, here are the technical terms in Arabic:
-
-1. حسابيات المودولار
-2. عدد صحيح
-3. باقي القسمة
-4. مقارنة
-5. ترتيب
-6. متطابقات
-7. مقياس
-8. نظام
-9. مجال
-10. جدول الضرب"
-"Zahlen und Operationen","Operationen verstehen und ausführen","B","Add two-digit numbers mentally","- الأعداد
-- الجمع
-- الرقم
-- خانة الآحاد
-- خانة العشرات
-- الذهن
-- العمليات الحسابية"
-"Zahlen und Operationen","Operationen verstehen und ausführen","B","Subtract 42 – 17 and explain","الأعداد  
-الطرح  
-المعادلة  
-الحاصل  
-الفرق"
-"Zahlen und Operationen","Operationen verstehen und ausführen","C","Multiply 2-digit by 1-digit (distributive)","- ضرب  
-- توزيع  
-- رقم  
-- حاصل الضرب  
-- عدد مكون من رقمين  
-- عدد مكون من رقم واحد"
-"Zahlen und Operationen","Operationen verstehen und ausführen","C","Divide 3-digit by 1-digit with remainder","يقسم، باقي، عدد صحيح، قسمة طويلة، ناتج القسمة، مقام، بسط."
-"Zahlen und Operationen","Operationen verstehen und ausführen","D","Use standard algorithm for 234×12","1. خوارزمية
-2. ضرب
-3. أعداد
-4. ناتج
-5. منزلة
-6. عملية الحساب
-7. إعادة التجميع
-8. حمل الرقم"
-"Zahlen und Operationen","Operationen verstehen und ausführen","D","Long division with decimals (75.6 ÷ 3.2)","قسمة طويلة  
-قسمة مطولة  
-عشري  
-مقسوم  
-مقسوم عليه  
-ناتج القسمة  
-باقي القسمة  
-تحويل  
-منزل عشرية"
-"Zahlen und Operationen","Operationen verstehen und ausführen","E","Use commutative/associative laws","- خاصية التبادل  
-- خاصية التجميع  
-- عملية  
-- عنصر  
-- حاصل جمع"
-"Zahlen und Operationen","Operationen verstehen und ausführen","E","Solve real-life percentage problems","1. نسبة مئوية  
-2. زيادة نسبية  
-3. انخفاض نسبي  
-4. النسبة  
-5. القيمة الأصلية  
-6. القيمة الجديدة  
-7. التغيير المئوي  
-8. صيغة النسبة المئوية  
-9. المجموع الكلي  
-10. الفرق  
-11. المعادلة  
-12. الحجم  
-13. معدل النمو  
-14. التقدير  
-15. القيمة النهائية  
-16. نسبة التغيير  
-17. تحويل النسبة  
-18. الربح والخسارة  
-19. الخصم  
-20. الفائدة"
-"Zahlen und Operationen","Operationen verstehen und ausführen","F","Operate with rational numbers","- الأعداد النسبية
-- البسط
-- المقام
-- الكسور
-- الأعداد العشرية
-- التحويل
-- التبسيط
-- القسمة
-- الضرب
-- الجمع
-- الطرح
-- الأعداد المُتَكافِئة"
-"Zahlen und Operationen","Operationen verstehen und ausführen","F","Find GCD/LCM via prime factorization","1. القاسم المشترك الأكبر (GCD)
-2. المضاعف المشترك الأصغر (LCM)
-3. تحليل الأعداد إلى عوامل أولية (Prime Factorization)
-4. عدد أولي (Prime Number)
-5. العوامل (Factors)
-6. الأسس (Exponents)"
-"Zahlen und Operationen","Operationen verstehen und ausführen","G","Apply exponent rules","1. الأس (Exponent)
-2. الأساس (Base)
-3. القوة (Power)
-4. ضرب الأسس (Multiplication of Exponents)
-5. قسمة الأسس (Division of Exponents)
-6. الأس السالب (Negative Exponent)
-7. الأس الصفري (Zero Exponent)
-8. الأس الكسرى (Fractional Exponent)
-9. الجذر (Root)
-10. العملية الأسية (Exponential Operation)"
-"Zahlen und Operationen","Operationen verstehen und ausführen","G","Simplify expressions with negative exponents","1. الأسس (Exponents)
-2. الأس السالب (Negative Exponents)
-3. القاعدة (Base)
-4. المعكوس الضربي (Reciprocal)
-5. التبسيط (Simplification)
-6. القوة (Power)
-7. قاعدة القسمة (Division Rule)
-8. قاعدة الضرب (Multiplication Rule)
-9. الجذر (Root)"
-"Zahlen und Operationen","Operationen verstehen und ausführen","H","Operate with polynomials (factor, expand)","1. متعددة الحدود (Polynomial)
-2. عامل مشترك (Common Factor)
-3. حساب الجبر (Algebra)
-4. الحد الأعلى (Leading Coefficient)
-5. الدرجات (Degrees)
-6. جذر (Root)
-7. مجموعة العوامل (Factor Set)
-8. تحليل (Factorization)
-9. توسع (Expansion)
-10. المعاملات (Coefficients)
-11. الحدود (Terms)
-12. الصيغة التربيعية (Quadratic Formula)
-13. قسمة متعددة الحدود (Polynomial Division)
-14. نظرية الباقي (Remainder Theorem)
-15. نظرية العامل (Factor Theorem)"
-"Zahlen und Operationen","Operationen verstehen und ausführen","H","Handle surds/advanced symbolic forms","1. الجذر
-2. الأس
-3. الراديكال
-4. المعادلة
-5. التبسيط
-6. التوحيد
-7. التكعيب
-8. التحليل
-9. الدوال
-10. المتغيرات
-11. الكسور
-12. النسب
-13. اللوغاريتمات
-14. التحويل
-15. العمليات الجبرية"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","B","Identify odd/even to 100","1. الأعداد الصحيحة  
-2. الأعداد الزوجية  
-3. الأعداد الفردية  
-4. القسمة  
-5. باقي القسمة  
-6. الحسابيات  
-7. البرمجة"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","B","Find multiples of 2, 5, 10","العوامل  
-مضاعف  
-قواسم مشتركة  
-الأعداد الزوجية"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","C","Place fractions (1/2, 1/4) on a line","- كسر
-- خط الأعداد
-- بسط
-- مقام
-- ترتيب الأعداد
-- تمثيل بياني"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","C","Convert 1/2, 3/4 to decimals","1. كسر  
-2. بسط  
-3. مقام  
-4. تحويل  
-5. عدد عشري"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","D","Use negative integers (temperature)","1. الأعداد الصحيحة السالبة  
-2. درجة الحرارة  
-3. محور الأعداد  
-4. الاتجاه المعاكس  
-5. القيمة المطلقة  
-6. النقطة الصفرية  
-7. التبريد  
-8. الانخفاض  
-9. درجة غليان/تجمد  
-10. تحويلات درجات الحرارة"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","D","Add/subtract fractions (unlike denominators)","- الكسر
-- البسط
-- المقام
-- القواسم المشتركة
-- القاسم المشترك الأصغر
-- توحيد المقامات
-- عملية الجمع
-- عملية الطرح"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","E","Apply percent calculations","- النسبة المئوية
-- القيمة الأصلية
-- قيمة الجزء
-- زيادة مئوية
-- نقصان مئوي
-- القسمة
-- الضرب
-- تحويل الكسور
-- تحويل النسب
-- المعدل
-- التكافؤ النسب"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","E","Convert fraction/decimal/percent in word problems","1. عدد كسري  
-2. عدد عشري  
-3. نسبة مئوية  
-4. تبسيط  
-5. تماثل  
-6. مقارنة  
-7. تحويل  
-8. مقام  
-9. بسط  
-10. قسمة  
-11. ضرب  
-12. الناتج  
-13. نسبة  
-14. معادلة  
-15. النسبة المئوية  
-16. تقريب  
-17. تساوي  
-18. جزء من كل  
-19. تناسب  
-20. تزايدي  
-21. تناقصي"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","F","Add/subtract rational expressions","1. الكسور الجبرية  
-2. المقامات المشتركة  
-3. تبسيط الكسور  
-4. ضرب المعكوس  
-5. الاختزال  
-6. عمليات الطرح  
-7. عمليات الجمع  
-8. المقام الأصغر المشترك  
-9. البسط والمقام  
-10. الكسور المعادلة"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","F","Convert repeating decimals to fractions","1. Repeating Decimal
-2. Fraction
-3. Numerator
-4. Denominator
-5. Infinite Series
-6. Convergence
-7. Equation
-8. Algebraic Manipulation"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","G","Distinguish rational vs. irrational","1. عدد نسبي  
-2. عدد غير نسبي  
+"Zahlen und Operationen","Zahlen auffassen und darstellen","B","Count objects up to 20","1. عد (Counting)
+2. أرقام (Numbers)
+3. كائنات (Objects)
+4. مجموعة (Set)
+5. تكرار (Iteration)
+6. عد تنازلي (Countdown)
+7. عد تصاعدي (Count Up)
+8. حدود (Limits)
+9. قيمة (Value)
+10. سعة (Capacity)"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","B","Write 15 in tens and ones","1. العدد (Number)  
+2. العشرات (Tens)  
+3. الآحاد (Ones)  
+4. نظام العد (Number system)  
+5. القيمة المكانية (Place value)  
+6. التفكيك (Decomposition)  
+7. الجمع (Addition)  
+8. الطرح (Subtraction)  
+9. الرقم (Digit)  
+10. النظام العشري (Decimal system)  
+11. قيمة (Value)  
+12. التعبير (Expression)  
+13. الكسور (Fractions)  
+14. الأرقام (Figures)  
+15. الصيغة (Notation)"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","C","Write 234 in expanded form","1. الشكل الموسع
+2. القيمة المكانية
+3. الأرقام
+4. العدد
+5. التمثيل
+6. العدد العشري
+7. العوامل
+8. الجمع"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","C","Show ½ with a fraction bar","1. كسر  
+2. خط الكسر  
 3. بسط  
 4. مقام  
-5. جذر تربيعي  
-6. عدد حقيقي  
-7. تمثيل عشري  
-8. كسور  
-9. دورية  
-10. لانهائي  
-11. تقريب"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","G","Approximate √2 or π to given precision","1. تقريب
+5. العدد التخيلي  
+6. كسر عادي  
+7. كسر غير عادي"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","D","Express 3.75 as a fraction","1. كسر
+2. بسط
+3. مقام
+4. عدد صحيح
+5. فاصل عشري
+6. تحويل
+7. تبسيط
+8. قسمة
+9. ضرب
+10. نسبة"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","D","Convert 27 (base 10) to base 2","1. النظام العددي
+2. قاعدة (بايس)
+3. الرقم الثنائي
+4. التحويل
+5. العدد العشري
+6. البت (BIT)
+7. القيم الثنائية
+8. القسمة المكررة
+9. باقي القسمة
+10. القيم الأسية"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","E","Plot negative numbers on a line","1. محور
+2. أعداد سالبة
+3. تمثيل بياني
+4. نقطة
+5. خط الأعداد"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","E","Illustrate 3/5 as decimal and percent","1. كسر
+2. عشرية
+3. نسبة مئوية
+4. تحويل
+5. مقام
+6. بسط
+7. قيمة عشرية
+8. نسبة"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","F","Rewrite 2.4×10³ in standard form","1. الصيغة القياسية  
+2. الأس  
+3. العدد العلمي  
+4. القاعدة  
+5. الأرقام العشرية  
+6. قيمة الموضع  
+7. المكافئ العددي  
+8. الضرب في عشرة"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","F","Represent 125 in binary","1. نظام العد الثنائي
+2. رقم ثنائي
+3. بت
+4. تحويل
+5. قسمة 
+6. باقي القسمة
+7. تمثيل
+8. قوة
+9. كود الثنائي
+10. مدخلات"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","G","Change 5¼ to improper fraction","1. كسر غير صحيح
+2. كسر مختلط
+3. العدد الصحيح
+4. البسط
+5. المقام
+6. جمع
+7. ضرب"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","G","Plot ¾, √2, –1.5 on a line","- خط الأعداد
+- الرتبة
+- الأعداد الكسرية
+- الجذور التربيعية
+- الأعداد السالبة
+- المقياس
+- التمثيل البياني"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","H","Compare decimal/binary/hex","1. النظام العشري
+2. النظام الثنائي
+3. النظام السداسي عشر
+4. الرقم العشري
+5. الرقم الثنائي
+6. الرقم السداسي عشر
+7. التحويل
+8. القيمة المكانية
+9. الأصفار
+10. القيم الرقمية
+11. العملية الحسابية
+12. الميزات العددية
+13. البت
+14. البايت
+15. الرقمنة"
+"Zahlen und Operationen","Zahlen auffassen und darstellen","H","Evaluate best representations in context","1. تمثيل
+2. سياق
+3. تقييم
+4. معيار
+5. تحليلات
+6. بيانات
+7. نموذج
+8. استنتاج
+9. دقة
+10. فعالية"
+"Zahlen und Operationen","Zahlen ordnen","B","Compare two-digit numbers","1. رقم (Number)  
+2. عدد ثنائي الرقم (Two-digit number)  
+3. مقارنة (Comparison)  
+4. قيمة (Value)  
+5. مكان (Place)  
+6. مرتبة (Digit place)  
+7. أكبر من (Greater than)  
+8. أقل من (Less than)  
+9. متساوي (Equal)  
+10. عملية حسابية (Arithmetic operation)"
+"Zahlen und Operationen","Zahlen ordnen","B","Place 5 numbers on a number line","1. خط الأعداد
+2. الأعداد
+3. القيمة
+4. الترتيب
+5. المسافة
+6. النقاط
+7. التقسيم
+8. المحور
+9. الإشارة
+10. المنحنى"
+"Zahlen und Operationen","Zahlen ordnen","C","Order fractions 1/2, 2/3, 3/4","1. كسر
+2. بسط
+3. مقام
+4. قيمة
+5. مقارنة
+6. ترتيب"
+"Zahlen und Operationen","Zahlen ordnen","C","Sort decimals 0.2, 0.15, 0.35","1. ترتيب (Sorting)
+2. أرقام عشرية (Decimal Numbers)
+3. مقارنة (Comparison)
+4. قيمة عددية (Numerical Value)
+5. تسلسل (Sequence)
+6. دقة (Precision)"
+"Zahlen und Operationen","Zahlen ordnen","D","Round 345.67 to nearest whole/tenth","- تقريب
+- عدد كامل
+- عدد عشري
+- منزلة
+- تسعة
+- الصفر
+- نقطة عشرية"
+"Zahlen und Operationen","Zahlen ordnen","D","Explain ordering negative numbers","1. الأعداد السالبة  
+2. ترتيب  
+3. القيمة المطلقة  
+4. عدد صحيح  
+5. محور الأعداد  
+6. الاتجاه  
+7. المقارنة  
+8. سلسلة  
+9. الأرقام  
+10. الرياضيات"
+"Zahlen und Operationen","Zahlen ordnen","E","Arrange decimals/fractions/percents","1. كسر
+2. عشرية
+3. نسبة مئوية
+4. ترتيب
+5. قيمة مكانية
+6. المقام
+7. البسط
+8. موازنة
+9. تحويل
+10. مقارنة"
+"Zahlen und Operationen","Zahlen ordnen","E","Choose rounding strategies for money","1. التقريب
+2. استراتيجيات
+3. المال
+4. قيمة
+5. رقم
+6. نظام العد
+7. الدقة
+8. القيم المالية
+9. الكسور
+10. المعاملات المالية"
+"Zahlen und Operationen","Zahlen ordnen","F","Order rational/irrational numbers","1. الأعداد النسبية  
+2. الأعداد غير النسبية  
+3. ترتيب  
+4. مجموعة الأعداد  
+5. المقام  
+6. البسط  
+7. الكسور  
+8. القيم المطلقة  
+9. الأعداد الصحيحة  
+10. الدالة  
+11. نقطة على محور الأعداد  
+12. الجذور التربيعية  
+13. الأرقام العشرية المتكررة  
+14. الأعداد المنتهية  
+15. التحليل الكمي"
+"Zahlen und Operationen","Zahlen ordnen","F","Discuss rounding errors (financial)","1. الأخطاء التقريبية
 2. دقة
-3. عدد غير نسبي
-4. عدد غيـر منتهٍ
-5. تمثيل عددي
-6. سلسلة لا نهائية
-7. طريقة نيوتن
-8. كسر مستمر
-9. توافقية
-10. حساب التفاضل والتكامل"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","H","Explore complex numbers overview","- الأعداد المركبة  
-- الشكل الجبري  
-- الشكل القطبي  
-- الأسس  
-- الجذور  
-- الأعداد التخيلية  
-- المقياس  
-- الزاوية  
-- العمليات الحسابية على الأعداد المركبة  
-- المرافق المركب  
-- مخطط الأرجاند"
-"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","H","Extend to advanced sets (complex plane)","1. الأعداد المركبة
-2. المستوى العقدي
-3. الأجزاء الحقيقية والتخيلية
-4. الدالة التحليلية
-5. التفاضل العقدي
-6. التكامل العقدي
-7. مبدأ التفرع
-8. سلسلة فورييه
-9. التحويلات العقدية
-10. نظرية الدوال العقدية
-11. الأصفار والأقطاب
-12. النطاقات النطاقية
-13. المتتاليات العقدية
-14. الاحتمالات العقدية
-15. الفضاءات الطوبولوجية
-16. المنحنيات العقدية
-17. القطاعات الزاوية
-18. نظرية البقايا
-19. الخريطة المطابقة
-20. درجة الدالة"
-"Zahlen und Operationen","Rechenstrategien anwenden","B","Mentally add/subtract single-digit to 2-digit","1. الأعداد الأحادية
-2. الأعداد الثنائية
-3. الجمع
-4. الطرح
-5. الناتج
-6. العشرات
-7. الآحاد"
-"Zahlen und Operationen","Rechenstrategien anwenden","B","Explain adding 9 to a number","1. الجمع
-2. العدد
-3. الرقم
-4. القيمة"
-"Zahlen und Operationen","Rechenstrategien anwenden","C","Check subtraction by adding","- الطرح  
-- الجمع  
-- الأعداد الصحيحة  
-- التحقق من الحل  
-- النقاط العشرية"
-"Zahlen und Operationen","Rechenstrategien anwenden","C","Use doubling/halving to simplify multiplication","1. التضاعف  
-2. التنصيف  
-3. الجداء  
-4. العوامل  
-5. الأعداد الزوجية  
-6. الأعداد الفردية  
-7. تبسيط  
-8. الحسابات  
-9. العملية التكرارية  
-10. العمليات الحسابية الأساسية"
-"Zahlen und Operationen","Rechenstrategien anwenden","D","Estimate 398×52, then verify","1. تقدير  
-2. عملية الضرب  
-3. تقريب  
-4. تحقق من الحل"
-"Zahlen und Operationen","Rechenstrategien anwenden","D","Combine mental math & written methods","1. العمليات الحسابية  
-2. الجمع  
-3. الطرح  
-4. الضرب  
-5. القسمة  
-6. الحساب الذهني  
-7. الطرق المكتوبة  
-8. المسائل الحسابية  
-9. الأعداد  
-10. المعادلات  
-11. التقريب  
-12. الأرقام  
-13. الكسور  
-14. النظام العشري  
-15. الخطوات الحسابية"
-"Zahlen und Operationen","Rechenstrategien anwenden","E","Solve multi-step word problems (percents)","1. النسبة المئوية
-2. الجزء
-3. الكل
-4. الزيادة
-5. النقصان
-6. التحويل
-7. المعادلة
-8. التناسب
-9. النسبة
+3. الأرقام العشرية
+4. التقريب
+5. القيم المالية
+6. المعاملات
+7. التجميع
+8. الاختلاف
+9. الدوائر المالية
+10. الخطأ النسبي"
+"Zahlen und Operationen","Zahlen ordnen","G","Compare expressions for x-values","1. تعبيرات  
+2. القيم السالبة  
+3. المتغيرات  
+4. المعادلات  
+5. الحلول  
+6. المقارنة  
+7. الدوال  
+8. النمط  
+9. الرسم البياني  
+10. النقط التقاطعية"
+"Zahlen und Operationen","Zahlen ordnen","G","Use inequalities x<y<z in relationships","1. عدم المساواة
+2. متغيرات
+3. مجموعة
+4. ترتيب
+5. حل
+6. مجموعة الحلول
+7. تفاضل
+8. قواعد التعامل مع عدم المساواة
+9. علاقات
+10. استنتاج"
+"Zahlen und Operationen","Zahlen ordnen","H","Discuss ordering complex numbers","1. الأعداد المركبة  
+2. الجزء الحقيقي  
+3. الجزء التخيلي  
+4. مستوى الأعداد المركبة  
+5. المقياس  
+6. الزاوية  
+7. الرسم البياني  
+8. المقارنات  
+9. القيم المطلقة  
+10. الترتيب"
+"Zahlen und Operationen","Zahlen ordnen","H","Examine modular arithmetic ordering","1. حساب الجبر  
+2. باقٍ  
+3. موديول  
+4. ترتيب  
+5. دوري  
+6. معكوس  
+7. قابل للقسمة  
+8. متباينة  
+9. أقصى قيمة  
+10. أدنى قيمة"
+"Zahlen und Operationen","Operationen verstehen und ausführen","B","Add two-digit numbers mentally","1. جمع  
+2. عددين  
+3. رقمين  
+4. عشرات  
+5. آحاد  
+6. قواعد الجمع  
+7. التحليل  
+8. التجميع  
+9. التقدير  
+10. الذاكرة العددية"
+"Zahlen und Operationen","Operationen verstehen und ausführen","B","Subtract 42 – 17 and explain","- طرح  
+- عدد  
+- سالب  
+- نتيجة  
+- عملية حسابية"
+"Zahlen und Operationen","Operationen verstehen und ausführen","C","Multiply 2-digit by 1-digit (distributive)","- توزيع
+- ضرب
+- رقمين
+- رقم واحد
+- حاصل
+- عملية
+- جمع
+- معاملات
+- مبدأ
+- الأعداد"
+"Zahlen und Operationen","Operationen verstehen und ausführen","C","Divide 3-digit by 1-digit with remainder","1. قسمة
+2. ثلاثي الأرقام
+3. رقم وحيد
+4. باقي
+5. حاصل القسمة
+6. العدد المقسوم
+7. العدد المقسوم عليه
+8. عملية حسابية"
+"Zahlen und Operationen","Operationen verstehen und ausführen","D","Use standard algorithm for 234×12","1. خوارزمية  
+2. ضرب  
+3. أعداد  
+4. مقام  
+5. مجموع  
+6. عملية  
+7. مكان  
+8. عملية حسابية  
+9. قيمة  
+10. ترتيب"
+"Zahlen und Operationen","Operationen verstehen und ausführen","D","Long division with decimals (75.6 ÷ 3.2)","1. القسمة
+2. العدد المقسوم
+3. العدد المقسوم عليه
+4. البسط
+5. المقام
+6. الأعداد العشرية
+7. القيمة المكانية
+8. العلامة العشرية
+9. الطرح
+10. الضرب"
+"Zahlen und Operationen","Operationen verstehen und ausführen","E","Use commutative/associative laws","1. القوانين التبادلية
+2. القوانين التجميلية
+3. العمليات الرياضية
+4. العوامل
+5. الحدود
+6. المتغيرات
+7. الجمع
+8. الطرح
+9. الضرب
+10. القسمة"
+"Zahlen und Operationen","Operationen verstehen und ausführen","E","Solve real-life percentage problems","1. النسبة المئوية  
+2. القيم الفعلية  
+3. القيمة الكلية  
+4. الفرق  
+5. زيادة  
+6. نقصان  
+7. المعادلة  
+8. الضرب  
+9. القسمة  
+10. التحويل"
+"Zahlen und Operationen","Operationen verstehen und ausführen","F","Operate with rational numbers","1. الأعداد النسبية
+2. الكسور
+3. العوامل
+4. المضاعفات
+5. التبسيط
+6. المقام
+7. البسط
+8. الجمع
+9. الطرح
 10. الضرب
 11. القسمة
-12. الجمع
-13. الطرح
-14. المتوسط الحسابي"
-"Zahlen und Operationen","Rechenstrategien anwenden","E","Compare mental vs. written vs. calculator","1. العمليات العقلية
-2. الحساب الذهني
-3. الحساب الكتابي
-4. الآلة الحاسبة
-5. الطرق الحسابية
-6. الكفاءة الزمنية
-7. الدقة الحسابية
-8. التكلفة الزمنية
-9. الاستخدام اليدوي
-10. التكنولوجيا الحسابية"
-"Zahlen und Operationen","Rechenstrategien anwenden","F","Use factorization for large calculations","1. التحليل إلى عوامل  
-2. الأعداد الأولية  
-3. المضاعف المشترك  
-4. القاسم المشترك  
-5. العدد المركب  
-6. القاسم الأعظم  
-7. التبسيط  
-8. تحليل الأعداد  
-9. القسمة الإقليدية"
-"Zahlen und Operationen","Rechenstrategien anwenden","F","Explain error-checking with decimals/fractions","1. التدقيق
-2. الكسور العشرية
-3. الأعداد الكسرية
-4. الدقة
-5. التقريب
-6. الخطأ
-7. التحويل
-8. القيمة النسبية
-9. الدقة العددية
-10. الصيغ الكسرية
-11. الأعداد الحقيقية"
-"Zahlen und Operationen","Rechenstrategien anwenden","G","Approximate solutions (Newton’s method)","- وظيفة
-- تقارب
-- تقارب خطي
-- جداء
-- خط التقارب
-- عدد المشتقات
-- تقريب
-- صيغة نيوتن-رافسون
+12. المعكوس
+13. الكسر المشترك
+14. الكسر غير المشترك
+15. الترتيب"
+"Zahlen und Operationen","Operationen verstehen und ausführen","F","Find GCD/LCM via prime factorization","1. القواسم (Divisors)
+2. الأعداد الأولية (Prime Numbers)
+3. التحليل إلى العوامل الأولية (Prime Factorization)
+4. ك.ع.م (LCM - أقل مضاعف مشترك)
+5. ق.ع.م (GCD - أكبر قاسم مشترك)
+6. القوة (Power)
+7. العوامل (Factors)
+8. الجذر (Root)
+9. عدد صحيح (Integer)
+10. مجموعة الأعداد (Set of Numbers)"
+"Zahlen und Operationen","Operationen verstehen und ausführen","G","Apply exponent rules","1. الأس (Exponent)
+2. الأس المطلق (Base)
+3. القاعدة (Base)
+4. الأس السالب (Negative Exponent)
+5. الأس الصفري (Zero Exponent)
+6. جمع الأسس (Adding Exponents)
+7. طرح الأسس (Subtracting Exponents)
+8. ضرب الأسس (Multiplying Exponents)
+9. قسمة الأسس (Dividing Exponents)
+10. الأس الصحيح (Integer Exponent)"
+"Zahlen und Operationen","Operationen verstehen und ausführen","G","Simplify expressions with negative exponents","1. الأس exponent
+2. الصيغة algebraic expression
+3. القاعدة rule
+4. العامل coefficient
+5. القيمة base
+6. الأعداد الصحيحة integers
+7. التبسيط simplification
+8. القسمة division
+9. الضرب multiplication
+10. الناتج result"
+"Zahlen und Operationen","Operationen verstehen und ausführen","H","Operate with polynomials (factor, expand)","1. متعددات الحدود
+2. العامل
+3. التوسع
+4. الحدود
+5. المعاملات
+6. القيم العددية
+7. الأصفار
+8. الجذور
+9. الإضافة
+10. الطرح
+11. الضرب
+12. القسمة
+13. المعادلات
+14. المساواة
+15. التماثل"
+"Zahlen und Operationen","Operationen verstehen und ausführen","H","Handle surds/advanced symbolic forms","1. الجذر التربيعي  
+2. الجذر التكعيبي  
+3. الصيغة الجذرية  
+4. الجذر الدائري  
+5. الأعداد الجذرية  
+6. المعادلات الجذرية  
+7. العمليات الجبرية  
+8. التبسيط  
+9. النسبية  
+10. التقدير"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","B","Identify odd/even to 100","1. عدد فردي  
+2. عدد زوجي  
+3. حتى  
+4. فردي  
+5. العد  
+6. القيم  
+7. مجموعة  
+8. نطاق  
+9. عددي  
+10. ترتيب"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","B","Find multiples of 2, 5, 10","1. مضاعفات (Multiples)
+2. عدد (Number)
+3. قاسم (Factor)  
+4. ضرب (Multiplication)  
+5.ترتيب (Order)  
+6. مجموعة (Set)  
+7. قاعدة (Rule)  
+8. عدد صحيح (Integer)  
+9. صفر (Zero)  
+10. عدد صحيح موجب (Positive Integer)"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","C","Place fractions (1/2, 1/4) on a line","1. كسر
+2. خط الأعداد
+3. ترتيب
+4. وحدة
+5. القيمة المكانية
+6. النسبة
+7. المقام
+8. البسط
+9. مقارنة
+10. تقسيم"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","C","Convert 1/2, 3/4 to decimals","- كسر
+- عشري
+- تحويل
+- قسمة
 - جذر
-- خطأ
-- تكرار
-- تفاضل
-- ميل
-- معادلة"
-"Zahlen und Operationen","Rechenstrategien anwenden","G","Analyze efficiency of multiple strategies","1. تحليل البيانات
-2. استراتيجيات متعددة
-3. الكفاءة
-4. المقاييس
-5. التحسين
-6. مقارنة الأداء
-7. التحليل الإحصائي
-8. المنهجية
-9. التحليل الكمي
-10. معايير التقييم
-11. النمذجة
-12. تحليل الحساسية
-13. التحليل النوعي
-14. محاكاة
-15. التحليل المالي"
-"Zahlen und Operationen","Rechenstrategien anwenden","H","Generalize symbolic manipulation strategies","1. الجبر الرمزي  
-2. التلاعب الجبري  
-3. التبسيط الرمزي  
-4. المعادلات الجبرية  
-5. قواعد التحويل  
-6. التعبيرات الرياضية  
-7. الأنماط الرمزية  
-8. التحليل الرياضي  
-9. الحساب الرمزي  
-10. النمذجة الرمزية  
-11. الخوارزميات  
-12. البرمجيات الرياضية  
-13. المعالجة الآلية  
-14. التحقق من الحلول  
-15. الترجمة المعادلية  
-16. الإنشاء الآلي  
-17. الدوال الرياضية"
-"Zahlen und Operationen","Rechenstrategien anwenden","H","Compare mental, symbolic, tech approaches","1. الذهن
-2. الرمزية
-3. التقنية
-4. المقارنة
-5. المنهج
-6. التحليل
-7. التجريد
-8. التنفيذ
-9. الفعالية
-10. النموذج"
-"Raum und Form","Raumorientierung und Lagebeziehungen","B","Identify left/right in classroom","1. الاتجاه
-2. إشارة مرجعية
+- قيمة عشرية
+- مقام
+- بسط"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","D","Use negative integers (temperature)","1. الأعداد الصحيحة السالبة
+2. درجة الحرارة
+3. مقياس الحرارة
+4. الصفر المطلق
+5. التحويل بين المقاييس
+6. المعادلة الرياضية
+7. القيمة المطلقة
+8. القياسات
+9. الانخفاض في درجة الحرارة
+10. الصيغة الحسابية"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","D","Add/subtract fractions (unlike denominators)","1. كسور
+2. مقامات
+3. بسط
+4. كسور غير متشابهة
+5. إيجاد المقام المشترك
+6. تبسيط
+7. إضافة
+8. طرح
+9. نتائج
+10. عامل مشترك"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","E","Apply percent calculations","1. النسبة المئوية
+2. القيم المطلقة
+3. قاعدة النسبة المئوية
+4. الزيادة / النقصان
+5. المعامل
+6. النسبة
+7. الكسر
+8. التحويل
+9. الإجمالي
+10. النسبة المئوية المتزايدة/ المتناقصة"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","E","Convert fraction/decimal/percent in word problems","1. كسر
+2. عدد عشري
+3. نسبة مئوية
+4. تحويل
+5. عملية
+6. القسمة
+7. الضرب
+8. جمع
+9. طرح
+10. معادلة"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","F","Add/subtract rational expressions","1. تعبيرات عقلانية
+2. كسر
+3. مقام
+4. بسط
+5. عوامل
+6. تبسيط
+7. الجمع
+8. الطرح
+9. معادلة
+10. توحيد المقامات"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","F","Convert repeating decimals to fractions","1. كسر (Fraction)  
+2. عشرية (Decimal)  
+3. تكرارية (Repeating)  
+4. قيمة مكانية (Place Value)  
+5. معادلة (Equation)  
+6. ثابت (Constant)  
+7. بسط (Numerator)  
+8. مقام (Denominator)  
+9. تحليل (Factoring)  
+10. أعداد حقيقية (Real Numbers)"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","G","Distinguish rational vs. irrational","1. عدد صحيح  
+2. عدد كسر  
+3. عدد نسبي  
+4. عدد غير نسبي  
+5. جذر  
+6. متسلسلة غير نهائية  
+7. تمثيل عشري  
+8. عدد حقيقي  
+9. مجموعة الأعداد  
+10. خصائص الأعداد"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","G","Approximate √2 or π to given precision","1. الدقة (Precision)
+2. التقريب (Approximation)
+3. الجذر التربيعي (Square root)
+4. العدد π (Number π)
+5. الطرق العددية (Numerical methods)
+6. سلسلة (Series)
+7. حساب التفاضل والتكامل (Calculus)
+8. طريقة نيوتن (Newton's method)
+9. متسلسلة لوران (Laurent series)
+10. حسابات تقريبية (Approximate calculations)"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","H","Explore complex numbers overview","1. الأعداد المركبة
+2. الوحدات التخيلية
+3. الشكل الجبري
+4. الشكل القطبي
+5. المقياس (المدة)
+6. الزاوية (الزاوية القطبية)
+7. الأعداد الحقيقية
+8. المعاملات
+9. المضافات
+10. الجذر التربيعي
+11. الدوال المثلثية
+12. المضاعف المركب
+13. الرسم البياني
+14. التحويلات الخطية"
+"Zahlen und Operationen","Zahlenbeziehungen und Zahlenräume erweitern","H","Extend to advanced sets (complex plane)","1. مجموعة (Set)
+2. امتداد (Extension)
+3. طائفة (Field)
+4. عدد عقدي (Complex Number)
+5. المستوى العقدي (Complex Plane)
+6. نقاط (Points)
+7. دالة (Function)
+8. تحليل (Analysis)
+9. نظرية (Theorem)
+10. معقد (Imaginary)"
+"Zahlen und Operationen","Rechenstrategien anwenden","B","Mentally add/subtract single-digit to 2-digit","1. جمع
+2. طرح
+3. رقم
+4. عدد ثنائي الرقم
+5. عدد فردي
+6. عدد زوجي
+7. قيمة مكانية
+8. عد
+9. معادلة
+10. عملية حسابية"
+"Zahlen und Operationen","Rechenstrategien anwenden","B","Explain adding 9 to a number","1. عدد
+2. جمع
+3. عملية
+4. قيمة
+5. مجموعة
+6. معادلة
+7. نتيجة
+8. خاصية التجميع
+9. خاصية التوزيع"
+"Zahlen und Operationen","Rechenstrategien anwenden","C","Check subtraction by adding","1. الطرح
+2. الجمع
+3. تحقق
+4. كميات
+5. معادلة
+6. نتيجة
+7. عدد
+8. عملية حسابية
+9. حدود
+10. العمليات الأساسية"
+"Zahlen und Operationen","Rechenstrategien anwenden","C","Use doubling/halving to simplify multiplication","1. الضرب
+2. القسمة
+3. التبسيط
+4. الضعف
+5. النصف
+6. التحويل
+7. الأعداد الزوجية
+8. الأعداد الفردية
+9. المثالية"
+"Zahlen und Operationen","Rechenstrategien anwenden","D","Estimate 398×52, then verify","1. تقدير
+2. ضرب
+3. تحقق
+4. تقريب
+5. حاصل الضرب
+6. عملية حسابية
+7. تقدير رقمي
+8. موازنة
+9. خطأ نسبي
+10. تحليل عدد"
+"Zahlen und Operationen","Rechenstrategien anwenden","D","Combine mental math & written methods","1. الرياضيات العقلية
+2. الطرق المكتوبة
+3. الجمع
+4. الطرح
+5. الضرب
+6. القسمة
+7. العمليات الرياضية
+8. الأعداد الكاملة
+9. الأعداد الكسرية
+10. القوانين الرياضية"
+"Zahlen und Operationen","Rechenstrategien anwenden","E","Solve multi-step word problems (percents)","1. النسبة المئوية  
+2. القيمة الأصلية  
+3. القيمة النهائية  
+4. الزيادة  
+5. النقصان  
+6. الفرق  
+7. الضرب  
+8. القسمة  
+9. العملية الحسابية  
+10. المعادلة  
+11. المقدار  
+12. التقدير  
+13. الصيغة  
+14. التحويل  
+15. الكسر"
+"Zahlen und Operationen","Rechenstrategien anwenden","E","Compare mental vs. written vs. calculator","- عقل
+- كتابة
+- آلة حاسبة
+- مقارنة
+- عملية حسابية
+- دقة
+- سرعة
+- قدرة التذكر
+- استراتيجية الحساب
+- التفكير النقدي"
+"Zahlen und Operationen","Rechenstrategien anwenden","F","Use factorization for large calculations","1. تحليل
+2. عوامل
+3. الأعداد الأولية
+4. القسمة
+5. الجبر
+6. معادلات
+7. الجذور
+8. مضاعفات
+9. تطبيقات
+10. التكامل"
+"Zahlen und Operationen","Rechenstrategien anwenden","F","Explain error-checking with decimals/fractions","1. خطأ (Error)
+2. تحقق (Check)
+3. دقة (Precision)
+4. عددي (Numeric)
+5. كسر (Fraction)
+6. عشري (Decimal)
+7. تقريب (Rounding)
+8. صحة (Accuracy)
+9. طريقة حساب (Calculation Method)
+10. تحويل (Conversion)"
+"Zahlen und Operationen","Rechenstrategien anwenden","G","Approximate solutions (Newton’s method)","1. الحلول التقريبية
+2. طريقة نيوتن
+3. مشتقات
+4. القيمة الابتدائية
+5. converges (تقارب)
+6. الدالة
+7. الجذر
+8. التقريب
+9. الخطأ
+10. التكرار"
+"Zahlen und Operationen","Rechenstrategien anwenden","G","Analyze efficiency of multiple strategies","1. كفاءة
+2. استراتيجيات
+3. تحليل
+4. بيانات
+5. مقاييس الأداء
+6. نموذج رياضي
+7. تقنية
+8. تكلفة
+9. زمن التنفيذ
+10. خوارزمية
+11. قياس
+12. تحسين
+13. تحليلات البيانات
+14. فرضيات
+15. تقييم"
+"Zahlen und Operationen","Rechenstrategien anwenden","H","Generalize symbolic manipulation strategies","1. التعميم
+2. تلاعب رمزي
 3. خوارزمية
-4. مستشعر
-5. محاور الإحداثيات
-6. تموضع
-7. المعالجة البصرية"
-"Raum und Form","Raumorientierung und Lagebeziehungen","B","Follow directions on a simple grid","1. شبكة  
-2. إحداثيات  
-3. نقطة البداية  
-4. الاتجاهات  
-5. حركة  
-6. محور  
-7. خطوط  
-8. أعمدة  
-9. صفوف  
-10. الموقع  
-11. تعليمات  
-12. خطوة"
-"Raum und Form","Raumorientierung und Lagebeziehungen","C","Plot integer points on a grid","1. شبكة
-2. نقاط صحيحة
-3. نظام إحداثيات
-4. محور سيني
-5. محور صادي
-6. رسم بياني
-7. نقطة الأصل
-8. مقياس
-9. نقطة الشبكة
-10. تقاطع"
-"Raum und Form","Raumorientierung und Lagebeziehungen","C","Describe point locations as (x,y)","1. الإحداثيات
-2. المستوى الديكارتي
-3. النقطة
-4. المحور السيني
-5. المحور الصادي
-6. المسافة
-7. نظام الإحداثيات
-8. الرباعي
-9. الإسقاط"
-"Raum und Form","Raumorientierung und Lagebeziehungen","D","Use scale/compass directions on a map","الخريطة، الاتجاهات، البوصلة، المقياس، الشمال، الجنوب، الشرق، الغرب."
-"Raum und Form","Raumorientierung und Lagebeziehungen","D","Place negative coordinates in four quadrants","- الإحداثيات الديكارتية  
-- المحور السيني  
-- المحور الصادي  
-- الربع الأول  
-- الربع الثاني  
-- الربع الثالث  
-- الربع الرابع  
-- الإحداثيات السالبة"
-"Raum und Form","Raumorientierung und Lagebeziehungen","E","Translate real-world paths into coordinates","1. الإحداثيات
-2. نظام تحديد المواقع العالمي (GPS)
-3. المسارات
-4. التحويل
-5. الإسقاط
-6. أنظمة الإحداثيات
-7. الجيوديسيا
-8. نظم المعلومات الجغرافية (GIS)
-9. الموقع
-10. التتبع
-11. الخرائط الرقمية
-12. البيانات الجغرافية"
-"Raum und Form","Raumorientierung und Lagebeziehungen","E","Identify geometry transformations on a plan","1. التحويل الهندسي  
-2. الانعكاس  
-3. التمدد  
-4. الانحراف  
-5. التدوير  
-6. الانتقال  
-7. التماثل  
-8. التصغير والتكبير  
-9. المصفوفة التحويلية"
-"Raum und Form","Raumorientierung und Lagebeziehungen","F","Use vectors for positions/movements","1. متجه  
-2. الحجم  
-3. البعد  
-4. مركبة متجه  
-5. الموضع  
-6. الحركة  
-7. الإزاحة  
-8. الوحدة الإحداثية  
-9. البداية  
-10. النهاية"
-"Raum und Form","Raumorientierung und Lagebeziehungen","F","Solve distance/midpoint problems","1. المسافة
-2. نقطة المنتصف
-3. نظام الإحداثيات
-4. المعادلة
-5. الإحداثيات
-6. الجذر التربيعي
-7. فرق
-8. مجموع"
-"Raum und Form","Raumorientierung und Lagebeziehungen","G","Apply matrices for transformations","1. مصفوفة
-2. متجه
-3. تحول خطي
-4. التحويل الأفيني
-5. التحويل الدوراني
-6. التحويل الانعكاسي
-7. تحويل التمدد
-8. التحويل الانقلابي
-9. أبعاد
-10. الإحداثيات 
-11. النقطة الأصلية
-12. الإزاحة
-13. مقياس
-14. جبر المصفوفات
-15. الضرب الاتجاهي
-16. المعكوس 
-17. المصفوفة الوحدة
-18. التماثل
-19. الانكماش
-20. التمدد
-21. الإزاحة
-22. النظام الإحداثي"
-"Raum und Form","Raumorientierung und Lagebeziehungen","G","Describe 3D coordinates or cross-sections","1. نظام الإحداثيات ثلاثي الأبعاد
-2. الجسيمات
-3. القواطع العرضية
-4. المحاور
+4. قواعد
+5. تمثيل رمزي
+6. تحليل
+7. نموذج
+8. استنتاج
+9. تحويل
+10. صياغة
+11. تحسين
+12. تقريب
+13. متغيرات
+14. دوال رياضية
+15. بيئات اصطناعية"
+"Zahlen und Operationen","Rechenstrategien anwenden","H","Compare mental, symbolic, tech approaches","1. عقلية
+2. رمزية
+3. تكنولوجية
+4. نمذجة
+5. استدلال
+6. حساب
+7. خوارزمية
+8. تمثيل
+9. تحليل
+10. إبداع"
+"Raum und Form","Raumorientierung und Lagebeziehungen","B","Identify left/right in classroom","1. الاتجاهات 
+2. اليسار 
+3. اليمين 
+4. التعرف 
+5. الإستشعار 
+6. المعالجة 
+7. الصور 
+8. أجهزة الاستشعار 
+9. التقنيات
+10. البرمجة"
+"Raum und Form","Raumorientierung und Lagebeziehungen","B","Follow directions on a simple grid","1. شبكة (Grid)
+2. اتجاهات (Directions)
+3. نقاط (Points)
+4. موقع (Position)
+5. تحرك (Movement)
+6. إحداثيات (Coordinates)
+7. نقل (Translation)
+8. خطوة (Step)
+9. قيمة (Value)
+10. قياس (Measurement)"
+"Raum und Form","Raumorientierung und Lagebeziehungen","C","Plot integer points on a grid","1. شبكة (Grid)
+2. نقاط صحيحة (Integer Points)
+3. إحداثيات (Coordinates)
+4. محور (Axis)
+5. رسم بياني (Plotting)
+6. نظام إحداثي (Coordinate System)
+7. بعد (Dimension)
+8. خوارزمية (Algorithm)
+9. رسم (Drawing)
+10. تمثيل (Representation)"
+"Raum und Form","Raumorientierung und Lagebeziehungen","C","Describe point locations as (x,y)","1. نقطة (Point)
+2. إحداثيات (Coordinates)
+3. محور س (X-axis)
+4. محور ص (Y-axis)
+5. نظام إحداثي (Coordinate System)
+6. بعد (Dimension)
+7. نقطة الأصل (Origin)
+8. كائن (Object)
+9. المسافة (Distance)
+10. الزاوية (Angle)"
+"Raum und Form","Raumorientierung und Lagebeziehungen","D","Use scale/compass directions on a map","1. مقياس
+2. بوصلة
+3. اتجاهات
+4. خريطة
+5. شمال
+6. جنوب
+7. شرق
+8. غرب
+9. نقاط الهدوء
+10. خطوط الطول
+11. دوائر العرض
+12. إحداثيات
+13. مسافة
+14. تتبع
+15. توجيه"
+"Raum und Form","Raumorientierung und Lagebeziehungen","D","Place negative coordinates in four quadrants","1. الإحداثيات
+2. المحاور
+3. رباعيات
+4. الصفات السالبة
 5. النقاط
-6. الإسقاط
-7. الإحداثيات الديكارتية
-8. الإحداثيات القطبية
-9. الانعكاس
-10. التدوير"
-"Raum und Form","Raumorientierung und Lagebeziehungen","H","Advanced vector/matrix in spatial tasks","1. شعاع (Vector)  
-2. مصفوفة (Matrix)  
-3. أبعاد (Dimensions)  
-4. تحويل (Transformation)  
-5. إحداثيات (Coordinates)  
-6. معكوس (Inverse)  
-7. ضرب المصفوفات (Matrix Multiplication)  
-8. متجه الوحدة (Unit Vector)  
-9. إسقاط (Projection)  
-10. تجانس (Homogeneity)  
-11. تحويل خطي (Linear Transformation)  
-12. خاصية التماثل (Symmetry Property)  
-13. دوران (Rotation)  
-14. انزياح (Translation)  
-15. فضاء المتجهات (Vector Space)"
-"Raum und Form","Raumorientierung und Lagebeziehungen","H","Examine transformations in higher dimensions","1. الأبعاد
-2. التحويلات
-3. المصفوفات
-4. الفضاء الشعاعي
-5. الدوال الخطية
-6. القيم الذاتية
-7. المتجهات الذاتية
-8. تبديل المحاور
-9. التمدد والتقلص
-10. الإحداثيات
-11. الدوران
-12. الانعكاس
-13. الإزاحة
-14. الأنظمة الإحداثية
-15. الإسقاط"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","B","Identify basic shapes (circle, square)","- أشكال هندسية
-- دائرة
-- مربع
-- مساحة
-- محيط
-- زاوية
-- نقاط تقاطع
-- أبعاد
-- تناظر"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","B","Sort real objects (cube vs. prism)","1. المكعب
-2. المنشور
-3. الأبعاد
-4. الهندسة الصلبة
-5. الخواص الهندسية
-6. الأسطح
-7. الحجم
-8. الزوايا
-9. الحواف
-10. الأوجه"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","C","Classify polygons by sides/angles","1. مضلع
-2. زوايا
-3. ضلع
-4. مثلث
-5. مربع
-6. مستطيل
-7. معين
-8. متوازي الأضلاع
-9. شبه المنحرف
-10. خماسي الأضلاع
-11. سداسي الأضلاع
-12. منتظم
-13. زاوية حادة
-14. زاوية قائمة
-15. زاوية منفرجة"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","C","Compare shapes by parallel sides or right angles","1. أشكال هندسية  
-2. جوانب متوازية  
-3. زوايا قائمة  
-4. مستطيل  
-5. مربع  
-6. متوازي أضلاع  
-7. معين  
-8. مثلث  
-9. شبه منحرف   
-10. خط مستقيم"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","D","Name 3D solids & identify nets","1. الأشكال الثلاثية الأبعاد
-2. الشبكات الهندسية
-3. الأوجه"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","D","Explore angle sums in polygons","زوايا داخلية  
-زوايا خارجية  
-مضلع  
-مجموع زوايا المضلع  
-مثلث  
-رباعي الأضلاع  
-خماسي الأضلاع  
-سداسي الأضلاع  
-صيغة الزوايا الداخلية  
-زاوية متعددة  
-مجموع الزوايا الخارجية"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","E","Analyze circle properties (radius, diameter)","نصف القطر, القطر, المحيط, المساحة, الدائرة, المركز, النقاط المماسية."
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","E","Find angle sums in polygons (triangles, quadrilaterals)","مضلع، زاوية، مثلث، رباعي الأضلاع، مجموع الزوايا، أضلاع، قمة الزاوية، متوازي الأضلاع."
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","F","Compare volume/surface area of prisms","1. حجم (Volume)
-2. مساحة السطح (Surface area)
-3. منشور (Prism)
-4. قاعدة (Base)
-5. ارتفاع (Height)
-6. أبعاد (Dimensions)
-7. محيط القاعدة (Base perimeter)
-8. مساحة القاعدة (Base area)"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","F","Recognize Platonic solids (properties)","1. متعدد السطوح
-2. الأوجه
-3. الزوايا
-4. الحواف
-5. التماثل
-6. السطوح المثلثة
-7. السطوح المربعة
-8. السطوح الخماسية
-9. المضلعات المنتظمة
-10. التماثل المركزي
-11. التماثل الانعكاسي
-12. الأقطار  
-13. الهندسة الفراغية
-14. الشبكة الهندسية 
-15. الحجم
-16. المساحة الجانبية
-17. نصف القطر
-18. الكرة
-19. المنشور
-20. الأهرامات"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","G","Examine cross-sections of 3D shapes","1. القطاع العرضي  
-2. الأشكال ثلاثية الأبعاد  
-3. الهندسة الفراغية  
-4. المستوى  
-5. الإسقاط  
-6. الحواف  
-7. الأوجه  
-8. النقاط  
-9. الخطوط  
-10. التقاطع  
-11. التمثيل البصري  
-12. الشكل الهندسي"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","G","Use Euler’s formula (faces, edges, vertices)","1. الرؤوس
-2. الحواف
-3. الأوجه
-4. متعدد السطوح
-5. صيغة أويلر"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","H","Investigate complex solids or fractals","- المواد المركبة
-- الكسوريات
-- الأبعاد الكسورية
-- التكرار الذاتي
-- الهندسة الكسورية
-- الديناميكيات غير الخطية
-- النظم المعقدة
-- التركيبات الهندسية"
-"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","H","Apply advanced polyhedral geometry","1. مضلع
-2. متعدد السطوح
-3. الأبعاد
-4. الوجوه
-5. الحواف
-6. الرؤوس
-7. الإسقاط
-8. التقاطع
-9. المتجهات
-10. الفضاء الشعاعي
-11. المخروط
-12. الهندسة التركيبية
-13. البرمجة الخطية
-14. المجموعة المحدبة
-15. التفكيك
-16. التمثيل الثنائي
-17. المتعددات الشكليات"
-"Raum und Form","Konstruktionen und Zeichnungen","B","Draw a line segment (8 cm) with a ruler","1. مستقيم
-2. قطعة مستقيمة
-3. سنتيمتر
-4. مسطرة"
-"Raum und Form","Konstruktionen und Zeichnungen","B","Draw a rectangle with given sides","- مستطيل
-- طول
-- عرض
+6. المسافة
+7. النظام الإحداثي
+8. الأعداد السالبة"
+"Raum und Form","Raumorientierung und Lagebeziehungen","E","Translate real-world paths into coordinates","1. إحداثيات
+2. نظام الإحداثيات
+3. خريطة
+4. نقاط الرّبط
+5. التحويل الهندسي
+6. المسافات
+7. الأبعاد
+8. القيم العشرية
+9. رسم الخرائط
+10. الإزاحة"
+"Raum und Form","Raumorientierung und Lagebeziehungen","E","Identify geometry transformations on a plan","1. التحويلات الهندسية  
+2. الترجمة  
+3. الدوران  
+4. الانعكاس  
+5. التمدد  
+6. الانكماش  
+7. التناظر  
+8. النظام الإحداثي  
+9. نقطة الأصل  
+10. المتوازيات  
+11. الزوايا  
+12. الأبعاد  
+13. المرونة  
+14. المنحنيات  
+15. الإحداثيات"
+"Raum und Form","Raumorientierung und Lagebeziehungen","F","Use vectors for positions/movements","1. متجهات (Vectors)
+2. موضع (Position)
+3. حركة (Movement)
+4. اتجاه (Direction)
+5. مركبات (Components)
+6. زاوية (Angle)
+7. طول المتجه (Magnitude)
+8. جمع المتجهات (Vector Addition)
+9. طرح المتجهات (Vector Subtraction)
+10. المتجه الصفري (Zero Vector)
+11. تحويل (Transformation)
+12. نظام إحداثي (Coordinate System)
+13. قاعدة المتجهات (Vector Basis)
+14. وحدة المتجه (Unit Vector)
+15. الضرب العددي (Dot Product)
+16. الضرب المتجهي (Cross Product)
+17. التمثيل البياني (Graphical Representation)"
+"Raum und Form","Raumorientierung und Lagebeziehungen","F","Solve distance/midpoint problems","1. المسافة  
+2. نقطة المنتصف  
+3. إحداثيات (س، ص)  
+4. صيغة المسافة  
+5. صيغة نقطة المنتصف  
+6. نظرية فيثاغورس  
+7. مستوى الإحداثيات  
+8. الرسم البياني  
+9. معادلة الخط المستقيم  
+10. نقاط الطول والعرض"
+"Raum und Form","Raumorientierung und Lagebeziehungen","G","Apply matrices for transformations","1. مصفوفة (Matrix)
+2. تحويل (Transformation)
+3. متجه (Vector)
+4. نظام الإحداثيات (Coordinate System)
+5. ضرب المصفوفات (Matrix Multiplication)
+6. مصفوفة الهوية (Identity Matrix)
+7. مصفوفة التحويل (Transformation Matrix)
+8. التدوير (Rotation)
+9. التحجيم (Scaling)
+10. الانتقال (Translation)
+11. الإحداثيات المتجانسة (Homogeneous Coordinates)
+12. مصفوفة المعكوس (Inverse Matrix)
+13. الخصائص الخطية (Linear Properties)
+14. الفضاء المتجهي (Vector Space)
+15. القيم الذاتية (Eigenvalues)"
+"Raum und Form","Raumorientierung und Lagebeziehungen","G","Describe 3D coordinates or cross-sections","1. إحداثيات ثلاثية الأبعاد  
+2. مقاطع عرضية  
+3. نظام الإحداثيات  
+4. بعد  
+5. محور س  
+6. محور ص  
+7. محور ع  
+8. تمثيل ثلاثي الأبعاد  
+9. تخطيط  
+10. هندسة الفضاء"
+"Raum und Form","Raumorientierung und Lagebeziehungen","H","Advanced vector/matrix in spatial tasks","1. المتجه (Vector)
+2. المصفوفة (Matrix)
+3. الفضاء (Space)
+4. القاعدة (Basis)
+5. الإحداثيات (Coordinates)
+6. التحويل (Transformation)
+7. الضرب النقطي (Dot Product)
+8. الضرب الاتجاهي (Cross Product)
+9. المصفوفة المعكوسة (Inverse Matrix)
+10. المحدد (Determinant)
+11. القيم الذاتية (Eigenvalues)
+12. المتجهات الذاتية (Eigenvectors)
+13. التماثل (Symmetry)
+14. الأبعاد (Dimensions)
+15. التحليل الخطيو (Linear Algebra)"
+"Raum und Form","Raumorientierung und Lagebeziehungen","H","Examine transformations in higher dimensions","1. الأبعاد العليا  
+2. التحويلات  
+3. المصفوفات  
+4. المتجهات  
+5. التحويلات الخطية  
+6. الفضاءات المتجهة  
+7. النظم الإحداثية  
+8. الإحداثيات المتجانسة  
+9. الأبعاد المنخفضة  
+10. التحليل الطيفي  
+11. المجالات العليا  
+12. الفضاءات متعددة الأبعاد  
+13. المعادلات التفاضلية  
+14. الطوبولوجيا  
+15. الانحرافات"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","B","Identify basic shapes (circle, square)","- شكل (Shape)
+- دائرة (Circle)
+- مربع (Square)
+- هندسة (Geometry)
+- قياس (Measurement)
+- محيط (Perimeter)
+- منطقة (Area)
+- نقطة (Point)
+- خط (Line)
+- مثلث (Triangle)"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","B","Sort real objects (cube vs. prism)","1. كائنات حقيقية
+2. مكعب
+3. منشور
+4. تصنيف
+5. هندسة
+6. أبعاد
+7. شكل
+8. خاصية
+9. ترميز
+10. تحليل"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","C","Classify polygons by sides/angles","- مضلع
+- أضلاع
 - زوايا
-- إحداثيات
-- نظام الإحداثيات
-- مقياس الطول
-- وحدات القياس
-- رسم بياني
-- توجيه"
-"Raum und Form","Konstruktionen und Zeichnungen","C","Construct perpendicular lines (set square)","1. خطوط متعامدة  
-2. زاوية قائمة  
-3. مثلث قائم الزاوية  
-4. منشور  
-5. تقاطع  
-6. مستوى الأساس  
-7. رأس الزاوية  
-8. مستقيم  
-9. انحراف  
-10. الدقة الهندسية"
-"Raum und Form","Konstruktionen und Zeichnungen","C","Use a compass for a circle (radius given)","1. بوصلة
+- منتظم
+- غير منتظم
+- مثلث
+- مربع
+- مستطيل
+- مثمن
+- خماسي
+- سداسي
+- زوايا قائمة
+- زوايا حادة
+- زوايا منفرجة
+- متساوي الأضلاع
+- متساوي الساقين"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","C","Compare shapes by parallel sides or right angles","- جوانب متوازية
+- زوايا قائمة
+- أشكال
+- توازي
+- قياس الزوايا
+- هندسة
+- تناظر
+- تحليل الشكل
+- مقارنة الأشكال
+- خصائص هندسية"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","D","Name 3D solids & identify nets","1. الأجسام الثلاثية الأبعاد
+2. الشبكات (النظام الشبكي)
+3. الأبعاد
+4. الهرم
+5. المكعب
+6. المنشور
+7. الأسطوانة
+8. الكرة
+9. السلاسل المستقيمة
+10. الأوجه"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","D","Explore angle sums in polygons","1. مضلع
+2. زاوية
+3. مجموع الزوايا
+4. زوايا داخلية
+5. زوايا خارجية
+6. عدد الأضلاع
+7. قاعدة الزوايا
+8. صيغتين الزوايا
+9. خاصية
+10. مثلث"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","E","Analyze circle properties (radius, diameter)","- دائرة
+- نصف القطر
+- القطر
+- محيط
+- مساحة
+- مركز الدائرة
+- زاوية مركزية
+- قوس
+- وتر
+- نقاط على الدائرة"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","E","Find angle sums in polygons (triangles, quadrilaterals)","1. زوايا (Angles)  
+2. مضلع (Polygon)  
+3. مثلث (Triangle)  
+4. مربع (Square)  
+5. متوازي الأضلاع (Parallelogram)  
+6. زاوية داخلية (Interior Angle)  
+7. زاوية خارجية (Exterior Angle)  
+8. مجموع زوايا المضلع (Sum of Angles in Polygon)  
+9. قاعدة حساب الزوايا (Angle Sum Formula)  
+10. ترتيب زوايا (Angle Arrangement)  
+11. شكل هندسي (Geometric Shape)  
+12. إضلاع (Sides)  
+13. نُقطة (Vertex)  
+14. مجموع الزوايا (Sum of Angles)  
+15. هندسة (Geometry)"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","F","Compare volume/surface area of prisms","1. حجم  
+2. مساحة السطح  
+3. متوازي مستطيلات  
+4. قاعدة  
+5. ارتفاع  
+6. عمود  
+7. أبعاد  
+8. صيغ حسابية  
+9. أشكال ثلاثية الأبعاد  
+10. توازن السطح  
+11. حجم القاعدة  
+12. حجم الشكل  
+13. مقارنة  
+14. نصف القطر  
+15. مساحة القاعدة"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","F","Recognize Platonic solids (properties)","1. الأوجه
+2. الحواف
+3. الرؤوس
+4. التماثل
+5. الأبعاد
+6. الترتيبات الهندسية
+7. الشكل المنتظم
+8. الزوايا
+9. الكميات الهندسية
+10. فيثاغورس"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","G","Examine cross-sections of 3D shapes","1. مقطع عرضي
+2. شكل ثلاثي الأبعاد
+3. هندسة
+4. حجم
+5. سطح
+6. تمثيل بصري
+7. أبعاد
+8. تحويل
+9. رسم تخطيطي
+10. تحليل بيانات"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","G","Use Euler’s formula (faces, edges, vertices)","1. نظرية أويلر  
+2. الأوجه  
+3. الحواف  
+4. الرؤوس  
+5. متعدد الأوجه  
+6. هندسة  
+7. رسومات ثلاثية الأبعاد  
+8. شكل ثلاثي الأبعاد  
+9. تخطيط  
+10. معادلة"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","H","Investigate complex solids or fractals","1. الأبعاد (Dimensions)  
+2. البُنية (Structure)  
+3. الاستمرارية (Continuity)  
+4. التماثل (Symmetry)  
+5. الأعداد المركبة (Complex Numbers)  
+6. الدوال (Functions)  
+7. الرسومات البيانية (Graphing)  
+8. التكرار (Recursion)  
+9. النمذجة (Modeling)  
+10. التحليل الطيفي (Spectral Analysis)  
+11. الهندسة الإبداعية (Creative Geometry)  
+12. الخوارزميات (Algorithms)  
+13. تحول فورييه (Fourier Transform)  
+14. الفراكتلات (Fractals)  
+15. التحليل العددي (Numerical Analysis)  
+16. المجسمات (Solids)  
+17. التشوه (Deformation)  
+18. ديناميكا الأنظمة (Systems Dynamics)  
+19. الفضاءات المتجهة (Vector Spaces)  
+20. المجموعات غير المحدودة (Infinite Sets)"
+"Raum und Form","Eigenschaften und Beziehungen von Figuren und Körpern","H","Apply advanced polyhedral geometry","1. هندسة بوليhedron
+2. وجه
+3. حافة
+4. رأس
+5. مساحة السطح
+6. حجم
+7. تنسيق
+8. تقدير
+9. تقاطع
+10. تماثل
+11. تجسيم
+12. مقارنة
+13. دالة
+14. تجانس
+15. عكسية"
+"Raum und Form","Konstruktionen und Zeichnungen","B","Draw a line segment (8 cm) with a ruler","1. خط مستقيم
+2. مسطرة
+3. سنتيمتر
+4. طول
+5. نقطة بداية
+6. نقطة نهاية
+7. قياس
+8. رسم"
+"Raum und Form","Konstruktionen und Zeichnungen","B","Draw a rectangle with given sides","1. مستطيل  
+2. أبعاد  
+3. طول  
+4. عرض  
+5. نقاط  
+6. إحداثيات  
+7. رسم  
+8. محور  
+9. هندسة  
+10. مساحة"
+"Raum und Form","Konstruktionen und Zeichnungen","C","Construct perpendicular lines (set square)","1. خطوط عمودية
+2. مسطرة
+3. مثلث قائم الزاوية
+4. زاوية قائمة
+5. تقاطع
+6. هندسة
+7. دقة
+8. قياس
+9. رسم
+10. تحديد"
+"Raum und Form","Konstruktionen und Zeichnungen","C","Use a compass for a circle (radius given)","1. دائرة  
+2. نصف القطر  
+3. بوصلة  
+4. مركز  
+5. محيط  
+6. قياس الزاوية  
+7. نقطة  
+8. قياس الجوانب  
+9. خطوط متقاطعة  
+10. تقسيمات الدائرة"
+"Raum und Form","Konstruktionen und Zeichnungen","D","Bisect an angle (compass/straightedge)","1. زاوية
+2. قُطْر
+3. قَلم رصاص (أو اقلام)
+4. مسطرة
+5. منتصف
+6. مجسم
+7. قياس
+8. نقطتان
+9. موازٍ
+10. تقاطع"
+"Raum und Form","Konstruktionen und Zeichnungen","D","Construct a triangle (given side lengths)","1. مثلث
+2. أطوال الأضلاع
+3. نظرية فيثاغورس
+4. قواعد التوافق
+5. قطبية
+6. زوايا
+7. هندسة الأشكال
+8. انغلاق
+9. تحديد
+10. مساحة"
+"Raum und Form","Konstruktionen und Zeichnungen","E","Inscribe a circle in a polygon","1. دائرة محاطة
+2. مضلع
+3. مركز الدائرة
+4. نصف القطر
+5. أضلاع المضلع
+6. زوايا داخليّة
+7. نقاط اللمس
+8. العلاقات الهندسية
+9. تناظر
+10. انسيابية"
+"Raum und Form","Konstruktionen und Zeichnungen","E","Construct regular polygons (where possible)","1. مضلع منتظم
+2. زوايا
+3. أضلاع
+4. مركز
+5. قطر
+6. التماثل
+7. رسم بياني
+8. هندسة
+9. حساب المساحة
+10. حساب المحيط"
+"Raum und Form","Konstruktionen und Zeichnungen","F","Use coordinate geometry for precise drawings","1. إحداثيات
+2. أبعاد
+3. محور
+4. نقطة
+5. خط مستقيم
+6. ميل
+7. معادلة
+8. مسافة
+9. مثلث
+10. زوايا
+11. تناظر
+12. مركز
+13. رسم بياني
+14. نظام الإحداثيات
+15. منطقة"
+"Raum und Form","Konstruktionen und Zeichnungen","F","Construct complex polygons with software","1. مجسمات معقدة
+2. برمجيات التصميم
+3. المعالم الهندسية
+4. النقاط
+5. الأضلاع
+6. الزوايا
+7. الشبكات
+8. التنسيق
+9. الإحداثيات
+10. التقسيم
+11. المخططات
+12. التلاعب بالأشكال
+13. البرامج المساعدة
+14. الخطوط المتصلة
+15. التجسيم ثلاثي الأبعاد"
+"Raum und Form","Konstruktionen und Zeichnungen","G","Analyze geometric loci","1. موقع هندسي
+2. مجموعة النقط
+3. المماس
+4. القطعة المستقيمة
+5. الدائرة
+6. الزاوية
+7. المستوي
+8. الشكل الهندسي
+9. الإحداثيات
+10. المعادلة
+11. الطول
+12. المسافة
+13. العرض
+14. التماثل
+15. تقاطع"
+"Raum und Form","Konstruktionen und Zeichnungen","G","Demonstrate advanced constructions (Apollonius circles)","1. دائرة أبولونيوس
+2. نقطة اتصال
+3. مركز الدائرة
+4. نصف القطر
+5. تمايل
+6. نظير
+7. نظام إحداثي
+8. هندسة تحليلية
+9. العلاقات الهندسية
+10. تخطيط هندسي"
+"Raum und Form","Konstruktionen und Zeichnungen","H","Study constructibility (Galois theory)","1. البناء (Constructibility)  
+2. نظرية غالوا (Galois Theory)  
+3. الحقول (Fields)  
+4. الإدماج (Extension)  
+5. التلقائيّة (Automorphism)  
+6. مجموعة غالوا (Galois Group)  
+7. الجذور (Roots)  
+8. درجات الحقول (Field Degrees)  
+9. المعادلات الجبرية (Algebraic Equations)  
+10. الخطوط المستقيمة (Straightedge)  
+11. الفرجار (Compass)  
+12. الأعداد المتوافقة (Constructible Numbers)  
+13. النظرية الأساسية في الجبر (Fundamental Theorem of Algebra)  
+14. التحويلات (Transformations)  
+15. الانحدار (Invariance)"
+"Raum und Form","Konstruktionen und Zeichnungen","H","Explore higher-dimensional or advanced geometry constructions","1. الأبعاد العليا
+2. الهندسة المتقدمة
+3. الفضاء الإقليدي
+4. الفضاء غير الإقليدي
+5. المقاطع العرضية
+6. الأشكال متعددة الأبعاد
+7. التحويلات الهندسية
+8. التماثل
+9. الحواف والوجوه
+10. المنحنيات والسطوح
+11. الدِّوال المتعددة المتغيرات
+12. التوبولوجيا
+13. التشابك
+14. النمذجة الرياضية
+15. تحليل البيانات العالية الأبعاد"
+"Raum und Form","Symmetrien und Abbildungen","B","Fold test for line symmetry","1. اختبار الطي  
+2. تماثل خطي  
+3. تناظر  
+4. محور التماثل  
+5. شكل  
+6. خط مستقيم  
+7. نقاط متطابقة  
+8. جيومترية  
+9. طي  
+10. مسافة"
+"Raum und Form","Symmetrien und Abbildungen","B","Make a symmetrical pattern (paper folding)","1. تناظر  
+2. طيات  
+3. تنسيق  
+4. تنسيق مرآتي  
+5. رسم تخطيطي  
+6. محور  
+7. تثبيت  
+8. تصميم  
+9. زوايا  
+10. أبعاد"
+"Raum und Form","Symmetrien und Abbildungen","C","Reflect a figure across a grid line","1. انعكاس
+2. شكل
+3. شبكة
+4. خط الشبكة
+5. محور
+6. تناظر
+7. إحداثيات
+8. نقاط
+9. زوايا
+10. مسافة"
+"Raum und Form","Symmetrien und Abbildungen","C","Describe symmetrical objects (butterfly wings)","1. تناظر
+2. تماثل
+3. محاور التماثل
+4. جوانب
+5. توازن
+6. تناظر شعاعي
+7. تناظر ثنائي
+8. أشكال هندسية
+9. خطوط الطول
+10. أنماط جينية"
+"Raum und Form","Symmetrien und Abbildungen","D","Translate/reflect/rotate on coordinates","1. إحداثيات  
+2. ترجمة  
+3. انعكاس  
+4. دوران  
+5. نقطة الأصل  
+6. محور  
+7. زاوية  
+8. مصفوفة التحويل  
+9. الدالة الخطية  
+10. الثابت الرياضي"
+"Raum und Form","Symmetrien und Abbildungen","D","Identify rotational symmetry (square, triangle)","1. تناظر الدوراني  
+2. الشكل الهندسي  
+3. الزاوية  
+4. محور الدوران  
+5. عدد التماثلات  
+6. مراكز التماثل  
+7. الوجوه  
+8. الأبعاد  
+9. الحركة الدورانية  
+10. الزاوية المحورية"
+"Raum und Form","Symmetrien und Abbildungen","E","Construct symmetry lines for polygons","1. تناظر
+2. مضلع
+3. محور التناظر
+4. خط التناظر
+5. أشكال هندسية
+6. تناظر مركزي
+7. تناظر محوري
+8. زوايا
+9. نقاط
+10. تماثل"
+"Raum und Form","Symmetrien und Abbildungen","E","Compose transformations (reflection then rotation)","1. التحويلات
+2. الانعكاس
+3. التدوير
+4. النقطة الثابتة
+5. المصفوفة
+6. الزاوية
+7. التماثل
+8. الإحداثيات
+9. نظام الإحداثيات
+10. المحور"
+"Raum und Form","Symmetrien und Abbildungen","F","Use transformations to prove congruence","1. التحويلات  
+2. التطابق  
+3. التماثل  
+4. الترجمة  
+5. الدوران  
+6. الانعكاس  
+7. الزاوية  
+8. الطول  
+9. الأشكال الهندسية  
+10. النقاط المكافئة"
+"Raum und Form","Symmetrien und Abbildungen","F","Investigate tessellations (Escher patterns)","1. تيسيل (Tessellation)
+2. نمط متكرر (Repetitive Pattern)
+3. شكل هندسي (Geometric Shape)
+4. معكوس (Reflection)
+5. دوران (Rotation)
+6. ترجمة (Translation)
+7. تناظر (Symmetry)
+8. زاوية (Angle)
+9. مضلع (Polygon)
+10. سطح (Surface)
+11. تشويه (Distortion)
+12. لون (Color)
+13. تكامل (Integration)
+14. فن البعد الثالث (Three-dimensional Art)
+15. قائمة تحصيل (Tiling List)"
+"Raum und Form","Symmetrien und Abbildungen","G","Represent transformations via vectors/matrices","1. متجهات
+2. مصفوفات
+3. تحويلات
+4. فضاء خطي
+5. كائنات هندسية
+6. تحويل خطي
+7. متجه واحد
+8. مصفوفة تحويل
+9. عملية الضرب المصفوفي
+10. مقياس
+11. نظام إحداثيات
+12. تثبيت
+13. دوران
+14. انسحاب
+15. ميل"
+"Raum und Form","Symmetrien und Abbildungen","G","Apply inverse transformations to geometry tasks","1. التحويل العكسي
+2. الهندسة
+3. المربع
+4. الإحداثيات
+5. التماثل
+6. التماثل العكسي
+7. المسافة
+8. الزاوية
+9. التدوير
+10. التمدد
+11. الانعكاس
+12. الانتقال
+13. الدالة العكسية
+14. نظام الإحداثيات 
+15. القياس"
+"Raum und Form","Symmetrien und Abbildungen","H","Explore symmetry groups (group theory)","1. مجموعة
+2. تماثل
+3. الزمر
+4. عناصر
+5. عملية عودية
+6. مقياس
+7. علاقة
+8. إسقاط
+9. مجموعة فرعية
+10. مجموعة متناهية
+11. مجموعة غير متناهية
+12. متماثل
+13. تطبيق
+14. تمثيل
+15. خاصية
+16. هيكل المجموعة
+17. قانون التجميع
+18. العنصر المحايد
+19. العنصر المعكوس
+20. تبديل"
+"Raum und Form","Symmetrien und Abbildungen","H","Real-world symmetry (crystals, physics)","1. تماثل (Symmetry)  
+2. بلورة (Crystal)  
+3. تركيب بلوري (Crystal Structure)  
+4. شبكة بلورية (Crystal Lattice)  
+5. نقطة التماثل (Point Group)  
+6. محور التماثل (Axis of Symmetry)  
+7. تماثل الدوران (Rotational Symmetry)  
+8. تماثل الانعكاس (Reflection Symmetry)  
+9. تماثل الانزلاق (Glide Symmetry)  
+10. تماثل التكرار (Translational Symmetry)  
+11. الشدود (Defects)  
+12. التكوين البلوري (Crystalline Formation)  
+13. تفاعلات جسيمية (Particle Interactions)  
+14. الكهربية الجزيئية (Molecular Electrics)  
+15. الديناميكا الحرارية (Thermodynamics)  
+16. مجال القوة (Force Field)  
+17. النمو البلوري (Crystal Growth)  
+18. تحول الطور (Phase Transition)  
+19. المجموعات البلورية (Crystal Groups)  
+20. النمط التماثلي (Symmetric Pattern)"
+"Raum und Form","Messen und Berechnen","B","Measure objects in cm, compare results","1. قياس (Measurement)
+2. سنتيمتر (Centimeter)
+3. مقارنة (Comparison)
+4. دقة (Accuracy)
+5. أداة القياس (Measuring instrument)
+6. طول (Length)
+7. عرض (Width)
+8. ارتفاع (Height)
+9. الكمية (Quantity)
+10. البيانات (Data)"
+"Raum und Form","Messen und Berechnen","B","Estimate perimeter of a desk, then measure","1. محيط (Perimeter)
+2. قياس (Measurement)
+3. طول (Length)
+4. عرض (Width)
+5. وحدة القياس (Unit of measurement)
+6. نموذج (Template)
+7. سطح المكتب (Desk surface)
+8. أبعاد (Dimensions)
+9. الرسم البياني (Diagram)
+10. حساب (Calculation)"
+"Raum und Form","Messen und Berechnen","C","Compute perimeter/area of a rectangle","1. مستطيل
+2. محيط
+3. مساحة
+4. طول
+5. عرض
+6. معادلة
+7. وحدات القياس"
+"Raum und Form","Messen und Berechnen","C","Calculate classroom floor area","- مساحة (Area)
+- غرفة الصف (Classroom)
+- طول (Length)
+- عرض (Width)
+- قياس (Measurement)
+- وحدة (Unit)
+- متر مربع (Square meter)
+- مضاعفة (Multiplication)"
+"Raum und Form","Messen und Berechnen","D","Circumference of a circle (given radius)","1. محيط
 2. دائرة
 3. نصف القطر
-4. مركز الدائرة
-5. قطر"
-"Raum und Form","Konstruktionen und Zeichnungen","D","Bisect an angle (compass/straightedge)","1. منصف الزاوية  
-2. بوصلة  
-3. مسطرة مستقيمة  
-4. هندسة إقليدية  
-5. تقاطع  
-6. قوس  
-7. خط مستقيم"
-"Raum und Form","Konstruktionen und Zeichnungen","D","Construct a triangle (given side lengths)","1. مثلث
-2. ضلع
-3. زاوية
-4. رأس
-5. محيط
-6. مساحة
-7. جيب التمام
-8. جيب الزاوية
-9. قانون الجيب
-10. قانون جيب التمام"
-"Raum und Form","Konstruktionen und Zeichnungen","E","Inscribe a circle in a polygon","1. مضلع  
-2. دائرة  
-3. محيط  
-4. مركز  
-5. نصف القطر  
-6. تقاطع  
-7. عمودي  
-8. زاوية  
-9. ضلع  
-10. تماسات  
-11. نقطة تماس"
-"Raum und Form","Konstruktionen und Zeichnungen","E","Construct regular polygons (where possible)","1. مضلع منتظم
-2. زوايا داخلية
-3. طول الضلع
-4. تقليص
-5. الدوران
-6. التماثل
-7. الزاوية المركزية
-8. الدائرة المحيطة
-9. المسطرة
-10. الفرجار"
-"Raum und Form","Konstruktionen und Zeichnungen","F","Use coordinate geometry for precise drawings","1. نظام الإحداثيات
-2. المحور السيني
-3. المحور الصادي
-4. نقطة الأصل
-5. الإحداثيات
-6. المنحنيات
-7. المسافة
-8. المقطع السيني
-9. المقطع الصادي
-10. الميل
-11. معادلة الخط المستقيم
-12. نقطة المنتصف
-13. التحويلات الهندسية
-14. الانعكاس
-15. الانزلاق
-16. الانسحاب
-17. الدوران
-18. التشابه
-19. التمدد
-20. الانكماش"
-"Raum und Form","Konstruktionen und Zeichnungen","F","Construct complex polygons with software","1. مضلع
-2. برمجيات
-3. نقاط
-4. أضلاع
-5. زوايا
-6. خوارزمية
-7. محدب
-8. مقعر
-9. تحويلات هندسية
-10. نظام الإحداثيات
-11. تقاطع
-12. مضلع منتظم
-13. مضلع غير منتظم
-14. مضلع بسيط
-15. مضلع مركب
-16. نموذج ثلاثي الأبعاد
-17. محاكاة
-18. لغة البرمجة
-19. مكتبة الرسومات
-20. واجهة المستخدم"
-"Raum und Form","Konstruktionen und Zeichnungen","G","Analyze geometric loci","1. هندسة
-2. موقع جيومتري
-3. نقطة
-4. خط مستقيم
-5. دائرة
-6. قطع مكافئ
-7. مجسمات
-8. إحداثيات
-9. نظام إحداثي
-10. مسافة
-11. خطوط متوازية
-12. تقاطع
-13. منحنيات
-14. محور تناظر
-15. زوايا
-16. زاوية قائمة
-17. مركز دائرة"
-"Raum und Form","Konstruktionen und Zeichnungen","G","Demonstrate advanced constructions (Apollonius circles)","1. دائرة أبولونيوس
-2. محور التناظر
-3. القطر القائم
-4. النسبة التناسبية
-5. مركز الدائرة
-6. نصف القطر
-7. التماس الهندسي
-8. الهندسة الإقليدية
-9. الدائرة المُحاطة
-10. المسافة الثابتة
-11. متساويات القياس"
-"Raum und Form","Konstruktionen und Zeichnungen","H","Study constructibility (Galois theory)","1. حقل (Field)
-2. امتداد حقل (Field Extension)
-3. قابلية البناء (Constructibility)
-4. التحسين الجبري (Algebraic Closure)
-5. مجموعة غالوا (Galois Group)
-6. قابلة للفصل (Separable)
-7. قابلية التبديل (Commutative)
-8. حقل ثابت (Fixed Field)
-9. نظرية غالوا (Galois Theory)
-10. حلقة متعددة الحدود (Polynomial Ring)
-11. جذر الوحدة (Root of Unity)
-12. مبرهنة غالوا الأساسية (Fundamental Theorem of Galois Theory)
-13. متعدد الحدود القابل للتحليل (Irreducible Polynomial)
-14. المتباينة بين الخواص (Normal Extension)
-15. قابلية الانقسام (Splitting Field)"
-"Raum und Form","Konstruktionen und Zeichnungen","H","Explore higher-dimensional or advanced geometry constructions","1. الأبعاد العُليا
-2. الهندسة اللا إقليدية
-3. الطوبولوجيا
-4. متعدد الفضاءات
-5. النظم الإحداثية
-6. التحولات الهندسية
-7. التناظر
-8. الانحناء
-9. الفضاءات المتجهة
-10. الهندسة التفاضلية
-11. مبرهنات الاستمرار
-12. الزمر الزمرية
-13. الهندسة الإسقاطية
-14. التشابه والتجانس
-15. المانيفولد
-16. السطح الفائق
-17. المخروطيات
-18. الهندسة الطوبية
-19. الهندسة الحسابية
-20. النسبية
-21. الترتيب الفراغي"
-"Raum und Form","Symmetrien und Abbildungen","B","Fold test for line symmetry","- محور التماثل  
-- خط متماثل  
-- إنعكاس  
-- تطابق  
-- شكل هندسي  
-- تناظر  
-- خطورة"
-"Raum und Form","Symmetrien und Abbildungen","B","Make a symmetrical pattern (paper folding)","1. محور التناظر
-2. تناسق
-3. طي الورق
-4. الكسرة
-5. التماثل
-6. زاوية الطي
-7. النموذج الهندسي
-8. النقطة المرجعية
-9. الانعكاس
-10. التماثل المحوري"
-"Raum und Form","Symmetrien und Abbildungen","C","Reflect a figure across a grid line","- انعكاس  
-- شبكة  
-- خط  
-- محور  
-- إحداثيات  
-- تماثل  
-- صورة  
-- نقطة"
-"Raum und Form","Symmetrien und Abbildungen","C","Describe symmetrical objects (butterfly wings)","1. تماثل  
-2. محور التماثل  
-3. تناظر جانبي  
-4. شكل  
-5. نمط  
-6. انعكاس  
-7. تكرار  
-8. تطابق   
-9. نسبة   
-10. تناسق  
-11. جزئيات  
-12. أشكال هندسية  
-13. ترسيم"
-"Raum und Form","Symmetrien und Abbildungen","D","Translate/reflect/rotate on coordinates","1. الإحداثيات
-2. الترجمة
-3. الانعكاس
-4. الدوران
-5. محور
-6. مركز الدوران
-7. زاوية الدوران
-8. اتجاه عقارب الساعة
-9. عكس اتجاه عقارب الساعة
-10. نظام الإحداثيات الديكارتي
-11. المصفوفة"
-"Raum und Form","Symmetrien und Abbildungen","D","Identify rotational symmetry (square, triangle)","1. التناظر الدوراني
-2. مركز التناظر
-3. زاوية الدوران
-4. المضلعات
-5. المربع
-6. المثلث
-7. محور التناظر"
-"Raum und Form","Symmetrien und Abbildungen","E","Construct symmetry lines for polygons","1. خط تماثل  
-2. مضلع  
-3. محور  
-4. تناظر  
-5. تقابل  
-6. انعكاس  
-7. زاوية  
-8. ضلع  
-9. نقطة منتصف  
-10. منتظم  
-11. غير منتظم"
-"Raum und Form","Symmetrien und Abbildungen","E","Compose transformations (reflection then rotation)","1. الانعكاس
-2. الدوران
-3. المحور
-4. الزاوية
-5. المستوى
-6. مركز الدوران
-7. التماثل
-8. تركيب التحويلات
-9. الإحداثيات"
-"Raum und Form","Symmetrien und Abbildungen","F","Use transformations to prove congruence","- تحويل هندسي  
-- انعكاس  
-- دوران  
-- انتقال  
-- تطابق الأشكال  
-- تماثل  
-- زوايا متناظرة  
-- أضلاع متناظرة  
-- تراكب الأشكال  
-- مصفوفة التحويل"
-"Raum und Form","Symmetrien und Abbildungen","F","Investigate tessellations (Escher patterns)","1. تناظر
-2. شبكة
-3. تركيب
-4. نمط
-5. متعدد الأضلاع
-6. زاوية
-7. حد 
-8. وجه
-9. توأمة
-10. تحويل هندسي
-11. تجانس
-12. خط الأفق
-13. درجة الحرية
-14. مسافة
-15. إزاحة"
-"Raum und Form","Symmetrien und Abbildungen","G","Represent transformations via vectors/matrices","1. المتجهات
-2. المصفوفات
-3. الأبعاد
-4. الإحداثيات
-5. ناقلات الموضع
-6. التحول الخطى
-7. المصفوفة الدورية
-8. الإزاحة
-9. التدوير
-10. التماثل
-11. التمدد
-12. التحجيم
-13. الإنعكاس
-14. التحويل
-15. النظام الإحداثي
-16. المصفوفة المتعامدة"
-"Raum und Form","Symmetrien und Abbildungen","G","Apply inverse transformations to geometry tasks","1. التحويلات الهندسية  
-2. التحويل العكسي  
-3. مصفوفة التحويل  
-4. التدوير  
-5. الانعكاس  
-6. التشويه  
-7. المقياس  
-8. الانسحاب  
-9. الإحداثيات الديكارتية  
-10. التناظر  
-11. الزاوية  
-12. الترجمة الهندسية  
-13. المتجهات  
-14. الجبر الخطي  
-15. البُعد"
-"Raum und Form","Symmetrien und Abbildungen","H","Explore symmetry groups (group theory)","- المجموعة
-- الزمرة
-- التماثل
-- العنصر المحايد
-- العنصر المعكوس
-- الجبر التجريدي
-- الزمرة الجزئية
-- عملية ثنائية
-- تماثل المجال
-- الماء
-- العمليات المغلقة
-- القاعدة التجميعية
-- عناصر التماثل
-- تناظر الدائرة
-- المجموعة التوليدية
-- العلاقة التجميعية"
-"Raum und Form","Symmetrien und Abbildungen","H","Real-world symmetry (crystals, physics)","1. تماثل
-2. بلورات
-3. شبكة بلورية
-4. محور تماثل
-5. مستوى تماثل
-6. مجموعة نقطية
-7. مجموعة فضائية
-8. تماثل انتقالي
-9. نمط دوري
-10. تداخل البناء
-11. انكسار الأشعة السينية
-12. نظام بلوري
-13. تشابه دوري
-14. الكيمياء البلورية
-15. فيزياء الحالة الصلبة"
-"Raum und Form","Messen und Berechnen","B","Measure objects in cm, compare results","- القياس  
-- السنتيمتر  
-- المقارنة  
-- الأجسام  
-- النتائج"
-"Raum und Form","Messen und Berechnen","B","Estimate perimeter of a desk, then measure","1. محيط
-2. تقدير
-3. قياس"
-"Raum und Form","Messen und Berechnen","C","Compute perimeter/area of a rectangle","- المحيط
-- المساحة
-- المستطيل
-- الطول
-- العرض"
-"Raum und Form","Messen und Berechnen","C","Calculate classroom floor area","مساحة الأرضية  
-الأبعاد  
-الطول  
-العرض  
-الحساب الهندسي  
-المتر المربع"
-"Raum und Form","Messen und Berechnen","D","Circumference of a circle (given radius)","دائرة، نصف القطر، محيط، π (باي)"
-"Raum und Form","Messen und Berechnen","D","Use Pythagorean theorem (right triangle side)","وتر، ضلع، مثلث قائم الزاوية، نظرية فيثاغورس"
-"Raum und Form","Messen und Berechnen","E","Area of combined shapes (rectangle+triangle)","مستطيل، مثلث، المساحة، القاعدة، الارتفاع، الطول، العرض، القاعدة المشتركة، الوحدة المربعة، القانون، الجمع."
-"Raum und Form","Messen und Berechnen","E","Volume of a cylinder","نصف القطر، الارتفاع، القاعدة، قطر، حجم، باي (π)"
-"Raum und Form","Messen und Berechnen","F","Use trigonometry in right triangles","1. مثلث قائم الزاوية
-2. وتر
-3. الضلع المجاور
-4. الضلع المقابل
-5. الجيب (Sine)
-6. جيب التمام (Cosine)
-7. ظل الزاوية (Tangent)
-8. الدوال المثلثية
-9. الزاوية الحادة
-10. الزاوية القائمة
-11. النسبة المثلثية
-12. التماثل
-13. القانون المثلثي"
-"Raum und Form","Messen und Berechnen","F","Compute surface area (pyramids, cones)","1. مساحة
-2. سطحية
-3. هرمي
-4. مخروط
+4. π (باي)
+5. معادلة
+6. وحدة قياس
+7. حساب
+8. قطر"
+"Raum und Form","Messen und Berechnen","D","Use Pythagorean theorem (right triangle side)","1. مثلث قائم الزاوية
+2. نظرية فيثاغورس
+3. ضلع
+4. وتر
 5. قاعدة
 6. ارتفاع
-7. مائل
-8. قطر 
-9. نصف القطر
-10. زاوية
-11. محيط
-12. قوس"
-"Raum und Form","Messen und Berechnen","G","Solve advanced geometry tasks (circle theorems)","1. الزاوية المركزية  
-2. الزاوية المحيطية  
-3. الوتر  
-4. القوس  
-5. الدائرة  
-6. القطر  
-7. المماس  
-8. القاطع  
-9. المثلث الدائري  
-10. نصف القطر  
-11. الدائرة الخارجية  
-12. زاوية داخلية  
-13. زاوية خارجية  
-14. المستقيم العمودي  
-15. المركز الدائري"
-"Raum und Form","Messen und Berechnen","G","Apply law of cosines/sines","1. مثلث (Triangle)
-2. زاوية (Angle)
-3. ضلع (Side)
-4. جيب الزاوية (Sine of angle)
-5. جيب التمام للزاوية (Cosine of angle)
-6. قانون الجيب (Law of Sines)
-7. قانون جيب التمام (Law of Cosines)
-8. معادلة (Equation)
-9. مربع (Square)
-10. مجموع (Sum)"
-"Raum und Form","Messen und Berechnen","H","Prove advanced geometry statements","1. نظرية
-2. برهان
-3. بديهية
-4. قُطر
-5. زاوية داخلية
-6. زاوية خارجية
-7. دائرة محيطية
-8. دائرة داخلية
-9. نظير الدائرة
-10. مركز الدائرة
-11. شعاع
-12. مثلث
-13. شبه منحرف
-14. نقط تلاقي
-15. مراكز تقاطع
-16. تناظر
-17. إحداثيات
-18. صيغة
-19. تقاطع
-20. تجانس"
-"Raum und Form","Messen und Berechnen","H","Use advanced geometry/trig in real contexts","1. جيب (Sine)  
-2. جتا (Cosine)  
-3. ظل (Tangent)  
-4. مثلث قائم الزاوية (Right Triangle)  
-5. زوايا مرجعية (Reference Angles)  
-6. نصف القطر (Radius)  
-7. دائرة الوحدة (Unit Circle)  
-8. الزاوية المركزية (Central Angle)  
-9. الأطوال القوسية (Arc Length)  
-10. توجيه الزاوية (Angle Direction)  
-11. حساب المثلثات العكسية (Inverse Trigonometry)  
-12. دالة جيبية (Trigonometric Function)  
-13. المتجهات (Vectors)  
-14. النزعة (Gradient)"
-"Größen und Messen","Größen erfassen und vergleichen","B","Compare length with paperclips","- الطول
-- المشبك الورقي
-- الوحدة القياسية
-- القياس"
-"Größen und Messen","Größen erfassen und vergleichen","B","Sort containers by capacity","1. مصفوفة  
-2. خوارزمية  
-3. سعة  
-4. فرز  
-5. مقارنة  
-6. برمجة  
-7. كائنات  
-8. هيكلة البيانات  
-9. إسناد  
-10. ترتيب"
-"Größen und Messen","Größen erfassen und vergleichen","C","Measure length in cm/m","1. الطول
-2. القياس
-3. السنتيمتر
-4. المتر"
-"Größen und Messen","Größen erfassen und vergleichen","C","Compare weights with balance scale","1. الميزان
-2. الكفتين
-3. الوزن
-4. الكتلة
-5. التوازن
-6. الفرق
-7. التكرار
-8. المقارنة"
-"Größen und Messen","Größen erfassen und vergleichen","D","Estimate length, then measure","1. تقدير
+7. مربع
+8. جذر
+9. مسافة
+10. زوايا"
+"Raum und Form","Messen und Berechnen","E","Area of combined shapes (rectangle+triangle)","- مساحة (Area)
+- مستطيل (Rectangle)
+- مثلث (Triangle)
+- قاعدة (Base)
+- ارتفاع (Height)
+- صيغة (Formula)
+- شكل (Shape)
+- جمع (Addition)
+- وحدات (Units)
+- هندسة (Geometry)"
+"Raum und Form","Messen und Berechnen","E","Volume of a cylinder","1. حجم (Volume)  
+2. أسطوانة (Cylinder)  
+3. نصف القطر (Radius)  
+4. ارتفاع (Height)  
+5. معادلة (Formula)  
+6. π (بي)  
+7. قاعدة (Base)  
+8. السعة (Capacity)  
+9. سطح (Surface)"
+"Raum und Form","Messen und Berechnen","F","Use trigonometry in right triangles","- مثلث قائم الزاوية
+- زوايا
+- أضلاع
+- زاوية قائمة
+- جيب (sin)
+- جيب تمام (cos)
+- ظل (tan)
+- نظرية فيثاغورس
+- زاوية حادة
+- زاوية منفرجة
+- ارتفاع
+- قاعدة
+- مقياس الزاوية
+- قانون الجيب
+- قانون جيب التمام"
+"Raum und Form","Messen und Berechnen","F","Compute surface area (pyramids, cones)","1. المساحة السطحية
+2. الهرم
+3. المخروط
+4. القاعدة
+5. الارتفاع
+6. الطول
+7. العرض
+8. المساحة الجانبية
+9. الزاوية
+10. المسافة"
+"Raum und Form","Messen und Berechnen","G","Solve advanced geometry tasks (circle theorems)","1. دائرة (Circle)  
+2. نصف القطر (Radius)  
+3. قطر (Diameter)  
+4. محيط (Circumference)  
+5. زاوية مركزية (Central Angle)  
+6. زاوية محيطية (Inscribed Angle)  
+7. مثلث متساوي الساقين (Isosceles Triangle)  
+8. قوس (Arc)  
+9. وتر (Chord)  
+10. مثلث قائم (Right Triangle)  
+11. قاطع (Secant)  
+12. جذر (Tangent)  
+13. نظرية (Theorem)  
+14. قاعدة (Postulate)  
+15. نقاط تلامس (Point of Tangency)  
+16. قوانين المثلثات (Trigonometric Ratios)  
+17. سطح (Area)  
+18. محيط الدائرة (Circumference of the Circle)  
+19. نسبة (Ratio)  
+20. معصوم (Cyclic)"
+"Raum und Form","Messen und Berechnen","G","Apply law of cosines/sines","1. قانون جيب التمام
+2. قانون جيب
+3. مثلث
+4. زوايا
+5. أضلاع
+6. حساب المثلثات
+7. زاوية مرسية
+8. زاوية معارضة
+9. مساحة مثلث
+10. نظرية"
+"Raum und Form","Messen und Berechnen","H","Prove advanced geometry statements","1. هندسة 
+2. النقاط 
+3. الخطوط 
+4. الزوايا 
+5. المثلثات 
+6. المستويات 
+7. المضلعات 
+8. الزوايا المتطابقة 
+9. التشابه 
+10. التناسب 
+11. التناظر 
+12. المسافة 
+13. المتجهات 
+14. طول القوس 
+15. الدوائر 
+16. الزوايا الداخلية 
+17. الزوايا الخارجية 
+18. التنسيق"
+"Raum und Form","Messen und Berechnen","H","Use advanced geometry/trig in real contexts","1. هندسة متقدمة  
+2. مثلثات  
+3. زوايا  
+4. قياس الزاوية  
+5. فيثاغورس  
+6. متوازي الأضلاع  
+7. دوال مثلثية  
+8. جيب  
+9. جيب تمام  
+10. ظل  
+11. مسافة  
+12. محيط  
+13. مساحة  
+14. كروية  
+15. أبعاد ثلاثية  
+16. توازي  
+17. تعامد  
+18. متجهات  
+19. منحنيات  
+20. نظام الإحداثيات"
+"Größen und Messen","Größen erfassen und vergleichen","B","Compare length with paperclips","1. طول
+2. مقارنات
+3. وحدات القياس
+4. كليب
+5. نتائج
+6. دقة
+7. المعايير
+8. قياس
+9. تفاصيل
+10. أدوات القياس"
+"Größen und Messen","Größen erfassen und vergleichen","B","Sort containers by capacity","1. حاويات
+2. سعة
+3. فرز
+4. مصفوفة
+5. خوارزمية
+6. ترتيب
+7. بيانات
+8. معايير
+9. نوع البيانات
+10. عمليات الإدخال والإخراج"
+"Größen und Messen","Größen erfassen und vergleichen","C","Measure length in cm/m","1. طول  
+2. سنتيمتر  
+3. متر  
+4. وحدة قياس  
+5. دقة  
+6. تحويل  
+7. قياس  
+8. معايير  
+9. أبعاد  
+10. مسافة"
+"Größen und Messen","Größen erfassen und vergleichen","C","Compare weights with balance scale","1. موازين  
+2. وزن  
+3. كتلة  
+4. توازن  
+5. قياس  
+6. مقياس  
+7. قاعدة الكتلة  
+8. طرفي الميزان  
+9. ثقل  
+10. تفاعل"
+"Größen und Messen","Größen erfassen und vergleichen","D","Estimate length, then measure","1. تقدير الطول
 2. قياس
-3. طول
-4. مسطرة
-5. وحدات القياس"
-"Größen und Messen","Größen erfassen und vergleichen","D","Interpret temperature in Celsius","1. درجة الحرارة  
-2. مئوية  
-3. مقياس حرارة  
-4. تحويل  
-5. معايرة  
-6. حساسية  
-7. نقطة التجمد  
-8. نقطة الغليان"
-"Größen und Messen","Größen erfassen und vergleichen","E","Analyze measurement accuracy","- الدقة (Accuracy)
-- الانحراف المعياري (Standard Deviation)
-- الخطأ النسبي (Relative Error)
-- المعايرة (Calibration)
-- التكرارية (Repeatability)
-- الحساسية (Sensitivity)
-- الانحياز (Bias)
-- الشذوذ (Outlier)
-- مجال القياس (Measurement Range)
-- دقة القياس (Precision)"
-"Größen und Messen","Größen erfassen und vergleichen","E","Compare metric vs. imperial in context","1. النظام المتري  
-2. النظام الإمبراطوري  
-3. وحدات القياس  
-4. الطول  
-5. الكتلة  
-6. الحجم  
-7. الكثافة  
-8. التحويلات  
-9. الدقة  
-10. الاسطوانة الفنية  
-11. الكمية الطبيعية الثابتة  
-12. البوصة  
-13. القدم  
-14. الياردة  
-15. الميل  
-16. الجرام  
-17. الكيلوجرام  
-18. السنتيمتر  
-19. المتر  
-20. الكيلومتر  
-21. الجالون  
-22. الميل البحري"
-"Größen und Messen","Größen erfassen und vergleichen","F","Use precision tools (calipers)","1. قياس  
-2. الفرجار  
-3. دقة  
-4. القراءات الميتريّة  
-5. الفرجار الورنييري  
-6. القطر  
-7. العمق  
-8. مقياس الزاوية  
-9. الخطاء الصفري  
-10. محاذاة"
-"Größen und Messen","Größen erfassen und vergleichen","F","Discuss error margins in a lab","1. نسبة الخطأ (Error Rate)
-2. الثقة الإحصائية (Statistical Confidence)
-3. العينة (Sample)
-4. التفاوت (Variance)
-5. الإنحراف المعياري (Standard Deviation)
-6. الخطأ المطلق (Absolute Error)
-7. الخطأ النسبي (Relative Error)
-8. تحليل النتائج (Data Analysis)
-9. المجال (Range)
-10. الشذوذ (Outliers)
-11. الاتصال المتبادل (Intercalibration)
-12. مستويات الثقة (Confidence Levels)
-13. الضبط (Calibration)
-14. الحساسية (Sensitivity)
-15. الدقة (Precision)"
-"Größen und Messen","Größen erfassen und vergleichen","G","Design an experiment for reliability","1. Reliability
-2. Randomization
-3. Experimental design
-4. Control group
-5. Treatment group
-6. Replication
-7. Blinding
-8. Confounding variables
-9. Independent variable
-10. Dependent variable
-11. Factorial design
-12. Sample size
-13. Statistical significance
-14. Variability
-15. Bias"
-"Größen und Messen","Größen erfassen und vergleichen","G","Analyze significant figures in data","1. الأرقام الهامة
-2. الدقة
-3. التقدير
-4. الأرقام العشرية
-5. الأصفار المستخدمة
-6. تقريب الأعداد
-7. قيم تقريبية
-8. قواعد التقريب
-9. الصيغة العلمية
-10. العمليات الحسابية"
-"Größen und Messen","Größen erfassen und vergleichen","H","Advanced measurement methods (wave-based)","1. انتشار الموجات  
-2. التردد  
-3. الطول الموجي  
-4. السعة  
-5. الطور  
-6. التداخل  
-7. الانكسار  
-8. الانعكاس  
-9. الحيود  
-10. الامتصاص  
-11. الرنين  
-12. التجويف  
-13. تحويل فورييه  
-14. المذبذب  
-15. كاشف الموجات   
-16. مطيافية  
-17. الموجات الصوتية  
-18. الموجات الكهرومغناطيسية  
-19. الموجات الميكانيكية  
-20. دوبلر"
-"Größen und Messen","Größen erfassen und vergleichen","H","Critique SI vs. alternative systems","نظام الوحدات الدولي (SI)  
-نظام القياس  
-الوحدات الأساسية  
-الوحدات المشتقة  
-الدقة  
-القياس  
-النظام المتري  
-الوحدات الإمبراطورية  
-مشكلات التحويل  
-الثبات الدولي  
-التوافق  
-قابلية الاستخدام"
-"Größen und Messen","Umgang mit Maßeinheiten","B","Recognize cm/m for length","1. الطول  
+3. وحدة القياس
+4. دقة القياس
+5. أداة القياس
+6. قياس طولي
+7. تقدير تقريبي
+8. خطأ في القياس"
+"Größen und Messen","Größen erfassen und vergleichen","D","Interpret temperature in Celsius","1. درجة الحرارة
+2. مقياس سيلسيوس
+3. نقطة التجمد
+4. نقطة الغليان
+5. التحويل
+6. وحدة قياس
+7. المجال
+8. القياس
+9. النظام المتري
+10. القيم العددية"
+"Größen und Messen","Größen erfassen und vergleichen","E","Analyze measurement accuracy","1. دقة القياس
+2. خطأ النظام
+3. خطأ عشوائي
+4. تباين
+5. موثوقية
+6. حساسية
+7. تحديد
+8. معايير القياس
+9. إعادة القياس
+10. نسبة الخطأ"
+"Größen und Messen","Größen erfassen und vergleichen","E","Compare metric vs. imperial in context","1. نظام القياس  
+2. الوحدات  
+3. الأطوال  
+4. الأوزان  
+5. السوائل  
+6. التحويل  
+7. الدقة  
+8. النسب  
+9. الكتلة  
+10. الحجم"
+"Größen und Messen","Größen erfassen und vergleichen","F","Use precision tools (calipers)","1. دقة (Precision)
+2. أدوات قياس (Measuring Tools)
+3. كاليبري (Caliper)
+4. سماكة (Thickness)
+5. عرض (Width)
+6. طول (Length)
+7. قياس داخلي (Internal Measurement)
+8. قياس خارجي (External Measurement)
+9. وحدة القياس (Unit of Measurement)
+10. تكرار (Calibration)"
+"Größen und Messen","Größen erfassen und vergleichen","F","Discuss error margins in a lab","1. هامش الخطأ
+2. دقة القياس
+3. تكرار القياسات
+4. معامل التقلب
+5. انحراف معياري
+6. مستوى الثقة
+7. خطأ نظامي
+8. خطأ عشوائي
+9. تصميم التجربة
+10. تحليل البيانات"
+"Größen und Messen","Größen erfassen und vergleichen","G","Design an experiment for reliability","1. موثوقية
+2. تجربة
+3. متغيرات
+4. عينة
+5. تكرار
+6. تحليل البيانات
+7. التكرار العالي
+8. النموذج
+9. التحقق
+10. التقدير الإحصائي
+11. الفشل
+12. نطاق الثقة
+13. التكرار البشري
+14. معامل المرتبة
+15. الأخطاء النظامية"
+"Größen und Messen","Größen erfassen und vergleichen","G","Analyze significant figures in data","1. الأرقام المهمة  
+2. الدقة  
+3. التقريب  
+4. القيم المعتمدة  
+5. الأرقام غير المعنوية  
+6. القيم المتكررة  
+7. التمثيل الرقمي  
+8. الأنظمة العددية  
+9. قياسات  
+10. المعايير العلمية"
+"Größen und Messen","Größen erfassen und vergleichen","H","Advanced measurement methods (wave-based)","1. قياس الموجات
+2. طيف الموجات
+3. تحليل الطيف
+4. تداخل الموجات
+5. قياس التردد
+6. انتشار الموجات
+7. الارتجاع
+8. القدرة الطيفية
+9. قاعدة دالة الجيب
+10. التحويل السريع لفورييه
+11. زمن الوصول
+12. موجات الكهرومغناطيسية
+13. الموجات فوق الصوتية
+14. قياس السعة
+15. تحليل البيانات"
+"Größen und Messen","Größen erfassen und vergleichen","H","Critique SI vs. alternative systems","1. النظام الدولي (SI)
+2. وحدات القياس
+3. بدائل النظام (Alternative systems)
+4. الدقة (Precision)
+5. التناسق (Consistency)
+6. القابلية للتحويل (Convertibility)
+7. النظام الإمبراطوري (Imperial system)
+8. تطبيقات عملية (Practical applications)
+9. المقاييس (Standards)
+10. التجانس (Homogeneity)"
+"Größen und Messen","Umgang mit Maßeinheiten","B","Recognize cm/m for length","1. وحدة القياس  
 2. السنتيمتر  
 3. المتر  
-4. التحويل بين الواحدات  
-5. النسبة  
-6. القياس"
-"Größen und Messen","Umgang mit Maßeinheiten","B","Identify € for money","رموز العملات  
-تحويل العملات  
-التعرف الضوئي على الحروف (OCR)  
-معالجة اللغة الطبيعية (NLP)  
-البيانات المالية  
-نظام الترميز الدولي (ISO)  
-التحليل الدلالي  
-الشبكات العصبية الاصطناعية  
-تعلم الآلة  
-التصنيف الآلي  
-النماذج اللغوية  
-تحليل النصوص"
-"Größen und Messen","Umgang mit Maßeinheiten","C","Convert cm ↔ m","1. السنتيمتر
-2. المتر
-3. التحويل
-4. النسبة
-5. النظام المتري
-6. الكسور العشرية
-7. الأبعاد"
-"Größen und Messen","Umgang mit Maßeinheiten","C","Measure objects in cm","1. القياس
-2. السنتميتر
-3. الطول
-4. العرض
-5. الارتفاع
-6. المسافة
-7. الوحدة
-8. الأداة"
-"Größen und Messen","Umgang mit Maßeinheiten","D","Convert mm, cm, m, km","1. ميليمتر
+4. التحويل  
+5. الطول  
+6. النسبة  
+7. المعامل  
+8. الدقة  
+9. القياس  
+10. القياسات الاختيارية"
+"Größen und Messen","Umgang mit Maßeinheiten","B","Identify € for money","1. العملة
+2. النظام المالي
+3. الصرف الأجنبي
+4. التضخم
+5. سعر الصرف
+6. المعروض النقدي
+7. البنك المركزي
+8. الاقتصاد الكلي
+9. الأصول
+10. السندات"
+"Größen und Messen","Umgang mit Maßeinheiten","C","Convert cm ↔ m","1. سنتيمتر (cm)  
+2. متر (m)  
+3. تحويل  
+4. وحدة قياس  
+5. طول"
+"Größen und Messen","Umgang mit Maßeinheiten","C","Measure objects in cm","1. قياس
 2. سنتيمتر
-3. متر
-4. كيلومتر
-5. تحويل وحدات
-6. عامل التحويل"
-"Größen und Messen","Umgang mit Maßeinheiten","D","Solve length/mass word problems","1. الطول
-2. الكتلة
-3. وحدات القياس
-4. التحويلات
-5. الجمع
-6. الطرح
-7. النظام المتري
-8. النظام الإمبراطوري
-9. نسبة
-10. معادلة"
-"Größen und Messen","Umgang mit Maßeinheiten","E","Convert decimals (e.g., 1.25 kg = 1250 g)","1. الأعداد العشرية  
-2. الكسر العشري  
-3. التحويل بين الوحدات  
-4. الجرام  
-5. الكيلوجرام  
-6. القيمة المكانية  
-7. القسمة العشرية  
-8. النسبة  
-9. العلاقة بين الوحدات  
-10. الضرب العشري"
-"Größen und Messen","Umgang mit Maßeinheiten","E","Handle time units (hours ↔ minutes)","الساعات، الدقائق، التحويل، الزمن، الوحدة الزمنية، الصيغ الحسابية، النسبة، القيمة، العمليات الحسابية، العداد الزمني."
+3. دقة
+4. أداة القياس
+5. طول
+6. عرض
+7. ارتفاع
+8. مساحة
+9. حجم
+10. وحدات القياس"
+"Größen und Messen","Umgang mit Maßeinheiten","D","Convert mm, cm, m, km","1. وحدة القياس
+2. مليمتر
+3. سنتيمتر
+4. متر
+5. كيلومتر
+6. التحويل
+7. النسبة
+8. القياس"
+"Größen und Messen","Umgang mit Maßeinheiten","D","Solve length/mass word problems","1. الطول  
+2. الكتلة  
+3. القياس  
+4. وحدة القياس  
+5. تحويل الوحدات  
+6. النسبة  
+7. الكثافة  
+8. المعادلة  
+9. وحدة الطول  
+10. وحدة الكتلة"
+"Größen und Messen","Umgang mit Maßeinheiten","E","Convert decimals (e.g., 1.25 kg = 1250 g)","1. كسر عشري  
+2. وحدة قياس  
+3. تحويل  
+4. جرام  
+5. كيلو جرام  
+6. قيمة رقمية  
+7. ضرب  
+8. قسمة  
+9. صيغة  
+10. نسب"
+"Größen und Messen","Umgang mit Maßeinheiten","E","Handle time units (hours ↔ minutes)","- وحدة زمنية  
+- ساعة  
+- دقيقة  
+- تحويل  
+- عملية حسابية  
+- ضرب  
+- قسمة  
+- مجموع  
+- الفرق  
+- القيم الرقمية"
 "Größen und Messen","Umgang mit Maßeinheiten","F","Compare metric vs. imperial (miles↔km)","1. النظام المتري  
 2. النظام الإمبراطوري  
 3. ميل  
 4. كيلومتر  
 5. تحويل الوحدات  
-6. مسافة  
-7. النسبة  
-8. دقة  
-9. قياس  
-10. عامل التحويل"
-"Größen und Messen","Umgang mit Maßeinheiten","F","Convert volume units (L, mL, cm³)","1. وحدة القياس  
-2. حجم  
-3. لتر  
-4. مليلتر  
-5. سنتيمتر مكعب  
-6. تحويل الوحدات  
-7. عامل التحويل  
-8. النظام المتري  
-9. كثافة  
-10. جدول التحويلات"
-"Größen und Messen","Umgang mit Maßeinheiten","G","Use dimensional analysis","1. التحليل البُعدي  
-2. الأبعاد الفيزيائية  
-3. المتغيرات الأساسية  
-4. الثوابت الفيزيائية  
-5. البُعد  
-6. التماثل  
-7. الدوال اللابُعدية  
-8. نظام الوحدات  
-9. التناسق البُعدي  
-10. المتغيرات التابعة  
-11. المتغيرات المستقلة"
-"Größen und Messen","Umgang mit Maßeinheiten","G","Discuss historical/scientific units (parsec)","1. وحدة فلكية  
-2. سنة ضوئية  
-3. تزيح  
-4. نصف قطر الأرض  
-5. الزاوية  
-6. المسافة النجمية  
-7. علم الفلك  
-8. مثلث متساوي الساقين  
-9. قياس المسافة الفلكية  
-10. الفرسخ الفلكي  
-11. الأجرام السماوية  
-12. النظام الشمسي  
-13. المجرة  
-14. الثواني القوسية  
-15. الحركة الظاهرية النجمية"
-"Größen und Messen","Umgang mit Maßeinheiten","H","Examine Planck length/light-year","- الطول الموجي
-- الزمن
-- الضوء
-- السنة الضوئية
-- الثابت الكوني
-- طول بلانك
-- سرعة الضوء
-- النسبية
-- الجاذبية الكمومية"
-"Größen und Messen","Umgang mit Maßeinheiten","H","Critique SI vs. universal measurement","1. الوحدات الدولية (SI)
-2. النظام المتري
-3. الوحدات القياسية
-4. الطول
-5. الكتلة
-6. الزمن
-7. التيار الكهربائي
-8. درجة الحرارة
-9. الشدة الضوئية
-10. كمية المادة
-11. التحويل بين الوحدات
-12. الدقة
-13. المعايرة
-14. المعايير الدولية
-15. القياس العلمي"
-"Größen und Messen","Berechnungen von Größen","B","Add lengths in cm","- الأطوال  
-- السنتيمتر  
-- جمع  
-- وحدة القياس  
-- التحويل  
-- القيمة العددية"
-"Größen und Messen","Berechnungen von Größen","B","Combine volumes in liters","1. حجم  
-2. لتر  
-3. إزاحة  
-4. مجموع  
-5. سعة  
-6. وحدة قياس  
-7. تحول الوحدات  
-8. كثافة"
-"Größen und Messen","Berechnungen von Größen","C","Compute perimeter from side lengths","1. محيط  
-2. طول   
-3. الأضلاع  
-4. مضلع  
-5. جمع"
-"Größen und Messen","Berechnungen von Größen","C","Add/subtract weights in g or kg","1. الوزن
-2. الجرام
-3. الكيلوجرام
-4. إضافة
-5. طرح
+6. نسبة  
+7. دقة  
+8. قياس  
+9. طول  
+10. مقارنة"
+"Größen und Messen","Umgang mit Maßeinheiten","F","Convert volume units (L, mL, cm³)","1. حجم (Volume)
+2. لتر (Liter)
+3. ملليلتر (Milliliter)
+4. سنتيمتر مكعب (Cubic centimeter)
+5. تحويل (Conversion)
+6. وحدة قياس (Unit of measurement)
+7. علاقة (Relationship)
+8. معادلة (Equation)
+9. كميات (Quantities)
+10. مقياس (Scale)"
+"Größen und Messen","Umgang mit Maßeinheiten","G","Use dimensional analysis","1. تحليل الأبعاد
+2. وحدات القياس
+3. كميات فيزيائية
+4. أبعاد
+5. علاقات أبعاد
 6. تحويل الوحدات
-7. الكتلة
-8. الميزان"
-"Größen und Messen","Berechnungen von Größen","D","Area of rectangles/squares","طول، عرض، مساحة، مستطيل، مربع، وحدات القياس"
-"Größen und Messen","Berechnungen von Größen","D","Volume (in cm³) of a small box","1. حجم  
-2. صندوق  
-3. سنتيمتر مكعب"
-"Größen und Messen","Berechnungen von Größen","E","Paint wall area or calculate floor area","1. مساحة
-2. محيط
-3. ارتفاع
-4. عرض
-5. طول
-6. أبعاد
-7. متر مربع (م²)
-8. قابلية الطلاء
-9. إعداد السطح
-10. مكانس التخطيط"
-"Größen und Messen","Berechnungen von Größen","E","Use area of triangle/circle formulas","1. مساحة
-2. دائرة
-3. مثلث
-4. نصف القطر
-5. قطر
-6. قاعدة
-7. ارتفاع
-8. π (باي)"
-"Größen und Messen","Berechnungen von Größen","F","Calculate speed = distance/time","مسافة، زمن، سرعة"
-"Größen und Messen","Berechnungen von Größen","F","Convert mph ↔ km/h in real contexts","- السرعة  
-- ميل في الساعة  
-- كيلومتر في الساعة  
-- التحويل  
-- النسبة  
-- الوحدات  
-- الزمن  
-- المسافة"
-"Größen und Messen","Berechnungen von Größen","G","Surface area/volume of spheres/cones","- مساحة السطح
-- الحجم
-- نصف القطر
-- القطر
-- الارتفاع
-- القاعدة الدائرية
-- الطول المائل (للمخروط)
-- الثابت π (باي)
-- صيغة
-- التكامل (لحساب الأحجام والمساحات)"
-"Größen und Messen","Berechnungen von Größen","G","Solve optimization of dimensions","1. الأمثلية
-2. الأبعاد
-3. دالة الهدف
-4. المتغيرات
-5. القيود
-6. الفضاء الحلولي
-7. الدوال غير الخطية
-8. الاشتقاق
-9. التدرج
-10. الحلول المثلى
-11. البرمجة الخطية
-12. البرمجة غير الخطية
-13. التحسين العددي
-14. طريقة التدرج المتدرج
-15. طريقة نيوتن
-16. ازدواجية
-17. تقارب
-18. خوارزمية
-19. طرق التحسين
-20. نمذجة رياضية"
-"Größen und Messen","Berechnungen von Größen","H","Use integrals for irregular volumes","تحديد المحاور، دوال رياضية، تكامل غير محدود، تكامل محدد، مبدأ شل، مبدأ الغلاف، حجم، منطقة تحت المنحنى، الدالة العكسية، نقطة تقاطع، القطاع الرأسي، دوران حول محور، التفاضل، معامل الدوال."
-"Größen und Messen","Berechnungen von Größen","H","Apply advanced dimensional calculations","1. أبعاد
-2. تحليل الأبعاد
-3. متجهات الوحدة
-4. القياسات
-5. التناسب
-6. النظم المترية
-7. مقياس النمذجة
-8. التحليل الوحدوي
-9. الثوابت الفيزيائية
-10. تحويلات الوحدات"
-"Größen und Messen","Größen in Sachzusammenhängen","B","Compare prices in €","- مقارنة الأسعار
-- اليورو (€)
-- سعر الوحدة
+7. توازن الأبعاد
+8. الثوابت الفيزيائية
+9. المعادلات
+10. متغيرات"
+"Größen und Messen","Umgang mit Maßeinheiten","G","Discuss historical/scientific units (parsec)","1. وحدة فلكية  
+2. فَضاء  
+3. ضوء  
+4. مسافة  
+5. سرعة الضوء  
+6. نظرية النسبية  
+7. نجوم مزدوجة  
+8. علم الفلك  
+9. انتروبي  
+10. مسافة زاوية"
+"Größen und Messen","Umgang mit Maßeinheiten","H","Examine Planck length/light-year","1. طول بلانك
+2. سنة ضوئية
+3. الثوابت الفيزيائية
+4. فيزياء الكم
+5. الفضاء-الزمان
+6. النسبية
+7. الكوانتم
+8. وحدة قياس
+9. سرعة الضوء
+10. مقارنة الأطوال"
+"Größen und Messen","Umgang mit Maßeinheiten","H","Critique SI vs. universal measurement","1. النظام الدولي (SI)
+2. القياس (Measurement)
+3. الوحدة الأساسية (Base Unit)
+4. وحدة مشتقة (Derived Unit)
+5. الدقة (Accuracy)
+6. الثبات (Precision)
+7. القيمة المرجعية (Reference Value)
+8. تحويل الوحدات (Unit Conversion)
+9. النظام المترى (Metric System)
+10. القياس النسبي (Relative Measurement)
+11. القياس المطلق (Absolute Measurement)
+12. التوحيد (Standardization)
+13. النظام الشمسي (Universal System)
+14. التوافق (Compatibility)
+15. خطأ القياس (Measurement Error)"
+"Größen und Messen","Berechnungen von Größen","B","Add lengths in cm","1. الطول
+2. السنتيمتر
+3. الجمع
+4. العملية الحسابية
+5. قيمة
+6. القياس
+7. وحدة قياس
+8. الكميات
+9. النتيجة
+10. الأعداد"
+"Größen und Messen","Berechnungen von Größen","B","Combine volumes in liters","1. الحجم  
+2. اللتر  
+3. المتر المكعب  
+4. الكثافة  
+5. القياس  
+6. التحويل  
+7. السعة  
+8. الجمع  
+9. الوحدات  
+10. الكمية"
+"Größen und Messen","Berechnungen von Größen","C","Compute perimeter from side lengths","1. محيط  
+2. أبعاد  
+3. أطوال  
+4. شكل هندسي  
+5. جمع  
+6. وحدة قياس  
+7. مضاعفة  
+8. حدود  
+9. زوايا  
+10. قوس"
+"Größen und Messen","Berechnungen von Größen","C","Add/subtract weights in g or kg","- الوزن
+- جرام
+- كيلوغرام
+- جمع
+- طرح
+- وحدة قياس
+- تحويل
+- معادلة
+- قيمة
+- مجموعة"
+"Größen und Messen","Berechnungen von Größen","D","Area of rectangles/squares","1. مساحة (Area)
+2. مستطيل (Rectangle)
+3. مربع (Square)
+4. طول (Length)
+5. عرض (Width)
+6. قاعدة (Base)
+7. ارتفاع (Height)
+8. قوانين (Formulas)
+9. وحدات (Units)
+10. أبعاد (Dimensions)"
+"Größen und Messen","Berechnungen von Größen","D","Volume (in cm³) of a small box","1. الحجم
+2. وحدة قياس
+3. سنتيمتر مكعب
+4. الأبعاد
+5. الطول
+6. العرض
+7. الارتفاع
+8. معادلة الحجم
+9. الحجم الكلي
+10. الشكل الهندسي"
+"Größen und Messen","Berechnungen von Größen","E","Paint wall area or calculate floor area","1. المساحة (Area)  
+2. الطول (Length)  
+3. العرض (Width)  
+4. الارتفاع (Height)  
+5. الصيغة (Formula)  
+6. متر مربع (Square Meter)  
+7. حجم (Volume)  
+8. كميات الطلاء (Paint Quantities)  
+9. المواد (Materials)  
+10. الانتهاء (Finish)"
+"Größen und Messen","Berechnungen von Größen","E","Use area of triangle/circle formulas","1. مثلث (Triangle)
+2. دائرة (Circle)
+3. قاعدة (Base)
+4. ارتفاع (Height)
+5. مساحة (Area)
+6. نصف القطر (Radius)
+7. ثابت باي (Pi)
+8. قانون المساحة (Area Formula)
+9. أبعاد (Dimensions)
+10. وحدات (Units)"
+"Größen und Messen","Berechnungen von Größen","F","Calculate speed = distance/time","1. سرعة  
+2. مسافة  
+3. زمن"
+"Größen und Messen","Berechnungen von Größen","F","Convert mph ↔ km/h in real contexts","- سرعة (Speed)
+- ميل لكل ساعة (Miles per hour)
+- كيلومتر لكل ساعة (Kilometers per hour)
+- تحويل (Conversion)
+- معادلة (Equation)
+- نسبة (Ratio)
+- وحدة (Unit)
+- دقة (Accuracy)
+- تطبيق عملي (Practical application) 
+- قياس (Measurement)"
+"Größen und Messen","Berechnungen von Größen","G","Surface area/volume of spheres/cones","1. مساحة السطح
+2. الحجم
+3. الكرة
+4. المخروط
+5. نصف القطر
+6. ارتفاع
+7. قانون المساحة
+8. قانون الحجم
+9. الثابت (باي)
+10. المعادلات"
+"Größen und Messen","Berechnungen von Größen","G","Solve optimization of dimensions","1. تحسين
+2. أبعاد
+3. قياس
+4. متغيرات
+5. قيود
+6. وظيفة الهدف
+7. حل الأمثل
+8. خوارزمية
+9. مجموعة الحلول
+10. استدلال رياضي"
+"Größen und Messen","Berechnungen von Größen","H","Use integrals for irregular volumes","1. التكامل
+2. حجم غير منتظم
+3. حدود التكامل
+4. معادلة التكامل
+5. دالة التكامل
+6. المتغير المستقل
+7. المتغير التبعي
+8. المساحة السطحية
+9. التكامل الثنائي
+10. التكامل الثلاثي
+11. نظام الإحداثيات
+12. الدوال المتعددة المتغيرات
+13. دالة الكثافة
+14. الإحداثيات القطبية
+15. الإحداثيات الأسطوانية
+16. الإحداثيات الكروية"
+"Größen und Messen","Berechnungen von Größen","H","Apply advanced dimensional calculations","1. الأبعاد  
+2. الأبعاد المتقدمة  
+3. الوحدات  
+4. التحويل  
+5. الكميات الفيزيائية  
+6. النسب  
+7. القياسات  
+8. الاستدلال  
+9. الهندسة  
+10. العمليات الهندسية"
+"Größen und Messen","Größen in Sachzusammenhängen","B","Compare prices in €","1. مقارنة الأسعار
+2. اليورو
+3. العملة
+4. تحويل العملات
+5. الأسعار
+6. قيمة الصرف
+7. العروض
+8. الخصومات
+9. القيمة السوقية
+10. المشتريات"
+"Größen und Messen","Größen in Sachzusammenhängen","B","Discuss 5 min vs. 15 min","1. مدة (Duration)
+2. وقت (Time)
+3. تأثير (Impact)
+4. تحسين (Optimization)
+5. كفاءة (Efficiency)"
+"Größen und Messen","Größen in Sachzusammenhängen","C","Plan a simple budget","- الميزانية
+- الإيرادات
+- النفقات
+- المدخرات
+- الفائض
+- العجز
+- التقديرات
 - التحليل المالي
-- المعلومات السوقية
-- تقلبات الأسعار
-- العوامل المؤثرة
-- مؤشر الأسعار
-- سعر الصرف
-- التمويل الدولي"
-"Größen und Messen","Größen in Sachzusammenhängen","B","Discuss 5 min vs. 15 min","1. تحليل
-2. فترة زمنية
-3. مقارنة
-4. دقة
-5. تفاعل"
-"Größen und Messen","Größen in Sachzusammenhängen","C","Plan a simple budget","- إيرادات  
-- مصاريف  
-- صافي الربح  
-- التكاليف الثابتة  
-- التكاليف المتغيرة  
-- الفائض  
-- العجز  
-- التدفق النقدي  
-- الهدف المالي  
-- رأس المال  
-- الموازنة  
-- التحليل المالي  
-- الادخار  
-- الالتزامات  
-- الأصول  
-- النفقات الطارئة"
-"Größen und Messen","Größen in Sachzusammenhängen","C","Estimate travel time (hours/minutes)","- المسافة (Distance)
-- السرعة (Speed)
-- الزمن (Time)
-- العوامل البيئية (Environmental Factors)
-- حركة المرور (Traffic)
-- البنية التحتية (Infrastructure)
-- الخرائط (Maps)
-- التحويلات الزمنية (Time Conversions)
-- الاتجاهات (Directions)
-- نقاط التوقف (Stops)
-- الخوارزميات (Algorithms)
-- تقدير (Estimation)
-- البيانات اللحظية (Real-time Data)
-- أنماط الحركة (Movement Patterns)"
-"Größen und Messen","Größen in Sachzusammenhängen","D","Calculate total grocery cost","- حساب  
-- تكاليف  
-- إجمالي  
-- بقالة  
-- كمية  
-- سعر الوحدة  
-- ضريبة المبيعات  
-- خصم  
-- قائمة البقالة  
-- عملة"
+- الأولويات
+- النفقات الثابتة
+- النفقات المتغيرة
+- المراقبة المالية
+- الأهداف المالية
+- الوثائق المالية
+- التخطيط المالي"
+"Größen und Messen","Größen in Sachzusammenhängen","C","Estimate travel time (hours/minutes)","1. المسافة
+2. السرعة
+3. الوقت
+4. معدل السرعة
+5. الوحدات
+6. تقدير
+7. الطريق
+8. ظروف السير
+9. الإشارات المرورية
+10. التخطيط الزمني"
+"Größen und Messen","Größen in Sachzusammenhängen","D","Calculate total grocery cost","1. تكلفة (Cost)
+2. إجمالي (Total)
+3. تسعير (Pricing)
+4. ميزانية (Budget)
+5. قائمة التسوق (Shopping List)
+6. وحدة القياس (Unit of Measure)
+7. خصم (Discount)
+8. ضريبة (Tax)
+9. كمية (Quantity)
+10. سعر (Price)"
 "Größen und Messen","Größen in Sachzusammenhängen","D","Convert time zones","1. المنطقة الزمنية
-2. التوقيت العالمي المنسق
-3. التوقيت الشتوي
+2. توقيت عالمي منسق (UTC)
+3. فرق التوقيت
 4. التوقيت الصيفي
-5. فرق التوقيت
-6. تنسيق 24 ساعة
-7. التوقيت المحلي
-8. قاعدة بيانات المناطق الزمنية
-9. صيغة الوقت
-10. ساعة ذرية"
+5. تحويل المناطق الزمنية
+6. توقيت محلي
+7. ساعة رقمية
+8. تنسيق الوقت
+9. قاعدة بيانات المناطق الزمنية
+10. توقيت ثابت"
 "Größen und Messen","Größen in Sachzusammenhängen","E","Fuel cost per km or partial usage","1. تكلفة الوقود
 2. كيلومتر
-3. كفاءة الوقود
+3. استخدام جزئي
 4. استهلاك الوقود
-5. السعر الجزئي
-6. المسافة المقطوعة
-7. السعر لكل وحدة
-8. الأداء الاقتصادي
-9. معدل الاستهلاك
-10. تحويل الوحدات"
-"Größen und Messen","Größen in Sachzusammenhängen","E","Scale a recipe for different portions","1. المكونات  
-2. النسبة  
-3. التحويل  
-4. الحصص  
-5. القياس  
-6. الوحدات  
-7. الكمية  
-8. المعايرة  
-9. الكسر  
-10. المعادلة"
-"Größen und Messen","Größen in Sachzusammenhängen","F","Use scale drawings or architectural plans","1. مقياس الرسم  
-2. مخطط معماري  
-3. الإسقاط  
-4. الأبعاد  
-5. مقطع عرضي  
-6. منظور  
-7. خط ارتفاع  
-8. مستوى المقارنة  
-9. شبكة المحاور  
-10. التفاصيل المعمارية  
-11. نوع المادة  
-12. واجهة  
-13. مخطط أفقي  
-14. مستوى الرسم  
-15. نسخ متطابق  
-16. مسقط جانبي  
-17. رمز  
-18. مفتاح الخطوط  
-19. مقاس  
-20. تنسيق الرسومات  
-21. مرجع الشبكة  
-22. خط القطع"
-"Größen und Messen","Größen in Sachzusammenhängen","F","Solve tax or interest with unit conversions","1. معدل الفائدة
-2. الفائدة البسيطة
-3. الفائدة المركبة
-4. السنة المالية
-5. الفترة الزمنية
-6. التحويلات الوحدوية
-7. معدل الضريبة
-8. العائد السنوي
-9. النسبة المئوية
-10. قاعدة الضرب
-11. القيمة الاسمية
-12. رأس المال
-13. مجموع الفائدة"
-"Größen und Messen","Größen in Sachzusammenhängen","G","Analyze water/electric bills","1. فاتورة المياه  
-2. فاتورة الكهرباء  
-3. استهلاك  
-4. تسعيرة  
-5. قراءة العدادات  
-6. شريحة  
-7. رسم بياني  
-8. الكفاءة الطاقية  
-9. تكلفة الوحدة  
-10. تاريخ الاستحقاق  
-11. العداد الذكي  
-12. تحليل البيانات  
-13. الاستدامة  
-14. الفوترة التقديرية  
-15. رصيد مستحق"
-"Größen und Messen","Größen in Sachzusammenhängen","G","Plan multi-step resource/time usage","1. التخطيط الاستراتيجي
-2. إدارة الموارد
-3. إدارة الوقت
-4. التحليل الكمي
-5. الجدولة الزمنية
-6. إدارة المشاريع
-7. تخصيص الموارد
-8. تقدير الوقت
-9. تسلسل العمليات
-10. تحسين العمليات    
-11. محاكاة العمليات
-12. توزيع الأحمال
-13. مخاطر المشروع"
+5. كفاءة الوقود
+6. سعر الوقود
+7. مسافة
+8. كمية الوقود
+9. حساب التكاليف
+10. نموذج السيارة"
+"Größen und Messen","Größen in Sachzusammenhängen","E","Scale a recipe for different portions","1. مكونات  
+2. كميات  
+3. نسبة  
+4. حصص  
+5. التحويل  
+6. مضاعفة  
+7. تقسيم  
+8. قياسات  
+9. وحدات  
+10. تكامل"
+"Größen und Messen","Größen in Sachzusammenhängen","F","Use scale drawings or architectural plans","1. مقياس 
+2. رسم تخطيطي 
+3. خطة معمارية 
+4. أبعاد 
+5. ارتفاع 
+6. عرض 
+7. طول 
+8. نقطة انطلاق 
+9. تطابق 
+10. تحويل القياسات"
+"Größen und Messen","Größen in Sachzusammenhängen","F","Solve tax or interest with unit conversions","- ضريبة
+- فائدة
+- تحويل وحدات
+- نسبة مئوية
+- أساسي
+- قيمة حالية
+- قيمة مستقبلية
+- مبلغ إجمالي
+- حسابات مالية
+- معدلات
+- زمن
+- قيمة نقدية
+- استثمار"
+"Größen und Messen","Größen in Sachzusammenhängen","G","Analyze water/electric bills","1. تحليل (Analysis)
+2. فاتورة (Bill)
+3. استهلاك (Consumption)
+4. معدل (Rate)
+5. رسوم (Charges)
+6. انقطاع (Disruption)
+7. تسوية (Settlement)
+8. فواتير مفصلة (Detailed Bills)
+9. تكرار (Recurrence)
+10. بيانات (Data)
+11. استدامة (Sustainability)
+12. تكلفة (Cost)
+13. دورة الفوترة (Billing Cycle)
+14. قياس (Measurement)
+15. تأثير (Impact)"
+"Größen und Messen","Größen in Sachzusammenhängen","G","Plan multi-step resource/time usage","1. موارد
+2. زمن
+3. مراحل
+4. تخطيط
+5. إدارة الوقت
+6. جدولة
+7. توزيع الموارد
+8. كفاءة
+9. تنفيذ
+10. تقييم"
 "Größen und Messen","Größen in Sachzusammenhängen","H","Assess large-scale environmental data","1. البيانات البيئية
-2. تحليل البيانات
-3. المعالجة المسبقة
-4. البرمجة الخطية
-5. البيانات الضخمة
-6. الخوارزميات
-7. الإحصاء
-8. التنقيب عن البيانات
-9. تحليلات التنبؤ
-10. التعلم الآلي
-11. نماذج البيانات
-12. قواعد البيانات
-13. التصور البياني
-14. النموذج المناخي
-15. نظم المعلومات الجغرافية (GIS)"
-"Größen und Messen","Größen in Sachzusammenhängen","H","Use advanced modeling/simulation","1. النمذجة
-2. المحاكاة
-3. الخوارزميات
-4. البيانات
-5. متغيرات الإدخال
-6. النتائج
-7. النماذج الرياضية
-8. نظم الكمبيوتر
-9. التجارب المحاكاة
-10. تحسين النماذج
-11. المعادلات التفاضلية
-12. الاحتمالات
-13. توزيع البيانات
-14. التحقق من النموذج
-15. البرمجة
-16. محاكاة مونت كارلو
-17. تحليل البيانات
-18. التنبؤ
-19. تصميم التجارب
-20. ديناميكا الأنظمة"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","B","Collect data on favorite fruits (tally)","1. جمع البيانات
+2. التحليل الإحصائي
+3. نظم المعلومات الجغرافية (GIS)
+4. الاستشعار عن بعد
+5. نمذجة البيانات
+6. التحقق من البيانات
+7. دراسة التغير المناخي
+8. تحليل السلاسل الزمنية
+9. استدامة البيئة
+10. إدارة الموارد الطبيعية"
+"Größen und Messen","Größen in Sachzusammenhängen","H","Use advanced modeling/simulation","1. نموذج (Model)
+2. محاكاة (Simulation)
+3. ديناميكا (Dynamics)
+4. تحليل (Analysis)
+5. معلمة (Parameter)
+6. خوارزمية (Algorithm)
+7. دقة (Accuracy)
+8. نص (Text)
+9. أبعاد (Dimensions)
+10. تنبؤ (Prediction)
+11. البيانات (Data)
+12. التعزيز (Optimization)
+13. تكرار (Iteration)
+14. تجسيد (Representation)
+15. نظام (System)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","B","Collect data on favorite fruits (tally)","1. البيانات
+2. جمع البيانات
+3. النتائج
+4. المفضل
+5. الفواكه
+6. التعداد
+7. العينة
+8. الإحصاء
+9. تحليل البيانات
+10. الاستبيان"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","B","Make a bar chart of fruit counts","1. مخطط العمود
+2. البيانات
+3. الفواكه
+4. العد
+5. المحور الرأسي
+6. المحور الأفقي
+7. التسمية
+8. الألوان
+9. القيم
+10. التوزيع"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","C","Read values from a line graph","1. خط البيانات (Data line)
+2. محور السيني (X-axis)
+3. محور الصادي (Y-axis)
+4. نقطة البيانات (Data point)
+5. نطاق القيم (Value range)
+6. عنوان الرسم (Chart title)
+7.Legend (وسيلة الإيضاح)
+8. وحدة القياس (Unit of measurement)
+9. مقياس الرسم (Scale of the graph)
+10. الاتجاه (Trend)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","C","Make a table from a short survey","1. جدول
 2. استبيان
-3. تكرار
-4. توزيع التكرار
-5. العينة
-6. المقياس الاسمي
-7. الفئة"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","B","Make a bar chart of fruit counts","1. مخطط شريطي
-2. محاور
-3. عدد
-4. أسماء الفواكه
-5. بيانات
-6. مقياس
-7. شريط
-8. فئات
-9. تسمية
-10. تمثيل بياني"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","C","Read values from a line graph","1. المحور الأفقي
-2. المحور الرأسي
-3. النقطة البيانية
-4. الإحداثيات
-5. مقياس الرسم
-6. الاتجاه
-7. الزمن
-8. الوحدة
-9. الميل
-10. البيانات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","C","Make a table from a short survey","- استبيان
-- جدول
-- بيانات
-- تحليل
-- متغير
-- عينة
-- قياس
-- توزيع
-- متوسط
-- تكرار"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","D","Interpret data in a pie chart","1. الرسم البياني الدائري  
-2. النسبة المئوية  
-3. الفئات  
-4. المحور المركزي  
-5. القطاع الدائري  
-6. المخطط البياني  
-7. الأسطورة (الوسيلة التوضيحية)  
-8. التوزيع النسبي  
-9. البيانات النموذجية  
-10. المجموع الكلي  
-11. القيم العددية  
-12. شرائح البيانات  
-13. اتجاه عقارب الساعة"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","D","Organize data in a two-way table","1. جدول ثنائي الاتجاه
-2. صف
-3. عمود
-4. متغير
-5. ملاحظة
-6. تصنيف
-7. تردد
-8. تجميع بيانات
-9. تنسيق
-10. محور"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","E","Construct line graphs for time series","- سلسلة زمنية
-- خط زمني
-- محور سيني
-- محور صادي
-- نقاط البيانات
-- تراكب البيانات
-- خط الاتجاه
-- مقياس الرسم
-- الفاصل الزمني
-- الملاحظة
-- القيم المتطرفة
-- التغيرات الدورية"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","E","Analyze misleading scales in graphs","1. محور السينات  
-2. محور الصادات  
-3. مقياس الرسم  
-4. البيانات  
-5. التحجيم  
-6. التلاعب بالبيانات  
-7. الرسم البياني الشريطي  
-8. الرسم البياني الخطي  
-9. الرسم البياني الدائري  
-10. تشويه البيانات  
-11. خطوط الشبكة  
-12. التدرج  
-13. النقاط القاعدية  
-14. القياس الصفري  
-15. الفئة الزمنية  
-16. النسبة المئوية  
-17. المصدر الخاطئ  
-18. البيانات الفئوية  
-19. البيانات الكمية  
-20. البصري"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","F","Use spreadsheets for visualization","1. جدول البيانات
-2. الرسم البياني
-3. محور س
-4. محور ص
-5. خلية
-6. صيغة
-7. دالة
-8. مخطط دائري
-9. مخطط عمودي
-10. مخطط خطي
-11. نطاق الخلايا
-12. جدول محوري
-13. تصفية البيانات
-14. سلسلة البيانات
-15. تنسيق الشرط
-16. مخطط مبعثر"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","F","Discuss sampling methods/bias","1. أخذ العينات (Sampling)
-2. الانحياز (Bias)
-3. العينة العشوائية (Random Sample)
-4. العينة الطبقية (Stratified Sample)
-5. العينة العشوائية البسيطة (Simple Random Sample)
-6. العينة النظامية (Systematic Sample)
-7. العينة العنقودية (Cluster Sample)
-8. تصميم العينة (Sample Design)
-9. حجم العينة (Sample Size)
-10. خطأ أخذ العينات (Sampling Error)
-11. الانحياز التحيلي (Selection Bias)
-12. الانحياز غير الاستجابي (Non-response Bias)
-13. الانحياز الرصد (Observer Bias)
-14. الانحياز التأكيدي (Confirmation Bias)
-15. التوزيع الاحتمالي (Probability Distribution)"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","G","Make box plots or histograms","1. مجموعة البيانات
-2. قاطع بيانات
-3. التكرار
-4. النطاق الربيعي
-5. القيمة المتطرفة
-6. المئينات
-7. الوسيط
-8. القيمة الدنيا
-9. القيمة العليا
-10. الفئات
-11. العرض الفئوي
-12. المحور السيني
-13. المحور الصادي
-14. العلامات الفئوية
-15. تكدس البيانات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","G","Interpret cumulative frequency graphs","1. التكرار التراكمي
-2. التكرار
-3. الفئة
-4. القيم القصوى
-5. الحد الأدنى
-6. الحد الأعلى
-7. الفاصل الزمني
-8. النسبة المئوية
-9. المنحنى البياني
-10. التوزيع
-11. الوسط الحسابي
-12. الوسيط
-13. الربيعات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","H","Apply advanced stats (regression, tests)","1. الانحدار  
-2. الفرضيات  
-3. المتغيرات  
-4. النموذج الإحصائي  
-5. التقدير  
-6. اختبار الفرضيات  
-7. التباين  
-8. الارتباط  
-9. الانحراف المعياري  
-10. العينة  
-11. معامل التحديد  
-12. معامل الانحدار  
-13. المتوسط الحسابي  
-14. توزيع البيانات  
-15. القيمة الاحتمالية (P-Value)  
-16. الأخطاء المعيارية  
-17. الاحتمالات  
-18. البواقي  
-19. الارتباط الجزئي  
-20. العشوائية"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","H","Evaluate reliability of large data sets","1. موثوقية البيانات  
-2. مجموعات البيانات الكبيرة  
-3. جودة البيانات  
-4. تكامل البيانات  
+3. بيانات
+4. عمود
+5. صف
+6. متغيرات
+7. عينات
+8. تحليل 
+9. تكرار 
+10. تنسيق"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","D","Interpret data in a pie chart","1. قطر الدائرة
+2. نسبة مئوية
+3. أجزاء
+4. فئات
+5. تمييز الألوان
+6. المُنسق
+7. البيانات
+8. تفسيرات
+9. العنوان
+10. خرافية البيانات"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","D","Organize data in a two-way table","1. جدول مزدوج  
+2. تصنيف  
+3. متغيرات  
+4. تكرار  
 5. تحليل البيانات  
-6. التحيز الإحصائي  
-7. تنظيف البيانات  
-8. التحقق من البيانات  
-9. تصحيح البيانات  
-10. تنقيب البيانات  
-11. التحليلات التنبؤية  
-12. الارتباط  
-13. الخوارزميات  
-14. أدوات تصفية البيانات  
-15. توزيع البيانات  
-16. التحليل الكمي  
-17. التحليل النوعي  
-18. التحقق من الصحة  
-19. التحقق من المصدر  
-20. تقديرات عدم اليقين"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","B","Identify mode in a small data set","1. تكرار  
-2. مجموعات البيانات  
-3. وضع  
-4. تردد  
-5. ترتيب  
-6. تحليل بيانات  
-7. مجموعة بيانات صغيرة"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","B","Find largest/smallest in a chart","1. أكبر
-2. أصغر
-3. مخطط
-4. بيانات
+6. جدول البيانات  
+7. صفوف وأعمدة  
+8. تمييز  
+9. التوزيع  
+10. قيم متكررة"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","E","Construct line graphs for time series","1. رسم الخطوط
+2. البيانات الزمنية
+3. المحور الأفقي
+4. المحور العمودي
+5. النقاط البيانية
+6. المسار
+7. التوقيت
+8. التحليل
+9. التوجهات
+10. الاستمرارية"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","E","Analyze misleading scales in graphs","1. مقياس
+2. محاور
+3. انحياز
+4. تمثيل بياني
 5. مقارنة
-6. تحليل
-7. محاور
-8. قياس
-9. قيمة
-10. نطاق"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","C","Compute mean of test scores","- المتوسط الحسابي
-- البيانات
-- الاختبارات
-- العلامات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","C","Find the range (max-min)","القيمة العظمى، القيمة الدنيا، المدى"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","D","Compare two sets by mean/range","متوسط  
-مدى  
-مجموعة  
-مقارنة  
-بيانات  
-إحصاء  
-عينة"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","D","Interpret the median in contexts","وسط، بيانات، توزيع تكراري، قيمة مركزية، مجموعة بيانات، نقطة قطع، ترتيب البيانات، إحصاء."
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","E","Explain outliers’ effect on mean/median","1. شاذ
-2. المتوسط الحسابي
-3. الوسيط
+6. دقة
+7. عرض بصري
+8. متغير
+9. زاوية رؤية
+10. تشويه"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","F","Use spreadsheets for visualization","1. جدول بيانات  
+2. بيانات  
+3. تصور البيانات  
+4. مخطط  
+5. رسم بياني  
+6. محور  
+7. نوع الرسم  
+8. خلية  
+9. دالة  
+10. صيغة  
+11. تحليل البيانات  
+12. تنسيق  
+13. تعليقات  
+14. تصفية  
+15. تجميع  
+16. معادلة  
+17. تفاعلية  
+18. مقياس  
+19. رسم بياني دائري  
+20. رسم بياني عمودي"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","F","Discuss sampling methods/bias","1. العينة (Sample)  
+2. مجتمع الدراسة (Population)  
+3. التحجيم (Sampling)  
+4. العينة العشوائية (Random Sample)  
+5. العينة الطبقية (Stratified Sample)  
+6. العينة العنقودية (Cluster Sample)  
+7. العينة غير العشوائية (Non-Random Sample)  
+8. التحيز (Bias)  
+9. التحيز في العينة (Sampling Bias)  
+10. التحيز الانتقائي (Selection Bias)  
+11. التحيز في الاستجابة (Response Bias)  
+12. حجم العينة (Sample Size)  
+13. تدهور العينة (Sample Degradation)  
+14. التكرار (Frequency)  
+15. التمثل (Representation)  
+16. الأسلوب الكمي (Quantitative Method)  
+17. الأسلوب النوعي (Qualitative Method)  
+18. التوزيع الطبيعي (Normal Distribution)  
+19. عوامل الخلط (Confounding Variables)  
+20. استطلاع الرأي (Survey)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","G","Make box plots or histograms","1. مخطط الصندوق
+2. هيستوغرام
+3. البيانات
+4. التوزيع
+5. القيم الشاذة
+6. الوسيط
+7. القياسات الربعية
+8. الحد الأدنى
+9. الحد الأقصى
+10. التكرار
+11. الفئات
+12. المحور الأفقي
+13. المحور العمودي
+14. عرض الصندوق
+15. طول الصندوق"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","G","Interpret cumulative frequency graphs","1. التكرار التراكمي  
+2. المحور السيني  
+3. المحور الصادي  
+4. النقاط البيانية  
+5. البيانات الكمية  
+6. النسب المئوية  
+7. الفئات  
+8. median (الوسيط)  
+9. المئينات  
+10. النزعة المركزية"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","H","Apply advanced stats (regression, tests)","1. الانحدار (Regression)
+2. الإحصائيات الوصفية (Descriptive Statistics)
+3. الاختبار الإحصائي (Statistical Test)
+4. القيم المتطرفة (Outliers)
+5. التوزيع الطبيعي (Normal Distribution)
+6. العينة (Sample)
+7. الفرضية (Hypothesis)
+8. الخطأ المعياري (Standard Error)
+9. المجال الثابت (Confidence Interval)
+10. مستوى الأهمية (Significance Level)
+11. معامل الارتباط (Correlation Coefficient)
+12. تحليل التباين (ANOVA)
+13. التحقق من الفرضيات (Hypothesis Testing)
+14. الانحدار المتعدد (Multiple Regression)
+15. تحليل العناصر الأساسية (Principal Component Analysis)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten erheben darstellen und lesen","H","Evaluate reliability of large data sets","1. موثوقية  
+2. مجموعة بيانات  
+3. تحليل البيانات  
+4. التكرار  
+5. التحقق  
+6. الجودة  
+7. العينة  
+8. الإحصاءات  
+9. الخطأ العشوائي  
+10. المعايير  
+11. التحليل الإحصائي  
+12. البيانات المفقودة  
+13. الانحياز  
+14. الصلاحية  
+15. الاستنتاجات"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","B","Identify mode in a small data set","1. وضع (Mode)  
+2. مجموعة بيانات (Data Set)  
+3. تكرار (Frequency)  
+4. القيم (Values)  
+5. عدد (Count)  
+6. تحليل البيانات (Data Analysis)  
+7. إحصاء (Statistics)  
+8. تمييز (Identification)  
+9. نمط (Pattern)  
+10. مكرر (Duplicate)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","B","Find largest/smallest in a chart","1. أكبر (Largest)
+2. أصغر (Smallest)
+3. مخطط (Chart)
+4. قيم (Values)
+5. بيانات (Data)
+6. تحليل (Analysis)
+7. محور (Axis)
+8. رسم بياني (Graph)
+9. اتجاه (Trend)
+10. متغيرات (Variables)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","C","Compute mean of test scores","1. متوسط (Mean)  
+2. درجات (Scores)  
+3. بيانات (Data)  
+4. مجموعة (Set)  
+5. جمع (Sum)  
+6. عدد (Count)  
+7. حساب (Calculation)  
+8. ناتج (Result)  
+9. قياس (Measurement)  
+10. إحصاء (Statistics)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","C","Find the range (max-min)","- نطاق
+- أقصى
+- أدنى
+- حساب
+- بيانات
+- مجموعة البيانات
+- تحليل
+- إحصاء"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","D","Compare two sets by mean/range","1. المتوسط 
+2. النطاق 
+3. مجموعة البيانات 
+4. الانحراف المعياري 
+5. التباين 
+6. البيانات الوصفية 
+7. الاختلاف 
+8. المقارنة 
+9. العينة 
+10. الإحصاء"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","D","Interpret the median in contexts","1. الوسيط
+2. بيانات
+3. مجموعة البيانات
 4. توزيع البيانات
-5. مركزية البيانات
-6. الانحراف المعياري
-7. النطاق
-8. النظام الإحصائي
-9. تحليل البيانات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","E","Use quartiles/box plots","1. الربيعات
-2. الوسيط
-3. القيم المتطرفة
-4. الحد الأدنى
-5. الحد الأقصى
-6. نطاق ما بين الربيعين
-7. صندوق البيانات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","F","Construct & interpret box plots","1. الحد الأعلى للرسم المربع (Upper Whisker)
-2. الحد الأدنى للرسم المربع (Lower Whisker)
-3. الربيع الأعلى (Upper Quartile or Q3)
-4. الربيع الأدنى (Lower Quartile or Q1)
-5. الوسيط (Median)
-6. المدى بين الربعين (Interquartile Range - IQR)
-7. القيم المتطرفة (Outliers)
-8. النخطيط الصندوقي (Box Plot)
-9. الخوارزمية المستخدمة (Algorithm Used)"
+5. ترتيب البيانات
+6. إحصائيات وصفية
+7. مقياس النزعة المركزية
+8. التأثيرات الخارجية
+9. تحليل البيانات
+10. نطاق البيانات"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","E","Explain outliers’ effect on mean/median","1. القيم الشاذة  
+2. المتوسط  
+3. الوسيط  
+4. التأثير  
+5. التوزيع  
+6. الانحراف  
+7. البيانات  
+8. الضوضاء  
+9. الإزاحة  
+10. القياسات الإحصائية"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","E","Use quartiles/box plots","1. الربع الأول (Q1)
+2. الربع الثاني (Q2 - الوسيط)
+3. الربع الثالث (Q3)
+4. نطاق التداخل (IQR)
+5. القيم المتطرفة
+6. الرسم البياني للصندوق
+7. الخطوط الواصلة (Whiskers)
+8. البيانات النمطية
+9. الوسيط
+10. التوزيع البياني"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","F","Construct & interpret box plots","1. الرسم البياني الصندوقي  
+2. المدى  
+3. الوسيط  
+4. الربع الأول  
+5. الربع الثالث  
+6. الحد الأدنى  
+7. الحد الأقصى  
+8. القيم الشاذة  
+9. البيانات  
+10. التوزيع"
 "Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","F","Introduce standard deviation","1. الانحراف المعياري  
 2. المتوسط  
-3. العينة  
-4. التوزيع  
-5. التباين   
-6. الجذر التربيعي  
-7. المدى  
-8. البيانات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","G","Use z-scores or distribution overlap","1. القيمة المعيارية  
-2. التوزيع الطبيعي  
-3. متوسط العينة  
-4. الانحراف المعياري  
-5. الارتباط  
-6. التباين  
-7. توزيع التداخل  
-8. مستوى الثقة  
-9. الفرضية الصفرية  
-10. الفرضية البديلة"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","G","Analyze correlation vs. causation","- الارتباط
-- السببية
-- المتغيرات
-- الارتباط الزائف
-- البيانات العشوائية
-- المتغيرات المستقلة
-- المتغيرات التابعة
-- التجربة المضبوطة
-- تحليل الانحدار
-- معامل الارتباط
-- التحليل الإحصائي
-- التأثير السببي
-- السيطرة على المتغيرات
-- نموذج الانحدار
-- اختبار الفرضيات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","H","Regression or hypothesis testing","1. انحدار
-2. اختبار الفرضيات
-3. متغير تابع
-4. متغير مستقل
-5. نموذج خطي
-6. تقدير المعاملات
-7. مربع الأقل
-8. توزيع الاعتدال
-9. اختبار T
-10. مستوى الدلالة
-11. فترة الثقة
-12. الانحراف المعياري
-13. افتراضات النموذج
-14. إحصائية F
-15. تحليل المتبقيات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","H","Confidence intervals/significance tests","1. فترة الثقة
-2. اختبار الفرضيات
-3. توزيع الاحتمالات
-4. قيمة p
-5. مستوى الأهمية
-6. الفرضية الصفرية
-7. الفرضية البديلة
-8. توزيع طبيعي
-9. التباين
-10. الانحراف المعياري
-11. درجة الحرية
-12. تقدير النقطة
-13. التقدير الفاصلي
-14. خطأ معيار العينة
-15. الإحصاء الاستدلالي
-16. المتوسط العيني
-17. العينة التمثيلية
-18. توزيع العينة
-19. حدود الفاصلة
-20. معدل الثقة
-21. جدول التوزيع"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","B","Discuss certain vs. impossible events","1. حدث  
-2. الاحتمال  
-3. فضاء العينة  
-4. حدث مؤكد  
-5. حدث مستحيل  
-6. نظرية الاحتمالات  
-7. الاحتمال الشرطي  
-8. الأحداث المتكاملة  
-9. الاتحاد  
-10. التقاطع"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","B","Rank events by likelihood","1. احتمال  
-2. توزيع احتمالي  
-3. متغير عشوائي  
-4. فضاء العينة  
-5. دالة الكثافة الاحتمالية  
-6. دالة التوزيع التراكمي  
-7. متوسط  
-8. تباين  
-9. توزيعات الاحتمالات  
-10. قانون الأعداد الكبيرة  
-11. نظرية الاحتمالات  
-12. إحصاء  
-13. قيمة متوقعة"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","C","Coin toss experiment","1. تجربة  
-2. احتمالية  
-3. فضاء العينة  
-4. حدث  
-5. توزيع احتمالي  
-6. تكرار  
-7. نسبة  
-8. عدد المحاولات  
-9. احتمال  
-10. قانون الأعداد الكبيرة  
-11. محاكاة  
-12. متغير عشوائي  
-13. ناتج"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","C","Compare actual frequency to expected","- النسبة
-- التكرار
-- التوزيع
+3. التباين  
+4. العينة  
+5. المجموعة  
+6. القيم المتطرفة  
+7. التوزيع الطبيعي  
+8. البيانات  
+9. الجذر التربيعي  
+10. الاحصاءات"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","G","Use z-scores or distribution overlap","- الدرجات المعيارية (Z-scores)
+- التوزيع (Distribution)
+- التداخل (Overlap)
+- الانحراف المعياري (Standard Deviation)
+- المتوسط (Mean)
+- العينة (Sample)
+- التكرار (Frequency)
+- القيمة الحرجة (Critical Value)
+- المساحة تحت المنحنى (Area Under the Curve)
+- الاحتمالية (Probability)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","G","Analyze correlation vs. causation","1. الارتباط  
+2. السببية  
+3. علاقة خطية  
+4. معامل الارتباط  
+5. الانحدار  
+6. متغيرات مستقلة  
+7. متغيرات تابعة  
+8. الإحصاء الوصفي  
+9. الإحصاء الاستنتاجي  
+10. العوامل المؤثرة  
+11. التجارب العشوائية  
+12. الانحياز  
+13. المنطق العلمي  
+14. الانحراف المعياري  
+15. الدلالة الإحصائية"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","H","Regression or hypothesis testing","1. انحدار (Regression)
+2. اختبار الفرضيات (Hypothesis Testing)
+3. المتغير التابع (Dependent Variable)
+4. المتغير المستقل (Independent Variable)
+5. المعاملات (Coefficients)
+6. النمذجة (Modeling)
+7. خط الانحدار (Regression Line)
+8. القيمة p (p-value)
+9. مستوى الدلالة (Significance Level)
+10. القوة الإحصائية (Statistical Power)
+11. العينة (Sample)
+12. التشتت (Variance)
+13. الافتراضات (Assumptions)
+14. الاختبار البارامتري (Parametric Test)
+15. الاختبار غير البارامتري (Non-parametric Test)
+16. التوزيع (Distribution)
+17. الاحتفاظ (Retaining)
+18. التحليل (Analysis)
+19. الشذوذ (Outliers)
+20. التحليل المتعدد (Multivariate Analysis)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Daten vergleichen und auswerten","H","Confidence intervals/significance tests","- فترات الثقة
+- اختبارات الدلالة
+- متوسط العينة
+- انحراف معياري
+- حجم العينة
+- مستوى الثقة
+- القيمة P
+- فرضية صفرية
+- فرضية بديلة
 - التباين
-- الانحراف المعياري
-- فرضية العدم
-- الاختبار الإحصائي
-- الدلالة الإحصائية"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","D","Probability of rolling a 3 = 1/6","- احتمال
-- نرد
-- نتيجة
-- فضاء العينة
-- تكرار
-- النتيجة
-- مكعب الأوجه
-- عشوائي"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","D","Express probability as fraction/decimal/%","1. احتمال  
-2. كسور  
-3. عدد عشري  
-4. نسبة مئوية  
-5. نسبة  
-6. بسط  
-7. مقام  
-8. تحويل  
-9. تبسيط"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","E","Compare theoretical vs. experimental outcomes","1. النظرية
-2. التجربة
+- توزيع طبيعي
+- خطأ نوع الأول
+- خطأ نوع الثاني
+- القوى الإحصائية
+- تحليل البيانات"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","B","Discuss certain vs. impossible events","1. حدث مؤكد  
+2. حدث مستحيل  
+3. احتمالية  
+4. فضاء العينة  
+5. مجموعة الأحداث  
+6. وقوع الحدث  
+7. تجربتي احتمالية  
+8. قانون الاحتمالات  
+9. العوامل المؤثرة  
+10. نتائج ممكنة"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","B","Rank events by likelihood","1. احتمالية  
+2. ترتيب  
+3. حدث  
+4. تحليل البيانات  
+5. نموذج إحصائي  
+6. متغير عشوائي  
+7. توزيع الاحتمالات  
+8. حساب الاحتمالات  
+9. استدلال  
+10. تنبؤ"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","C","Coin toss experiment","1. تجربة رمي العملة  
+2. احتمال  
+3. حدث  
+4. فضاء العينة  
+5. نتيجة  
+6. تكرار  
+7. مستقل  
+8. متغير عشوائي  
+9. توزيع احتمالي  
+10. قانون الأعداد الكبيرة"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","C","Compare actual frequency to expected","1. تردد الفعلي
+2. تردد المتوقع
+3. تحليل البيانات
+4. إحصائيات
+5. اختبار الفرضيات
+6. انحراف معياري
+7. متوسط
+8. معامل الارتباط
+9. دالة التوزيع
+10. عينة
+11. تحليل الاختلافات
+12. قيمة p
+13. تقدير الاحتمالية
+14. تباين
+15. توزيع طبيعي"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","D","Probability of rolling a 3 = 1/6","- احتمال (Probability)
+- تركيب (Combination)
+- تجربة (Experiment)
+- فضاء العينة (Sample Space)
+- نتيجة (Outcome)
+- عدد الإجمالي (Total Count)
+- تجريبي (Empirical)
+- مقاربة (Approach)
+- مستقل (Independent)
+- متغير عشوائي (Random Variable)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","D","Express probability as fraction/decimal/%","1. احتمال
+2. كسر
+3. عشري
+4. نسبة
+5. حدث
+6. الفضاء العيني
+7. التجربة العشوائية
+8. النتائج الممكنة
+9. قاعدة الاحتمالات
+10. احتمال مشروط"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","E","Compare theoretical vs. experimental outcomes","1. النتائج النظرية
+2. النتائج التجريبية
 3. الفرضية
 4. البيانات
-5. الدقة
-6. الانحراف المعياري
-7. التحليل الإحصائي
-8. المتغيرات
-9. الثوابت
-10. النتائج 
-11. العينة
-12. النماذج
-13. المحاكاة
-14. الأداة التجريبية
-15. المعالجة
-16. المتغير التابع
-17. المتغير المستقل
-18. الاحتمالية
-19. الخطأ القياسي
-20. توقعات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","E","Use relative frequency in real contexts","1. التكرار النسبي
-2. السياق الواقعي
-3. التكرار
-4. الإحصاءات
+5. التباين
+6. النمذجة الرياضية
+7. الدقة
+8. التكرار
+9. التحليل الإحصائي
+10. العوامل المتغيرة
+11. التقدير
+12. الصدفة
+13. الاستنتاج
+14. التحقق من الصحة
+15. القياس"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","E","Use relative frequency in real contexts","1. التردد النسبي
+2. العينة
+3. الحدث
+4. الاحتمال
 5. البيانات
-6. تجربة عشوائية
-7. النسبة
-8. العينة
-9. التوزيع
-10. الاحتمالات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","F","Probability of combined events","1. الاحتمال
-2. الحادث البسيط
-3. الأحداث المركبة
-4. تقاطع الأحداث
-5. اتحاد الأحداث
-6. الحوادث المستقلة
-7. الحوادث غير المستقلة
-8. مساحة العينة
-9. التوزيع الاحتمالي
-10. قاعدة الجمع
-11. قاعدة الضرب
-12. شرطية الاحتمال
-13. شجرة الاحتمالات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","F","Analyze everyday chance statements","إحصاء، احتمال، توزيع احتمالي، متغير عشوائي، مساحة العينة، الحدث، الاحتمال الشرطي، الاحتمال المشترك، توزيع طبيعي، القيمة المتوقعة، قانون الأعداد الكبيرة، توزيع بواسون، توزيع ثنائي، تبديل وترتيب، عينة عشوائية."
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","G","Apply addition/multiplication rules","- الاحتمال
-- الإضافة
-- الضرب
-- الأحداث المستقلة
-- الأحداث المشتركة
-- الأحداث المنفصلة"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","G","Use tree diagrams/binomial distributions","شجرة احتمالات  
-توزيع ذي حدين  
-تجربة برنولية  
-احتمال  
-متغير عشوائي  
-تحليل احتمالي  
-مجموع الاحتمالات  
-نقطة تفرع  
-توزيع احتمالي  
-مجموع الأحداث  
-حدث مكمل  
-حدث مستقل"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","H","Continuous distributions/advanced models","1. المتغيرات العشوائية
-2. التوزيعات الاحتمالية
-3. التوزيع المستمر
-4. التقييم البيزي
-5. نموذج ماركوف المخفي
-6. التقدير الاحتمالي الأقصى
-7. الانحدار اللوجستي
-8. تحليل البقاء
-9. عملية بواسون
-10. خوارزمية التحسين
-11. توزيعات قياسية
-12. العشوائية والنماذج العشوائية
-13. عملية مونت كارلو
-14. الاستدلال الإحصائي
-15. تحويل لابلاس"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","H","Evaluate probability in finance or science","1. احتمال
-2. توزيع احتمالي
-3. دالة كثافة الاحتمال
-4. توزيع طبيعي
-5. توزيع بواسون
+6. التكرار
+7. الإحصاء الوصفي
+8. مجموعة البيانات
+9. النتائج
+10. التحليل الإحصائي"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","F","Probability of combined events","1. احتمال (Probability)
+2. حدث (Event)
+3. حدث مشترك (Combined event)
+4. اتحاد (Union)
+5. تقاطع (Intersection)
+6. خلو (Complement)
+7. مستقل (Independent)
+8. مشروط (Conditional)
+9. عدد تكراري (Frequency)
+10. مساحة العينة (Sample space)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","F","Analyze everyday chance statements","1. احتمالية
+2. مصطلح عشوائي
+3. تجربة عشوائية
+4. فضاء العينة
+5. أحداث مستقلة
+6. أحداث متنافية
+7. قانون الاحتمالات
+8. تكرارية
+9.عديل
+10. نموذج الإحصاء"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","G","Apply addition/multiplication rules","- الجمع  
+- الطرح  
+- الضرب  
+- القسمة  
+- القوانين الجبرية  
+- المعادلات  
+- المتغيرات  
+- الأعداد الصحيحة  
+- الكسور  
+- النسبة  
+- الدوال  
+- الجذور  
+- ترتيب العمليات  
+- الخصائص  
+- العوامل"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","G","Use tree diagrams/binomial distributions","1. شجرة القرارات
+2. توزيع ثنائي
+3. الاحتمالات
+4. الأحداث المستقلة
+5. التجارب المتكررة
+6. النتائج الممكنة
+7. توزيع الاحتمال
+8. عدد التجارب
+9. النجاح والفشل
+10. معادلة بايز"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","H","Continuous distributions/advanced models","1. التوزيع المستمر
+2. الاحتمالية
+3. المتوسط
+4. التباين
+5. الانحراف المعياري
+6. الكثافة الاحتمالية
+7. الدالة التراكمية
+8. نموذج رولف
+9. العينة
+10. تقدير المعلمات
+11. السلوك المحدود
+12. الوظيفة المتولدة
+13. النموذج المتقدم
+14. التحقق من الفرضيات
+15. الانحدار الخطي"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Wahrscheinlichkeiten verstehen","H","Evaluate probability in finance or science","1. احتمالية
+2. توزيع الاحتمالات
+3. قانون بايز
+4. عينة
+5. متغير عشوائي
 6. تباين
 7. انحراف معياري
-8. مخاطرة
-9. تحليل الاحتمالات
-10. نظرية الاحتمالات
-11. توزيع ذو الحدين
-12. توزيع أسي
-13. توزيع غاما
-14. قيمة متوقعة
-15. عملية عشوائية
-16. متغير عشوائي"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","B","Arrange 3 objects in order","- الترتيب  
-- التباديل  
-- العامل العام  
-- الاحتمالات  
-- العناصر  
-- البنية  
-- المجموعات  
-- الترتيب الخطي  
-- الفضاء العيني"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","B","List pairs from 4 items","1. مجموعة (Set)
-2. عنصر (Element)
-3. زوج مرتب (Ordered Pair)
-4. تركيبة (Combination)
-5. اختيار (Selection)"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","C","Use fundamental counting principle","مبدأ العد الأساسي  
-الاحتمالات  
-المجموعات  
-التوافيق  
-التباديل"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","C","Draw a tree diagram (2 coin flips)","1. تجربة (Experiment)
-2. فضاء العينة (Sample space)
-3. احتمال (Probability)
-4. نتيجة (Outcome)
-5. فرع (Branch)
-6. عقدة (Node)
-7. حدث (Event)
-8. شجرة الاحتمالات (Probability tree)
-9. رمي العملات (Coin flips)
-10. استمرار (Sequence)"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","D","Calculate small permutations/combos","1. التباديل
-2. التوافيق
-3. العامل
-4. الترتيب
-5. المجموعة
-6. الجذور
-7. الإحصاء
-8. احتمالية"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","D","Apply combinatorial reasoning in seating","1. التوفيق
-2. التباديل
-3. عامل رياضي
-4. مساحة العينة
-5. الاحتمالات
-6. تطابق
-7. إعادة الترتيب
-8. عدد الخطوات
-9. التكرار
-10. شروط الحدود"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","E","Use nCr/nPr notation","1. تحليل
-2. توافيق
-3. ترتيبات
-4. ن ف (n!)
-5. ن م (nPm)
-6. ن خ (nCr)
-7. عدد طبيعي
-8. كسر
-9. مضاعف
-10. متغير"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","E","Apply to dealing cards or real scenarios","1. توزيع
-2. عشوائية
-3. احتمالات
-4. حزمة الورق
+8. التجربة العشوائية
+9. تقدير
+10. نموذج إحصائي"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","B","Arrange 3 objects in order","1. ترتيب  
+2. كائنات  
+3. ترتيب خطي  
+4. تباين  
+5. فرضية  
+6. تنسيق  
+7. تسلسل  
+8. متتاليات  
+9. مجموعة  
+10. عوامل"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","B","List pairs from 4 items","1. عناصر
+2. أزواج
+3. ترتيب
+4. خوارزمية
+5. مجموعة
+6. اختيار
+7. تكرار
+8. تحليل
+9. توليد
+10. دالة"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","C","Use fundamental counting principle","1. مبدأ العد الأساسي
+2. حدث
+3. مجموعة
+4. خيارات
 5. ترتيب
-6. تحويل
-7. مجموعة فرعية
-8. تكرار
-9. تحويل
-10. اختيار"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","F","Explore Pascal’s triangle patterns","1. مثلث باسكال
-2. معاملات ثنائية
+6. تكرار
+7. أحداث مستقلة
+8. مجموعات متعددة
+9. مضاعفة
+10. نتائج ممكنة"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","C","Draw a tree diagram (2 coin flips)","1. شجرة
+2. رسم بياني
+3. نتائج
+4. احتمالات
+5. فرع
+6. حدث
+7. عشوائية
+8. تفرع
+9. ثنائي
+10. تكرار"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","D","Calculate small permutations/combos","1. ترتيب (Arrangement)
+2. مجموعة (Set)
+3. تبديل (Permutation)
+4. تركيبة (Combination)
+5. عامل (Factorial)
+6. عدد (Number)
+7. مجموعة فرعية (Subset)
+8. احتمال (Probability)
+9. استبعاد (Exclusion)
+10. تكرار (Repetition)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","D","Apply combinatorial reasoning in seating","1. التوافقيات  
+2. الترتيبات  
+3. التوزيعات  
+4. المجموعات  
+5. القواعد  
+6. الاحتمالات  
+7. الكرسي الدائري  
+8. التكرار  
+9. التباديل  
+10. التوافقيات الثنائية  
+11. المجموعات المتداخلة  
+12. permutaion 
+13. combination  
+14. عامل التناسب"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","E","Use nCr/nPr notation","1. التوافق (Combination)
+2. الترتيب (Permutation)
+3. التلاميذ (Elements)
+4. المجموعة (Set)
+5. العدد (Number)
+6. العامل (Factorial)
+7. التكرار (Repetition)
+8. النتيجة (Outcome)
+9. الخيارات (Choices)
+10. التوزيع (Distribution)"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","E","Apply to dealing cards or real scenarios","1. توزييع الأوراق
+2. بطاقات اللعب
+3. مجموعة البطاقات
+4. توزيع عشوائي
+5. حدود اللعبة
+6. نقاط الفائز
+7. تقنيات السحب
+8. استراتيجيات اللعب
+9. عدد اللاعبين
+10. قواعد اللعبة"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","F","Explore Pascal’s triangle patterns","1. مثلث باسكال  
+2. الأعداد التوافقية  
+3. القيم المركزية  
+4. الصفوف  
+5. الأعمدة  
+6. التكرار  
+7. النمط  
+8. النسبة  
+9. الأعداد الثنائية  
+10. التحليل  
+11. المثلثات العددية  
+12. التناظر  
+13. القواعد التكرارية  
+14. الزيادة المتسلسلة  
+15. الجبر  
+16. النظريات  
+17. التعميم  
+18. الجذور  
+19. الاستقراء  
+20. القاسم المشترك"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","F","Solve constrained combinatorial tasks","1. قيود
+2. مزيج
+3. تسلسل
+4. تحسين
+5. دالة الهدف
+6. مجموعة الحلول
+7. البرمجة الخطية
+8. طرق البحث
+9. العناصر المتاحة
+10. خوارزمية
+11. الحلول المثلى
+12. تقنيات التقسيم
+13. شجرة القرار
+14. المشكلة NP كاملة
+15. الخوارزميات الجشعة"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","G","Inclusion-exclusion principle","1. مبدأ الشمول والاستبعاد  
+2. مجموع  
+3. مجموعات  
+4. تقاطع  
+5. اتحاد  
+6. عدد العناصر  
+7. مجموعة فارغة  
+8. اختلاف  
+9. خاصية العرض  
+10. تباين"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","G","Use combinatorics in graph/network theory","1. التركيب
+2. التباديل
 3. التوافيق
-4. العدد ذو الحدين
-5. المتتاليات الحسابية
-6. المتسلسلات
-7. الأنماط العددية
-8. التماثل
-9. التكرار
-10. العلاقات التراجعية
-11. الاختلافات"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","F","Solve constrained combinatorial tasks","1. المهام التوافقية
-2. القيود
-3. التحسين
-4. البحث
-5. المساحات الحلية
-6. البرمجة الخطية
-7. البرمجة العددية
-8. البرمجة الديناميكية
-9. خوارزميات التحسين
-10. الأمثلية
-11. تحليل التعقيد
-12. الشجرة التوافقية
-13. مخطط البحث
-14. حلول تقريبية
-15. البحث عن التفرع والحد"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","G","Inclusion-exclusion principle","1. مجموعة (Set)
-2. اتحاد (Union)
-3. تقاطع (Intersection)
-4. احتمالية (Probability)
-5. تعداد (Cardinality)
-6. فضاء العينة (Sample Space)
-7. أحداث (Events)
-8. متغير عشوائي (Random Variable)
-9. استقلال (Independence)
-10. تغطية مفرطة (Overcounting)"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","G","Use combinatorics in graph/network theory","1. نظرية الرسوم البيانية
-2. الشبكات
-3. التوافيق
-4. العقد
-5. الحواف
-6. المسارات
-7. الدورات
-8. الرسوم البيانية الكاملة
-9. الرسوم البيانية الشجرية
-10. الرسوم البيانية ثنائية اللون
-11. الرسوم البيانية الإقليدية
-12. المصفوفات المجاورة
-13. مصفوفة الحدوث
-14. درجة العقدة
-15. الرسوم البيانية الجزئية
-16. التماثل
-17. التوصيل
-18. طريقة الاحتمالات
-19. الاستقراء الرياضي
-20. نظرية الحافة"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","H","Advanced methods (generating functions)","1. الدوال التوليدية
-2. المتتالية
-3. المعاملات
-4. سلسلة القوة
-5. الوظيفة التحليلية
-6. حساب المعاملات
-7. التحويل
-8. اشتقاق الدوال
-9. التكامل
-10. دالة الأس
-11. دوال هندسية
-12. متطابقة
-13. جمع المصفوفات
-14. المتغيرات
-15. الانحراف
-16. مسألة العد
-17. معامل ثنائي
-18. توسيع تايلور"
-"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","H","Combinatorial designs or coding theory","1. تصميمات التوافقيات
-2. نظرية الشفرات
-3. كود تورنغ
-4. كود هامنج
-5. مجموعة ستاينر
-6. مصفوفة توقيع
-7. كود متعدد الحدود
-8. كود متكرر
-9. التكرارية الثنائية
-10. كود انحرافي
-11. بناء بلوكي
-12. كود الجبر الخطي
-13. فضاء المتجهات
-14. مصفوفة التوليد
-15. مصفوفة التحقق
-16. مخطط بلوكي
-17. دلالة شانون
-18. قدرة التميز
-19. تصحيح الأخطاء
-20. كود الجبر الهندسي"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","B","Identify repeating pattern (2,4,6)","1. تسلسل  
-2. تكرار  
-3. نمط  
-4. سلسلة  
-5. دوري  
-6. عدد زوجي  
-7. رياضيات  
-8. أنماط الأرقام  
-9. تحليل البيانات  
-10. خوارزمية"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","B","Extend the sequence by 2 terms","1. التتابع
-2. الحدود
-3. النمط
-4. الدوال الرياضية
-5. الاستقراء
-6. المتسلسلة
-7. الأعداد الطبيعية"
+4. الرسم البياني
+5. العقد (الرؤوس)
+6. الحواف
+7. المسار
+8. الحلقة
+9. الاتصال
+10. الشجرة
+11. الشبكة
+12. الاحتمالات
+13. الحجم
+14. طريقة العد
+15. نسق الأشكال
+16. الصيغة الحسابية
+17. التقاطعات
+18. المجموعات المنفصلة
+19. البنية البيانية
+20. الدرجات"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","H","Advanced methods (generating functions)","1. دوال التوليد
+2. سلسلة التوليد
+3. معامل
+4. التكرار
+5. التحليل المتحد
+6. أسلوب التحويل
+7. التطبيقات الرياضية
+8. نظرية الأعداد
+9. الأنماط
+10. التوزيع الاحتمالي"
+"Daten Häufigkeiten und Wahrscheinlichkeiten","Kombinatorik","H","Combinatorial designs or coding theory","1. تصميمات تجمعات
+2. نظرية الترميز
+3. التوزيع المتوازن
+4. مصفوفة الماتريكس
+5. مجموعة الانتخاب
+6. الشيفرة الخطية
+7. شيفرة تصحيح الأخطاء
+8. كود جراي
+9. مجموعة الشفرات
+10. الاستقراء الرياضي
+11. مجموعة الخطوط
+12. الأكواد المتعددة الأبعاد
+13. التجميع
+14. مطابقة
+15. التعليمات البرمجية القابلة للاستخدام"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","B","Identify repeating pattern (2,4,6)","1. نمط (Pattern)  
+2. تكرار (Repetition)  
+3. تسلسل (Sequence)  
+4. قاعدة (Rule)  
+5. تحليل (Analysis)  
+6. مجموعة بيانات (Data Set)  
+7. فاصلة (Interval)  
+8. تتابع (Progression)  
+9. متسلسل (Ordered)  
+10. تنسيق (Format)"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","B","Extend the sequence by 2 terms","1. تسلسل
+2. حد
+3. متتالية
+4. امتداد
+5. نموذج
+6. تحليل
+7. قاعدة
+8. نمط"
 "Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","C","Describe pattern rule (add 3)","1. نمط
 2. قاعدة
-3. متتالية
-4. زيادة
-5. عنصر
-6. ثابت
-7. أعداد صحيحة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","C","Form a rule (start at 2, add 5)","2, 5, قاعدة, إضافة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","D","Recognize arithmetic sequences","1. تسلسل
-2. حسابي
-3. مصطلح
-4. نسبة
-5. فرق ثابت"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","D","Find nth term of a geometric sequence","1. حدود هندسية (Geometric Sequence)
-2. الحد النوني (nth Term)
-3. النسبة المشتركة (Common Ratio)
-4. الحد الأول (First Term)"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","E","Predict future terms or positions","1. التنبؤ
-2. نموذج البيانات
-3. المتغيرات المستقلة
-4. سلسلة زمنية
-5. التحليل الإحصائي
-6. الشبكة العصبية
-7. التعلم الآلي
-8. الانحدار
-9. خوارزمية
-10. دقة النموذج"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","E","Apply sequence patterns in real contexts","1. الأنماط
-2. التسلسل
-3. المتغيرات
-4. الخوارزميات
-5. البيانات
-6. النمذجة
-7. التنبؤ
-8. السياقات
-9. التطبيقات
-10. التحليل"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","F","Handle Fibonacci-type recurrence","1. تسلسل فايبوناتشي  
-2. علاقة التكرار  
-3. شروط البداية  
-4. المتتابعات  
-5. الاداء الحسابي  
-6. البرمجة الديناميكية  
-7. المصفوفات  
-8. المتجهات الذاتية  
-9. المصفوفات الذاتية  
-10. التحليل الطيفي  
-11. تعقيد الوقت  
-12. فضاء الحالة  
-13. الإنتقالات  
-14. الحلول المنغلقة  
-15. البرمجة الاستدعائي"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","F","Observe binomial or geometric patterns","1. توزيع ذات الحدين  
-2. توزيع هندسي  
-3. احتمال  
-4. تجربة بيرنولي  
-5. عدد المحاولات  
-6. نجاح  
-7. فشل  
-8. المتغير العشوائي  
-9. دالة الكثافة الاحتمالية  
-10. القيمة المتوقعة  
-11. الانحراف المعياري  
-12. التكرار  
-13. التوزيع الاحتمالي  
-14. التوزيع المنفصل  
-15. التوزيع التراكمي"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","G","Study primes or fractals","1. عدد أولي  
-2. عدد طبيعي  
-3. قابلية القسمة  
-4. رسم بياني  
-5. متتالية  
-6. دالة كسيرية  
-7. مجموعة ماندلبرو  
-8. مجموعة جوليا  
-9. الأبعاد الكسرية  
-10. التكرار  
-11. الهندسة الكسيرية  
-12. التحليل العددي  
-13. الحسابيات  
-14. العمارة الكسيرية"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","G","Link sequences to functional relationships","1. سلسلة
-2. دالة
-3. علاقة
-4. رياضية
-5. متغير
-6. ارتباط
-7. تحليل 
-8. خوارزمية
-9. بيانات
-10. تمثيل
-11. تبعية
-12. نموذج
-13. إحصاء
-14. تحويل"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","H","Explore infinite series/limits","1. متسلسلة
-2. حد
+3. إضافة
+4. تسلسل
+5. عدد
+6. متتالية
+7. متغير
+8. حقل 
+9. عملية رياضية
+10. دالة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","C","Form a rule (start at 2, add 5)","1. قاعدة
+2. بداية
+3. إضافة
+4. تسلسل
+5. عددي
+6. نسبة
+7. متسلسلة
+8. عدد صحيح
+9. استمرارية
+10. تغيير"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","D","Recognize arithmetic sequences","1. متسلسلة حسابية  
+2. عنصر  
+3. فرق ثابت  
+4. حد  
+5. بداية المتسلسلة  
+6. حدود المتسلسلة  
+7. صيغة المتسلسلة  
+8. مجموع المتسلسلة  
+9. النمط  
+10. درجة المتسلسلة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","D","Find nth term of a geometric sequence","1. متتالية هندسية  
+2. الحد النوني  
+3. النسبة المشتركة  
+4. الحد الأول  
+5. الصيغة العامة  
+6. القيم الابتدائية  
+7. الأس  
+8. الضرب المتكرر"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","E","Predict future terms or positions","1. نموذج التنبؤ  
+2. تحليل السلاسل الزمنية  
+3. متغيرات مستقلة  
+4. متغيرات تابعة  
+5. الانحدار  
+6. التعلم الآلي  
+7. الشبكات العصبية  
+8. الانحدار الخطي  
+9. القيم المفقودة  
+10. القياسات المتكررة  
+11. التحقق المتقاطع  
+12. تكنولوجيا البيانات  
+13. التنبؤ الدقيق  
+14. الميزات  
+15. تقدير الخطأ"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","E","Apply sequence patterns in real contexts","1. تسلسل (Sequence)  
+2. نمط (Pattern)  
+3. سياق (Context)  
+4. قاعدة (Rule)  
+5. تحليل (Analysis)  
+6. تنبؤ (Prediction)  
+7. دالة (Function)  
+8. متسلسلة (Series)  
+9. احتمالية (Probability)  
+10. بيانات (Data)"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","F","Handle Fibonacci-type recurrence","1. تسلسل فيبوناتشي
+2. علاقة تكرارية
+3. قاعدة عودية
+4. قاعدة ابتدائية
+5. التعقيد الزمني
+6. التعقيد الفضائي
+7. التحليل الرياضي
+8. حالات الحد de التكرار
+9. دالة حسابية
+10. البرمجة الديناميكية"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","F","Observe binomial or geometric patterns","1. ثنائية (Binomial)
+2. هندسية (Geometric)
+3. توزيع (Distribution)
+4. احتمال (Probability)
+5. متغير عشوائي (Random Variable)
+6. دالة كثافة الاحتمال (Probability Density Function)
+7. معاملات ثنائية (Binomial Coefficients)
+8. قاعدة القسمة (Division Rule)
+9. تكرار (Frequency)
+10. عمليات مستقلة (Independent Trials)
+11. متوسط (Mean)
+12. انحراف معياري (Standard Deviation)
+13. تتابع (Sequence)
+14. حدود (Terms)
+15. مجموع (Sum)"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","G","Study primes or fractals","1. الأعداد الأولية
+2. الكسور
+3. مجموعة الأعداد
+4. الدوال الرياضية
+5. التكرار الذاتي
+6. أنماط
+7. مستوي عقاري
+8. الأبعاد الكسرية
+9. الفوضى
+10. التحليل العددي"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","G","Link sequences to functional relationships","1. تسلسل
+2. علاقة وظيفية
+3. ربط
+4. متغيرات
+5. دالة
+6. مجموعة البيانات
+7. نمذجة
+8. تحليل
+9. ارتباط
+10. تمثيل بياني"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","H","Explore infinite series/limits","1. تسلسل لا نهائي
+2. حدود
 3. تقارب
 4. تباعد
-5. المجموع الجزئي
-6. نهاية
-7. متتالية
-8. متسلسلة لانهائية
-9. معدل التقارب
-10. مطلق التقارب
-11. تقارب مطلق
-12. تقارب شرطي
-13. اختبار التقارب
-14. مساحة التباعد
-15. صيغ تايلور
-16. صيغ ماكلورين
-17. متسلسلة هندسية
-18. متسلسلة تلسكوبية"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","H","Use generating functions or recurrences","1. توليد الدوال  
-2. تتابع  
-3. معاملات  
-4. سلسلة هندسية  
-5. زمن متعدد الحدود  
-6. معادلة تفاضلية  
-7. تحويل زتا  
-8. خاصية الضرب  
-9. تكرار  
-10. حد الأساس"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","B","One-to-one match (child→pencil)","1. دالة  
-2. تطابق  
-3. علاقة  
-4. مجموعة  
-5. تمثيل  
-6. فردية  
-7. كائنات  
-8. عناصر  
-9. خريطة  
-10. ارتباط"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","B","Discuss bigger/smaller relationships","1. العلاقة
-2. الحجم
-3. المقارنة
-4. الترتيب
-5. الكمية
-6. النسبة
-7. التناسب
-8. التضاؤل
-9. الزيادة
-10. المقياس"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","C","Double a recipe, note proportionality","1. المضاعفة  
-2. الوصفة  
-3. التناسب  
-4. الكمية  
-5. المكونات  
-6. النسبة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","C","Use ratio tables to scale quantities","1. نسبة  
-2. جدول النسب  
+5. مجموع السلسلة
+6. حدود متناهية
+7. انحدار
+8. الأعداد الحقيقية
+9. متسلسلة
+10. شروط التقارب
+11. المجموع الجزئي
+12. نظرية دالامبر
+13. نظرية المقارنة
+14. السلاسل الهندسية
+15. السلاسل التوافقية"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Muster und Strukturen erkennen","H","Use generating functions or recurrences","1. الدوال التوليدية
+2. المتسلسلات
+3. العلاقات التكرارية
+4. المعاملات
+5. الحدود
+6. الأصفار
+7. التحويلات
+8. الأسس
+9. الحلول العامة
+10. العوامل المشتركة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","B","One-to-one match (child→pencil)","1. تطابق واحد لواحد
+2. كائن
+3. خاصية
+4. علاقة
+5. دالة
+6. تعيين
+7. توافق
+8. رموز
+9. مجموعة
+10. عنصر"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","B","Discuss bigger/smaller relationships","1. علاقات أكبر/أصغر  
+2. مقارنة  
+3. نطاق  
+4. قياس  
+5. معايير  
+6. نسبة  
+7. ترتيب  
+8. تحليل  
+9. أبعاد  
+10. قيود"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","C","Double a recipe, note proportionality","1. نسبة  
+2. مكونات  
 3. كمية  
-4. مضاعف  
-5. قسمة  
-6. ضرب  
-7. وحدة القياس  
-8. التكبير/التصغير"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","D","Solve direct proportion (unitary)","1. النسبة المباشرة  
-2. معامل التناسب  
-3. الوحدات  
-4. الكمية  
+4. مضاعفة  
+5. تحويل  
+6. قياس  
+7. المقياس  
+8. الوصفة  
+9. النسبة المئوية  
+10. توازن"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","C","Use ratio tables to scale quantities","1. النسبة
+2. الجدول النسبي
+3. الكمية
+4. التناسب
+5. المقام
+6. البسط
+7. المضاعف
+8. التوزيع
+9. الكسور
+10. التحجيم"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","D","Solve direct proportion (unitary)","1. النسبة
+2. التناسب
+3. القيم المتناسبة
+4. الوحدة
+5. الكسر
+6. المعادلة
+7. الحل
+8. المتغير
+9. الضرب
+10. القسمة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","D","Recognize inverse proportion (workers/time)","1. نسبة عكسية
+2. عمال
+3. زمن
+4. معادلة
+5. متغيرات
+6. علاقة
+7. نسبة
+8. ضرب
+9. قسمة
+10. معكوس"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","E","Write y=kx as linear proportion","1. خطي
+2. نسبة
+3. متغير
+4. معامل
+5. دالة
+6. معادلة
+7. ميل
+8. محور
+9. قابلية
+10. تمثيل"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","E","Interpret slope as rate of change","1. ميل
+2. معدل التغيير
+3. معادلة الخط
+4. إحداثيات
+5. نقطة
+6. متغير مستقل
+7. متغير تابع
+8. انحدار
+9. دالة خطية
+10. نسق إحداثي"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","F","Handle compound proportions","- النسبة 
+- التناسب 
+- النسب المركبة 
+- المجهول 
+- المعادلة 
+- المفهوم 
+- التوافق 
+- القواعد الحسابية 
+- القيم 
+- الأبعاد"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","F","Solve direct/inverse variation in real tasks","1. التناسب المباشر  
+2. التناسب العكسي  
+3. المتغيرات  
+4. الثوابت  
 5. المعادلة  
-6. النسبة  
-7. الضرب التبادلي  
-8. التوحيد (التوحيد إلى وحدة واحدة)"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","D","Recognize inverse proportion (workers/time)","1. التناسب العكسي  
-2. العمال  
-3. الزمن  
-4. الكفاءة  
-5. معدل العمل  
-6. كمية العمل"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","E","Write y=kx as linear proportion","1. دالة خطية  
-2. نسبة  
-3. ثابت التناسب  
-4. ميل  
-5. متغير مستقل  
-6. متغير تابع"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","E","Interpret slope as rate of change","- الانحدار
-- معدل التغير
-- المشتق
-- المتغير المستقل
-- المتغير التابع
-- ميل الخط
-- التحليل البياني
-- التغير الطولي
-- العلاقة الخطية
-- معدل السرعة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","F","Handle compound proportions","1. النسب المركبة
-2. المعادلات
-3. المتغيرات
-4. الثوابت
-5. التناسب المباشر
-6. التناسب العكسي
-7. الجبر
-8. الكسور
-9. النسبة والتناسب
-10. التحليل العددي"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","F","Solve direct/inverse variation in real tasks","متغير، ثابت التناسب، تناسب طردي، تناسب عكسي، دالة، معادلة، متغير مستقل، متغير تابع، علاقة رياضية، حلول."
+6. حل المعادلة  
+7. النسبة  
+8. القيمة المتناسبة  
+9. العلاقة الخطية  
+10. مفهوم المتغير المستقل  
+11. مفهوم المتغير التابع  
+12. الرسم البياني  
+13. الصيغة الرياضية  
+14. النسبة المئوية  
+15. الأبعاد المتغيرة"
 "Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","G","Analyze partial proportionality","1. التناسب الجزئي
-2. المعادلة الرياضية
-3. الدوال النسبية
-4. الثوابت والمتغيرات
-5. التغير المباشر
-6. التغير العكسي
-7. نظام المعادلات
-8. الرسم البياني
-9. التحليل الرياضي
-10. الانحدار الخطي
-11. العمليات الجبرية
-12. قيم التعديل والترجيح"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","G","Apply ratios in geometry (similar triangles)","1. نسبة  
-2. تشابه المثلثات  
-3. طول الأضلاع  
-4. الأبعاد  
-5. الزوايا المتناظرة  
-6. الأضلاع المتناسبة  
-7. التحجيم  
-8. المسافة  
-9. وحدات القياس  
-10. المساحة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","H","Transform y=kx into y=kx+b","1. متغير
-2. تابعية خطية
-3. ثابت
-4. ميل
-5. التقاطع مع المحور y
-6. معادلة خطية"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","H","Explore advanced proportional forms","- النسبة
-- الأشكال المتقدمة
-- التناسب
-- التحليل الرياضي
-- المتغيرات
-- المعادلات
-- العلاقات الرياضية
-- الهندسة البيانية
-- النمذجة الرياضية"
+2. التحليل
+3. المتغيرات
+4. النماذج الإحصائية
+5. الميل (الحد)
+6. الانحدار
+7. التأثيرات الثابتة
+8. التأثيرات العشوائية
+9. التوزيع
+10. التعقيد
+11. الصلاحية
+12. التفسير
+13. المعاملات
+14. عدم التناسب
+15. البيانات المفقودة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","G","Apply ratios in geometry (similar triangles)","1. مثلثات متشابهة
+2. النسبة
+3. الأبعاد
+4. الأضلاع
+5. الزوايا
+6. النسبة المئوية
+7. الأشكال الهندسية
+8. النمط
+9. القياسات
+10. خريطة القياس"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","H","Transform y=kx into y=kx+b","- معادلة خطية  
+- ميل  
+- نقطة تقاطع  
+- نظام الإحداثيات  
+- المتغيرات  
+- الثوابت  
+- دالة خطية"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Zuordnungen und Proportionalität","H","Explore advanced proportional forms","1. أشكال متناسبة
+2. النسبة
+3. التناسب
+4. المعادلات النسبية
+5. التحويلات الرياضية
+6. المتغيرات
+7. العمليات الجبرية
+8. الدوال النسبية
+9. النمذجة الرياضية
+10. الرسم البياني"
 "Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","B","Read input→output table (x→x+2)","1. إدخال  
 2. إخراج  
-3. دالة التحويل  
-4. جدول  
-5. اقتران  
-6. متغير  
-7. قيمة  
-8. عملية الجمع"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","B","Plot points for y=x+2","1. الإحداثي السيني (x-coordinate)  
-2. الإحداثي الصادي (y-coordinate)  
-3. الجهاز الديكارتي (Cartesian plane)  
-4. العلاقات الخطية (Linear equation)  
-5. المحاور (Axes)  
-6. النقط (Points)  
-7. الرسم البياني (Graph)  
-8. المجال (Domain)  
-9. المدى (Range)  
-10. التمثيل البياني (Graphical representation)  
-11. الميل (Slope)  
-12. المقطع الصادي (Y-intercept)"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","C","Identify linear pattern in a table","1. المعادلة الخطية  
-2. التدرج (أو الميل)  
-3. التقاطع y  
-4. المتغير المستقل  
-5. المتغير التابع  
-6. النموذج الخطي  
-7. الانحدار الخطي  
-8. تبسيط البيانات  
-9. المتوالية العددية  
-10. العلاقة التناسبية  
-11. التحليل البياني  
-12. الدالة الخطية  
-13. الزيادة الثابتة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","C","Create line graph from y=2x","- خط مستقيم
-- الإحداثيات
-- المحور السيني
-- المحور الصادي
-- الدالة
-- القيم المدخلة (x)
-- القيم الخارجة (y)
-- الميل (الانحدار)
-- نقطة البداية
-- المخطط البياني"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","D","Find slope from two points","1. منحدر  
-2. نقطة  
-3. معادلة الخط المستقيم  
-4. إحداثيات  
-5. فرق y  
-6. فرق x  
-7. نسبة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","D","Write y=mx+b from slope/intercept","1. ميل
-2. مقطع y
-3. معادلة الخط المستقيم
-4. المتغيرات
-5. الثوابت
-6. الإحداثيات"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","E","Describe distance-time linear model","- المسافة (Distance)
-- الزمن (Time)
-- النموذج الخطي (Linear Model)
-- السرعة (Speed)
-- الميل (Slope)
-- النقاط (Points)
-- التمثيل البياني (Graph Representation)
-- المحور السيني (X-axis)
-- المحور الصادي (Y-axis)
-- المتغير المستقل (Independent Variable)
-- المتغير التابع (Dependent Variable)
-- المعادلة الخطية (Linear Equation)"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","E","Examine simple non-linear y=x²","- دالة  
-- غير خطي  
-- التربيع  
-- الاقتران  
-- محور السينات  
-- محور الصادات  
-- الرسم البياني  
-- تقعر  
-- نقطة القمة  
-- المشتقة  
-- المشتقة الثانية"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","F","Transform functions (shifts, reflections)","1. التحويلات
-2. الإزاحة
-3. الانعكاس
-4. التمدد
-5. الانكماش
-6. دالة
-7. المحور السيني (X)
-8. المحور الصادي (Y)
-9. الفترة
-10. التماثل"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","F","Compare linear vs. exponential growth","1. معدل النمو  
-2. الدالة الخطية  
-3. الدالة الأسية  
-4. المتغير  
-5. المشتقة  
-6. الثابت  
-7. المنحنى  
-8. الأس  
-9. معادلة  
-10. النقطة الثابتة  
-11. الزيادة المتزايدة  
-12. اللوغاريتم"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","G","Use piecewise/ polynomial functions","1. دوال متعددة الحدود  
-2. دالة متعددة المتغيرات  
-3. دالة الجزء  
-4. تفاضل  
-5. تكامل  
-6. استمرارية  
-7. متغير مستقل  
-8. متغير تابع  
-9. نقطة الانقطاع  
-10. درجات الحدود  
-11. شروط التجزئة  
-12. تماثل الدوال  
-13. قاعدة الدالة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","G","Analyze quadratic (vertex, roots)","1. دالة تربيعية
-2. رأس القطع المكافئ
-3. جذور المعادلة
-4. المحور السيني
-5. المحور الصادي
-6. المعادلة التربيعية
-7. تكميم
-8. الصيغة العامة
-9. نقطة الرأس
-10. محلول المعادلة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","H","Investigate rational/logarithmic families","1. الدوال العقلانية
-2. الدوال اللوغاريتمية
-3. البسط
-4. المقام
-5. تحويل اللوغاريتم
-6. الدوال الجذرية
-7. القيم المتطرفة
-8. حدود السلسلة
-9. التكامل
-10. التفاضل
-11. الدوال المتعددة الحدود
-12. الكسور الجزئية
-13. النقاط الحرجة
-14. الاتصال والاستمرارية
-15. النظريات الأساسية في الحسابانات"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","H","Use calculus to analyze function behavior","1. مشتقة
-2. تكامل
-3. حدود النهاية
-4. الدالة
-5. الاستمرارية
-6. الاقترانات
-7. النقاط الحاسمة
-8. القيم القصوى
-9. التقعر
-10. النقاط الشاذة
-11. معدل التغير
-12. قاعدة السلسلة
-13. قاعدة الجداء
-14. قاعدة القسمة
-15. مماس
-16. منحنى
-17. تحليل الرسوم البيانية"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","B","Solve x+2=5 in a story context","- معادلة
-- حل
-- متغير
-- قيمة
-- جمع
-- طرفان المعادلة
-- عملية عكسية"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","B","x=3 by basic arithmetic","- المتغيرات
-- المعادلات
-- العمليات الحسابية
-- المساواة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","C","Substitute x=4 in 3x+1","1. Substitute  
-2. Variable  
-3. Expression  
-4. Equation  
-5. Value"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","C","Solve one/two-step linear equations","- معادلة
-- معادلة خطية
-- عملية جبرية
-- متغير
-- ثابت
-- خطوتين
-- قيمة
-- حل المعادلة
-- تبسيط
-- توزيع
-- جمع وطرح
-- ضرب وقسمة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","D","Simplify 2x+3x=5x","1. Coefficient
-2. Variable
-3. Like terms
-4. Simplification
-5. Algebraic expression"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","D","Solve multi-step linear eq. (2x+3=11)","- معادلة خطية
-- متعدد الخطوات
-- حل المعادلات
-- العبارات الجبرية
-- المتغيرات
-- العمليات الجبرية (الجمع، الطرح، الضرب، القسمة)
-- تبسيط المعادلات"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","E","Solve simultaneous linear eq. in 2 vars","1. معادلة خطية  
-2. نظام معادلات  
-3. متغيرات  
-4. حلول  
-5. عدد غير محدد  
-6. مجموعة الحل  
-7. تقاطع  
-8. مصفوفة  
-9. محدد المصفوفة  
-10. الانتماء  
-11. نظام متسق  
-12. نظام مفرط التحديد  
-13. نظام غير متسق  
-14. معادلات متزامنة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","E","Interpret solutions (intersection points)","- النقاط المشتركة
-- التقاطع
-- معادلة
-- نظام معادلات
-- الحل
-- الإحداثيات"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","F","Factor x²+5x+6","- حد (Term)
-- معادلة تربيعية (Quadratic Equation)
-- تحليل الجذور (Root Factoring)
-- معامل (Coefficient)
-- الجذور (Roots)
-- متعددة الحدود (Polynomial)"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","F","Solve quadratics by factoring or formula","1. Quadratic Equation
-2. Factoring
-3. Quadratic Formula
-4. Coefficient
-5. Constant Term
-6. Roots or Solutions
-7. Discriminant
-8. Polynomial
-9. Linear Term
-10. Degree"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen and Algebra","G","Manipulate algebraic fractions","- المقام (Denominator)
-- البسط (Numerator)
-- الكسر الجبري (Algebraic Fraction)
-- التبسيط (Simplification)
-- العامل المشترك الأكبر (Greatest Common Factor)
-- القسمة المطولة (Long Division)
-- المقلوب (Reciprocal)
-- تحديد العوامل (Factoring)
-- الكسور المركبة (Complex Fractions)
-- التوحيد (Common Denominator)"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen and Algebra","G","Solve systems (linear/quadratic)","1. معادلات
-2. نظام معادلات
-3. تقاطع
-4. خطية
-5. تربيعية
-6. مجهول
-7. متغيرات
-8. معاملات
-9. دالة
-10. الحل
-11. المحدد (دليل)
-12. مصفوفة
-13. التخلص
-14. الاستبدال
-15. الرسم البياني
-16. جذور"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","H","Higher-degree polynomials/complex factors","1. حدود متعددة الحدود  
-2. معاملات  
-3. الجذور أو الأصفار  
-4. القواسم  
-5. التحليل إلى عوامل  
-6. نظرية باقي القسمة  
-7. النظرية الأساسية للجبر  
-8. الأعداد المركبة  
-9. الجذور العقدية  
-10. توابع متعددة الحدود"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","H","Use computer algebra for symbolic tasks","- الجبر الرمزي
-- معادلات تفاضلية
-- التكامل الرمزي
-- التفاضل الرمزي
-- تبسيط التعابير الرياضية
-- تحويل فورييه
-- المعادلات الجبرية
-- حلول تحليلية
-- متغيرات رياضية
-- العمليات الحسابية الرمزية"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","B","Notice x→x² (small x) vs. linear","1. دالة
-2. تربيع
-3. اقتران تربيعي
-4. اقتران خطي
-5. سلوك النهايات
-6. مقارنة دوال
-7. الفرق بين النمو التربيعي والخطي
-8. الرسم البياني لدوال"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","B","Discuss doubling sequence (exponential idea)","1. متتالية  
-2. أُس   
-3. قاعدة   
-4. الأساس   
-5. فترة زمنية  
-6. نسبة النمو  
-7. معدل النمو   
-8. الدالة الأسية  
-9. المضاعفة   
-10. التغيير اللوغاريتمي"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","C","Identify curved graph vs. line","1. منحنى
-2. خط مستقيم
-3. تمثيل بياني
-4. نظام إحداثي
-5. انحدار
-6. تقاطع
+3. جدول  
+4. دالة  
+5. متغير  
+6. معادلة  
+7. عملية  
+8. تحويل"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","B","Plot points for y=x+2","1. نقطة
+2. محور س
+3. محور ص
+4. معادلة
+5. إحداثيات
+6. رسم بياني
 7. ميل
-8. دالة رياضية
-9. معادلة
-10. نقطة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","C","Sketch y=x² for integer x","- Sketch
-- Graph
-- Quadratic Function
-- Parabola
-- Integer
-- Coordinate System
-- Axis
-- Vertex
-- Symmetry"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","D","Compare linear vs. quadratic tables","- خطي
-- تربيعي
-- جدول
-- دالة
+8. تقاطع
+9. دالة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","C","Identify linear pattern in a table","1. نمط خطي
+2. جدول
+3. معادلة
+4. متغيرات
+5. نقاط البيانات
+6. انحدار
+7. تحليل البيانات
+8. تداخل
+9. علاقات خطية
+10. استقرائية"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","C","Create line graph from y=2x","1. دالة (Function)
+2. متغير (Variable)
+3. محور س (X-axis)
+4. محور ص (Y-axis)
+5. نقاط البيانات (Data Points)
+6. تصوير بياني (Graphing)
+7. ميل (Slope)
+8. تقاطع (Intercept)
+9. معادلة (Equation)
+10. شبكة (Grid)"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","D","Find slope from two points","1. ميل  
+2. نقاط  
+3. معادلة  
+4. إحداثيات  
+5. محور x  
+6. محور y  
+7. فرق  
+8. انحدار  
+9. نسبة  
+10. خط مستقيم"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","D","Write y=mx+b from slope/intercept","- الميل
+- التعويض 
+- المحور الصادي
+- المحور السيني
+- نقطة التقاطع
+- معادلة خطية
+- معامل الميل
+- القيمة الثابتة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","E","Describe distance-time linear model","- مسافة
+- زمن
+- نموذج خطي
 - ميل
-- تقاطع
-- متغير مستقل
-- متغير تابع
-- معدل التغير
+- التقاطع
+- نقطة البداية
 - معادلة
-- ثابت 
-- درجة الدالة"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","D","Explore basic exponentials (y=2^x)","1. القاعدة  
-2. الأس  
-3. الدالة الأسية  
-4. النمو الأسي  
-5. محور السينات  
-6. محور الصادات  
-7. المتغير التابع  
-8. المتغير المستقل  
-9. التقاطع مع محور الصادات  
-10. المنحنى البياني  
-11. التابع الدال  
-12. السلوك النهائي"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","E","Analyze compound interest growth","1. الفائدة المركبة
-2. الفائدة السنوية
-3. الجدول الزمني
-4. المعادلة الأساسية
-5. القيمة المستقبلية
-6. القيمة الحالية
-7. معدل الفائدة
-8. فترة الاستثمار
-9. تراكم الفائدة
-10. النمو الأسي"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","E","Use tech to plot polynomial vs. exponential","- حدودية
-- أسي
-- رسم بياني
-- تقاطع
-- محور
+- متغيرات مستقلة
+- متغيرات تابعة
+- التناسب
+- سرعة
+- الرسم البياني"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","E","Examine simple non-linear y=x²","1. معادلة غير خطية
+2. الدالة
+3. المتغيرات
+4. المدى
+5. النطاق
+6. الجذر
+7. المنحنى
+8. الاشتقاق
+9. النقطة الحرجة
+10. الاتجاهات"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","F","Transform functions (shifts, reflections)","1. دالة
+2. تحويل
+3. تحريك
+4. انعكاس
+5. محور
+6. انتقال
+7. مقياس
+8. دالة خطية
+9. دالة غير خطية
+10. تناظر
+11. اتجاه
+12. قيمة مطلقة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","F","Compare linear vs. exponential growth","1. النمو الخطي
+2. النمو الأسي
+3. الدالة
+4. المتغيرات
+5. الميل
+6. الأس
+7. الثابت
+8. المعادلة
+9. البيانات
+10. الرسوم البيانية
+11. الشرائح
+12. السرعة
+13. القيم المتزايدة
+14. الحدود
+15. التطبيقات"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","G","Use piecewise/ polynomial functions","1. دالة قطعة (Piecewise Function)
+2. دالة متعددة الحدود (Polynomial Function)
+3. حدود (Terms)
+4. معامل (Coefficient)
+5. جذر (Root)
+6. درجة (Degree)
+7. نقاط التقطع (Intercepts)
+8. دالة مستقيمة (Linear Function)
+9. تدرج (Slope)
+10. رسم بياني (Graph)
+11. قاعدة القطع (Piecewise Definition)
+12. متغير (Variable)
+13. نطاق (Domain)
+14. مجموعة القيم (Range)
+15. استمرارية (Continuity)"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","G","Analyze quadratic (vertex, roots)","1. المعادلة التربيعية
+2. الجذور
+3. رأس القطع
+4. المقدار التربيعي
+5. الشكل القياسي
+6. الجذور الحقيقية
+7. المميز
+8. تحويل للمقدار التربيعي
+9. المحور التماثلي
+10. المدى"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","H","Investigate rational/logarithmic families","1. عائلات كسرية
+2. عائلات لوغاريتمية
+3. الدوال
+4. تمييز
+5. تحليل
+6. حدود
+7. تقاطع
+8. استجابة
+9. خوارزمية
+10. قابلية للتطبيق
+11. نموذج رياضي
+12. متغيرات مستقلة
+13. متغيرات معتمدة
+14. تحويلات
+15. أبعاد البيانات
+16. استنتاج
+17. ارتباط
+18. نظريات الاحتمال
+19. تبسيط
+20. تقدير"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Lineare und andere einfache Funktionen","H","Use calculus to analyze function behavior","1. دالة
+2. اشتقاق
+3. نقاط الحرجة
+4. المدى
+5. الصورة العامة
+6. تقعر الدالة
+7. الحدود
+8. تكامل
+9. قمة 
+10. قاع
+11. السلوك عند اللانهاية
+12. المستويات الأسية
+13. تابع دالة
+14. تحليل النقط المدورة
+15. قاعدة الاشتقاق"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","B","Solve x+2=5 in a story context","1. المعادلة
+2. المتغير
+3. الحل
+4. عملية الجمع
+5. العدد
+6. الصيغة
+7. القيم الرقمية
+8. التوازن
+9. العمليات الرياضية
+10. الطرفين"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","B","x=3 by basic arithmetic","- معادلة
 - متغير
+- حل
+- طرف
+- قيمة
+- عادل"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","C","Substitute x=4 in 3x+1","- المعادلة
+- القيم
+- التعويض
+- المتغير
+- الثابت"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","C","Solve one/two-step linear equations","1. المعادلة الخطية
+2. المتغير
+3. الثابت
+4. الحل
+5. الجمع
+6. الطرح
+7. الضرب
+8. القسمة
+9. المعامل
+10. الجهة اليمنى
+11. الجهة اليسرى
+12. المساواة
+13. العدد الجبري
+14. خطوات الحل
+15. التبسيط"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","D","Simplify 2x+3x=5x","- معادلة
+- تبسيط
+- جمع
+- حدود
+- متغير
+- معادلة جبرية
+- توازن"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","D","Solve multi-step linear eq. (2x+3=11)","1. معادلة خطية
+2. حل
+3. خطوات متعددة
+4. المتغيرات
+5. القيم العددية
+6. جمع
+7. طرح
+8. ضرب
+9. قسمة
+10. معكوس العمليات"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","E","Solve simultaneous linear eq. in 2 vars","1. معادلات خطية
+2. متغيرات
+3. حل متزامن
+4. مصفوفة
+5. معكوس المصفوفة
+6. معادلة
+7. حدود
+8. معاملات
+9. نظام من المعادلات
+10. نقطة التقاطع"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","E","Interpret solutions (intersection points)","1. نقطة التقاطع  
+2. معادلة  
+3. حل  
+4. نظام المعادلات  
+5. الرسم البياني  
+6. المتغيرات  
+7. الأبعاد  
+8. القيمة  
+9. الوسيط  
+10. الدالة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","F","Factor x²+5x+6","1. العامل (Factor)
+2. معادلة (Equation)
+3. حد (Term)
+4. جذور (Roots)
+5. ثنائية (Binomial)
+6. تحليل (Factoring)
+7. تربيعي (Quadratic)
+8. طريقة التحليل (Factoring method)  
+9. جمع (Sum)  
+10. ضرب (Product)"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","F","Solve quadratics by factoring or formula","1. معادلة تربيعية
+2. عوامل
+3. جذر
+4. صيغة فيتا
+5. تمييز
+6. معاملات
+7. صفر
+8. الشكل القياسي
+9. حل
+10. قمة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen and Algebra","G","Manipulate algebraic fractions","1. كسر (Fraction)
+2. الجبر (Algebra)
+3. تلاعب (Manipulation)
+4. بسط (Numerator)
+5. مقام (Denominator)
+6. اختصار (Simplification)
+7. جمع الكسور (Adding Fractions)
+8. طرح الكسور (Subtracting Fractions)
+9. ضرب الكسور (Multiplying Fractions)
+10. قسمة الكسور (Dividing Fractions)
+11. معكوس (Reciprocal)
+12. قيمة مشتركة (Common Value)
+13. تحليلات (Factoring)
+14. تفكيك (Decomposition)
+15. اقتران (Expression)"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen and Algebra","G","Solve systems (linear/quadratic)","1. المعادلة الخطية  
+2. المعادلة التربيعية  
+3. النظام  
+4. حل  
+5. المتغيرات  
+6. المجهول  
+7. المعاملات  
+8. النقطة المشتركة  
+9. الرسم البياني  
+10. التمييز  
+11. النتائج  
+12. القيم  
+13. الإزاحة  
+14. العمليات الرياضية  
+15. المصفوفات"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","H","Higher-degree polynomials/complex factors","- كثيرات الحدود
+- عوامل
+- درجة كثير الحدود
+- جذور
+- تحليل كثير الحدود
+- الأعداد العقدية
+- المعاملات
+- طرق التحليل
+- قواعد التحليل
+- الأصفار"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Gleichungen und Algebra","H","Use computer algebra for symbolic tasks","1. الجبر الرمزي  
+2. التعبيرات الرياضية  
+3. المعادلات  
+4. المتغيرات  
+5. الدوال  
+6. القيم الثابتة  
+7. المصفوفات  
+8. النظم الجبرية  
+9. التفاضل  
+10. التكامل  
+11. التحليل  
+12. الحلول الرمزية  
+13. التحويلات  
+14. تبسيط  
+15. المعالجة الرمزية"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","B","Notice x→x² (small x) vs. linear","1. المتسلسلة (Series)  
+2. الحدود (Terms)  
+3. الحد الأدنى (Infinitesimal)  
+4. تقارب (Convergence)  
+5. تقريب (Approximation)  
+6. دالة (Function)  
+7. النمو التربيعي (Quadratic Growth)  
+8. خطي (Linear)  
+9. المشتقات (Derivatives)  
+10. التقاطع (Intersection)  
+11. المدى (Domain)  
+12. قيم متناهية الصغر (Infinitesimal Values)  
+13. المتجه (Vector)  
+14. النقطة (Point)"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","B","Discuss doubling sequence (exponential idea)","- تسلسل مضاعف
+- الأسية
+- القاعدة
+- النسبة
+- تزايد
+- تابع
 - دالة
-- برمجيات الرسوم البيانية
-- منحنى
-- أسس"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","F","Investigate y=1/x or rational funcs","1. دالة كسرية  
-2. متغير  
-3. نهاية  
-4. قطع زائد  
-5. نقطة عدم تعريف  
-6. محاور متناظرة  
-7. تقارب أفقي  
-8. تقارب رأسي  
-9. مجال  
-10. مدى  
-11. متعددات الحدود  
-12. كسر مشترك  
-13. تبسيط الدوال  
-14. تحويلات هندسية  
-15. متناظرة بالنسبة للمحور"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","F","Solve half-life or depreciation problems","1. عمر النصف  
-2. الانحلال الإشعاعي  
-3. الاضمحلال الأسي  
-4. المقدار الأولي  
-5. الزمن  
-6. معدل الاضمحلال  
-7. معدل الفائدة  
-8. القيمة المتبقية  
-9. الدالة الأسية  
-10. التغير النسبي  
-11. معادلة الاضمحلال"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","G","Introduce logs or trig briefly","1. مقلوب (Inverse)  
-2. دوال لغرتمية (Logarithmic Functions)  
-3. قاعدة اللوغاريتمات (Logarithm base)  
-4. دوال مثلثية (Trigonometric Functions)  
-5. الزاوية (Angle)  
-6. الراديان (Radian)  
-7. الحساب المثلثي (Trigonometry)  
-8. التكامل (Integration)  
-9. التفاضل (Differentiation)  
-10. معادلات (Equations)"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","G","Discuss domain/range for new function types","1. مجال الدالة  
-2. مدى الدالة  
-3. دالة  
-4. أنواع الدوال  
-5. دالة العكسية  
-6. دالة متعددة التعريف  
-7. دالة نسبية  
-8. دالة متناقضة  
-9. دالة جذرية"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","H","Use calculus for advanced analysis","1. الاشتقاق
-2. التكامل
-3. حدود اللانهاية
-4. دوال متعددة المتغيرات
-5. المعادلات التفاضلية
-6. متسلسلات تايلور
-7. تحويل لابلاس
-8. النهايات
-9. قواعد السلسلة
-10. تكاملات الخط
-11. جردة
-12. المشتقات الجزئية
-13. مبدأ الاستنتاج الرياضي"
-"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","H","Model phenomena with combined function types","1. الدوال
-2. النمذجة الرياضية
-3. الدوال المجمعة
-4. الظواهر
-5. التحليل الرياضي
-6. المعادلات التفاضلية
-7. تحويل لابلاس
-8. تحويل فورييه
-9. تحليل المتسلسلات الزمنية
-10. الحساب العددي  
-11. تقريب البيانات
-12. التحليل العددي"
+- النمو الأسي
+- المعادلة
+- حدود"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","C","Identify curved graph vs. line","1. المنحنى
+2. الخط المستقيم
+3. المعادلة
+4. مشتقة
+5. التغير
+6. القيم المطلقة
+7. الرسوم البيانية
+8. النقاط
+9. الدالة
+10. الصعود والنزول"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","C","Sketch y=x² for integer x","1. الرسم البياني
+2. المعادلة
+3. الدالة
+4. المتغير
+5. النقطة
+6. المحور السيني
+7. المحور الصادي
+8. القيم الصحيحة
+9. المنحنى
+10. التمثيل البياني"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","D","Compare linear vs. quadratic tables","1. الجدول
+2. معادلة خطية
+3. معادلة تربيعية
+4. ميل
+5. الحدود العليا
+6. الحدود السفلية
+7. النقاط المتطابقة
+8. الرسم البياني
+9. التغير الثابت
+10. التغير غير الثابت
+11. الصيغة العامة
+12. النتيجة
+13. القرن
+14. محورية
+15. أحادي الحدود"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","D","Explore basic exponentials (y=2^x)","1. القوة
+2. الأساس
+3. الدالة
+4. المتغير
+5. النمو الأسي
+6. محور السينات
+7. محور الصادات
+8. الصورة البيانية
+9. القيمة الموجبة
+10. القيمة السالبة
+11. تقاطع
+12. تقارب
+13. الانحدار
+14. التسارع
+15. تحليل الدالة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","E","Analyze compound interest growth","1. الفائدة المركبة
+2. المبلغ الأصلي
+3. معدل الفائدة
+4. الزمن
+5. الفائدة
+6. الصيغة الحسابية
+7. الحسابات المالية
+8. التركيب
+9. المكافأة المالية
+10. العائد"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","E","Use tech to plot polynomial vs. exponential","1. دالة متعددة الحدود
+2. دالة أسية
+3. رسم بياني
+4. محور س السيني
+5. محور ص الصادي
+6. نقاط البيانات
+7. تقاطع
+8. معدل النمو
+9. حدود
+10. درجات الدالة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","F","Investigate y=1/x or rational funcs","1. دالة (Function)  
+2. متغير (Variable)  
+3. كسر (Rational)  
+4. صفر المقام (Zero of the Denominator)  
+5. حدود (Terms)  
+6. قاعدة التعويض (Substitution Rule)  
+7. رسم بياني (Graph)  
+8. لانهائية (Infinity)  
+9. متزايدة (Increasing)  
+10. متناقصة (Decreasing)  
+11. تقاطع المحاور (Intercepts)  
+12. مجال الدالة (Domain)  
+13. مجال القيم (Range)  
+14. تناظر (Symmetry)  
+15. تحليل (Analysis)  
+16. اقتران (Relation)  
+17. سلوك عندما يقترب من (Behavior As It Approaches)  
+18. نقطة التعريف (Point of Definition)  
+19. المشتقة (Derivative)  
+20. التجاذب (Asymptote)"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","F","Solve half-life or depreciation problems","1. نصف العمر
+2. الاستهلاك
+3. معدل الانخفاض
+4. معادلة
+5. المتغيرات
+6. الزمن
+7. الكمية الأصلية
+8. الكمية النهائية
+9. اللوغاريتم
+10. ثبات
+11. التحليل الرياضي
+12. الدالة الأسية
+13. العمليات الحسابية
+14. النموذج الرياضي"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","G","Introduce logs or trig briefly","1. اللوغاريتمات
+2. الدالة الأسية
+3. القاعدة
+4. معكوس الدالة
+5. الزاوية
+6. النسب المثلثية
+7. الجيب
+8. الجيب التمام
+9. الظل
+10. الزوايا القائمة
+11. المعادلات المثلثية
+12. الدائرة
+13. التوافق الزاوي
+14. المستوى الإحداثي
+15. العلاقات الرياضية"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","G","Discuss domain/range for new function types","1. دالة
+2. نطاق
+3. مدى
+4. دالة خطية
+5. دالة تربيعية
+6. دالة مكعبة
+7. دالة جذرية
+8. دالة مثلثية
+9. دالة لوغاريتمية
+10. دالة قيمة مطلقة
+11. دالة متعددة الحدود
+12. دالة كسرية
+13. دالة دورية
+14. عكس الدالة
+15. تزايد وتناقص الدالة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","H","Use calculus for advanced analysis","1. التفاضل  
+2. التكامل  
+3. الحدود الدنيا والعليا  
+4. القيم الحرجة  
+5. المشتقات  
+6. المتتاليات  
+7. الدوال المستمرة  
+8. المشتقات الجزئية  
+9. الدوال التكاملية  
+10. نظرية القيمة المتوسطة  
+11. المنحنيات  
+12. النقاط الاستوائية  
+13. تحليل الحدود  
+14. المتجهات  
+15. التغييرات الطفيفة"
+"Funktionale Zusammenhänge (Muster und Strukturen)","Weitere funktionale Beziehungen","H","Model phenomena with combined function types","1. نموذج
+2. ظاهرة
+3. دالة مركبة
+4. دالة مستمرة
+5. دالة متقطعة
+6. متغير مستقل
+7. متغير تابع
+8. تحليل رياضي
+9. دالة خطية
+10. دالة غير خطية
+11. مساحة التعريف
+12. قيد
+13. تقاطع الدوال
+14. تداخل الدوال
+15. تدرج"
