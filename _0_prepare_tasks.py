@@ -17,7 +17,9 @@ def clean_csv(input_file, output_file):
                 continue  # Skip empty rows
             topic_area, topic, progress_level, exercise = row
             if exercise.strip() != '':
-                writer.writerow([topic_area, topic, progress_level, exercise])
+                exercise = exercise.replace('Hier ist die Übersetzung der Übungsbeschreibung ins Deutsche:', '')
+                writer.writerow([topic_area, topic, progress_level, exercise.strip()])
 
 if __name__ == "__main__":
     clean_csv('topic_areas.csv','topic_areas_cleaned.csv')
+    

@@ -18,8 +18,10 @@ def solve_tasks(input_file, output_file, model="gpt-4o-mini"):
         writer.writerow(header + [f"{model} solution"])
         
         for i, row in enumerate(reader):
+            if i >= 50:
+                break
             topic_area, topic, progress_level, exercise = row
-            prompt = f"Explain how to solve this task: {exercise}"
+            prompt = f"Explain how to solve this task in: {exercise}. Use the same language as the task description."
             print(f"Solving task {i+1}: {exercise}")
             retry_count = 0
             while retry_count < 5:
