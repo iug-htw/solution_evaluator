@@ -22,15 +22,15 @@ def find_differently_performing_exercises(files):
         
         # Compute an overall 'score' as the mean of the evaluation metrics
         score_columns = [
-            'Problem Understanding (Comprehension)',
-            'Clarity and Step-by-Step Explanation',
-            'Accuracy of Process (Correctness of Steps)',
-            'Correctness of Final Answer',
-            'Learning Appropriateness (Is the Explanation Suitable for Learners?)',
-            'Generalization (Can the Learner Apply This Method to Similar Problems?)',
-            'Technical Terms Explanation',
-            'Addressing Common Errors',
-            "Appropriateness Based on Progress Level (Grade)",
+            "Problem Understanding (Comprehension)",
+            "Clarity and Step-by-Step Explanation",
+            "Accuracy of Process (Correctness of Steps)",
+            "Correctness of Final Answer",
+            "Learning Appropriateness",
+            "Generalization",
+            "Technical Terms Explanation",
+            "Addressing Common Errors",
+            "Appropriateness Based on Progress Level",
         ]
         
         for col in df[score_columns]:

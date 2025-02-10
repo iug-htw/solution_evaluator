@@ -1,0 +1,119 @@
+"Topic Area","Topic","Progress Level","Exercise","Technical Terms"
+"Numbers and operations","Understanding and representing numbers","B","Zeichne 10 Sterne in das Kästchen und male 5 davon blau.","Zeichnen, Malen, Sterne, Kästchen, blau"
+"Numbers and operations","Understanding and representing numbers","B","Zähle die Anzahl der Äpfel im Bild und schreibe die Gesamtsumme in den leeren Kreis darunter.","Bildverarbeitung, Objekterkennung, Zählalgorithmus, Segmentierung"
+"Numbers and operations","Understanding and representing numbers","B","Schreibe die Zahlen von 1 bis 20 der Reihenfolge nach auf die vorgesehenen Linien.","Zahlen, Reihenfolge"
+"Numbers and operations","Understanding and representing numbers","B","Zeichne Linien, um die Zahlen 1 bis 20 mit ihren passenden Punktmustern zu verbinden.","Linien, Zahlen, Punktmuster, verbinden"
+"Numbers and operations","Understanding and representing numbers","B","Umkreise die Zahl, die die gleiche Anzahl von Punkten darunter hat; zum Beispiel, wenn du 5 Punkte siehst, umkreise die Zahl 5.","Zahlen, Punkte, Umkreisung"
+"Numbers and operations","Understanding and representing numbers","B","Fülle die Lücken mit dem richtigen Zahlensymbol aus, das den auf der Seite gezeigten Punktmustern entspricht.","Mustererkennung,  Sequenz,  Zahlenfolgen,  Logik,  Mathematische  Relationen"
+"Numbers and operations","Understanding and performing operations","C","Emma hat 24 Äpfel und sie gibt 13 Äpfel an ihre Freundin; wie viele Äpfel hat sie noch?","Subtraktion
+Minuend
+Subtrahend
+Differenz
+(optional: natürliche Zahlen)"
+"Numbers and operations","Understanding and performing operations","C","Ein Bauer hat 36 Karotten und pflückt weitere 12 Karotten; wie viele Karotten hat er insgesamt?","Addition
+Summe
+Ganzzahl
+Dezimalzahl (optional, depending on context)"
+"Numbers and operations","Understanding and performing operations","C","Liam hat 45 Seiten seines Buches gelesen und dann 22 weitere Seiten beendet; wie viele Seiten hat er insgesamt gelesen?","Addition
+Subtraktion
+(optional:  Ganzzahl)"
+"Numbers and operations","Understanding and performing operations","C","Sarah hat 8 Boxen mit Keksen, und jede Box enthält 12 Kekse; wie viele Kekse hat sie insgesamt?","Multiplikation
+Produkt
+Summand (optional)
+Summe (optional)
+Faktor
+Operation
+Rechenoperation
+Ganze Zahl
+Dezimalzahl (optional, da hier nicht relevant aber mathematisch verwandt)"
+"Numbers and operations","Understanding and performing operations","C","Ein Bauer hat 240 Äpfel, die er in Körbe packen möchte, wobei jeder Korb 15 Äpfel fasst. Wie viele Körbe benötigt er?","Division
+Anzahl
+Gesamtmenge
+Teiler
+Quotient
+Rest (optional)"
+"Numbers and operations","Understanding and performing operations","C","Wenn ein Auto 120 Meilen in 3 Stunden fährt, wie viele Meilen legt es in jeder Stunde zurück?","Geschwindigkeit
+Weg
+Zeit
+Umrechnung (optional, depending on unit preference)"
+"Numbers and operations","Understanding and performing operations","D","Liam hat 347 Murmeln und er schenkt 128 Murmeln seinen Freunden; wie viele Murmeln hat er noch?","Subtraktion
+Minuend
+Subtrahend
+Differenz
+Natürliche Zahlen"
+"Numbers and operations","Understanding and performing operations","D","Eine Bäckerei verkaufte morgens 456 Cupcakes und nachmittags 289 Cupcakes; wie viele Cupcakes wurden insgesamt verkauft?","Addition, Subtraktion, Summe"
+"Numbers and operations","Understanding and performing operations","D","Sarah hat eine Sammlung von 864 Aufklebern und sie verliert 275 Aufkleber; wie viele Aufkleber hat sie noch?","Subtraktion
+Differenz
+Minuend
+Subtrahend
+Resultat"
+"Numbers and operations","Understanding and performing operations","D","Eine Bäckerei verkauft Päckchen Kekse für jeweils 24 $ und ein Kunde möchte 4 Päckchen kaufen; benutze das Distributivgesetz, um die Gesamtkosten zu ermitteln.","Distributivgesetz,  Multiplikation, Addition"
+"Numbers and operations","Understanding and performing operations","D","Wenn eine Box 36 Schokoladen enthält und gleichmäßig in 4 kleinere Boxen aufgeteilt wird, wie viele Schokoladen werden in jeder Box sein, indem die distributive Eigenschaft verwendet wird?","Distributiveigenschaft, Division"
+"Numbers and operations","Understanding and performing operations","D","Ein Gärtner muss 29 Blumen in Reihen von 3 pflanzen; wende das distributive Gesetz an, um die Gesamtanzahl der Blumen zu berechnen, die er pflanzen muss.","Distributivgesetz
+Multiplikation
+Addition
+(natürliche) Zahlen
+Produkt
+Summe
+Reihen
+Gesamtzahl"
+"Numbers and operations","Understanding and representing numbers","G","Konvertieren Sie den Bruch 3/8 in eine Dezimalzahl und einen Prozentsatz.","Bruch, Dezimalzahl, Prozentsatz"
+"Numbers and operations","Understanding and representing numbers","G","Ein Schüler hat 85 % in einem Test erzielt; drücke diesen Wert als Bruch in der einfachsten Form aus.","Prozent, Bruch, Kürzen"
+"Numbers and operations","Understanding and representing numbers","G","Wenn ein Hemd 45 $ kostet und um 30 % reduziert ist, bestimme den Verkaufspreis in Dezimalform.","Prozent, Reduktion, Verkaufspreis, Dezimalzahl"
+"Numbers and operations","Understanding and performing operations","F","Ein U-Boot befindet sich in einer Tiefe von 150 Metern unter dem Meeresspiegel; wenn es um 75 Meter steigt, wie tief ist es dann?","Meerestiefe, Wassertiefe"
+"Numbers and operations","Understanding and performing operations","F","Ein Bergsteiger steigt 200 Meter auf und sinkt dann 50 Meter ab; wie viel beträgt ihre endgültige Höhenänderung gegenüber dem Meeresspiegel?","Höhenänderung, Aufstieg, Abstieg"
+"Numbers and operations","Understanding and performing operations","F","Wenn die Temperatur über Nacht von -5 Grad Celsius auf -12 Grad Celsius sinkt, um wie viele Grad ist sie gefallen?","Temperatur, Grad Celsius, Temperaturabfall"
+"Numbers and operations","Ordering numbers","C","Ordne die folgenden Altersangaben von Kindern auf einer Geburtstagsfeier vom jüngsten zum ältesten: 8 5 9 7.","Sortierung,  Algorithmus,  Vergleich"
+"Numbers and operations","Ordering numbers","C","Ordne die folgenden Temperaturen von der kältesten zur wärmsten: 35°F, 28°F, 42°F, 30°F.","Temperatur, Fahrenheit"
+"Numbers and operations","Ordering numbers","C","Ordne die Punkte aus einem Basketballspiel in aufsteigender Reihenfolge: 45, 32, 58, 27.","Aufsteigende Reihenfolge
+Sortierung
+Zahlenvergleich
+Algorithmus (optional)"
+"Numbers and operations","Ordering numbers","H","Ordne die folgenden Temperaturen von der kältesten zur wärmsten: -5°C, 0°C, -2°C und 3°C.","Temperatur, Celsius"
+"Numbers and operations","Ordering numbers","H","Ordne die folgenden Bankkontostände von dem niedrigsten zum höchsten Wert: -150,75 200,50 -45,30 und 75,00.","Betrag, Kontostand, Sortieren, Ordnen"
+"Numbers and operations","Ordering numbers","H","Setze die folgenden Höhen in aufsteigender Reihenfolge von der tiefsten zur höchsten: -30 Meter, -5 Meter, 10 Meter und 50 Meter.","Höhenangabe, aufsteigende Reihenfolge"
+"Numbers and operations","Expanding number relationships and number spaces","D","Die Reihenfolge der Pflanzen in einem Garten wächst wie 2 5 8 __ __; finde die nächsten beiden Zahlen in der Reihenfolge.","* Zahlenfolge
+* arithmetische Folge
+* Differenz"
+"Numbers and operations","Expanding number relationships and number spaces","D","Ein Sprintteam absolviert seine Runden in den folgenden Zeiten: 60 Sekunden, 64 Sekunden, 68 Sekunden __ __; was sind die nächsten beiden Rundenzeiten?","Sequenz, Mustererkennung, arithmetische Folge"
+"Numbers and operations","Expanding number relationships and number spaces","D","Ein Bäcker verwendet ein Muster von Zutaten: 1 Tasse Zucker, 2 Tassen Mehl, 3 Eier __ __; identifiziere die nächsten beiden Elemente in diesem Zutatenmuster.","Sequenz, Mustererkennung"
+"Numbers and operations","Expanding number relationships and number spaces","E","Liste alle Faktoren von 36 auf und identifiziere, welche dieser Faktoren ebenfalls Primzahlen sind.","Faktoren, Primzahlen"
+"Numbers and operations","Expanding number relationships and number spaces","E","Berechne die ersten fünf Vielfachen von 7 und erkläre das Muster, das du in diesen Vielfachen beobachtest.","Vielfaches, Muster, Folge (arithmetische Folge)"
+"Numbers and operations","Expanding number relationships and number spaces","E","Wenn Sie 48 Äpfel haben und diese gleichmäßig in Körbe aufteilen möchten, bestimmen Sie alle möglichen Zahlen von Körben, die Sie verwenden können, indem Sie die Faktoren von 48 finden.","Faktoren
+Teiler
+Primfaktorzerlegung
+(optional: Vielfaches)"
+"Numbers and operations","Expanding number relationships and number spaces","E","Finde das kleinste gemeinsame Vielfache (kgV) von 8 und 12, um zu bestimmen, wie oft ihre Vielfachen übereinstimmen werden.","* Kleinstes gemeinsames Vielfache (kgV)
+* Vielfaches"
+"Numbers and operations","Expanding number relationships and number spaces","E","Berechne den größten gemeinsamen Teiler (ggT) von 20 und 30, um ihren größten gemeinsamen Faktor zu verstehen.","Größter gemeinsamer Teiler (ggT)
+größter gemeinsamer Faktor
+Teiler
+Faktor
+Euklidischer Algorithmus (optional, depending on the solution method)
+Primfaktorzerlegung (optional, depending on the solution method)"
+"Numbers and operations","Expanding number relationships and number spaces","E","Ein Gärtner möchte Blumen in Reihen pflanzen, und zwar mit 18 roten Blumen und 24 blauen Blumen. Was ist das kleinste gemeinsame Vielfache (kgV) von 18 und 24, um die kleinste Gesamtzahl an Blumen zu finden, die er verwenden kann, ohne dass Reste übrig bleiben?","* größter gemeinsamer Teiler (ggT)
+* kleinstes gemeinsames Vielfaches (kgV)"
+"Numbers and operations","Expanding number relationships and number spaces","F","Berechne den Wert von 3 hoch 4 und ziehe dann die Quadratwurzel von 64 von diesem Ergebnis ab.","Hoch, Quadratwurzel, Ergebnis, subtrahieren"
+"Numbers and operations","Expanding number relationships and number spaces","F","Wenn die Fläche eines quadratischen Gartens 81 Quadratfuß beträgt, finde die Länge einer Seite des Gartens.","Fläche, Quadrat, Quadratfuß, Seitenlänge"
+"Numbers and operations","Expanding number relationships and number spaces","F","Bestimme die Summe der Werte, die durch das Ziehen der Quadratwurzel von 49 und das Erheben von 2 in die Potenz von 5 erhalten werden.","Quadratwurzel, Potenz"
+"Numbers and operations","Expanding number relationships and number spaces","G","Ein Modell eines Wolkenkratzers wird im Maßstab 1:250 gebaut. Wenn die tatsächliche Höhe des Wolkenkratzers 300 Meter beträgt, wie hoch ist das Modell in Zentimetern?","Maßstab
+Höhe
+Zentimeter
+Meter
+Umrechnung"
+"Numbers and operations","Expanding number relationships and number spaces","G","Ein Rezept für einen großen Kuchen benötigt 3 Tassen Mehl für jede 2 Tassen Zucker; wenn ein Bäcker 6 Tassen Mehl verwenden möchte, wie viele Tassen Zucker benötigt er dann?","Verhältnis, Proportion"
+"Numbers and operations","Expanding number relationships and number spaces","G","Eine Karte verwendet einen Maßstab, bei dem 1 Zoll 30 Meilen entspricht; wenn zwei Städte auf der Karte 5 Zoll voneinander entfernt sind, wie groß ist die tatsächliche Entfernung zwischen ihnen in Meilen?","Maßstab, Entfernung"
+"Numbers and operations","Applying calculation strategies","D","Eine lokale Buchhandlung hat letzten Monat 237 Bücher und diesen Monat 185 Bücher verkauft; schätze die Gesamtzahl der verkauften Bücher, indem du auf die nächstgelegene Zehnerstelle rundest.","Runden
+Zehnerstelle
+Schätzen
+Gesamtzahl"
+"Numbers and operations","Applying calculation strategies","D","Ein Bauer hat 489 Äpfel und plant, 275 Äpfel zu verschenken; schätze, wie viele Äpfel er übrig haben wird, indem du auf die nächstliegende Zehnerstelle rundest.","Runden
+Zehnerstelle
+Schätzen
+Subtraktion"
+"Numbers and operations","Applying calculation strategies","D","Während einer Schulspendenaktion sammelten die Schüler 1248 $ und gaben 673 $ aus; schätzen Sie den insgesamt verbleibenden Betrag, indem Sie auf die nächste Zehnerstelle runden.","Runden
+Zehnerstelle
+Schätzen
+Subtraktion"
+"Numbers and operations","Applying calculation strategies","E","Jenna hat \(\frac{2}{3}\) einer Pizza und ihre Freundin gibt ihr \(\frac{1}{4}\) einer Pizza; wie viel Pizza hat Jenna jetzt?","Bruchrechnung, Addition von Brüchen, gemeinsamer Nenner"
+"Numbers and operations","Applying calculation strategies","E","Ein Rezept benötigt \(\frac{5}{6}\) Tasse Zucker, aber Jerry hat nur \(\frac{1}{3}\) Tasse; wie viel mehr Zucker muss er sammeln?","Bruchrechnung, Subtraktion von Brüchen, gemeinsamer Nenner"

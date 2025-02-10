@@ -19,7 +19,7 @@ def solve_tasks(input_file, output_file, model="gemini-1.5-flash"):
         writer.writerow(header + [f"{model} solution"])
         
         for i, row in enumerate(reader):
-            if i > 10:
+            if i > 50:
                 break
             topic_area, topic, progress_level, exercise = row
             prompt = f"Explain how to solve this task: {exercise}"
@@ -29,6 +29,10 @@ def solve_tasks(input_file, output_file, model="gemini-1.5-flash"):
 
             solution = response.text.strip()
             writer.writerow(row + [solution])
+
+            # Add a small delay to avoid rate limits
+            time.sleep(2)
+
 
 if __name__ == "__main__":
     input_file = 'topic_areas_cleaned.csv'

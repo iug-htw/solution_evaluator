@@ -1,0 +1,136 @@
+"Topic Area","Topic","Progress Level","Exercise","Technical Terms"
+"Numbers and operations","Understanding and representing numbers","B","ارسم 10 نجوم في الصندوق والون 5 منها باللون الأزرق.","رسم، لون، نجوم، صندوق، عدد."
+"Numbers and operations","Understanding and representing numbers","B","احسب عدد التفاح في الصورة واكتب العدد الكلي في الدائرة الفارغة أدناه.","العد، الصورة، الدائرة"
+"Numbers and operations","Understanding and representing numbers","B","اكتب الأرقام من 1 إلى 20 بالترتيب على الأسطر المتاحة.","أرقام، ترتيب، أسطر"
+"Numbers and operations","Understanding and representing numbers","B","ارسم خطوطاً لربط الأرقام من 1 إلى 20 بأنماط النقاط المطابقة لها.","رسم بياني، نقاط، أعداد، نمط، مطابقة."
+"Numbers and operations","Understanding and representing numbers","B","قم بدائرة الرقم الذي يحتوي على نفس عدد النقاط الموجودة تحته؛ على سبيل المثال، إذا رأيت 5 نقاط، قم بدائرة الرقم 5.","الرقم، النقاط، العد، الدائرة، المقابلة."
+"Numbers and operations","Understanding and representing numbers","B","املأ الفراغات بالرمز الرقمي الصحيح الذي يطابق أنماط النقاط الموضحة في الصفحة.","أنماط،  رقمي،  ترميز"
+"Numbers and operations","Understanding and performing operations","C","إيما لديها 24 تفاحة وقد أعطت 13 تفاحة لصديقتها؛ كم عدد التفاح المتبقي لديها؟","طرح
+عدد صحيح
+نتيجة
+باقي
+جمع (optional, depending on the chosen solving method)
+معادلة (optional, depending on the chosen solving method)"
+"Numbers and operations","Understanding and performing operations","C","مزارع لديه 36 جزرة ويقطف 12 جزرة أخرى؛ كم عدد الجزر التي يمتلكها في المجموع؟","الجمع
+الطرح
+العدد
+المجموع"
+"Numbers and operations","Understanding and performing operations","C","ليام قرأ 45 صفحة من كتابه ثم أنهى 22 صفحة أخرى؛ فكم صفحًة قرأها إجمالًا؟","جمع، طرح، عدد صحيح"
+"Numbers and operations","Understanding and performing operations","C","سارة لديها 8 علب من الكعك وكل علبة تحتوي على 12 كعكة; كم عدد الكعك الذي تمتلكه في المجموع؟","الضرب
+الجمع
+المجموع
+الكمية
+العدد"
+"Numbers and operations","Understanding and performing operations","C","يمتلك مزارع 240 تفاحة ويريد تعبئتها في سلال بحيث تحتوي كل سلة على 15 تفاحة؛ كم سلة يحتاج؟","قسمة
+```
+```
+ناتج القسمة
+```
+```
+مقسوم
+```
+```
+مقسوم عليه
+```"
+"Numbers and operations","Understanding and performing operations","C","إذا كانت السيارة تسير 120 ميلاً في 3 ساعات، فكم ميلًا تسير في كل ساعة؟","المسافة، الزمن، السرعة"
+"Numbers and operations","Understanding and performing operations","D","لدي ليام 347 كرة زجاجية وقد أعطى 128 كرة زجاجية لأصدقائه؛ كم كرة زجاجية تبقى لديه؟","طرح
+```
+```
+نقصان
+```
+```
+باقي
+```
+```
+جمع
+```
+```
+كمية
+```"
+"Numbers and operations","Understanding and performing operations","D","وَكَزَانَتِ المخَبَزَة قد بَاعَت 456 كَعْكةً في الصَّباح و 289 كَعْكةً في المَسَاءِ؛ فَكَمْ كَمْيَّة الكَعَكات الَّتِي بِيعتْ بالإجمال؟","جمع، طرح،  كعكة، كمية، إجمالي"
+"Numbers and operations","Understanding and performing operations","D","سارة لديها مجموعة من 864 ملصقًا وفقدت 275 ملصقًا؛ كم عدد الملصقات التي لا تزال لديها؟","طرح
+عدد صحيح
+جمع
+فرق
+ناتج"
+"Numbers and operations","Understanding and performing operations","D","مخبز يبيع عبوات من البسكويت مقابل 24 دولارًا لكل عبوة، ويريد زبون شراء 4 عبوات؛ استخدم خاصية التوزيع لإيجاد التكلفة الإجمالية.","خاصية التوزيع
+التكلفة الإجمالية
+الضرب
+الجمع
+المجموع"
+"Numbers and operations","Understanding and performing operations","D","إذا كان هناك صندوق يحتوي على 36 قطعة من الشوكولاتة وتم تقسيمه بالتساوي إلى 4 صناديق أصغر، فكم سيكون عدد قطع الشوكولاتة في كل صندوق باستخدام خاصية التوزيع؟","القسمة، التوزيع،  المُتساوي"
+"Numbers and operations","Understanding and performing operations","D","يحتاج البستاني إلى زراعة 29 زهرة في صفوف مكونة من 3 زهور لكل صف؛ استخدم خاصية التوزيع لحساب العدد الإجمالي للزهور التي يحتاج لزراعتها.","خاصية التوزيع،  الضرب، القسمة، الباقي"
+"Numbers and operations","Understanding and representing numbers","G","قم بتحويل الكسر 3/8 إلى عدد عشري ونسبة مئوية.","كسر، عدد عشري، نسبة مئوية"
+"Numbers and operations","Understanding and representing numbers","G","طالب حصل على 85% في اختبار؛ عبّر عن هذه النتيجة ككسر في أبسط صورة.","النسبة المئوية، الكسر، تبسيط الكسر"
+"Numbers and operations","Understanding and representing numbers","G","إذا كانت قميص يكلف 45 دولارًا وفيه خصم قدره 30%، حدد سعر البيع بالشكل العشري.","السعر الأصلي، الخصم، سعر البيع، النسبة المئوية"
+"Numbers and operations","Understanding and performing operations","F","الغواصة على عمق 150 متر تحت سطح البحر؛ إذا ارتفعت 75 متر، ما هو عمقها الجديد؟","عمق، ارتفاع، سطح البحر"
+"Numbers and operations","Understanding and performing operations","F","يبدأ متسلق الجبال بالصعود 200 متر ثم ينزل 50 متر؛ ما هو التغير النهائي في ارتفاعه عن مستوى سطح البحر؟","ارتفاع
+انخفاض
+صعود
+هبوط
+مستوى سطح البحر
+تغير
+ارتفاع عن مستوى سطح البحر
+إزاحة رأسية
+فرق الارتفاع"
+"Numbers and operations","Understanding and performing operations","F","إذا انخفضت درجة الحرارة من -5 درجات مئوية إلى -12 درجة مئوية في الليل، فكم درجة انخفضت؟","درجة الحرارة، انخفاض درجة الحرارة،  مئوية"
+"Numbers and operations","Ordering numbers","C","ترتيب أعمار الأطفال التالية في حفلة عيد الميلاد من الأصغر إلى الأكبر: 8 5 9 7.","الترتيب، التصاعدي، الأعداد الصحيحة."
+"Numbers and operations","Ordering numbers","C","ترجم الوصف التالي للتمرين من الإنجليزية إلى العربية: رتب الدرجات الحرارية التالية من الأبرد إلى الأكثر دفئًا: 35°F 28°F 42°F 30°F.","درجة الحرارة، فهرنهايت، ترتيب"
+"Numbers and operations","Ordering numbers","C","قم بترتيب النقاط من مباراة كرة السلة بالترتيب التصاعدي: 45 32 58 27.","ترتيب تصاعدي
+أعداد صحيحة
+نقاط
+مباراة كرة سلة"
+"Numbers and operations","Ordering numbers","H","رتب درجات الحرارة التالية من الأبرد إلى الأكثر دفئًا: -5°C 0°C -2°C و3°C.","درجة الحرارة،  أبرد، أدفأ، سالب، موجب"
+"Numbers and operations","Ordering numbers","H","قم بترتيب أرصدة حسابات البنك التالية من الأقل إلى الأعلى: -150.75، 200.50، -45.30، و75.00.","أعداد سالبة, أعداد موجبة, ترتيب تصاعدي"
+"Numbers and operations","Ordering numbers","H","رتب الارتفاعات التالية من الأدنى إلى الأعلى: -30 متر، -5 متر، 10 متر، 50 متر.","الترتيب التصاعدي،  الأعداد الصحيحة،  الارتفاع،  المسافة"
+"Numbers and operations","Expanding number relationships and number spaces","D","تتسلسل النباتات في الحديقة كالتالي: 2 5 8 __ __؛ ابحث عن الرقمين التاليين في السلسلة.","متسلسلة عددية،  نمط،  دالة حسابية"
+"Numbers and operations","Expanding number relationships and number spaces","D","تمتلك فريق الجري الأوقات التالية لإنهاء لفاتها: 60 ثانية، 64 ثانية، 68 ثانية، __ __؛ ما هما وقتا اللفتين القادمتين؟","متوسط،  تسلسل حسابي،  الفرق المشترك"
+"Numbers and operations","Expanding number relationships and number spaces","D","يمتدح خباز نمطًا من المكونات: 1 كوب سكر، 2 كوب دقيق، 3 بيضات __ __؛ حدد العنصرين التاليين في هذا النمط.","متتابعة، نمط،  نسق"
+"Numbers and operations","Expanding number relationships and number spaces","E","قُم بتدوين جميع عوامل العدد 36 وحدد أي من هذه العوامل هي أيضًا أعداد أولية.","* عوامل
+* عدد أولي
+* قسمة
+* مضاعف"
+"Numbers and operations","Expanding number relationships and number spaces","E","احسب الأعداد المضاعفة الخمسة الأولى للعدد 7 واشرح النمط الذي تلاحظه في تلك المضاعفات.","* مضاعفات
+* نمط
+* عدد صحيح
+* عملية الضرب"
+"Numbers and operations","Expanding number relationships and number spaces","E","إذا كان لديك 48 تفاحة وترغب في تقسيمها بالتساوي بين السلال، حدد جميع الأعداد الممكنة للسلال التي يمكنك استخدامها من خلال إيجاد عوامل العدد 48.","العوامل، القواسم"
+"Numbers and operations","Expanding number relationships and number spaces","E","ابحث عن المضاعف المشترك الأصغر (LCM) للعددين 8 و 12 لتحديد مدى تكرار تلاقي مضاعفاتهما.","المضاعف المشترك الأصغر (LCM)
+المضاعفات
+العددين
+```"
+"Numbers and operations","Expanding number relationships and number spaces","E","احسب القاسم المشترك الأكبر (GCD) للعددين 20 و 30 لفهم أكبر عامل مشترك بينهما.","القاسم المشترك الأكبر (GCD), العامل المشترك الأكبر"
+"Numbers and operations","Expanding number relationships and number spaces","E","يريد بستاني زرع الزهور في صفوف باستخدام 18 زهرة حمراء و 24 زهرة زرقاء؛ ما هو المضاعف المشترك الأصغر (LCM) للعددين 18 و 24 لإيجاد أقل عدد من الزهور الكلي الذي يمكنه استخدامه دون أن يتبقى أي زهور؟","المضاعف المشترك الأصغر (LCM)
+العددين
+القاسم المشترك الأكبر (GCD)
+عوامل
+```"
+"Numbers and operations","Expanding number relationships and number spaces","F","احسب قيمة 3 مرفوعة إلى القوة 4 ثم اطرح الجذر التربيعي لـ 64 من هذه النتيجة.","الأس
+الجذر التربيعي
+التربيع
+الطَرْح
+الناتج
+قوة
+مرفوع إلى"
+"Numbers and operations","Expanding number relationships and number spaces","F","إذا كانت مساحة حديقة مربعة 81 قدمًا مربعًا، فحدد طول أحد جوانب الحديقة.","مساحة، مربع، طول الضلع"
+"Numbers and operations","Expanding number relationships and number spaces","F","حدد مجموع القيم الناتجة عن حساب الجذر التربيعي لـ 49 ورفع 2 إلى القوة 5.","الجذر التربيعي، الأس، القوة"
+"Numbers and operations","Expanding number relationships and number spaces","G","تم بناء نموذج لناطحة سحاب بمقياس 1:250؛ إذا كانت الارتفاع الحقيقي لناطحة السحاب هو 300 متر، فما هو ارتفاع النموذج بالسنتمترات؟","مقياس
+ارتفاع
+سنتمترات
+متر
+نموذج
+ناطحة سحاب
+حقيقي"
+"Numbers and operations","Expanding number relationships and number spaces","G","وصفة لكعكة كبيرة تتطلب 3 أكواب من الدقيق مقابل كل 2 كوب من السكر؛ إذا أراد الخباز أن يستخدم 6 أكواب من الدقيق، فكم كوبًا من السكر سيحتاج؟","نسبة
+نسبة مئوية
+كسر
+مُناسب
+معادلة
+حل المعادلة
+تناسب طردي"
+"Numbers and operations","Expanding number relationships and number spaces","G","خريطة تستخدم مقياسًا حيث تمثل بوصة واحدة 30 ميلاً؛ إذا كانت بلدتان تبعدان 5 بوصات عن بعضهما على الخريطة، فما هي المسافة الفعلية بينهما بالميل؟","مقياس الخريطة، المسافة،  البوصة، الميل"
+"Numbers and operations","Applying calculation strategies","D","مكتبة محلية بيعت 237 كتابًا في الشهر الماضي و185 كتابًا في هذا الشهر؛ قدّر العدد الإجمالي للكتب المبيعة عن طريق التقريب لأقرب عشرة.","التقريب، عشرات"
+"Numbers and operations","Applying calculation strategies","D","مزارع لديه 489 تفاحة وينوي إعطاء 275 تفاحة؛ قم بتقدير عدد التفاح الذي سيتبقى لديه عن طريق التقريب إلى أقرب عشرة.","تقريب، عشرات"
+"Numbers and operations","Applying calculation strategies","D","خلال حملة جمع التبرعات في المدرسة، جمع الطلاب 1248 دولارًا وأنفقوا 673 دولارًا؛ قم بتقدير المبلغ الإجمالي المتبقي عن طريق التقريب إلى أقرب عشرة.","التقريب، عشرات"
+"Numbers and operations","Applying calculation strategies","E","جينا لديها \(\frac{2}{3}\) من البيتزا وصديقتها تعطيها \(\frac{1}{4}\) من البيتزا؛ كم مقدار البيتزا التي تمتلكها جينا الآن؟","كسر، بسط، مقام، جمع الكسور"
+"Numbers and operations","Applying calculation strategies","E","وصف التمرين هو: تحتاج الوصفة إلى \(\frac{5}{6}\) كوب من السكر، لكن جيري لديه فقط \(\frac{1}{3}\) كوب؛ كم كوبًا إضافيًا من السكر يحتاج لجمعه؟","كسر، بسط، مقام،  طرح الكسور"
