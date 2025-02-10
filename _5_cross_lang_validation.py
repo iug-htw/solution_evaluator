@@ -11,6 +11,7 @@ METRICS = [
     "Technical Terms Explanation",
     "Addressing Common Errors",
     "Appropriateness Based on Progress Level",
+    "Explanation Clarity & Syntax"
 ]
 
 # File paths for the three languages
@@ -35,6 +36,7 @@ def compare_results(files, output_dir=""):
     results = {}
     for lang, file_path in files.items():
         df = load_csv(file_path)
+        print(df.keys())
         results[lang] = calculate_metric_averages(df)
 
     # Combine results into a single DataFrame for comparison

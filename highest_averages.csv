@@ -1,10 +1,11 @@
 Metric,Language
 Problem Understanding (Comprehension),en
-Clarity and Step-by-Step Explanation,en
-Accuracy of Process (Correctness of Steps),en
+Clarity and Step-by-Step Explanation,de
+Accuracy of Process (Correctness of Steps),de
 Correctness of Final Answer,en
-Learning Appropriateness (Is the Explanation Suitable for Learners?),en
-Generalization (Can the Learner Apply This Method to Similar Problems?),en
-Technical Terms Explanation,en
-Addressing Common Errors,en
-Appropriateness Based on Progress Level (Grade),en
+Learning Appropriateness,de
+Generalization,en
+Technical Terms Explanation,ar
+Addressing Common Errors,de
+Appropriateness Based on Progress Level,ar
+Explanation Clarity & Syntax,en

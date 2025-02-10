@@ -4,7 +4,7 @@ import os
 import time
 from dotenv import load_dotenv
 
-def solve_tasks(input_file, output_file, model="gpt-4o-mini"):
+def solve_tasks(input_file, output_file, model="gpt-4o-mini", prompt_prefix="Explain to me how I can solve this task"):
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=api_key)
@@ -21,7 +21,7 @@ def solve_tasks(input_file, output_file, model="gpt-4o-mini"):
             if i >= 50:
                 break
             topic_area, topic, progress_level, exercise = row
-            prompt = f"Explain how to solve this task in: {exercise}. Use the same language as the task description."
+            prompt = f"{prompt_prefix}: {exercise}"
             print(f"Solving task {i+1}: {exercise}")
             retry_count = 0
             while retry_count < 5:

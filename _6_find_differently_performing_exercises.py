@@ -31,6 +31,7 @@ def find_differently_performing_exercises(files):
             "Technical Terms Explanation",
             "Addressing Common Errors",
             "Appropriateness Based on Progress Level",
+            "Explanation Clarity & Syntax"
         ]
         
         for col in df[score_columns]:
@@ -38,7 +39,7 @@ def find_differently_performing_exercises(files):
                 # check if the value can be converted to a float
                 try:
                     float_score = float(score)
-                    if float_score < 0 or float_score > 2:
+                    if float_score < 1 or float_score > 10:
                         raise ValueError(f"Invalid score: {float_score}")
                     
                 except ValueError:

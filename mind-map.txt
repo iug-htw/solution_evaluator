@@ -1,0 +1,33 @@
+Research on LLM Performance Across Languages
+?
+??? Integrate Pairwise Evaluation
+?   ??? For each exercise:
+?   ?   ??? Retrieve solutions in EN, DE, and AR
+?   ?   ??? Create solution pairs (EN vs. DE, EN vs. AR, DE vs. AR)
+?   ?   ??? Send solution pairs to an LLM judge
+?   ?   ??? Store judgment results (which solution is better?)
+?   ?   ??? Analyze trends in model preference per language
+?   ??? Visualize results in a heatmap
+?
+??? Test JudgeBench’s Hierarchical Criteria
+?   ??? Define three-tiered evaluation:
+?   ?   ??? Step 1: Instruction following
+?   ?   ??? Step 2: Logical correctness
+?   ?   ??? Step 3: Clarity and pedagogical effectiveness
+?   ??? Implement an LLM judge with this criteria
+?   ??? Run evaluations across EN, DE, and AR solutions
+?   ??? Compare results across language-based biases
+?
+??? Ensure Language Fairness
+?   ??? Identify if LLM solutions vary in structure, depth, or detail per language
+?   ??? Normalize solution lengths to avoid verbosity bias
+?   ??? Cross-translate solutions and check if meaning changes
+?   ??? Randomize evaluation order to avoid positional bias
+?   ??? Compare performance between different models per language
+?
+??? Explore Bias Studies
+    ??? Check if specific LLMs perform better in their training language
+    ??? Investigate common error patterns across languages
+    ??? Test for numerical errors due to linguistic differences (e.g., Arabic decimal notation)
+    ??? Evaluate whether models prefer one language for certain math types (word problems vs. equations)
+    ??? Develop mitigation strategies if biases are found
