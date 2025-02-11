@@ -18,8 +18,8 @@ def solve_tasks(input_file, output_file, model="gpt-4o-mini", prompt_prefix="Exp
         writer.writerow(header + [f"{model} solution"])
         
         for i, row in enumerate(reader):
-            if i >= 50:
-                break
+            # if i >= 50:
+            #     break
             topic_area, topic, progress_level, exercise = row
             prompt = f"{prompt_prefix}: {exercise}"
             print(f"Solving task {i+1}: {exercise}")

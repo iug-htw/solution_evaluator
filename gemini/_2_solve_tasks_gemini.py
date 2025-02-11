@@ -42,8 +42,8 @@ def solve_tasks(input_file, output_file, model="gemini-1.5-flash", prompt_prefix
         for i, row in enumerate(reader):
             if i < progress:
                 continue
-            if i >= 50:
-                break
+            # if i >= 50:
+            #     break
             topic_area, topic, progress_level, exercise = row
             prompt = f"{prompt_prefix}: {exercise}"
             print(f"Solving task {i+1} in {language_name[language]}: {exercise}")
@@ -54,10 +54,10 @@ def solve_tasks(input_file, output_file, model="gemini-1.5-flash", prompt_prefix
             writer.writerow(row + [solution])
 
             with open(f"gemini/progress_cache_{model}_{language}.txt", "w") as f:
-                f.write(f"Progress: {i+1}")
+                f.write(f"Progress: {i}")
 
-            # Add a delay of 5 seconds between requests
-            time.sleep(5)
+            # Add a delay of 4 seconds between requests
+            time.sleep(4)
 
 if __name__ == "__main__":
     input_file = 'topic_areas_cleaned.csv'
