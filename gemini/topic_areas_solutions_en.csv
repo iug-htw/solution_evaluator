@@ -1,334 +1,408 @@
 "Topic Area","Topic","Progress Level","Exercise","gemini-1.5-flash solution"
-"Numbers and operations","Understanding and representing numbers","B","Draw 10 stars in the box and color 5 of them blue.","To complete this task:
+"Numbers and operations","Understanding and representing numbers","B","Draw 10 stars in the box and color 5 of them blue.","This is a simple task involving drawing and coloring. Here's how to solve it step-by-step:
 
-1. **Draw the Box:** Draw a rectangle or square on a piece of paper. This will be your container for the stars.
+1. **Draw the Box:**  First draw a rectangle or square on a piece of paper. This will be your box.  Make it large enough to comfortably fit 10 stars.
 
-2. **Draw the Stars:** Draw ten five-pointed stars inside the box.  Space them out so they're not all bunched together.  You can make them different sizes if you like.
+2. **Draw the Stars:** Draw 10 five-pointed stars inside the box. You can space them out evenly or arrange them randomly however you like.  They don't need to be perfect; a simple star shape is sufficient.
 
-3. **Color the Stars:** Choose five of the ten stars you've drawn. Color those five stars blue using a crayon marker or colored pencil.  Leave the remaining five stars uncolored or color them a different color if you prefer."
-"Numbers and operations","Understanding and representing numbers","B","Count the number of apples in the picture and write the total number in the empty circle below.","To solve this task you need to carefully examine the picture containing apples.  Systematically count each apple ensuring you don't miss any or count any twice.  Once you have a final count write that number in the empty circle provided."
-"Numbers and operations","Understanding and representing numbers","B","Write the numbers from 1 to 20 in order on the lines provided.","This task is straightforward.  Simply write the numbers 1 2 3 and so on sequentially up to 20 each number on a separate line.  There's no special method or trick involved; it's a basic number writing exercise."
-"Numbers and operations","Understanding and representing numbers","B","Draw lines to connect the numbers 1 to 20 with their matching dot patterns.","This task tests your ability to count.  Each dot pattern represents a number from 1 to 20.  To solve it:
+3. **Color the Stars:** Choose 5 of the 10 stars you've drawn.  Color these 5 stars blue using crayons colored pencils markers or paint.  The remaining 5 stars can be left uncolored or colored in a different color if you wish.
 
-1. **Count the dots:** Carefully count the number of dots in each pattern.
+That's it! You've successfully completed the task."
+"Numbers and operations","Understanding and representing numbers","B","Count the number of apples in the picture and write the total number in the empty circle below.","To solve this task you need to visually inspect the picture and count each individual apple.  There's no mathematical formula; it's a straightforward counting exercise.  Once you've counted all the apples write the final number inside the empty circle provided."
+"Numbers and operations","Understanding and representing numbers","B","Write the numbers from 1 to 20 in order on the lines provided.","This task is very straightforward.  Simply write the numbers 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 and 20 each on a separate line."
+"Numbers and operations","Understanding and representing numbers","B","Draw lines to connect the numbers 1 to 20 with their matching dot patterns.","This task is a simple matching exercise.  You'll need a sheet of paper (or screen) showing the numbers 1 through 20 and another sheet (or section) showing dot patterns representing those same numbers.  
 
-2. **Find the match:** Locate the number (1-20) that corresponds to the number of dots you counted.
+Here's how to solve it:
 
-3. **Draw a line:** Draw a straight line connecting the number to its matching dot pattern.
+1. **Understand the pattern:**  Each number will correspond to a dot pattern showing that many dots.  For example the number '1' will have one dot '2' will have two dots and so on.  The dot patterns might be arranged in different formations (e.g. a straight line a square a more random arrangement) but the crucial element is the *number* of dots.
 
-Repeat steps 1-3 for each dot pattern until all numbers are connected to their correct patterns."
-"Numbers and operations","Understanding and representing numbers","B","Circle the number that has the same number of dots underneath it; for example if you see 5 dots circle the number 5.","To solve this task you simply count the number of dots below each number. Then you circle the number that matches the count of dots directly beneath it.  For example if a number '3' has three dots underneath it you would circle the '3'.  If a number '7' has five dots underneath it you would *not* circle the '7'."
-"Numbers and operations","Understanding and representing numbers","B","Fill in the blanks with the correct number symbol that matches the dot patterns shown on the page.","To solve this task you need to identify the pattern or rule governing the arrangement of dots in each figure.  Look for relationships between the number of dots and their spatial arrangement.  Some possibilities include:
+2. **Start with the easy ones:** Begin by matching the smaller numbers (1 2 3 etc.) as they are easier to count and visually verify.
 
-* **Counting Dots:** The simplest approach is to simply count the dots in each figure. If the number of dots increases sequentially the blank should be filled with the symbol representing the next number in the sequence.
+3. **Systematic approach:** Proceed sequentially through the numbers from 1 to 20. For each number locate the corresponding dot pattern with the same quantity of dots.
 
-* **Geometric Patterns:** Observe if the dots form geometric shapes (squares triangles etc.).  The progression might be based on adding a row column or changing the shape systematically.  Analyze how the shapes evolve from one figure to the next.
-
-* **Combinations:** The pattern might involve a combination of counting and geometric patterns.  For instance the number of dots might increase while simultaneously changing the shape they form.
-
-* **Symmetry/Rotation:** Check if there's any symmetry or rotational pattern.  The progression might involve rotating the dot arrangement or adding dots symmetrically.
+4. **Double-check:** Once you've made all the connections take a moment to review your work.  Make sure each number is accurately paired with its dot pattern count.
 
 
-**Steps to solve:**
+In short it's a counting and visual matching activity.  Accuracy is key.  If you have any difficulty counting dots in a complex pattern try to organize the dots mentally or physically to make counting simpler."
+"Numbers and operations","Understanding and representing numbers","B","Circle the number that has the same number of dots underneath it; for example if you see 5 dots circle the number 5.","This is a simple counting task.  Follow these steps:
 
-1. **Analyze Each Figure:** Carefully examine each figure with dots. Count the dots and observe their arrangement. Note any changes or consistent elements from one figure to another.
+1. **Count the dots:** Look at the dots below each number. Count how many dots are present for each number.
 
-2. **Identify the Pattern:** Determine the underlying pattern or rule connecting the figures. This could involve addition subtraction multiplication division or geometric transformations.
+2. **Match the count to the number:**  Find the number that matches the count of dots you just made.
 
-3. **Predict the Next Figure:** Based on the identified pattern predict the number of dots and their arrangement in the missing figure.
-
-4. **Select the Matching Symbol:** Choose the symbol containing the predicted number of dots arranged according to the pattern.
+3. **Circle the number:** Circle the number that has the same quantity as the number of dots below it.
 
 
-Without seeing the specific dot patterns this is the general strategy. Providing the images of the dot patterns would allow for a more specific solution."
-"Numbers and operations","Understanding and performing operations","C","Emma has 24 apples and she gives 13 apples to her friend; how many apples does she have left?","This is a simple subtraction problem.  To find out how many apples Emma has left subtract the number of apples she gave away from the number she started with:
+For example:
 
-24 (apples Emma started with) - 13 (apples she gave away) = 11 (apples she has left)
+If you see the number ""3"" with three dots underneath it circle the ""3"".  If you see the number ""7"" with five dots underneath it you would *not* circle it. You'd continue searching until you found a number with five dots beneath it and then circle that number."
+"Numbers and operations","Understanding and representing numbers","B","Fill in the blanks with the correct number symbol that matches the dot patterns shown on the page.","To solve this task you need to identify the underlying pattern or rule connecting the dot patterns to the number symbols.  There are several possibilities depending on the specific dot patterns provided.  Here's a breakdown of how to approach it:
+
+**1. Analyze the Dot Patterns:**
+
+* **Counting:** The simplest approach is to simply count the dots in each pattern.  If the number of dots directly corresponds to a number symbol that's your answer.
+* **Grouping:**  Look for ways the dots might be grouped.  Are they arranged in rows columns or other shapes?  The arrangement might be key to understanding the number symbol.
+* **Spatial Arrangement:** Consider the spatial relationships between the dots.  Are they equally spaced?  Do they form a specific geometric shape? This information could hold the clue.
+* **Combinations:**  Sometimes the pattern uses a combination of counting and grouping or spatial arrangement.  For instance the number of groups of dots might be important or the number of dots in a specific group might be relevant.
+
+**2. Analyze the Number Symbols:**
+
+* **Numerals:** Are the number symbols standard numerals (1 2 3 etc.)?  If so the dot patterns likely directly represent these numbers.
+* **Other Symbols:** If the symbols are not standard numerals they might be representing something else entirely.  You may need to decipher their meaning based on the provided examples.  This might involve looking for patterns among the symbols themselves.
+
+
+**3. Establish the Relationship:**
+
+Once you have analyzed both the dot patterns and the number symbols try to establish a clear relationship between them.  This often involves finding a consistent rule that works for *all* the provided examples.  For example:
+
+* **One-to-one correspondence:** Each dot corresponds to a unit of the number.
+* **Grouping:**  Each group of dots represents a specific numerical value.
+* **Positional value:** The position of the dots in a pattern might signify a positional value within a number system (like ones tens hundreds).
+
+
+**4. Test the Rule:**
+
+Once you've determined a potential rule test it on all the given examples to ensure it consistently works.  If the rule doesn't work for all examples you need to reconsider your approach and look for a different pattern.
+
+**Example:**
+
+Let's say you have these examples:
+
+* **Pattern A:**  Three dots arranged in a row (***)  --->  Symbol: 3
+* **Pattern B:**  Six dots arranged in two rows of three (*** ***) ---> Symbol: 6
+* **Pattern C:**  Nine dots arranged in three rows of three (*** *** ***) ---> Symbol: 9
+
+
+The rule here is clearly a one-to-one correspondence: the number of dots equals the number symbol.
+
+
+**In short:**  Carefully examine the dot patterns for any type of pattern (counting grouping spatial relationships) and compare them to the provided number symbols to find the consistent rule linking them together.  Always test your discovered rule on all provided examples before filling in the blanks."
+"Numbers and operations","Understanding and performing operations","C","Emma has 24 apples and she gives 13 apples to her friend; how many apples does she have left?","To solve this subtract the number of apples Emma gave away from the number she started with:
+
+24 (apples Emma started with) - 13 (apples Emma gave away) = 11 (apples Emma has left)
 
 Emma has 11 apples left."
-"Numbers and operations","Understanding and performing operations","C","A farmer has 36 carrots and picks another 12 carrots; how many carrots does he have in total?","To solve this you simply add the number of carrots the farmer initially had to the number he picked: 36 + 12 = 48 carrots.  The farmer has a total of 48 carrots."
-"Numbers and operations","Understanding and performing operations","C","Liam read 45 pages of his book then finished 22 more pages; how many pages did he read altogether?","This is a simple addition problem.  To find the total number of pages Liam read add the number of pages he read initially to the number of pages he read afterward:
+"Numbers and operations","Understanding and performing operations","C","A farmer has 36 carrots and picks another 12 carrots; how many carrots does he have in total?","This is a simple addition problem.  To find the total number of carrots add the number of carrots the farmer already had to the number he picked:
+
+36 + 12 = 48
+
+The farmer has a total of 48 carrots."
+"Numbers and operations","Understanding and performing operations","C","Liam read 45 pages of his book then finished 22 more pages; how many pages did he read altogether?","This is a simple addition problem.  To find the total number of pages Liam read add the number of pages he read initially to the number of pages he read later:
 
 45 pages + 22 pages = 67 pages
 
 Liam read a total of 67 pages."
-"Numbers and operations","Understanding and performing operations","C","Sarah has 8 boxes of cookies and each box contains 12 cookies; how many cookies does she have in total?","This is a simple multiplication problem.  To find the total number of cookies you multiply the number of boxes by the number of cookies in each box.
+"Numbers and operations","Understanding and performing operations","C","Sarah has 8 boxes of cookies and each box contains 12 cookies; how many cookies does she have in total?","This is a simple multiplication problem.  To find the total number of cookies multiply the number of boxes by the number of cookies in each box:
 
-So the calculation is 8 boxes * 12 cookies/box = 96 cookies.  Sarah has a total of 96 cookies."
-"Numbers and operations","Understanding and performing operations","C","A farmer has 240 apples that he wants to pack into baskets with each basket holding 15 apples; how many baskets does he need?","To find out how many baskets the farmer needs you simply divide the total number of apples by the number of apples each basket can hold.
+8 boxes * 12 cookies/box = 96 cookies
 
-Therefore the calculation is: 240 apples / 15 apples/basket = 16 baskets.
+Sarah has a total of 96 cookies."
+"Numbers and operations","Understanding and performing operations","C","A farmer has 240 apples that he wants to pack into baskets with each basket holding 15 apples; how many baskets does he need?","To solve this you simply divide the total number of apples by the number of apples per basket:
+
+240 apples / 15 apples/basket = 16 baskets
 
 The farmer needs 16 baskets."
-"Numbers and operations","Understanding and performing operations","C","If a car travels 120 miles in 3 hours how many miles does it travel in each hour?","To find the miles traveled per hour divide the total distance traveled by the total time taken.
+"Numbers and operations","Understanding and performing operations","C","If a car travels 120 miles in 3 hours how many miles does it travel in each hour?","This is a simple rate problem.  To find the miles traveled per hour (the speed) you divide the total distance by the total time:
 
-In this case:
+Miles per hour = Total miles / Total hours
 
-120 miles / 3 hours = 40 miles/hour
+So 120 miles / 3 hours = 40 miles per hour
 
-The car travels 40 miles in each hour."
-"Numbers and operations","Understanding and performing operations","D","Liam has 347 marbles and he gives away 128 marbles to his friends; how many marbles does he have left?","To solve this you need to subtract the number of marbles Liam gave away from the number he originally had.
+The car travels **40 miles** in each hour."
+"Numbers and operations","Understanding and performing operations","D","Liam has 347 marbles and he gives away 128 marbles to his friends; how many marbles does he have left?","To find out how many marbles Liam has left you need to subtract the number of marbles he gave away from the number he started with.
 
-The calculation is: 347 - 128 = 219
+**Calculation:** 347 (marbles Liam started with) - 128 (marbles he gave away) =  219 (marbles Liam has left)
 
-Liam has 219 marbles left."
-"Numbers and operations","Understanding and performing operations","D","A bakery sold 456 cupcakes in the morning and 289 cupcakes in the afternoon; how many cupcakes were sold in total?","To find the total number of cupcakes sold you need to add the number of cupcakes sold in the morning to the number sold in the afternoon.
+Liam has $\boxed{219}$ marbles left."
+"Numbers and operations","Understanding and performing operations","D","A bakery sold 456 cupcakes in the morning and 289 cupcakes in the afternoon; how many cupcakes were sold in total?","To find the total number of cupcakes sold you simply add the number of cupcakes sold in the morning to the number sold in the afternoon:
 
-1. **Add the numbers:** 456 + 289 = ?
+456 + 289 = 745
 
-2. **Perform the addition:**  You can do this using column addition (lining up the numbers by place value – ones tens hundreds) or any other method you find easiest.  The result will be the total number of cupcakes sold."
-"Numbers and operations","Understanding and performing operations","D","Sarah has a collection of 864 stickers and she loses 275 stickers; how many stickers does she still have?","This is a simple subtraction problem.  To find out how many stickers Sarah has left subtract the number of stickers she lost from the number she started with:
+The bakery sold a total of 745 cupcakes."
+"Numbers and operations","Understanding and performing operations","D","Sarah has a collection of 864 stickers and she loses 275 stickers; how many stickers does she still have?","This is a subtraction problem.  To find out how many stickers Sarah has left subtract the number of stickers she lost from the number she started with:
 
-864 (original number of stickers) - 275 (stickers lost) =  589 (stickers remaining)
+864 (starting stickers) - 275 (stickers lost) =  589 (stickers remaining)
 
-Sarah still has 589 stickers."
-"Numbers and operations","Understanding and performing operations","D","A bakery sells packs of cookies for $24 each and a customer wants to buy 4 packs; use the distributive property to find the total cost.","The distributive property states that a(b + c) = ab + ac.  We can use this to solve the cookie problem efficiently.
+Sarah still has $\boxed{589}$ stickers."
+"Numbers and operations","Understanding and performing operations","D","A bakery sells packs of cookies for $24 each and a customer wants to buy 4 packs; use the distributive property to find the total cost.","The distributive property states that a(b + c) = ab + ac.  We can use this to solve the cookie problem in a slightly roundabout but illustrative way to demonstrate the property.
 
-Instead of directly multiplying 4 packs * $24/pack we can break down the $24 into smaller easier-to-work-with numbers.
+Instead of directly multiplying 4 packs * $24/pack we can break down the $24 into smaller easier-to-work-with numbers.  Let's say we break it down into $20 + $4:
 
-**Method 1: Breaking down $24**
+1. **Rewrite the problem:** The total cost is 4 * ($20 + $4).
 
-Let's break down $24 into $20 + $4:
+2. **Apply the distributive property:** This becomes (4 * $20) + (4 * $4).
 
-* 4 packs * ($20 + $4/pack)  = (4 packs * $20/pack) + (4 packs * $4/pack)
-* = $80 + $16
-* = $96
+3. **Solve each part:**
+   * 4 * $20 = $80
+   * 4 * $4 = $16
 
-**Method 2: Breaking down the number of packs**
+4. **Add the results:** $80 + $16 = $96
 
-Alternatively you can break down the number of packs:
+Therefore the total cost of 4 packs of cookies is $96.  While this is a longer method than simply multiplying 4 x 24 it effectively shows how the distributive property works."
+"Numbers and operations","Understanding and performing operations","D","If a box contains 36 chocolates and is divided equally into 4 smaller boxes how many chocolates will be in each box using the distributive property?","The distributive property isn't strictly necessary to solve this problem but we can illustrate it.  The problem is essentially 36 ÷ 4.
 
-Let's consider two packs as a single unit:
-
-* (2 packs * 2 units) * $24/pack
-* = 2 units * (2 packs * $24/pack)
-* = 2 units * $48/unit
-* = $96
-
-
-Both methods use the distributive property to simplify the multiplication making it easier to calculate the total cost mentally or with simpler arithmetic.  The key is to break down either the cost per pack or the number of packs into easier-to-manage components."
-"Numbers and operations","Understanding and performing operations","D","If a box contains 36 chocolates and is divided equally into 4 smaller boxes how many chocolates will be in each box using the distributive property?","The distributive property in this context isn't strictly necessary to solve this problem but we can illustrate its application.  The problem is essentially asking us to divide 36 by 4.
-
-**Direct Division:**  The simplest way is to directly divide: 36 chocolates / 4 boxes = 9 chocolates per box.
+**Direct Division:** The simplest way is just to divide 36 by 4:  36 ÷ 4 = 9 chocolates per box.
 
 **Distributive Property Approach:**
 
-We can think of 36 as a sum of numbers easily divisible by 4.  For example:
+Think of the 36 chocolates as groups.  We can break down the 36 into smaller easier-to-divide groups.  Let's use the distributive property to show this:
 
-36 = 20 + 16
+1. **Break down 36:** We can express 36 as 20 + 16 (or any other combination that's easily divisible by 4).
 
-Now using the distributive property (a(b + c) = ab + ac) we can say:
+2. **Distribute the division:**  We can then divide each part separately:
 
-36 / 4 = (20 + 16) / 4 = (20/4) + (16/4) = 5 + 4 = 9
+   (20 ÷ 4) + (16 ÷ 4) = 5 + 4 = 9
 
-So there will be 9 chocolates in each box.  This illustrates the distributive property by breaking the division into smaller easier divisions. You could also use other combinations like 36 = 12 + 12 + 12  then divide each of the 12's by 4 and add the results. The important point is that you are distributing the division across the addition.  It’s a less efficient method than direct division in this case but it demonstrates the concept."
-"Numbers and operations","Understanding and performing operations","D","A gardener needs to plant 29 flowers in rows of 3; apply the distributive property to calculate the total number of flowers he needs to plant.","The problem asks us to find the total number of flowers which is 29 but it wants us to use the distributive property to illustrate the calculation even though it seems unnecessary for a simple multiplication.  We can artificially break down the number 29 to apply the distributive property.
+Therefore each smaller box will have 9 chocolates.  This demonstrates the distributive property of division over addition.  We've distributed the division across the sum (20 + 16) and got the same result.  While this is more complex than direct division for this specific problem it illustrates how the distributive property *can* be applied."
+"Numbers and operations","Understanding and performing operations","D","A gardener needs to plant 29 flowers in rows of 3; apply the distributive property to calculate the total number of flowers he needs to plant.","You can't directly use the distributive property in the *traditional* sense (a(b+c) = ab + ac) to solve this problem because the problem doesn't naturally break down into a sum of easily-divisible groups.  The distributive property is most helpful when you're dealing with multiplication involving sums or differences.
 
-Here's how:
+Instead the problem is asking you to think about the number 29 in terms of multiples of 3.  You could solve it in a couple of ways leveraging related mathematical concepts:
 
-1. **Break down 29:**  We can express 29 as a sum of two numbers easily divisible by 3.  A convenient choice is 27 + 2 (because 27 is divisible by 3).
+**Method 1:  Using division and multiplication (with a bit of implied distributive)**
 
-2. **Apply the distributive property:**  The total number of flowers can be represented as 3 * (number of rows).  We rewrite this using our breakdown of 29:
+1. **Divide:** Divide the total number of flowers by the number of flowers per row: 29 ÷ 3 = 9 with a remainder of 2.
 
-   3 * (number of rows) = 3 * [(27/3) + (2/3)]  We're aiming to represent the number of rows which when multiplied by 3 gives 29. It is not about calculating the number of rows explicitly because there will be incomplete rows.
+2. **Interpret the Result:** This means the gardener can make 9 full rows of 3 flowers each.  The remainder of 2 represents flowers left over that won't make a full row.
 
-3. **Distribute:** Now we apply the distributive property:
+3. **Calculate Total:**  The total number of flowers is (9 rows * 3 flowers/row) + 2 leftover flowers = 27 + 2 = 29 flowers.  While not explicitly distributive in the a(b+c) form the calculation of the total number from the full rows and the remainder implicitly uses a distributive-like idea.
 
-   3 * [(27/3) + (2/3)] = (3 * 27/3) + (3 * 2/3) = 27 + 2 = 29
+**Method 2:  Expressing 29 as a sum involving a multiple of 3**
 
-Therefore although 29 flowers in rows of 3 doesn't naturally lend itself to the distributive property in a practical planting scenario we've mathematically demonstrated it by breaking down 29 into convenient parts divisible by 3.  The final answer 29 is of course obtained directly by multiplying 9 rows of 3 with a leftover 2 to make the 29."
-"Numbers and operations","Understanding and representing numbers","G","Convert the fraction 3/8 into a decimal and a percentage.","To convert a fraction to a decimal you divide the numerator (the top number) by the denominator (the bottom number).
+1. **Find a Multiple:** Find the closest multiple of 3 that's less than 29. That's 27 (3 x 9).
 
-1. **Decimal:** Divide 3 by 8:  3 ÷ 8 = 0.375
+2. **Rewrite 29:** Rewrite 29 as a sum involving that multiple of 3: 29 = 27 + 2
 
-2. **Percentage:** To convert a decimal to a percentage multiply the decimal by 100 and add a percent sign (%).
+3. **Calculate:**  This implicitly uses a distributive property-like approach. You could view it as 3 * (9) + 2.  This shows the 9 rows of 3 plus the remaining 2.  The total is still 29.
 
-   0.375 x 100 = 37.5%
 
-Therefore 3/8 is equal to 0.375 as a decimal and 37.5% as a percentage."
-"Numbers and operations","Understanding and representing numbers","G","A student scored 85% on a test; express this score as a fraction in simplest form.","To express a percentage as a fraction follow these steps:
+In short while the problem statement mentions the distributive property a direct application isn't the most efficient or natural way to solve it. The problem tests your understanding of division with remainders and how to break down a number into parts useful for solving the problem."
+"Numbers and operations","Understanding and representing numbers","G","Convert the fraction 3/8 into a decimal and a percentage.","To convert the fraction 3/8 into a decimal and a percentage follow these steps:
 
-1. **Write the percentage as a fraction with a denominator of 100:**  85% becomes 85/100.
+**1. Decimal:**
 
-2. **Simplify the fraction:** Find the greatest common divisor (GCD) of the numerator (85) and the denominator (100).  The GCD of 85 and 100 is 5.
+* **Divide the numerator by the denominator:**  Divide 3 by 8.  This can be done using long division or a calculator.
+* **Result:** 3 ÷ 8 = 0.375
 
-3. **Divide both the numerator and the denominator by the GCD:**  85 ÷ 5 = 17 and 100 ÷ 5 = 20.
+Therefore the decimal representation of 3/8 is 0.375.
 
-Therefore the simplest form of the fraction is 17/20."
-"Numbers and operations","Understanding and representing numbers","G","If a shirt costs $45 and is on sale for 30% off determine the sale price in decimal form.","To find the sale price follow these steps:
 
-1. **Calculate the discount amount:** Multiply the original price by the discount percentage (expressed as a decimal).  30% as a decimal is 0.30.  So $45 * 0.30 = $13.50
+**2. Percentage:**
 
-2. **Subtract the discount from the original price:** Subtract the discount amount you calculated from the original price of the shirt. $45 - $13.50 = $31.50
+* **Convert the decimal to a percentage:** Multiply the decimal by 100.
+* **Add the % symbol:**  0.375 x 100 = 37.5%
 
-Therefore the sale price of the shirt is $31.50."
+Therefore the percentage representation of 3/8 is 37.5%.
+
+
+In short:  3/8 = 0.375 = 37.5%"
+"Numbers and operations","Understanding and representing numbers","G","A student scored 85% on a test; express this score as a fraction in simplest form.","A percentage is a fraction out of 100.  So 85% means 85/100.
+
+To simplify the fraction find the greatest common divisor (GCD) of 85 and 100.  Both numbers are divisible by 5.
+
+* 85 ÷ 5 = 17
+* 100 ÷ 5 = 20
+
+Therefore 85/100 simplifies to 17/20.  Since 17 is a prime number and doesn't divide into 20 this is the simplest form."
+"Numbers and operations","Understanding and representing numbers","G","If a shirt costs $45 and is on sale for 30% off determine the sale price in decimal form.","Here's how to solve this problem step-by-step:
+
+1. **Calculate the discount amount:**  Multiply the original price by the discount percentage (converted to a decimal).  30% as a decimal is 0.30.
+
+   Discount = $45 * 0.30 = $13.50
+
+2. **Subtract the discount from the original price:** This will give you the sale price.
+
+   Sale Price = $45 - $13.50 = $31.50
+
+Therefore the sale price of the shirt is $31.50.  This is already in decimal form."
 "Numbers and operations","Understanding and performing operations","F","A submarine is at a depth of 150 meters below sea level; if it rises 75 meters what is its new depth?","The submarine starts at -150 meters (below sea level is represented by negative numbers).  It rises 75 meters meaning we add 75 to its current depth:
 
 -150 meters + 75 meters = -75 meters
 
-The submarine's new depth is -75 meters or 75 meters below sea level."
-"Numbers and operations","Understanding and performing operations","F","A mountain climber ascends 200 meters then descends 50 meters; what is her final elevation change from sea level?","To find the climber's final elevation change you need to consider the ascent and descent as separate changes in elevation.
+The submarine's new depth is **-75 meters** or 75 meters below sea level."
+"Numbers and operations","Understanding and performing operations","F","A mountain climber ascends 200 meters then descends 50 meters; what is her final elevation change from sea level?","The problem is a simple addition and subtraction problem.
 
-1. **Ascent:** The climber goes up 200 meters.
+1. **Ascend:** The climber goes up 200 meters.
 
-2. **Descent:** The climber then goes down 50 meters.
+2. **Descend:** The climber then goes down 50 meters.
 
-3. **Net Change:** To find the overall change subtract the descent from the ascent: 200 meters - 50 meters = 150 meters.
+3. **Final Change:** To find the final elevation change subtract the descent from the ascent: 200 meters - 50 meters = 150 meters.
 
-Therefore the climber's final elevation change from sea level is a net increase of 150 meters.  If we assume she started at sea level (0 meters) her final elevation would be 150 meters above sea level."
-"Numbers and operations","Understanding and performing operations","F","If a temperature drops from -5 degrees Celsius to -12 degrees Celsius overnight how many degrees did it drop?","To find the number of degrees the temperature dropped subtract the final temperature from the initial temperature:
+Therefore her final elevation change from sea level is **150 meters** higher."
+"Numbers and operations","Understanding and performing operations","F","If a temperature drops from -5 degrees Celsius to -12 degrees Celsius overnight how many degrees did it drop?","The temperature dropped from -5°C to -12°C.  To find the difference subtract the final temperature from the initial temperature:
 
 -5°C - (-12°C) = -5°C + 12°C = 7°C
 
-The temperature dropped 7 degrees Celsius."
-"Numbers and operations","Ordering numbers","C","Arrange the following ages of children at a birthday party from youngest to oldest: 8 5 9 7.","To arrange the ages from youngest to oldest simply compare the numbers and order them sequentially.  The youngest age is the smallest number and the oldest age is the largest number.
+The temperature dropped **7 degrees Celsius**."
+"Numbers and operations","Ordering numbers","C","Arrange the following ages of children at a birthday party from youngest to oldest: 8 5 9 7.","To arrange the ages from youngest to oldest simply compare each number and put them in ascending order.
 
-1. **Identify the smallest number:**  Look at the ages (8 5 9 7) and find the smallest number. That's 5.
+The correct order is: 5 7 8 9"
+"Numbers and operations","Ordering numbers","C","Put the following temperatures in order from the coldest to the warmest: 35°F 28°F 42°F 30°F.","To put the temperatures in order from coldest to warmest simply compare the numbers.  The lower the number the colder the temperature.
 
-2. **Identify the next smallest number:** Now find the smallest number remaining (8 9 7). That's 7.
+1. **Identify the lowest number:**  28°F is the smallest number.
 
-3. **Continue the process:** The next smallest is 8 and the largest is 9.
+2. **Find the next lowest:** 30°F is next.
 
-Therefore the ages arranged from youngest to oldest are: 5 7 8 9"
-"Numbers and operations","Ordering numbers","C","Put the following temperatures in order from the coldest to the warmest: 35°F 28°F 42°F 30°F.","To put the temperatures in order from coldest to warmest simply compare the numbers.  The smaller the number the colder the temperature.
+3. **Continue in ascending order:**  Then comes 35°F and finally 42°F.
 
-Therefore the order is: 28°F 30°F 35°F 42°F"
-"Numbers and operations","Ordering numbers","C","Order the scores from a basketball game in ascending order: 45 32 58 27.","To order the basketball scores in ascending order (from smallest to largest) follow these steps:
 
-1. **Identify the smallest score:** Look at all the scores (45 32 58 27) and find the smallest number.  In this case it's 27.
+Therefore the order from coldest to warmest is:  28°F 30°F 35°F 42°F"
+"Numbers and operations","Ordering numbers","C","Order the scores from a basketball game in ascending order: 45 32 58 27.","To order the basketball scores (45 32 58 27) in ascending order (from smallest to largest) follow these steps:
 
-2. **Write down the smallest score:**  Begin your ordered list with 27.
+1. **Compare the numbers:**  Look at all the numbers and identify the smallest.
 
-3. **Identify the next smallest score:**  Compare the remaining scores (45 32 58) and find the next smallest. This is 32.
+2. **Identify the smallest:** In this case the smallest number is 27.
 
-4. **Continue the process:** Add 32 to your ordered list. Then find the next smallest (45) and finally the largest (58).
+3. **Write down the smallest:**  Start your ordered list with 27.
 
-5. **Complete the ordered list:** Your final ascending order list will be: 27 32 45 58"
-"Numbers and operations","Ordering numbers","H","Order the following temperatures from coldest to warmest: -5°C 0°C -2°C and 3°C.","To order the temperatures from coldest to warmest consider that negative numbers are smaller than positive numbers and the further a negative number is from zero the smaller it is.
+4. **Repeat:**  Compare the remaining numbers (45 32 58) and find the next smallest (32).
+
+5. **Continue:** Keep repeating steps 3 and 4 until all numbers are in the list.
+
+The final ascending order will be: 27 32 45 58"
+"Numbers and operations","Ordering numbers","H","Order the following temperatures from coldest to warmest: -5°C 0°C -2°C and 3°C.","To order the temperatures from coldest to warmest consider that negative numbers are smaller (colder) than positive numbers and smaller negative numbers are colder than larger negative numbers.
 
 1. **Identify the negative temperatures:** -5°C and -2°C.
-
-2. **Compare the negative temperatures:** -5°C is less than -2°C (it's further from zero).
-
+2. **Compare the negative temperatures:** -5°C is colder than -2°C.
 3. **Identify the positive temperatures:** 0°C and 3°C.
+4. **Compare the positive temperatures:** 3°C is warmer than 0°C.
+5. **Combine the ordered sets:** The complete order from coldest to warmest is: -5°C -2°C 0°C 3°C."
+"Numbers and operations","Ordering numbers","H","Arrange the following bank account balances from the least to the greatest value: -150.75 200.50 -45.30 and 75.00.","To arrange the bank account balances from least to greatest you need to consider the negative and positive values.  Negative numbers are always less than positive numbers.  Among negative numbers the one with the largest absolute value (ignoring the negative sign) is the smallest.
 
-4. **Compare the positive temperatures:** 3°C is greater than 0°C.
+1. **Identify the negative balances:** -150.75 and -45.30
 
-5. **Combine:** Putting it all together the order from coldest to warmest is: -5°C -2°C 0°C 3°C"
-"Numbers and operations","Ordering numbers","H","Arrange the following bank account balances from the least to the greatest value: -150.75 200.50 -45.30 and 75.00.","To arrange the bank account balances from least to greatest you need to consider both the positive and negative values.  Negative balances represent debt or overdraft.
+2. **Compare the negative balances:** -150.75 is smaller than -45.30 (because it's further to the left on a number line).
 
-1. **Identify the negative balances:**  -150.75 and -45.30 are negative.
+3. **Identify the positive balances:** 200.50 and 75.00
 
-2. **Compare negative balances:**  -150.75 is a larger debt (further from zero) than -45.30.  Therefore -150.75 is smaller.
+4. **Compare the positive balances:** 75.00 is smaller than 200.50.
 
-3. **Compare positive balances:** 200.50 is larger than 75.00.
+Therefore the ordered list from least to greatest is:  **-150.75 -45.30 75.00 200.50**"
+"Numbers and operations","Ordering numbers","H","Put the following elevations in order from lowest to highest: -30 meters 50 meters -5 meters and 10 meters.","To put the elevations in order from lowest to highest consider the negative numbers as being lower than zero and positive numbers.  Then arrange them based on their absolute values (distance from zero).
 
-4. **Arrange in order:** Combining the negative and positive balances the order from least to greatest is: -150.75 -45.30 75.00 200.50"
-"Numbers and operations","Ordering numbers","H","Put the following elevations in order from lowest to highest: -30 meters 50 meters -5 meters and 10 meters.","To order the elevations from lowest to highest simply compare the numbers considering that negative numbers are less than positive numbers and smaller negative numbers are lower than larger negative numbers.
+1. **Identify the negative numbers:** -30 meters and -5 meters.
 
-1. **Identify the negative numbers:** -30 meters and -5 meters.  -30 is smaller than -5.
+2. **Compare the negative numbers:** -30 meters is lower than -5 meters.
 
-2. **Order the negative numbers:** -30 meters -5 meters
+3. **Identify the positive numbers:** 50 meters and 10 meters.
 
-3. **Identify the positive numbers:** 50 meters and 10 meters.  10 is smaller than 50.
+4. **Compare the positive numbers:** 10 meters is lower than 50 meters.
 
-4. **Order the positive numbers:** 10 meters 50 meters
+5. **Combine:** Now put them all together from lowest to highest: -30 meters -5 meters 10 meters 50 meters"
+"Numbers and operations","Expanding number relationships and number spaces","D","The sequence of plants in a garden grows as 2 5 8 __ __; find the next two numbers in the sequence.","This is an arithmetic sequence meaning there's a constant difference between consecutive terms.  To find the next two numbers:
 
-5. **Combine the ordered sets:**  The complete order from lowest to highest is: -30 meters -5 meters 10 meters 50 meters"
-"Numbers and operations","Expanding number relationships and number spaces","D","The sequence of plants in a garden grows as 2 5 8 __ __; find the next two numbers in the sequence.","This sequence is an arithmetic progression meaning there's a constant difference between consecutive terms.  To find the next two numbers:
+1. **Find the common difference:** Subtract the first term from the second term (5 - 2 = 3).  This shows the common difference is 3.
 
-1. **Calculate the common difference:** Subtract the first term from the second term (5 - 2 = 3).  This shows the difference between each consecutive number is 3.
+2. **Add the common difference:**  Add the common difference (3) to the last known term in the sequence to find the next term: 8 + 3 = 11
 
-2. **Find the next term:** Add the common difference (3) to the last known term (8).  8 + 3 = 11
+3. **Repeat:** Add the common difference (3) to the newly found term to find the following term: 11 + 3 = 14
 
-3. **Find the term after that:** Add the common difference (3) to the previous result (11). 11 + 3 = 14
+Therefore the next two numbers in the sequence are $\boxed{11 \text{ and } 14}$."
+"Numbers and operations","Expanding number relationships and number spaces","D","A sprinting team completes their laps in the following times: 60 seconds 64 seconds 68 seconds __ __; what are the next two lap times?","This is an arithmetic sequence.  The difference between consecutive terms is constant.
 
-Therefore the next two numbers in the sequence are 11 and 14."
-"Numbers and operations","Expanding number relationships and number spaces","D","A sprinting team completes their laps in the following times: 60 seconds 64 seconds 68 seconds __ __; what are the next two lap times?","This problem presents a sequence of numbers representing lap times.  To find the next two times we need to identify the pattern in the given sequence (60 64 68).
+1. **Find the common difference:** Subtract the first term from the second: 64 seconds - 60 seconds = 4 seconds.  This is the common difference.
 
-Notice that each subsequent time is 4 seconds greater than the previous time. This is an arithmetic sequence with a common difference of 4.
+2. **Find the next two terms:** Add the common difference (4 seconds) to the last known term repeatedly:
 
-To find the next two lap times continue the pattern:
+    * 68 seconds + 4 seconds = 72 seconds
+    * 72 seconds + 4 seconds = 76 seconds
 
-* Add 4 seconds to the last given time (68 seconds): 68 + 4 = 72 seconds
-* Add 4 seconds to the result: 72 + 4 = 76 seconds
+Therefore the next two lap times are **72 seconds** and **76 seconds**."
+"Numbers and operations","Expanding number relationships and number spaces","D","A baker uses a pattern of ingredients: 1 cup of sugar 2 cups of flour 3 eggs __ __; identify the next two items in this ingredient pattern.","This pattern is based on a simple numerical sequence.  Notice that the quantities increase by one:
 
-Therefore the next two lap times are $\boxed{72 \text{ seconds and } 76 \text{ seconds}}$."
-"Numbers and operations","Expanding number relationships and number spaces","D","A baker uses a pattern of ingredients: 1 cup of sugar 2 cups of flour 3 eggs __ __; identify the next two items in this ingredient pattern.","This task relies on pattern recognition.  The baker's pattern isn't immediately obvious in terms of units (cups eggs) but is sequential numerically.  Notice that the quantities increase by one: 1 sugar 2 flour 3 eggs.
+* Sugar: 1 cup
+* Flour: 2 cups
+* Eggs: 3
 
-Therefore the next two ingredients would likely be 4 of something and then 5 of something else. The specific ingredients aren't provided but the *quantity* pattern is consistent.  The solution simply continues the numerical sequence:  4 (some ingredient) and 5 (another ingredient)."
+Following the sequence the next item would be 4 something and the item after that would be 5 something.  The *something* is not specified so there's no single right answer.  To continue the pattern you would need additional information about the recipe."
 "Numbers and operations","Expanding number relationships and number spaces","E","List all the factors of 36 and identify which of these factors are also prime numbers.","To solve this task follow these steps:
 
-1. **Find all factors of 36:**  A factor is a number that divides evenly into 36 without leaving a remainder.  We can find them systematically:
+**1. Find all factors of 36:**
 
-   * Start with 1 (every number is divisible by 1):  1 x 36 = 36
-   * Try 2: 2 x 18 = 36
-   * Try 3: 3 x 12 = 36
-   * Try 4: 4 x 9 = 36
-   * Try 5: 5 doesn't divide evenly into 36
-   * Try 6: 6 x 6 = 36
-   * Notice that after 6 we start repeating factors (we've already found 9 12 18 and 36).  This is because factors come in pairs.
+A factor of a number is a whole number that divides evenly into that number without leaving a remainder.  To find all the factors of 36 systematically consider all the whole numbers from 1 up to 36 checking if they divide 36 without a remainder.
+
+You can do this by:
+
+* **Starting with 1:** 1 is always a factor.
+* **Trying successive numbers:** 2 divides 36 (36/2 = 18) so 2 and 18 are factors.  Continue with 3 (36/3 = 12) 4 (36/4 = 9) 6 (36/6 = 6) etc.
+* **Pairing:** Notice that once you reach the square root of 36 (which is 6) you'll start repeating factor pairs (because 6 x 6 = 36 and you've already found 6).
 
 
-   Therefore the factors of 36 are 1 2 3 4 6 9 12 18 and 36.
+Therefore the factors of 36 are: 1 2 3 4 6 9 12 18 and 36.
 
-2. **Identify the prime factors:** A prime number is a whole number greater than 1 that has only two divisors: 1 and itself.  From the list of factors above let's check each:
+**2. Identify the prime factors:**
 
-   * 1 is not a prime number (by definition).
-   * 2 is a prime number (only divisible by 1 and 2).
-   * 3 is a prime number (only divisible by 1 and 3).
-   * 4 is not a prime number (divisible by 1 2 and 4).
-   * 6 is not a prime number (divisible by 1 2 3 and 6).
-   * 9 is not a prime number (divisible by 1 3 and 9).
-   * 12 is not a prime number.
-   * 18 is not a prime number.
-   * 36 is not a prime number.
+A prime number is a whole number greater than 1 that has only two divisors: 1 and itself.  Now look at the list of factors you generated in step 1 and identify which ones are prime:
 
-Therefore the prime factors of 36 are 2 and 3."
-"Numbers and operations","Expanding number relationships and number spaces","E","Calculate the first five multiples of 7 and explain the pattern you observe in those multiples.","To calculate the first five multiples of 7 you simply multiply 7 by each of the first five whole numbers (0 1 2 3 and 4).
+* **1 is not prime:** By definition prime numbers must be greater than 1.
+* **2 is prime:** Its only divisors are 1 and 2.
+* **3 is prime:** Its only divisors are 1 and 3.
+* **4 is not prime:** It's divisible by 1 2 and 4.
+* **6 is not prime:** It's divisible by 1 2 3 and 6.
+* **9 is not prime:** It's divisible by 1 3 and 9.
+* **12 is not prime:**  It's divisible by 1 2 3 4 6 and 12.
+* **18 is not prime:** It's divisible by 1 2 3 6 9 and 18.
+* **36 is not prime:** It's divisible by many numbers.
 
-1. **7 x 0 = 0**
-2. **7 x 1 = 7**
-3. **7 x 2 = 14**
-4. **7 x 3 = 21**
-5. **7 x 4 = 28**
+**Conclusion:**
 
-Therefore the first five multiples of 7 are 0 7 14 21 and 28.
+The factors of 36 are 1 2 3 4 6 9 12 18 and 36.  The prime factors of 36 are 2 and 3."
+"Numbers and operations","Expanding number relationships and number spaces","E","Calculate the first five multiples of 7 and explain the pattern you observe in those multiples.","To solve this task follow these steps:
 
-The pattern observed is that each subsequent multiple is 7 greater than the previous one.  This is because you're consistently adding 7 to find the next multiple in the sequence.  Alternatively you can see the pattern as each multiple increasing by 7 from the previous one.  It's a simple arithmetic sequence with a common difference of 7."
-"Numbers and operations","Expanding number relationships and number spaces","E","If you have 48 apples and want to divide them equally into baskets determine all the possible numbers of baskets you can use by finding the factors of 48.","To find all the possible numbers of baskets you can use you need to find all the factors of 48.  Factors are numbers that divide evenly into 48 without leaving a remainder.  You can do this in a few ways:
+1. **Find the first five multiples of 7:**  A multiple of a number is the result of multiplying that number by an integer (whole number).  So we'll multiply 7 by the first five integers (1 2 3 4 and 5):
 
-**Method 1:  Listing Factor Pairs**
+   * 7 x 1 = 7
+   * 7 x 2 = 14
+   * 7 x 3 = 21
+   * 7 x 4 = 28
+   * 7 x 5 = 35
 
-Start by listing pairs of numbers that multiply to 48:
+2. **Observe the pattern:** Now look at the sequence of numbers you've generated: 7 14 21 28 35.  Notice the pattern:
 
-* 1 x 48
-* 2 x 24
-* 3 x 16
-* 4 x 12
-* 6 x 8
+   * **Arithmetic sequence:** The difference between consecutive numbers is always the same (7).  Each number is 7 more than the previous number. This is called an arithmetic sequence.
+   * **Units digit pattern:** The units digits (the last digit of each number) follow a pattern: 7 4 1 8 5.  This pattern will repeat for subsequent multiples.
+   * **Tens digit pattern (less consistent):**  The tens digits change less predictably in this short sequence but would reveal a more consistent pattern with more multiples.
 
-Each number in these pairs is a factor of 48. Therefore you could use 1 2 3 4 6 8 12 16 24 or 48 baskets.
 
-**Method 2:  Prime Factorization**
+Therefore your answer should include the five multiples (7 14 21 28 35) and a description of the observed patterns specifically the constant difference of 7 between consecutive multiples and the repeating pattern of the units digits."
+"Numbers and operations","Expanding number relationships and number spaces","E","If you have 48 apples and want to divide them equally into baskets determine all the possible numbers of baskets you can use by finding the factors of 48.","To find all the possible numbers of baskets you can use you need to find all the factors of 48.  Factors are numbers that divide evenly into 48 without leaving a remainder.  Here's how to do it:
 
-1. Find the prime factorization of 48.  This means expressing 48 as a product of prime numbers (numbers only divisible by 1 and themselves).  48 = 2 x 2 x 2 x 2 x 3  (or 2⁴ x 3)
+**Method 1:  Listing Factors Systematically**
 
-2.  Use the prime factorization to build all possible combinations of factors.  Since you have four 2s and one 3 you can create factors by combining these:
+1. **Start with 1:** 1 is always a factor of any number.  (1 basket containing 48 apples)
 
-   * Using only 2s: 2 4 8 16
-   * Using 3: 3 6 12 24 48 (combining 3 with the factors from step 2 above)
+2. **Check for 2:** 48 is an even number so it's divisible by 2. (2 baskets with 24 apples each)
 
-This method ensures you don't miss any factors.  Again this gives you the same set of possible basket numbers: 1 2 3 4 6 8 12 16 24 48."
-"Numbers and operations","Expanding number relationships and number spaces","E","Find the least common multiple (LCM) of 8 and 12 to determine how often their multiples will coincide.","To find the least common multiple (LCM) of 8 and 12 you can use a few methods:
+3. **Check for 3:** Add the digits of 48 (4+8=12). Since 12 is divisible by 3 48 is also divisible by 3. (3 baskets with 16 apples each)
+
+4. **Continue with other numbers:**  Try 4 5 6 and so on.  If a number divides evenly into 48 it's a factor.  If it doesn't divide evenly move on.
+
+5. **Stop when you reach the square root:** Once you find a factor that is larger than the square root of 48 (approximately 6.9) you've found all the factors.  Any larger factor will have a corresponding smaller factor you've already found.
+
+6. **List your factors:**  You'll find the factors of 48 are: 1 2 3 4 6 8 12 16 24 and 48.
+
+
+**Method 2: Prime Factorization**
+
+1. **Find the prime factorization:** Express 48 as a product of prime numbers.  48 = 2 x 2 x 2 x 2 x 3 = 2⁴ x 3
+
+2. **Generate factors:** To find all the factors consider all possible combinations of these prime factors:
+
+   * Using only 2s: 2¹ 2² 2³ 2⁴  (2 4 8 16)
+   * Using 3: 3¹ (3)
+   * Combinations of 2s and 3s: 2¹ x 3¹ = 6; 2² x 3¹ = 12; 2³ x 3¹ = 24; 2⁴ x 3¹ = 48; and 1 (the combination of no prime factors)
+
+This method ensures you find all factors without missing any.  You'll arrive at the same list as Method 1: 1 2 3 4 6 8 12 16 24 and 48.
+
+Therefore you can use 1 2 3 4 6 8 12 16 24 or 48 baskets."
+"Numbers and operations","Expanding number relationships and number spaces","E","Find the least common multiple (LCM) of 8 and 12 to determine how often their multiples will coincide.","To find the least common multiple (LCM) of 8 and 12 you can use one of these methods:
 
 **Method 1: Listing Multiples**
 
 1. **List the multiples of each number:**
-   * Multiples of 8: 8 16 24 32 40 48 ...
-   * Multiples of 12: 12 24 36 48 60 ...
+   * Multiples of 8: 8 16 24 32 40 48 56 64 72...
+   * Multiples of 12: 12 24 36 48 60 72...
 
-2. **Identify the smallest common multiple:** The smallest number that appears in both lists is 24.  Therefore the LCM of 8 and 12 is 24.
+2. **Identify the smallest common multiple:**  The smallest number that appears in both lists is 24.  Therefore the LCM(8 12) = 24.
 
 **Method 2: Prime Factorization**
 
@@ -336,197 +410,191 @@ This method ensures you don't miss any factors.  Again this gives you the same s
    * 8 = 2 x 2 x 2 = 2³
    * 12 = 2 x 2 x 3 = 2² x 3
 
-2. **Identify the highest power of each prime factor:** The prime factors are 2 and 3.  The highest power of 2 is 2³ (from the factorization of 8) and the highest power of 3 is 3¹ (from the factorization of 12).
+2. **Identify the highest power of each prime factor:** The prime factors are 2 and 3. The highest power of 2 is 2³ (from the factorization of 8) and the highest power of 3 is 3¹ (from the factorization of 12).
 
-3. **Multiply the highest powers together:** 2³ x 3 = 8 x 3 = 24.  The LCM is 24.
+3. **Multiply the highest powers together:** LCM(8 12) = 2³ x 3 = 8 x 3 = 24
 
 **Method 3: Using the Greatest Common Divisor (GCD)**
 
-1. **Find the greatest common divisor (GCD) of 8 and 12:**  You can use the Euclidean algorithm or prime factorization for this.  The GCD of 8 and 12 is 4.
+1. **Find the greatest common divisor (GCD) of 8 and 12:** You can use the Euclidean algorithm or prime factorization for this.  Using prime factorization:
+   * 8 = 2³
+   * 12 = 2² x 3
+   * The common factors are 2² so GCD(8 12) = 4
 
-2. **Use the formula: LCM(a b) = (a x b) / GCD(a b):**  LCM(8 12) = (8 x 12) / 4 = 96 / 4 = 24.
+2. **Use the formula: LCM(a b) = (a x b) / GCD(a b)**
+   * LCM(8 12) = (8 x 12) / 4 = 96 / 4 = 24
 
-In all cases the LCM is 24. This means the multiples of 8 and 12 will coincide every 24 units.  For example 24 is a multiple of both 8 (8 x 3 = 24) and 12 (12 x 2 = 24).  The next common multiple would be 48 (24 x 2) then 72 (24 x 3) and so on."
-"Numbers and operations","Expanding number relationships and number spaces","E","Calculate the greatest common divisor (GCD) of 20 and 30 to understand their largest shared factor.","There are several ways to calculate the GCD of 20 and 30. Here are two common methods:
+**How often their multiples coincide:**
+
+The LCM of 8 and 12 is 24.  This means that the multiples of 8 and 12 will coincide every 24 units.  In other words every 24th multiple of 8 will also be a multiple of 12 and vice versa.  For example:
+
+* Multiples of 8: 8 16 24 32 40 48 56 72...
+* Multiples of 12: 12 24 36 48 60 72...
+
+The common multiples are 24 48 72...  They coincide every 24 units."
+"Numbers and operations","Expanding number relationships and number spaces","E","Calculate the greatest common divisor (GCD) of 20 and 30 to understand their largest shared factor.","There are several ways to calculate the GCD of 20 and 30:
 
 **1. Listing Factors:**
 
-* **Find the factors of each number:**
-    * Factors of 20: 1 2 4 5 10 20
-    * Factors of 30: 1 2 3 5 6 10 15 30
+* **Find the factors of 20:** 1 2 4 5 10 20
+* **Find the factors of 30:** 1 2 3 5 6 10 15 30
+* **Identify the common factors:** 1 2 5 10
+* **The greatest common factor (which is the GCD) is 10.**
 
-* **Identify the common factors:**  Both lists share 1 2 5 and 10.
+This method is straightforward for smaller numbers but becomes cumbersome with larger numbers.
 
-* **Find the greatest common factor:** The largest number in the list of common factors is 10.  Therefore the GCD of 20 and 30 is 10.
+**2. Prime Factorization:**
 
+* **Find the prime factorization of 20:** 2² x 5
+* **Find the prime factorization of 30:** 2 x 3 x 5
+* **Identify the common prime factors:** 2 and 5
+* **Multiply the common prime factors to the lowest power they appear in either factorization:** 2¹ x 5¹ = 10
+* **The GCD is 10.**
 
-**2. Euclidean Algorithm:**
+This method is more efficient for larger numbers than listing all factors.
 
-This method is more efficient for larger numbers.  It's based on repeated division with remainder.
+**3. Euclidean Algorithm:**
 
-1. **Divide the larger number (30) by the smaller number (20):** 30 ÷ 20 = 1 with a remainder of 10.
+This is the most efficient method for larger numbers.  It involves repeatedly applying the division algorithm until the remainder is 0. The last non-zero remainder is the GCD.
 
-2. **Replace the larger number with the smaller number and the smaller number with the remainder:** Now we find the GCD of 20 and 10.
+1. Divide the larger number (30) by the smaller number (20): 30 ÷ 20 = 1 with a remainder of 10.
+2. Replace the larger number with the smaller number (20) and the smaller number with the remainder (10):  20 ÷ 10 = 2 with a remainder of 0.
+3. Since the remainder is 0 the GCD is the last non-zero remainder which is 10.
 
-3. **Repeat the division:** 20 ÷ 10 = 2 with a remainder of 0.
+Therefore the greatest common divisor of 20 and 30 is $\boxed{10}$."
+"Numbers and operations","Expanding number relationships and number spaces","E","A gardener wants to plant flowers in rows using 18 red flowers and 24 blue flowers; what is the LCM of 18 and 24 to find the smallest number of total flowers he can use without having leftovers?","The gardener wants to arrange both red and blue flowers in equal-sized rows without any flowers left over.  This means the number of rows must be a common divisor of both 18 and 24.  To find the *largest* possible number of rows (and thus the *smallest* number of total flowers) we need to find the greatest common divisor (GCD) of 18 and 24.
 
-4. **The GCD is the last non-zero remainder:** Since the remainder is 0 the GCD is the previous remainder which is 10.
+However the problem states we need to use the *least common multiple* (LCM). The LCM is used to find the smallest number of *total flowers* needed. Here's why the LCM is relevant:
 
-Therefore using either method the greatest common divisor of 20 and 30 is 10.  This means 10 is the largest number that divides both 20 and 30 without leaving a remainder."
-"Numbers and operations","Expanding number relationships and number spaces","E","A gardener wants to plant flowers in rows using 18 red flowers and 24 blue flowers; what is the LCM of 18 and 24 to find the smallest number of total flowers he can use without having leftovers?","The gardener wants to arrange the flowers in rows such that each row has the same number of red flowers and the same number of blue flowers with no flowers leftover.  This means the number of rows must be a divisor of both 18 and 24.  To find the largest possible number of rows (and thus the smallest number of total flowers per row) we need to find the greatest common divisor (GCD) of 18 and 24.
+* **Rows of Red Flowers:**  The gardener can arrange 18 red flowers in rows of 1 2 3 6 9 or 18 flowers per row.
+* **Rows of Blue Flowers:** The gardener can arrange 24 blue flowers in rows of 1 2 3 4 6 8 12 or 24 flowers per row.
 
-However the question asks for the least common multiple (LCM) to find the *smallest* number of *total* flowers.  While the GCD helps determine the maximum number of *rows* the LCM helps determine the smallest number of *flowers*.
+To have the same number of flowers in each row for both colors the number of flowers per row must be a common divisor of both 18 and 24. The *largest* such common divisor is the GCD(18 24) = 6.
 
-Here's how to solve it using the LCM:
+If he uses 6 flowers per row:
 
-1. **Find the prime factorization of each number:**
+* He'll have 18 red flowers / 6 flowers/row = 3 rows of red flowers.
+* He'll have 24 blue flowers / 6 flowers/row = 4 rows of blue flowers.
 
+This isn't what we want; he needs the *same* number of rows for both colors.  This is where the LCM comes in.
+
+The LCM(18 24) gives us the smallest number of *flowers per color* that allows for a whole number of rows of equal size for both colors.  We find the LCM as follows:
+
+1. **Prime Factorization:**
    * 18 = 2 x 3 x 3 = 2 x 3²
    * 24 = 2 x 2 x 2 x 3 = 2³ x 3
 
-2. **Identify the highest power of each prime factor present in either factorization:**
-
-   * The highest power of 2 is 2³ = 8
-   * The highest power of 3 is 3² = 9
-
-3. **Multiply the highest powers together to find the LCM:**
-
+2. **LCM Calculation:** To find the LCM take the highest power of each prime factor present in either number:
    * LCM(18 24) = 2³ x 3² = 8 x 9 = 72
 
-Therefore the smallest number of total flowers the gardener can use without having leftovers is 72.  This means he'll have 4 rows of 18 red flowers (72 total) and 3 rows of 24 blue flowers (72 total).  The 72 flowers are arranged in rows of (18 red + 24 blue) = 4 rows or (6 red + 8 blue) = 3 rows of this combination."
+Therefore the smallest number of *total* flowers he can use without leftovers is 72.  He'll have 4 rows of 18 red flowers (72 total red flowers) and 3 rows of 24 blue flowers (72 total blue flowers) resulting in 72 flowers total.  Each row will contain 18 red and 24 blue flowers.  The total number of flowers per row will be 42."
 "Numbers and operations","Expanding number relationships and number spaces","F","Calculate the value of 3 raised to the power of 4 and then subtract the square root of 64 from that result.","Here's how to solve the problem step-by-step:
 
-1. **Calculate 3 raised to the power of 4 (3⁴):**  This means multiplying 3 by itself four times: 3 * 3 * 3 * 3 = 81
+1. **Calculate 3 raised to the power of 4 (3⁴):**  This means 3 multiplied by itself four times: 3 * 3 * 3 * 3 = 81
 
-2. **Calculate the square root of 64 (√64):** This is the number that when multiplied by itself equals 64.  That number is 8.
+2. **Calculate the square root of 64 (√64):**  This is the number that when multiplied by itself equals 64.  The answer is 8.
 
-3. **Subtract the square root of 64 from the result of 3⁴:** Subtract the result from step 2 (8) from the result of step 1 (81): 81 - 8 = 73
+3. **Subtract the square root of 64 from 3⁴:**  Take the result from step 1 (81) and subtract the result from step 2 (8): 81 - 8 = 73
 
-Therefore the final answer is $\boxed{73}$."
-"Numbers and operations","Expanding number relationships and number spaces","F","If the area of a square garden is 81 square feet find the length of one side of the garden.","The area of a square is found by multiplying the length of one side by itself (side * side or side²).  Since we know the area is 81 square feet we need to find the number that when multiplied by itself equals 81.  This is the square root of 81.
+Therefore the final answer is $\boxed{73}$"
+"Numbers and operations","Expanding number relationships and number spaces","F","If the area of a square garden is 81 square feet find the length of one side of the garden.","The area of a square is found by multiplying the length of one side by itself (side * side or side²).  Since you know the area is 81 square feet you need to find the number that when multiplied by itself equals 81.  This is finding the square root.
 
 Therefore to solve this:
 
-1. **Find the square root of 81.**  You can do this using a calculator or by remembering your multiplication tables (9 x 9 = 81).
+1. **Find the square root of 81:** √81 = 9
 
-2. **The result is the length of one side of the garden.**  In this case the length of one side is 9 feet."
-"Numbers and operations","Expanding number relationships and number spaces","F","Determine the sum of the values obtained by finding the square root of 49 and raising 2 to the power of 5.","This problem involves two separate calculations followed by addition.
+2. **State your answer:** The length of one side of the garden is 9 feet."
+"Numbers and operations","Expanding number relationships and number spaces","F","Determine the sum of the values obtained by finding the square root of 49 and raising 2 to the power of 5.","The task is broken down into two parts:
 
-1. **Find the square root of 49:**  The square root of a number is a value that when multiplied by itself gives the original number.  The square root of 49 is 7 (because 7 * 7 = 49).
+1. **Find the square root of 49:**  The square root of 49 is 7 (because 7 * 7 = 49).
 
-2. **Raise 2 to the power of 5:** This means multiplying 2 by itself five times: 2 * 2 * 2 * 2 * 2 = 32.
+2. **Raise 2 to the power of 5:** This means 2 multiplied by itself five times: 2 * 2 * 2 * 2 * 2 = 32
 
-3. **Find the sum:** Add the results from steps 1 and 2: 7 + 32 = 39
+3. **Find the sum:** Finally add the results from steps 1 and 2: 7 + 32 = 39
 
-Therefore the solution is $\boxed{39}$."
-"Numbers and operations","Expanding number relationships and number spaces","G","A model of a skyscraper is built at a scale of 1:250; if the actual height of the skyscraper is 300 meters what is the height of the model in centimeters?","To solve this you need to use the scale provided.  The scale 1:250 means that 1 unit of measurement on the model represents 250 units of the same measurement on the actual skyscraper.
+Therefore the sum of the values is $\boxed{39}$."
+"Numbers and operations","Expanding number relationships and number spaces","G","A model of a skyscraper is built at a scale of 1:250; if the actual height of the skyscraper is 300 meters what is the height of the model in centimeters?","Here's how to solve this problem step-by-step:
 
-1. **Convert units:** The skyscraper's height is given in meters but we want the model's height in centimeters.  There are 100 centimeters in a meter so the actual skyscraper height is 300 meters * 100 cm/meter = 30000 centimeters.
+1. **Understand the scale:** The scale 1:250 means that 1 unit of measurement on the model represents 250 units of the same measurement on the actual skyscraper.
 
-2. **Apply the scale:** Now use the scale to find the model's height.  Since 1 cm on the model represents 250 cm in reality divide the actual height by the scale factor: 30000 cm / 250 = 120 cm.
+2. **Convert units:**  The skyscraper's height is given in meters but we want the model's height in centimeters.  There are 100 centimeters in 1 meter. Therefore the actual height of the skyscraper is 300 meters * 100 cm/meter = 30000 centimeters.
 
-Therefore the height of the model is 120 centimeters."
-"Numbers and operations","Expanding number relationships and number spaces","G","A recipe for a large cake requires 3 cups of flour for every 2 cups of sugar; if a baker wants to make 6 cups of flour how many cups of sugar will they need?","This problem involves ratios.  The recipe establishes a ratio of flour to sugar: 3 cups flour : 2 cups sugar.
+3. **Apply the scale:**  Divide the actual height in centimeters by the scale factor: 30000 cm / 250 = 120 cm
 
-To find out how much sugar is needed for 6 cups of flour we need to maintain this ratio.  We can do this using proportions:
+**Therefore the height of the model is 120 centimeters.**"
+"Numbers and operations","Expanding number relationships and number spaces","G","A recipe for a large cake requires 3 cups of flour for every 2 cups of sugar; if a baker wants to make 6 cups of flour how many cups of sugar will they need?","This is a ratio problem.  The recipe establishes a ratio of flour to sugar: 3 cups flour : 2 cups sugar.
 
-**Method 1:  Scaling the Ratio**
+To find out how much sugar is needed for 6 cups of flour you can set up a proportion:
 
-Notice that to go from 3 cups of flour to 6 cups of flour we multiply by 2 (3 cups * 2 = 6 cups).  To maintain the ratio we must also multiply the amount of sugar by 2: 2 cups * 2 = 4 cups of sugar.
+* **3 cups flour / 2 cups sugar = 6 cups flour / x cups sugar**
 
-**Method 2: Setting up a Proportion**
+Where 'x' represents the unknown amount of sugar.
 
-We can set up a proportion:
+Solve for 'x' by cross-multiplying:
 
-(flour_1 / sugar_1) = (flour_2 / sugar_2)
+* 3x = 2 * 6
+* 3x = 12
+* x = 12 / 3
+* x = 4
 
-Where:
+Therefore the baker will need **4 cups of sugar** to make a cake with 6 cups of flour."
+"Numbers and operations","Expanding number relationships and number spaces","G","A map uses a scale where 1 inch represents 30 miles; if two towns are 5 inches apart on the map what is the actual distance between them in miles?","The map uses a scale of 1 inch : 30 miles.  This means every inch on the map represents 30 miles in real life.
 
-* flour_1 = 3 cups
-* sugar_1 = 2 cups
-* flour_2 = 6 cups
-* sugar_2 = x (what we want to find)
+Since the towns are 5 inches apart on the map you simply multiply the map distance by the scale factor:
 
-So the proportion becomes:
+5 inches * 30 miles/inch = 150 miles
 
-3/2 = 6/x
+The actual distance between the two towns is $\boxed{150}$ miles."
+"Numbers and operations","Applying calculation strategies","D","A local bookstore sold 237 books last month and 185 books this month; estimate the total number of books sold by rounding to the nearest ten.","Here's how to solve this problem using rounding to the nearest ten:
 
-To solve for x we can cross-multiply:
+1. **Round each number:**
+   * 237 rounds to 240 (because the units digit 7 is 5 or greater)
+   * 185 rounds to 190 (because the units digit 5 is 5 or greater)
 
-3 * x = 2 * 6
+2. **Add the rounded numbers:** 240 + 190 = 430
 
-3x = 12
-
-x = 12 / 3
-
-x = 4
-
-Therefore the baker will need 4 cups of sugar."
-"Numbers and operations","Expanding number relationships and number spaces","G","A map uses a scale where 1 inch represents 30 miles; if two towns are 5 inches apart on the map what is the actual distance between them in miles?","This is a simple proportion problem.  The map scale gives you a ratio: 1 inch on the map corresponds to 30 miles in reality.
-
-Set up a proportion:
-
-(inches on map) / (miles in reality) = (inches on map) / (miles in reality)
-
-Substitute the known values:
-
-1 inch / 30 miles = 5 inches / x miles
-
-Now solve for 'x' (the actual distance between the towns):
-
-Cross-multiply:  1 * x = 5 * 30
-
-Simplify: x = 150
-
-Therefore the actual distance between the two towns is 150 miles."
-"Numbers and operations","Applying calculation strategies","D","A local bookstore sold 237 books last month and 185 books this month; estimate the total number of books sold by rounding to the nearest ten.","To estimate the total number of books sold round each month's sales to the nearest ten then add the rounded numbers.
-
-1. **Round 237 to the nearest ten:**  The tens digit is 3. The units digit (7) is 5 or greater so we round up.  237 rounds to 240.
-
-2. **Round 185 to the nearest ten:** The tens digit is 8. The units digit (5) is 5 or greater so we round up. 185 rounds to 190.
-
-3. **Add the rounded numbers:** 240 + 190 = 430
-
-Therefore the bookstore sold approximately 430 books in total."
+Therefore the estimated total number of books sold is $\boxed{430}$."
 "Numbers and operations","Applying calculation strategies","D","A farmer has 489 apples and plans to give away 275 apples; estimate how many apples he will have left by rounding to the nearest ten.","Here's how to solve this problem using rounding to the nearest ten:
 
-1. **Round the initial number of apples:** The farmer has 489 apples.  Rounding to the nearest ten means looking at the ones digit (9). Since it's 5 or greater we round the tens digit up.  489 rounds up to 490.
+1. **Round the initial number of apples:** The farmer has 489 apples.  Rounding 489 to the nearest ten gives us 490 (because 9 is closer to 10 than 0).
 
-2. **Round the number of apples given away:** The farmer gives away 275 apples. The ones digit is 5 so we round the tens digit up. 275 rounds up to 280.
+2. **Round the number of apples given away:** The farmer gives away 275 apples. Rounding 275 to the nearest ten gives us 280.
 
-3. **Subtract the rounded numbers:** Subtract the rounded number of apples given away from the rounded number of apples the farmer started with: 490 - 280 = 210
+3. **Subtract the rounded numbers:** Now subtract the rounded number of apples given away from the rounded number of apples the farmer started with: 490 - 280 = 210
 
-Therefore the farmer will have approximately 210 apples left."
-"Numbers and operations","Applying calculation strategies","D","During a school fundraiser students raised $1248 and spent $673; estimate the total amount left by rounding to the nearest ten.","Here's how to solve this problem step-by-step:
+Therefore the farmer will have approximately 210 apples left.  This is an estimate not the exact number."
+"Numbers and operations","Applying calculation strategies","D","During a school fundraiser students raised $1248 and spent $673; estimate the total amount left by rounding to the nearest ten.","Here's how to solve this problem using rounding to the nearest ten:
 
-1. **Round to the nearest ten:** Round both the amount raised and the amount spent to the nearest ten.
+1. **Round the amounts:**
 
-   * $1248 rounds to $1250 (because the ones digit 8 is 5 or greater so we round up).
-   * $673 rounds to $670 (because the ones digit 3 is less than 5 so we round down).
+* **Money raised:** $1248 rounds to $1250 (because the ones digit 8 is greater than or equal to 5 we round up).
+* **Money spent:** $673 rounds to $670 (because the ones digit 3 is less than 5 we round down).
 
-2. **Subtract:** Subtract the rounded amount spent from the rounded amount raised: $1250 - $670 = $580
+2. **Subtract the rounded amounts:**
 
-3. **State the answer:** The estimated amount left is $580.  This is an approximation; the exact amount may be slightly different."
-"Numbers and operations","Applying calculation strategies","E","Jenna has \(\frac{2}{3}\) of a pizza and her friend gives her \(\frac{1}{4}\) of a pizza; how much pizza does Jenna have now?","To solve this you need to add the two fractions together.  However you can't directly add fractions with different denominators (the bottom numbers).  First find a common denominator – a number that both 3 and 4 divide into evenly.  The least common denominator for 3 and 4 is 12.
+* $1250 (raised) - $670 (spent) = $580
 
-Next convert each fraction to have a denominator of 12:
+Therefore the estimated amount left is $\boxed{$580}$."
+"Numbers and operations","Applying calculation strategies","E","Jenna has \(\frac{2}{3}\) of a pizza and her friend gives her \(\frac{1}{4}\) of a pizza; how much pizza does Jenna have now?","To solve this you need to add the two fractions together:
 
-* \(\frac{2}{3}\) becomes \(\frac{8}{12}\) (multiply both the numerator and denominator by 4)
-* \(\frac{1}{4}\) becomes \(\frac{3}{12}\) (multiply both the numerator and denominator by 3)
+1. **Find a common denominator:**  The denominators are 3 and 4. The least common multiple of 3 and 4 is 12.
 
-Now you can add the fractions:
+2. **Convert the fractions to equivalent fractions with the common denominator:**
 
-\(\frac{8}{12} + \frac{3}{12} = \frac{11}{12}\)
+   * \(\frac{2}{3}\) becomes \(\frac{2 \times 4}{3 \times 4} = \frac{8}{12}\)
+   * \(\frac{1}{4}\) becomes \(\frac{1 \times 3}{4 \times 3} = \frac{3}{12}\)
 
-Jenna now has \(\frac{11}{12}\) of a pizza."
-"Numbers and operations","Applying calculation strategies","E","A recipe requires \(\frac{5}{6}\) cup of sugar but Jerry only has \(\frac{1}{3}\) cup; how much more sugar does he need to gather?","To find out how much more sugar Jerry needs subtract the amount he has from the amount the recipe requires.
+3. **Add the numerators:** \(\frac{8}{12} + \frac{3}{12} = \frac{8+3}{12} = \frac{11}{12}\)
 
-1. **Find a common denominator:**  The fractions have denominators of 6 and 3. The least common denominator is 6.
+Therefore Jenna now has \(\frac{11}{12}\) of a pizza."
+"Numbers and operations","Applying calculation strategies","E","A recipe requires \(\frac{5}{6}\) cup of sugar but Jerry only has \(\frac{1}{3}\) cup; how much more sugar does he need to gather?","To find out how much more sugar Jerry needs subtract the amount of sugar he has from the amount the recipe requires.
 
-2. **Convert the fractions:**  The fraction 1/3 can be converted to an equivalent fraction with a denominator of 6 by multiplying both the numerator and denominator by 2: (1/3) * (2/2) = 2/6
+1. **Find a common denominator:** The fractions have denominators of 6 and 3.  The least common denominator is 6.
 
-3. **Subtract the fractions:** Subtract the amount Jerry has (2/6 cup) from the amount the recipe requires (5/6 cup):  5/6 - 2/6 = 3/6
+2. **Convert the fractions:**  Convert 1/3 to an equivalent fraction with a denominator of 6.  To do this multiply both the numerator and the denominator by 2: (1/3) * (2/2) = 2/6
 
-4. **Simplify the fraction (if possible):** The fraction 3/6 can be simplified by dividing both the numerator and denominator by their greatest common divisor which is 3:  3/6 = 1/2
+3. **Subtract:** Subtract the amount Jerry has (2/6 cup) from the amount the recipe requires (5/6 cup):  5/6 - 2/6 = 3/6
 
-Therefore Jerry needs an additional **1/2** cup of sugar."
+4. **Simplify:** Simplify the resulting fraction.  Both the numerator and denominator are divisible by 3: 3/6 = 1/2
+
+Therefore Jerry needs **1/2** cup more sugar."

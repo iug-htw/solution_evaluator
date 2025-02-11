@@ -4,7 +4,7 @@ import os
 import time
 from dotenv import load_dotenv
 
-def solve_tasks(input_file, output_file, model="gemini-1.5-flash"):
+def solve_tasks(input_file, output_file, model="gemini-1.5-flash", prompt_prefix="Explain to me how I can solve this task"):
     load_dotenv()
     api_key = os.getenv("GEMINI_API_KEY")
     genai.configure(api_key=api_key)
@@ -45,7 +45,7 @@ def solve_tasks(input_file, output_file, model="gemini-1.5-flash"):
             if i >= 50:
                 break
             topic_area, topic, progress_level, exercise = row
-            prompt = f"You are a {language_name[language]} speaking teacher. Explain how to solve this task: {exercise}. Don't cite copyrighted material."
+            prompt = f"{prompt_prefix}: {exercise}"
             print(f"Solving task {i+1} in {language_name[language]}: {exercise}")
 
             response = client.generate_content(prompt)

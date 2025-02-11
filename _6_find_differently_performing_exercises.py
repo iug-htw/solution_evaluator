@@ -44,6 +44,8 @@ def find_differently_performing_exercises(files):
                     
                 except ValueError:
                     print(f"Invalid value: {score}")
+        # convert the scores to numeric values
+        df[score_columns] = df[score_columns].apply(pd.to_numeric, errors='coerce')
         df["score"] = df[score_columns].mean(axis=1)
         
         # Keep only the necessary columns
