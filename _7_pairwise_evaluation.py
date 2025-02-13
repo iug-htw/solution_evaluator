@@ -4,6 +4,8 @@ import pandas as pd
 import os
 import re
 import csv
+import random
+import time
 from dotenv import load_dotenv
 from collections import Counter
 
@@ -46,7 +48,7 @@ def get_llm_client(model_name):
     else:
         raise ValueError(f"Unknown model: {model_name}")
 
-def rank_solutions(ex_index, solutions, langs, progress_level, exercise_terms, model):
+def rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise_terms, model):
     """
     Gets ranking evaluation from a specific LLM, ensuring explanations properly use and define technical terms.
 
@@ -65,26 +67,25 @@ def rank_solutions(ex_index, solutions, langs, progress_level, exercise_terms, m
     client = get_llm_client(model)
     progress_text = progress_levels.get(progress_level, "Unknown grade level")
 
-    # Create prompt with technical terms
     prompt = f"""
     You are an expert teacher trainer evaluating and ranking three math solutions, each explaining how to solve the same problem.
 
     **Exercise Index:** {ex_index}
     **Progress Level:** {progress_text}
 
-    **Solution 1 ({langs[0]}):**
+    **Solution 1 ({shuffled_langs[0]}):**
     {solutions[0]}
 
-    **Solution 2 ({langs[1]}):**
+    **Solution 2 ({shuffled_langs[1]}):**
     {solutions[1]}
 
-    **Solution 3 ({langs[2]}):**
+    **Solution 3 ({shuffled_langs[2]}):**
     {solutions[2]}
 
-    **Technical Terms to be Explained and Used Correctly:**
-    - {langs[0]}: {exercise_terms[langs[0]]}
-    - {langs[1]}: {exercise_terms[langs[1]]}
-    - {langs[2]}: {exercise_terms[langs[2]]}
+    **Technical Terms Required for Understanding:**
+    - {exercise_terms[shuffled_langs[0]]} (for {shuffled_langs[0]})
+    - {exercise_terms[shuffled_langs[1]]} (for {shuffled_langs[1]})
+    - {exercise_terms[shuffled_langs[2]]} (for {shuffled_langs[2]})
 
     **Evaluation Criteria**:
     - Which explanation shows the best problem understanding?
@@ -96,13 +97,13 @@ def rank_solutions(ex_index, solutions, langs, progress_level, exercise_terms, m
     - Which explanation is best suited for learning?
     - Which explanation is most generalizable to similar problems?
     - Which explanation is the most appropriate for the given progress level?
-    - Which explanation best explains and correctly uses the required technical terms?
+    - Which explanation best incorporates and explains the required technical terms?
 
     **Ranking Instructions**:
     - Rank the solutions from **1st (best) to 3rd (worst)**.
     - Format your response strictly as follows:
-      **Ranking:** [{langs[0]}: X, {langs[1]}: Y, {langs[2]}: Z]  
-      **Justification:** [Short explanation]  
+    **Ranking:** [{shuffled_langs[0]}: X, {shuffled_langs[1]}: Y, {shuffled_langs[2]}: Z]  
+    **Justification:** [Short explanation]  
     """
 
     try:
@@ -160,6 +161,9 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
     # Define CSV headers
     fieldnames = [
         "Exercise Index",
+        "Solution 1 Language",
+        "Solution 2 Language",
+        "Solution 3 Language",
         "Progress Level",
         "Best Explanation",
         "Worst Explanation",
@@ -182,17 +186,24 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
             writer.writeheader()  # Write headers only if file is new
 
         for ex_index in range(min_length):
+            if ex_index not in [274, 276, 279, 282, 285, 288, 291, 294, 297, 267, 17,  21,  24,  30,  31,  33,  36,  39,  42,  45, 49,  51,  53,  55,  56,  58,  63,  66,  84,  85, 86,  87,  88,  90, 100, 105, 108, 117, 132, 135, 138, 159, 162, 168, 174, 205, 260, 224, 228, 191]:
+                continue         
             try:
                 print(f"Evaluating exercise {ex_index}...", end=" ")
-                solutions = [dfs[lang].iloc[ex_index][f"{current_model} solution"] for lang in files.keys()]
-                langs = list(files.keys())
-                progress_level = dfs[langs[0]].iloc[ex_index]["Progress Level"]
+
+                # Shuffle language order for this exercise
+                shuffled_langs = list(files.keys())
+                random.shuffle(shuffled_langs)  # Randomize the order for each exercise
+
+                # Retrieve solutions in the shuffled order
+                solutions = [dfs[lang].iloc[ex_index][f"{current_model} solution"] for lang in shuffled_langs]
+                progress_level = dfs[shuffled_langs[0]].iloc[ex_index]["Progress Level"]
 
                 # Extract relevant technical terms for the current exercise
                 exercise_terms = {
                     lang: terms_dfs[lang].iloc[ex_index]["Technical Terms"]
                     if ex_index < len(terms_dfs[lang]) else "No specific terms"
-                    for lang in langs
+                    for lang in shuffled_langs
                 }
 
                 # Get evaluations from all models
@@ -200,7 +211,7 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                 justifications = {}
 
                 for model in LLM_MODELS.keys():
-                    judge_response = rank_solutions(ex_index, solutions, langs, progress_level, exercise_terms, model)
+                    judge_response = rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise_terms, model)
 
                     if judge_response != "Error":
                         response_lines = judge_response.split("\n")
@@ -211,21 +222,30 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                         rankings[model] = ranking_dict
                         justifications[model] = justification
 
+                # Reverse map rankings to the original language names
+                reverse_map = {shuffled_langs[i]: list(files.keys())[i] for i in range(len(shuffled_langs))}
+                mapped_rankings = {
+                    model: {reverse_map[lang]: rank for lang, rank in rankings[model].items()} for model in rankings
+                }
+
                 # Majority voting for best & worst explanation
-                best_votes = Counter([min(rankings[model], key=rankings[model].get) for model in rankings])
-                worst_votes = Counter([max(rankings[model], key=rankings[model].get) for model in rankings])
+                best_votes = Counter([min(mapped_rankings[model], key=mapped_rankings[model].get) for model in mapped_rankings])
+                worst_votes = Counter([max(mapped_rankings[model], key=mapped_rankings[model].get) for model in mapped_rankings])
 
                 best_explanation = best_votes.most_common(1)[0][0] if best_votes else "N/A"
                 worst_explanation = worst_votes.most_common(1)[0][0] if worst_votes else "N/A"
 
                 row_data = {
                     "Exercise Index": ex_index,
+                    "Solution 1 Language": shuffled_langs[0],
+                    "Solution 2 Language": shuffled_langs[1],
+                    "Solution 3 Language": shuffled_langs[2],
                     "Progress Level": progress_levels.get(progress_level, "Unknown"),
                     "Best Explanation": best_explanation,
                     "Worst Explanation": worst_explanation,
-                    "gpt-4o-mini Ranking": rankings.get("gpt-4o-mini", {}),
-                    "gemini-1.5-flash Ranking": rankings.get("gemini-1.5-flash", {}),
-                    "qwen-plus Ranking": rankings.get("qwen-plus", {}),
+                    "gpt-4o-mini Ranking": mapped_rankings.get("gpt-4o-mini", {}),
+                    "gemini-1.5-flash Ranking": mapped_rankings.get("gemini-1.5-flash", {}),
+                    "qwen-plus Ranking": mapped_rankings.get("qwen-plus", {}),
                     "Majority Vote Ranking": best_explanation,
                     "Justification gpt-4o-mini": justifications.get("gpt-4o-mini", ""),
                     "Justification gemini-1.5-flash": justifications.get("gemini-1.5-flash", ""),
@@ -238,6 +258,8 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
 
             except Exception as e:
                 print(f"⚠️ Skipping exercise {ex_index} due to error: {e}")
+
+            time.sleep(2)
 
     print(f"Ranking-based evaluation completed. Results saved to {output_file}")
     return pd.read_csv(output_file)
