@@ -186,7 +186,7 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
             writer.writeheader()  # Write headers only if file is new
 
         for ex_index in range(min_length):
-            if ex_index not in [274, 276, 279, 282, 285, 288, 291, 294, 297, 267, 17,  21,  24,  30,  31,  33,  36,  39,  42,  45, 49,  51,  53,  55,  56,  58,  63,  66,  84,  85, 86,  87,  88,  90, 100, 105, 108, 117, 132, 135, 138, 159, 162, 168, 174, 205, 260, 224, 228, 191]:
+            if ex_index < 10 or ex_index in [274, 276, 279, 282, 285, 288, 291, 294, 297, 267, 17,  21,  24,  30,  31,  33,  36,  39,  42,  45, 49,  51,  53,  55,  56,  58,  63,  66,  84,  85, 86,  87,  88,  90, 100, 105, 108, 117, 132, 135, 138, 159, 162, 168, 174, 205, 260, 224, 228, 191]:
                 continue         
             try:
                 print(f"Evaluating exercise {ex_index}...", end=" ")
@@ -232,8 +232,9 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                 best_votes = Counter([min(mapped_rankings[model], key=mapped_rankings[model].get) for model in mapped_rankings])
                 worst_votes = Counter([max(mapped_rankings[model], key=mapped_rankings[model].get) for model in mapped_rankings])
 
-                best_explanation = best_votes.most_common(1)[0][0] if best_votes else "N/A"
-                worst_explanation = worst_votes.most_common(1)[0][0] if worst_votes else "N/A"
+                # Check for ties (if all models voted differently)
+                best_explanation = "TIE" if len(best_votes) == 3 else best_votes.most_common(1)[0][0]
+                worst_explanation = "TIE" if len(worst_votes) == 3 else worst_votes.most_common(1)[0][0]
 
                 row_data = {
                     "Exercise Index": ex_index,
