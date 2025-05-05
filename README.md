@@ -12,12 +12,17 @@ We introduce a comprehensive pipeline that:
    - GPT-4o-mini
    - Gemini 1.5 Flash
    - Qwen-Plus
-4. **Evaluates** the pedagogical quality of each solution using LLM-based judges across key metrics:
-   - Comprehension
-   - Clarity
-   - Accuracy
-   - Use of mathematical terminology
-   - Learning appropriateness, and more.
+4. **Evaluates** the pedagogical quality of each solution through pairwise comparison using LLM-based judges across key metrics:
+   - Problem comprehension – How well does the solution demonstrate understanding of the task?
+   - Clarity – Is the explanation clear and easy to follow?
+   - Step-by-step structure – Is the reasoning broken down in a logical and pedagogical way?
+   - Mathematical terminology – Does the explanation use precise and appropriate math language?
+   - Accuracy – Is the final answer correct and supported by valid reasoning?
+   - Error avoidance and handling – Does the solution anticipate or explain common mistakes?
+   - Educational suitability – Is the explanation suitable for helping students learn?
+   - Generalizability – Can the approach be applied to similar types of problems?
+   - Curriculum alignment – Is the content appropriate for the targeted learning level?
+   - Technical vocabulary – Are key terms properly used and explained?
 
 ## 🔍 Key Findings
 
@@ -74,10 +79,4 @@ The pipeline is modular, using a series of helper scripts:
 
 - Python 3.8+
 - `pandas`, `seaborn`, `matplotlib`, `numpy`
-- API keys for OpenAI (or access credentials for other LLMs)
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+- API keys for OpenAI, Gemini and Alibaba Cloud.
