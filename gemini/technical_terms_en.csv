@@ -1,0 +1,118 @@
+"Topic Area","Topic","Progress Level","Exercise","Technical Terms"
+"Numbers and operations","Understanding and representing numbers","B","Draw 10 stars in the box and color 5 of them blue.","* Shape
+* Quantity
+* Color
+* Selection"
+"Numbers and operations","Understanding and representing numbers","B","Count the number of apples in the picture and write the total number in the empty circle below.","Image processing, object detection, computer vision, image segmentation, feature extraction, classification,  counting."
+"Numbers and operations","Understanding and representing numbers","B","Write the numbers from 1 to 20 in order on the lines provided.","Integer, sequence, ordinal number."
+"Numbers and operations","Understanding and representing numbers","B","Draw lines to connect the numbers 1 to 20 with their matching dot patterns.","* Number recognition
+* Pattern recognition
+* One-to-one correspondence
+* Spatial reasoning"
+"Numbers and operations","Understanding and representing numbers","B","Circle the number that has the same number of dots underneath it; for example if you see 5 dots circle the number 5.","Cardinality, Counting, One-to-one correspondence."
+"Numbers and operations","Understanding and representing numbers","B","Fill in the blanks with the correct number symbol that matches the dot patterns shown on the page.","Pattern Recognition, Number Systems,  Base (numerical),  Mapping"
+"Numbers and operations","Understanding and performing operations","C","Emma has 24 apples and she gives 13 apples to her friend; how many apples does she have left?","Subtraction
+Integers
+Quantity
+Difference"
+"Numbers and operations","Understanding and performing operations","C","A farmer has 36 carrots and picks another 12 carrots; how many carrots does he have in total?","Addition
+Sum
+Total
+Integers
+Counting
+Arithmetic"
+"Numbers and operations","Understanding and performing operations","C","Liam read 45 pages of his book then finished 22 more pages; how many pages did he read altogether?","Addition, Sum, Total"
+"Numbers and operations","Understanding and performing operations","C","Sarah has 8 boxes of cookies and each box contains 12 cookies; how many cookies does she have in total?","Multiplication
+Total
+Product
+Sum (optional, if solved via repeated addition)
+Integers
+Operands
+Factors"
+"Numbers and operations","Understanding and performing operations","C","A farmer has 240 apples that he wants to pack into baskets with each basket holding 15 apples; how many baskets does he need?","Division
+Quotient
+Dividend
+Divisor"
+"Numbers and operations","Understanding and performing operations","C","If a car travels 120 miles in 3 hours how many miles does it travel in each hour?","Distance, Time, Speed (or Rate)"
+"Numbers and operations","Understanding and performing operations","D","Liam has 347 marbles and he gives away 128 marbles to his friends; how many marbles does he have left?","Subtraction
+Integers
+Difference
+Total
+Remainder"
+"Numbers and operations","Understanding and performing operations","D","A bakery sold 456 cupcakes in the morning and 289 cupcakes in the afternoon; how many cupcakes were sold in total?","Addition, Sum, Total"
+"Numbers and operations","Understanding and performing operations","D","Sarah has a collection of 864 stickers and she loses 275 stickers; how many stickers does she still have?","Subtraction
+Integers
+Difference"
+"Numbers and operations","Understanding and performing operations","D","A bakery sells packs of cookies for $24 each and a customer wants to buy 4 packs; use the distributive property to find the total cost.","Distributive property, multiplication, addition."
+"Numbers and operations","Understanding and performing operations","D","If a box contains 36 chocolates and is divided equally into 4 smaller boxes how many chocolates will be in each box using the distributive property?","Distributive property, division"
+"Numbers and operations","Understanding and performing operations","D","A gardener needs to plant 29 flowers in rows of 3; apply the distributive property to calculate the total number of flowers he needs to plant.","Distributive property, dividend, quotient, remainder."
+"Numbers and operations","Understanding and representing numbers","G","Convert the fraction 3/8 into a decimal and a percentage.","Fraction, Decimal, Percentage, Numerator, Denominator, Division"
+"Numbers and operations","Understanding and representing numbers","G","A student scored 85% on a test; express this score as a fraction in simplest form.","Percentage, Fraction, Simplifying Fractions, Greatest Common Factor"
+"Numbers and operations","Understanding and representing numbers","G","If a shirt costs $45 and is on sale for 30% off determine the sale price in decimal form.","Percentage, Decimal, Discount"
+"Numbers and operations","Understanding and performing operations","F","A submarine is at a depth of 150 meters below sea level; if it rises 75 meters what is its new depth?","Depth
+Sea level
+Meters
+Rise/Ascent
+Subtraction (implied)
+Negative numbers (implied)"
+"Numbers and operations","Understanding and performing operations","F","A mountain climber ascends 200 meters then descends 50 meters; what is her final elevation change from sea level?","Ascend, Descend, Elevation"
+"Numbers and operations","Understanding and performing operations","F","If a temperature drops from -5 degrees Celsius to -12 degrees Celsius overnight how many degrees did it drop?","Temperature, Degrees Celsius, Difference"
+"Numbers and operations","Ordering numbers","C","Arrange the following ages of children at a birthday party from youngest to oldest: 8 5 9 7.","Ordering
+Sorting
+Ascending order
+Comparison
+Algorithm (optional)"
+"Numbers and operations","Ordering numbers","C","Put the following temperatures in order from the coldest to the warmest: 35°F 28°F 42°F 30°F.","Temperature
+Fahrenheit
+Ordering
+Comparison"
+"Numbers and operations","Ordering numbers","C","Order the scores from a basketball game in ascending order: 45 32 58 27.","Ascending order
+Sorting
+Numerical data
+Integers
+Comparison
+Algorithm (optional)"
+"Numbers and operations","Ordering numbers","H","Order the following temperatures from coldest to warmest: -5°C 0°C -2°C and 3°C.","Temperature
+Celsius
+Ordering (or comparison)
+Integer
+Negative number
+Positive number"
+"Numbers and operations","Ordering numbers","H","Arrange the following bank account balances from the least to the greatest value: -150.75 200.50 -45.30 and 75.00.","Integers, Negative Numbers, Ordering Numbers"
+"Numbers and operations","Ordering numbers","H","Put the following elevations in order from lowest to highest: -30 meters 50 meters -5 meters and 10 meters.","Elevation
+Meters
+Ordering/Sorting
+Integers
+Negative Numbers"
+"Numbers and operations","Expanding number relationships and number spaces","D","The sequence of plants in a garden grows as 2 5 8 __ __; find the next two numbers in the sequence.","Arithmetic sequence, common difference"
+"Numbers and operations","Expanding number relationships and number spaces","D","A sprinting team completes their laps in the following times: 60 seconds 64 seconds 68 seconds __ __; what are the next two lap times?","Arithmetic sequence, common difference"
+"Numbers and operations","Expanding number relationships and number spaces","D","A baker uses a pattern of ingredients: 1 cup of sugar 2 cups of flour 3 eggs __ __; identify the next two items in this ingredient pattern.","Pattern recognition, sequence"
+"Numbers and operations","Expanding number relationships and number spaces","E","List all the factors of 36 and identify which of these factors are also prime numbers.","Factors, Prime numbers"
+"Numbers and operations","Expanding number relationships and number spaces","E","Calculate the first five multiples of 7 and explain the pattern you observe in those multiples.","Multiple
+Pattern
+Integer
+Arithmetic sequence (or arithmetic progression)"
+"Numbers and operations","Expanding number relationships and number spaces","E","If you have 48 apples and want to divide them equally into baskets determine all the possible numbers of baskets you can use by finding the factors of 48.","Factors
+Divisors
+Integer
+Whole number
+Division
+Equally"
+"Numbers and operations","Expanding number relationships and number spaces","E","Find the least common multiple (LCM) of 8 and 12 to determine how often their multiples will coincide.","Least Common Multiple (LCM), Multiple, Factor"
+"Numbers and operations","Expanding number relationships and number spaces","E","Calculate the greatest common divisor (GCD) of 20 and 30 to understand their largest shared factor.","Greatest Common Divisor (GCD), Factor"
+"Numbers and operations","Expanding number relationships and number spaces","E","A gardener wants to plant flowers in rows using 18 red flowers and 24 blue flowers; what is the LCM of 18 and 24 to find the smallest number of total flowers he can use without having leftovers?","Least Common Multiple (LCM),  Factors, Multiples"
+"Numbers and operations","Expanding number relationships and number spaces","F","Calculate the value of 3 raised to the power of 4 and then subtract the square root of 64 from that result.","Exponentiation, Square root"
+"Numbers and operations","Expanding number relationships and number spaces","F","If the area of a square garden is 81 square feet find the length of one side of the garden.","Area, Square, Side Length"
+"Numbers and operations","Expanding number relationships and number spaces","F","Determine the sum of the values obtained by finding the square root of 49 and raising 2 to the power of 5.","Square root, Exponentiation"
+"Numbers and operations","Expanding number relationships and number spaces","G","A model of a skyscraper is built at a scale of 1:250; if the actual height of the skyscraper is 300 meters what is the height of the model in centimeters?","Scale, Ratio, Units conversion"
+"Numbers and operations","Expanding number relationships and number spaces","G","A recipe for a large cake requires 3 cups of flour for every 2 cups of sugar; if a baker wants to make 6 cups of flour how many cups of sugar will they need?","Ratio, Proportion"
+"Numbers and operations","Expanding number relationships and number spaces","G","A map uses a scale where 1 inch represents 30 miles; if two towns are 5 inches apart on the map what is the actual distance between them in miles?","Scale, ratio, proportion"
+"Numbers and operations","Applying calculation strategies","D","A local bookstore sold 237 books last month and 185 books this month; estimate the total number of books sold by rounding to the nearest ten.","Rounding, Estimation"
+"Numbers and operations","Applying calculation strategies","D","A farmer has 489 apples and plans to give away 275 apples; estimate how many apples he will have left by rounding to the nearest ten.","Rounding
+Estimation
+Subtraction
+Place value
+Tens place"
+"Numbers and operations","Applying calculation strategies","D","During a school fundraiser students raised $1248 and spent $673; estimate the total amount left by rounding to the nearest ten.","Rounding, Estimation"
+"Numbers and operations","Applying calculation strategies","E","Jenna has \(\frac{2}{3}\) of a pizza and her friend gives her \(\frac{1}{4}\) of a pizza; how much pizza does Jenna have now?","Fraction, addition of fractions, common denominator"
+"Numbers and operations","Applying calculation strategies","E","A recipe requires \(\frac{5}{6}\) cup of sugar but Jerry only has \(\frac{1}{3}\) cup; how much more sugar does he need to gather?","Fraction, Subtracting fractions, Common denominator"

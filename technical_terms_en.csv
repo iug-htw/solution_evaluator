@@ -1,0 +1,2437 @@
+"Topic Area","Topic","Progress Level","Exercise","Technical Terms"
+"Numbers and operations","Understanding and representing numbers","B","Draw 10 stars in the box and color 5 of them blue.","1. Draw
+2. Stars
+3. Box
+4. Color
+5. Blue
+6. Quantity
+7. Design
+8. Shape
+9. Fill
+10. Representation"
+"Numbers and operations","Understanding and representing numbers","B","Count the number of apples in the picture and write the total number in the empty circle below.","1. Image processing  
+2. Object detection  
+3. Counting  
+4. Computer vision  
+5. Pixel analysis  
+6. Bounding box  
+7. Segmentation  
+8. Feature extraction  
+9. Classification  
+10. Annotation  
+11. Algorithm  
+12. Dataset  
+13. Morphological operations  
+14. Color space  
+15. Edge detection"
+"Numbers and operations","Understanding and representing numbers","B","Write the numbers from 1 to 20 in order on the lines provided.","- Sequence
+- Enumeration
+- Order
+- Numeric
+- List
+- Counting"
+"Numbers and operations","Understanding and representing numbers","B","Draw lines to connect the numbers 1 to 20 with their matching dot patterns.","1. Dot pattern
+2. Numerical sequence
+3. Matching
+4. Line drawing
+5. Connection
+6. Visualization
+7. Sequence alignment
+8. Pairing
+9. Counting
+10. Graphical representation"
+"Numbers and operations","Understanding and representing numbers","B","Circle the number that has the same number of dots underneath it; for example if you see 5 dots circle the number 5.","- Circle
+- Number
+- Dots
+- Underneath
+- Same"
+"Numbers and operations","Understanding and representing numbers","B","Fill in the blanks with the correct number symbol that matches the dot patterns shown on the page.","1. Number symbols
+2. Dot patterns
+3. Matching
+4. Quantification
+5. Numerical representation
+6. Association
+7. Enumeration
+8. Visual recognition
+9. Pattern identification
+10. Counting"
+"Numbers and operations","Understanding and performing operations","C","Emma has 24 apples and she gives 13 apples to her friend; how many apples does she have left?","1. Subtraction
+2. Total
+3. Quantity
+4. Difference
+5. Remaining"
+"Numbers and operations","Understanding and performing operations","C","A farmer has 36 carrots and picks another 12 carrots; how many carrots does he have in total?","1. Addition
+2. Total
+3. Quantity
+4. Sum
+5. Count"
+"Numbers and operations","Understanding and performing operations","C","Liam read 45 pages of his book then finished 22 more pages; how many pages did he read altogether?","1. Total
+2. Addition
+3. Pages
+4. Sum
+5. Quantity"
+"Numbers and operations","Understanding and performing operations","C","Sarah has 8 boxes of cookies and each box contains 12 cookies; how many cookies does she have in total?","1. Boxes
+2. Cookies
+3. Total
+4. Multiplication
+5. Product
+6. Quantity
+7. Addition"
+"Numbers and operations","Understanding and performing operations","C","A farmer has 240 apples that he wants to pack into baskets with each basket holding 15 apples; how many baskets does he need?","1. Farmer  
+2. Apples  
+3. Pack  
+4. Baskets  
+5. Capacity  
+6. Division  
+7. Quotient  
+8. Remainder"
+"Numbers and operations","Understanding and performing operations","C","If a car travels 120 miles in 3 hours how many miles does it travel in each hour?","1. Distance  
+2. Time  
+3. Speed  
+4. Rate"
+"Numbers and operations","Understanding and performing operations","D","Liam has 347 marbles and he gives away 128 marbles to his friends; how many marbles does he have left?","1. Subtraction
+2. Minuend
+3. Subtrahend
+4. Difference
+5. Quantity
+6. Integer"
+"Numbers and operations","Understanding and performing operations","D","A bakery sold 456 cupcakes in the morning and 289 cupcakes in the afternoon; how many cupcakes were sold in total?","1. Addition
+2. Total
+3. Sum
+4. Quantity
+5. Integer
+6. Arithmetic"
+"Numbers and operations","Understanding and performing operations","D","Sarah has a collection of 864 stickers and she loses 275 stickers; how many stickers does she still have?","1. Collection
+2. Total
+3. Loss
+4. Subtraction
+5. Remaining
+6. Quantity
+7. Difference"
+"Numbers and operations","Understanding and performing operations","D","A bakery sells packs of cookies for $24 each and a customer wants to buy 4 packs; use the distributive property to find the total cost.","1. Distributive property  
+2. Multiplication  
+3. Addition  
+4. Total cost  
+5. Pack  
+6. Unit price  
+7. Cost per pack  
+8. Equation  
+9. Product  
+10. Sum"
+"Numbers and operations","Understanding and performing operations","D","If a box contains 36 chocolates and is divided equally into 4 smaller boxes how many chocolates will be in each box using the distributive property?","1. Box
+2. Chocolates
+3. Divide
+4. Equal
+5. Smaller boxes
+6. Distributive property
+7. Quantity
+8. Division
+9. Total
+10. Equation"
+"Numbers and operations","Understanding and performing operations","D","A gardener needs to plant 29 flowers in rows of 3; apply the distributive property to calculate the total number of flowers he needs to plant.","1. Distributive Property  
+2. Multiplication  
+3. Addition  
+4. Factors  
+5. Rows  
+6. Total  
+7. Division  
+8. Remainder  
+9. Equation"
+"Numbers and operations","Understanding and representing numbers","G","Convert the fraction 3/8 into a decimal and a percentage.","- Fraction
+- Decimal
+- Percentage
+- Numerator
+- Denominator
+- Conversion"
+"Numbers and operations","Understanding and representing numbers","G","A student scored 85% on a test; express this score as a fraction in simplest form.","- Percent
+- Fraction
+- Simplest form
+- Numerator
+- Denominator
+- Greatest common divisor (GCD)
+- Reduction"
+"Numbers and operations","Understanding and representing numbers","G","If a shirt costs $45 and is on sale for 30% off determine the sale price in decimal form.","1. Cost
+2. Sale
+3. Percentage
+4. Discount
+5. Sale Price
+6. Decimal Form"
+"Numbers and operations","Understanding and performing operations","F","A submarine is at a depth of 150 meters below sea level; if it rises 75 meters what is its new depth?","1. Submarine
+2. Depth
+3. Sea level
+4. Rise
+5. Meters (unit of measurement)"
+"Numbers and operations","Understanding and performing operations","F","A mountain climber ascends 200 meters then descends 50 meters; what is her final elevation change from sea level?","1. Elevation
+2. Altitude
+3. Ascent
+4. Descent
+5. Sea level
+6. Final elevation change
+7. Vertical distance"
+"Numbers and operations","Understanding and performing operations","F","If a temperature drops from -5 degrees Celsius to -12 degrees Celsius overnight how many degrees did it drop?","- Temperature
+- Degrees Celsius
+- Drop
+- Difference
+- Negative numbers"
+"Numbers and operations","Ordering numbers","C","Arrange the following ages of children at a birthday party from youngest to oldest: 8 5 9 7.","- Arrange
+- Ages
+- Youngest
+- Oldest
+- Order"
+"Numbers and operations","Ordering numbers","C","Put the following temperatures in order from the coldest to the warmest: 35°F 28°F 42°F 30°F.","1. Temperature
+2. Fahrenheit (°F)
+3. Ordering
+4. Coldest
+5. Warmest
+6. Comparison"
+"Numbers and operations","Ordering numbers","C","Order the scores from a basketball game in ascending order: 45 32 58 27.","1. Ascending order
+2. Scores
+3. Numerical value
+4. Comparison
+5. Sorting"
+"Numbers and operations","Ordering numbers","H","Order the following temperatures from coldest to warmest: -5°C 0°C -2°C and 3°C.","- Temperature
+- Celsius
+- Cold
+- Warm
+- Ordering
+- Comparison"
+"Numbers and operations","Ordering numbers","H","Arrange the following bank account balances from the least to the greatest value: -150.75 200.50 -45.30 and 75.00.","1. Bank account balance  
+2. Negative number  
+3. Positive number  
+4. Ordering  
+5. Value  
+6. Least  
+7. Greatest  
+8. Comparison"
+"Numbers and operations","Ordering numbers","H","Put the following elevations in order from lowest to highest: -30 meters 50 meters -5 meters and 10 meters.","- Elevation  
+- Meters  
+- Negative numbers  
+- Order  
+- Comparison"
+"Numbers and operations","Expanding number relationships and number spaces","D","The sequence of plants in a garden grows as 2 5 8 __ __; find the next two numbers in the sequence.","1. Sequence  
+2. Pattern  
+3. Arithmetic progression  
+4. Common difference  
+5. Terms  
+6. Integer  
+7. Series"
+"Numbers and operations","Expanding number relationships and number spaces","D","A sprinting team completes their laps in the following times: 60 seconds 64 seconds 68 seconds __ __; what are the next two lap times?","1. Sequence
+2. Pattern
+3. Arithmetic progression
+4. Increment
+5. Lap time"
+"Numbers and operations","Expanding number relationships and number spaces","D","A baker uses a pattern of ingredients: 1 cup of sugar 2 cups of flour 3 eggs __ __; identify the next two items in this ingredient pattern.","- Pattern recognition
+- Sequence
+- Ingredients
+- Quantities
+- Arithmetic progression"
+"Numbers and operations","Expanding number relationships and number spaces","E","List all the factors of 36 and identify which of these factors are also prime numbers.","- Factors
+- Prime numbers
+- Divisibility
+- Composite numbers
+- Integer"
+"Numbers and operations","Expanding number relationships and number spaces","E","Calculate the first five multiples of 7 and explain the pattern you observe in those multiples.","1. Multiple  
+2. Integer  
+3. Sequence  
+4. Pattern  
+5. Arithmetic progression  
+6. Factor  
+7. Nomenclature  
+8. Sum  
+9. Increment  
+10. Series"
+"Numbers and operations","Expanding number relationships and number spaces","E","If you have 48 apples and want to divide them equally into baskets determine all the possible numbers of baskets you can use by finding the factors of 48.","1. Factors  
+2. Divisibility  
+3. Divisor  
+4. Multiple  
+5. Integer  
+6. Prime factorization  
+7. Even number  
+8. Odd number"
+"Numbers and operations","Expanding number relationships and number spaces","E","Find the least common multiple (LCM) of 8 and 12 to determine how often their multiples will coincide.","1. Least Common Multiple (LCM)
+2. Multiple
+3. Factors
+4. Prime Factorization
+5. Divisibility
+6. Integer
+7. Greatest Common Divisor (GCD)"
+"Numbers and operations","Expanding number relationships and number spaces","E","Calculate the greatest common divisor (GCD) of 20 and 30 to understand their largest shared factor.","1. Greatest Common Divisor (GCD)
+2. Factor
+3. Divisor
+4. Integer
+5. Prime number
+6. Euclidean algorithm
+7. Common factors
+8. Set
+9. Division
+10. Multiples"
+"Numbers and operations","Expanding number relationships and number spaces","E","A gardener wants to plant flowers in rows using 18 red flowers and 24 blue flowers; what is the LCM of 18 and 24 to find the smallest number of total flowers he can use without having leftovers?","1. LCM (Least Common Multiple)
+2. Factors
+3. Multiples
+4. Prime factorization
+5. GCD (Greatest Common Divisor)
+6. Divisibility
+7. Rows
+8. Arrangement"
+"Numbers and operations","Expanding number relationships and number spaces","F","Calculate the value of 3 raised to the power of 4 and then subtract the square root of 64 from that result.","- Exponentiation
+- Base
+- Power
+- Square Root
+- Subtraction
+- Integer"
+"Numbers and operations","Expanding number relationships and number spaces","F","If the area of a square garden is 81 square feet find the length of one side of the garden.","1. Area  
+2. Square  
+3. Square root  
+4. Perimeter  
+5. Length  
+6. Side length"
+"Numbers and operations","Expanding number relationships and number spaces","F","Determine the sum of the values obtained by finding the square root of 49 and raising 2 to the power of 5.","1. Square root  
+2. Power  
+3. Exponent  
+4. Sum  
+5. Value"
+"Numbers and operations","Expanding number relationships and number spaces","G","A model of a skyscraper is built at a scale of 1:250; if the actual height of the skyscraper is 300 meters what is the height of the model in centimeters?","1. Scale
+2. Proportion
+3. Model
+4. Height
+5. Centimeters
+6. Meters
+7. Calculation
+8. Conversion"
+"Numbers and operations","Expanding number relationships and number spaces","G","A recipe for a large cake requires 3 cups of flour for every 2 cups of sugar; if a baker wants to make 6 cups of flour how many cups of sugar will they need?","1. Ratio  
+2. Proportion  
+3. Equivalent fractions  
+4. Scaling  
+5. Measurement  
+6. Quantity"
+"Numbers and operations","Expanding number relationships and number spaces","G","A map uses a scale where 1 inch represents 30 miles; if two towns are 5 inches apart on the map what is the actual distance between them in miles?","- Scale
+- Map
+- Distance
+- Inches
+- Miles
+- Proportion"
+"Numbers and operations","Applying calculation strategies","D","A local bookstore sold 237 books last month and 185 books this month; estimate the total number of books sold by rounding to the nearest ten.","1. Estimate  
+2. Round  
+3. Nearest ten  
+4. Addition  
+5. Total  
+6. Rounding rules  
+7. Whole numbers"
+"Numbers and operations","Applying calculation strategies","D","A farmer has 489 apples and plans to give away 275 apples; estimate how many apples he will have left by rounding to the nearest ten.","1. Estimate
+2. Rounding
+3. Nearest ten
+4. Subtraction
+5. Whole numbers
+6. Place value"
+"Numbers and operations","Applying calculation strategies","D","During a school fundraiser students raised $1248 and spent $673; estimate the total amount left by rounding to the nearest ten.","1. Estimate  
+2. Total  
+3. Rounding  
+4. Nearest  
+5. Subtraction  
+6. Amount Left  
+7. Fundraiser"
+"Numbers and operations","Applying calculation strategies","E","Jenna has \(\frac{2}{3}\) of a pizza and her friend gives her \(\frac{1}{4}\) of a pizza; how much pizza does Jenna have now?","1. Fraction
+2. Addition
+3. Common denominator
+4. Numerator
+5. Denominator
+6. Rational numbers
+7. Mixed numbers (if applicable)"
+"Numbers and operations","Applying calculation strategies","E","A recipe requires \(\frac{5}{6}\) cup of sugar but Jerry only has \(\frac{1}{3}\) cup; how much more sugar does he need to gather?","1. Fraction
+2. Cup (as a unit of measurement)
+3. Subtraction
+4. Common denominator
+5. Difference"
+"Numbers and operations","Applying calculation strategies","E","During a fundraiser Emily read \(\frac{3}{8}\) of a book and later she read another \(\frac{1}{2}\) of the book; what fraction of the book has she read in total?","- Fraction
+- Numerator
+- Denominator
+- Addition of fractions
+- Common denominator
+- Mixed numbers"
+"Numbers and operations","Applying calculation strategies","F","A store is having a sale where all items are 15% off; estimate the total cost of buying 3 shirts priced at $25 each and 2 pairs of shoes priced at $40 each after applying the discount.","1. Percentage
+2. Discount
+3. Original price
+4. Sale price
+5. Total cost
+6. Multiplication
+7. Addition
+8. Estimation"
+"Numbers and operations","Applying calculation strategies","F","A recipe for a smoothie calls for 2.5 cups of milk 1.3 cups of yogurt and 0.75 cups of fruit; round each ingredient amount to the nearest whole number and estimate the total volume needed for the recipe.","1. Cups  
+2. Rounding  
+3. Whole number  
+4. Estimate  
+5. Volume  
+6. Ingredients"
+"Numbers and operations","Applying calculation strategies","F","You have $250 saved for tickets to a concert with each ticket costing approximately $67; estimate how many tickets you can buy and how much money you will have left over.","1. Budget
+2. Cost
+3. Purchase
+4. Quantity
+5. Estimate
+6. Remainder
+7. Division
+8. Multiplication
+9. Subtraction
+10. Approximation"
+"Numbers and operations","Applying calculation strategies","H","A bakery sells cookies at $2.50 each and offers a 15% discount for orders of a dozen; calculate the total cost after the discount for two dozen cookies.","1. Unit price
+2. Discount percentage
+3. Quantity
+4. Total cost
+5. Bulk order
+6. Percentage calculation
+7. Price calculation
+8. Final price
+9. Cost before discount
+10. Cost after discount"
+"Numbers and operations","Applying calculation strategies","H","A student scored 85% on a math test with 60 questions; if they got 15 questions wrong verify the correctness of their score by calculating the number of correct answers and determining what percentage that represents.","- Percentage
+- Total questions
+- Correct answers
+- Incorrect answers
+- Calculation
+- Verification
+- Proportion"
+"Numbers and operations","Applying calculation strategies","H","During a sale a pair of shoes originally priced at $80 is marked down by 25% and then an additional 10% off the sale price is applied; find the final price of the shoes after both discounts.","- Original price
+- Marked down
+- Percentage
+- Sale price
+- Discount
+- Final price"
+"Space and form","Spatial orientation and positional relationships","B","Draw a picture of a cat that is sitting below a tree and a bird that is beside the tree.","- Composition  
+- Perspective  
+- Proportion  
+- Silhouette  
+- Texture  
+- Contrast  
+- Color theory  
+- Line quality  
+- Form  
+- Detail  
+- Space  
+- Foreground  
+- Background  
+- Subject matter  
+- Landscape design"
+"Space and form","Spatial orientation and positional relationships","B","Circle the object that is above the table in the picture: a lamp a chair or a book.","- Object
+- Above
+- Table
+- Picture
+- Circle"
+"Space and form","Spatial orientation and positional relationships","B","Write a sentence about where the dog is in relation to the house: Is it in front of behind or beside the house?","- Spatial position
+- Prepositions
+- Relative location
+- Orientation
+- Proximity
+- Contextual reference"
+"Space and form","Spatial orientation and positional relationships","F","Rotate the triangle with vertices at A(2 3) B(4 5) and C(3 1) by 90 degrees clockwise around the origin and state the new coordinates of the vertices.","1. Rotation
+2. Triangle
+3. Vertices
+4. Coordinates
+5. Clockwise
+6. Origin
+7. Transformation
+8. Cartesian plane
+9. Angle
+10. Radian"
+"Space and form","Spatial orientation and positional relationships","F","Reflect the rectangle with corners at D(-1 -2) E(-1 2) F(3 2) and G(3 -2) across the y-axis and identify the coordinates of the reflected corners.","1. Reflection
+2. Coordinates
+3. Y-axis
+4. Geometry
+5. Cartesian Plane
+6. Quadrants
+7. Points
+8. Transformation
+9. Symmetry"
+"Space and form","Spatial orientation and positional relationships","F","If a square with vertices at H(1 1) I(1 5) J(5 5) and K(5 1) is rotated 180 degrees around the point (3 3) find the coordinates of the new positions of the vertices.","- Square
+- Vertices
+- Rotation
+- Degrees
+- Coordinates
+- Center of rotation
+- Transformation
+- Cartesian plane
+- Symmetry
+- Geometry"
+"Space and form","Spatial orientation and positional relationships","F","Translate the triangle with vertices at (2 3) (4 5) and (3 7) two units left and three units down and provide the coordinates of the new vertices.","1. Triangle
+2. Vertices
+3. Translate
+4. Coordinates
+5. Units
+6. Left
+7. Down
+8. New vertices"
+"Space and form","Spatial orientation and positional relationships","F","Reflect the rectangle with corners at (1 1) (1 4) (4 1) and (4 4) across the y-axis and list the coordinates of the reflected rectangle.","- Rectangle
+- Corners (or Vertices)
+- Reflection
+- Axis of Reflection
+- Coordinates
+- Y-axis"
+"Space and form","Spatial orientation and positional relationships","F","A quadrilateral is positioned with vertices at (5 2) (5 6) (8 2) and (8 6); apply a translation of three units right and two units up and sketch the resulting figure.","1. Quadrilateral
+2. Vertices
+3. Translation
+4. Coordinates
+5. Units
+6. Transformation
+7. Sketch
+8. Cartesian Plane"
+"Space and form","Constructions and drawings","B","Draw a large triangle and color it red then draw a square and color it blue.","- Triangle
+- Square
+- Color
+- Red
+- Blue
+- Shape
+- Geometry
+- Drawing
+- Area"
+"Space and form","Constructions and drawings","B","Find and color all the circles in this picture green.","1. Image processing
+2. Object detection
+3. Computer vision
+4. Edge detection
+5. Circle detection
+6. Hough transform
+7. Segmentation
+8. Color space
+9. Masking
+10. Morphological operations"
+"Space and form","Constructions and drawings","B","Look at the shapes in the box and color all the squares purple.","1. Shapes
+2. Box
+3. Color
+4. Squares
+5. Purple
+6. Selection
+7. Coloring technique
+8. Area
+9. Fill
+10. Representation"
+"Space and form","Constructions and drawings","C","Draw a rectangle and label its four sides and two right angles.","1. Rectangle  
+2. Sides  
+3. Right angles  
+4. Opposite sides  
+5. Adjacent sides  
+6. Vertex  
+7. Perpendicular  
+8. Length  
+9. Width  
+10. Area"
+"Space and form","Constructions and drawings","C","Sketch a triangle with different side lengths and mark its three angles as acute right or obtuse.","1. Triangle  
+2. Side lengths  
+3. Angles  
+4. Acute angle  
+5. Right angle  
+6. Obtuse angle  
+7. Sketch  
+8. Vertex  
+9. Interior angles  
+10. Triangle classification"
+"Space and form","Constructions and drawings","C","Create a square and identify its four equal sides and the four right angles by labeling them.","- Square
+- Sides
+- Right angles
+- Vertices
+- Perimeter
+- Congruent
+- Labeling
+- Geometry
+- Quadrilateral
+- Plane geometric figure"
+"Space and form","Constructions and drawings","C","Draw a right angle in the corner of a square and label it as ""Right Angle.""","1. Right angle  
+2. Square  
+3. Corner  
+4. Label  
+5. Perpendicular  
+6. Vertex  
+7. Line segment  
+8. Angle  
+9. Degrees  
+10. 90 degrees"
+"Space and form","Constructions and drawings","C","In the triangle provided identify one acute angle and shade it then label it as ""Acute Angle.""","- Triangle
+- Acute Angle
+- Vertex
+- Sides
+- Angles
+- Interior Angle
+- Shading"
+"Space and form","Constructions and drawings","C","Using a ruler create a shape that includes at least two right angles and one acute angle then label each angle accordingly.","1. Ruler  
+2. Shape  
+3. Right angle  
+4. Acute angle  
+5. Angle  
+6. Label  
+7. Vertex  
+8. Line segment  
+9. Degree  
+10. Polygon"
+"Space and form","Constructions and drawings","E","Draw a line segment AB that measures 8 cm and accurately mark its midpoint M.","1. Line segment
+2. Length
+3. Midpoint
+4. Measurement
+5. Ruler
+6. Straightedge
+7. Marking
+8. Geometric construction"
+"Space and form","Constructions and drawings","E","Using a straightedge and compass construct the perpendicular bisector of a line segment CD measuring 10 cm and label the intersection points.","1. Straightedge  
+2. Compass  
+3. Perpendicular bisector  
+4. Line segment  
+5. Intersection points  
+6. Construction  
+7. Quadrant  
+8. Angle  
+9. Midpoint  
+10. Distance"
+"Space and form","Constructions and drawings","E","Create two points E and F on a piece of paper measure the distance between them and then find and draw the bisector of segment EF labeling the midpoint N.","1. Point
+2. Segment
+3. Distance
+4. Midpoint
+5. Bisector
+6. Line
+7. Geometry
+8. Coordinates
+9. Straightedge
+10. Compass"
+"Space and form","Constructions and drawings","E","Plot the following coordinates on a grid: A(2 3) B(5 5) C(4 1) and D(1 2) then connect the points to form a polygon and identify its name.","1. Coordinates
+2. Grid
+3. Points
+4. Polygon
+5. Connect
+6. Vertices
+7. Edges
+8. Name of the polygon
+9. Quadrilateral
+10. Cartesian plane"
+"Space and form","Constructions and drawings","E","Using the coordinates E(3 4) F(6 7) G(5 3) and H(2 1) plot the points on a grid and determine if the figure formed is a quadrilateral or a triangle.","- Coordinates
+- Grid
+- Quadrilateral
+- Triangle
+- Points
+- Plotting
+- Figures
+- Geometric shapes
+- Vertices
+- Slope
+- Distance
+- Area"
+"Space and form","Constructions and drawings","E","Draw a coordinate grid and plot the points J(1 1) K(4 1) L(4 4) and M(1 4); after connecting them describe the shape and calculate its perimeter.","- Coordinate grid
+- Points
+- Plot
+- Connect
+- Shape
+- Perimeter
+- Length of sides
+- Distance formula
+- Polygon
+- Vertices"
+"Space and form","Constructions and drawings","G","Find the equations of the lines that form the sides of a triangle with vertices at points A(2 3) B(5 7) and C(4 1).","1. Vertex
+2. Triangle
+3. Line equation
+4. Slope
+5. y-intercept
+6. Point-slope form
+7. Standard form
+8. Midpoint
+9. Distance formula
+10. Collinearity"
+"Space and form","Constructions and drawings","G","Determine the equations of the four sides of a rectangle with vertices located at (-1 -2) (-1 2) (3 2) and (3 -2).","1. Vertex
+2. Rectangle
+3. Coordinates
+4. Equation of a line
+5. Slope
+6. Intercept
+7. Cartesian plane
+8. Linear equation
+9. Point-slope form
+10. Standard form"
+"Space and form","Constructions and drawings","G","For the hexagon with vertices at (1 1) (3 2) (4 0) (3 -2) (1 -1) and (0 0) find the equations of the lines that connect each pair of adjacent vertices.","1. Vertex
+2. Adjacent vertices
+3. Line equation
+4. Slope
+5. Intercept
+6. Coordinate geometry
+7. Cartesian plane
+8. Linear equation
+9. Point-slope form
+10. Standard form"
+"Space and form","Constructions and drawings","H","Construct an equilateral triangle with a side length of 8 cm using a compass and straightedge.","1. Equilateral triangle  
+2. Side length  
+3. Compass  
+4. Straightedge  
+5. Vertex  
+6. Circumcircle  
+7. Intersection  
+8. Arc  
+9. Segment  
+10. Construction"
+"Space and form","Constructions and drawings","H","Draw a circle with a radius of 5 cm centered at point A then construct a tangent line to the circle at point B on its circumference using only a straightedge and compass.","1. Circle  
+2. Radius  
+3. Center  
+4. Point  
+5. Circumference  
+6. Tangent line  
+7. Straightedge  
+8. Compass  
+9. Construction  
+10. Intersection  
+11. Perpendicular  
+12. Euclidean geometry"
+"Space and form","Constructions and drawings","H","Using a protractor create a right triangle where one angle measures 45 degrees and the hypotenuse is 10 cm long; label all sides and angles appropriately.","1. Protractor  
+2. Right triangle  
+3. Angle  
+4. Hypotenuse  
+5. Legs (sides)  
+6. Measuring angles  
+7. Labeling  
+8. Triangle properties"
+"Space and form","Properties and relationships of figures and solids","D","Classify the following shapes as triangles quadrilaterals or pentagons by counting their sides: a shape with 3 sides a shape with 4 sides and a shape with 5 sides.","- Triangle
+- Quadrilateral
+- Pentagon
+- Sides
+- Classification"
+"Space and form","Properties and relationships of figures and solids","D","Draw and label three different quadrilaterals ensuring each has a distinct number of right angles.","1. Quadrilateral
+2. Right Angle
+3. Acute Angle
+4. Obtuse Angle
+5. Vertex
+6. Side
+7. Parallel Lines
+8. Perpendicular Lines
+9. Congruent
+10. Area"
+"Space and form","Properties and relationships of figures and solids","D","Identify the number of angles in a hexagon and explain whether it is classified as an equiangular or non-equiangular shape based on your counting.","1. Hexagon  
+2. Angles  
+3. Equiangular  
+4. Non-equiangular  
+5. Polygon  
+6. Interior angles  
+7. Exterior angles  
+8. Regular polygon  
+9. Vertex"
+"Space and form","Properties and relationships of figures and solids","D","Find the area of a rectangular garden that measures 8 meters by 5 meters and then add the area of a triangular flower bed with a base of 4 meters and a height of 3 meters.","1. Area
+2. Rectangle
+3. Triangle
+4. Base
+5. Height
+6. Formula
+7. Units"
+"Space and form","Properties and relationships of figures and solids","D","Calculate the total area of a patio that consists of a square section measuring 6 feet on each side and a rectangular section measuring 4 feet by 3 feet.","1. Area  
+2. Square  
+3. Rectangle  
+4. Dimensions  
+5. Length  
+6. Width  
+7. Formula  
+8. Summation"
+"Space and form","Properties and relationships of figures and solids","D","A playground is shaped like a large rectangle measuring 10 meters by 5 meters with a semicircular slide at one end having a diameter of 4 meters; determine the total area of the playground.","1. Rectangle
+2. Area
+3. Semicircle
+4. Diameter
+5. Radius
+6. Formula
+7. Calculation
+8. Units"
+"Space and form","Properties and relationships of figures and solids","E","Identify the type of quadrilateral that has four right angles and opposite sides that are equal in length.","- Quadrilateral
+- Right angle
+- Opposite sides
+- Equal length
+- Parallelogram
+- Rectangle
+- Properties of shapes"
+"Space and form","Properties and relationships of figures and solids","E","Draw a diagram of a quadrilateral and label it as a rectangle square or trapezoid based on its properties.","1. Quadrilateral
+2. Rectangle
+3. Square
+4. Trapezoid
+5. Parallel sides
+6. Right angles
+7. Congruent sides
+8. Diagonals
+9. Area
+10. Perimeter
+11. Vertex
+12. Side length
+13. Properties
+14. Symmetry"
+"Space and form","Properties and relationships of figures and solids","E","Given a set of four angles measuring 70° 110° 70° and 110° determine if this quadrilateral is a trapezoid and explain why.","1. Quadrilateral  
+2. Trapezoid  
+3. Angles  
+4. Parallel sides  
+5. Sum of angles  
+6. Consecutive angles  
+7. Properties of trapezoids  
+8. Isosceles trapezoid  
+9. Congruent angles  
+10. Supplementary angles"
+"Space and form","Properties and relationships of figures and solids","F","In a triangle ABC if angle A measures 40 degrees and angle B measures 70 degrees find the measure of angle C.","1. Triangle
+2. Angles
+3. Sum of angles in a triangle
+4. Degree
+5. Angle measurement"
+"Space and form","Properties and relationships of figures and solids","F","A rectangular park has a length of 100 meters and a width of 50 meters; if a triangular flower bed occupies one corner with a base of 30 meters and a height of 20 meters calculate the area of the remaining space in the park.","1. Rectangle
+2. Area
+3. Length
+4. Width
+5. Triangle
+6. Base
+7. Height
+8. Triangular area formula
+9. Subtraction"
+"Space and form","Properties and relationships of figures and solids","F","In a trapezoid the lengths of the bases are 12 cm and 8 cm and the height is 5 cm; determine the length of the diagonal if the trapezoid is divided into two triangles by a diagonal.","- Trapezoid
+- Bases
+- Height
+- Diagonal
+- Triangle
+- Area
+- Pythagorean theorem
+- Length
+- Congruence
+- Geometry"
+"Space and form","Properties and relationships of figures and solids","F","In triangle ABC if angle A measures 35 degrees and angle B measures 75 degrees calculate the measure of angle C.","- Triangle
+- Angle
+- Sum of angles in a triangle
+- Degree"
+"Space and form","Properties and relationships of figures and solids","F","A triangle has an exterior angle that measures 120 degrees; if one of the opposite interior angles measures 45 degrees what is the measure of the other interior angle?","- Triangle
+- Exterior angle
+- Interior angle
+- Opposite angles
+- Angle sum property of triangles"
+"Space and form","Properties and relationships of figures and solids","F","In a polygon with five sides if three of the interior angles are 90 degrees each find the measure of the remaining two interior angles.","1. Polygon  
+2. Interior angles  
+3. Sides  
+4. Sum of interior angles  
+5. Degree measure  
+6. Triangle  
+7. Convex polygon  
+8. Formula for the sum of interior angles"
+"Space and form","Properties and relationships of figures and solids","G","Calculate the surface area of a rectangular prism with dimensions 4 cm (length) 3 cm (width) and 5 cm (height).","- Surface area
+- Rectangular prism
+- Dimensions
+- Length
+- Width
+- Height
+- Formula"
+"Space and form","Properties and relationships of figures and solids","G","A cylindrical water tank has a radius of 2 meters and a height of 3 meters; find its volume in cubic meters.","1. Cylinder
+2. Radius
+3. Height
+4. Volume
+5. Pi (π) 
+6. Cubic meters 
+7. Formula for volume of a cylinder"
+"Space and form","Properties and relationships of figures and solids","G","Determine the total surface area of a cylinder that has a radius of 6 inches and a height of 10 inches including the areas of both circular bases.","1. Cylinder
+2. Radius
+3. Height
+4. Surface area
+5. Circular base
+6. Lateral surface area
+7. Area of a circle
+8. Total surface area"
+"Space and form","Properties and relationships of figures and solids","H","In triangle ABC if angle A = angle D and the lengths of side AB = 6 cm and side DE = 9 cm determine the length of side AC if triangle ABC is similar to triangle ADE.","1. Similar triangles
+2. Proportional sides
+3. Corresponding angles
+4. Side lengths
+5. Triangle similarity criteria
+6. Angle-Angle (AA) similarity condition
+7. Ratio
+8. Scale factor"
+"Space and form","Properties and relationships of figures and solids","H","Two triangles PQR and STU are similar with corresponding sides PR = 10 cm and TU = 15 cm find the length of side PQ if ST = 12 cm.","1. Similar triangles  
+2. Corresponding sides  
+3. Ratio  
+4. Proportion  
+5. Side length  
+6. Scale factor"
+"Space and form","Properties and relationships of figures and solids","H","If triangle XYZ is similar to triangle ABC with XY = 5 m BC = 15 m and the length of side XZ is missing calculate the value of XZ.","- Similar triangles
+- Corresponding sides
+- Ratio
+- Proportionality
+- Scale factor"
+"Space and form","Symmetries and illustrations","D","Complete the butterfly drawing by reflecting the left wing across the center line to create symmetry.","- Reflection
+- Symmetry
+- Axis of symmetry
+- Center line
+- Transformation
+- Plane geometry
+- Coordinate plane
+- Vertices
+- Points"
+"Space and form","Symmetries and illustrations","D","Draw the other half of the heart shape by using the line of symmetry running vertically down the middle.","1. Heart shape
+2. Line of symmetry
+3. Vertical line
+4. Reflection
+5. Axis of symmetry
+6. Coordinates
+7. Geometric transformation
+8. Mirror image
+9. Cartesian plane
+10. Symmetrical properties"
+"Space and form","Symmetries and illustrations","D","Expand the partially completed star design by adding the missing points to ensure it is symmetrical about its center.","1. Symmetry
+2. Central point
+3. Geometry
+4. Angles
+5. Polygons
+6. Intersections
+7. Radial lines
+8. Reflection
+9. Vertex
+10. Proportions"
+"Space and form","Symmetries and illustrations","D","Create a tessellation using at least three different congruent shapes and color each shape differently to enhance your design.","1. Tessellation  
+2. Congruent shapes  
+3. Geometric patterns  
+4. Symmetry  
+5. Translation  
+6. Rotation  
+7. Reflection  
+8. Color theory  
+9. Polygon  
+10. Repetition  
+11. Plane  
+12. Grid  
+13. Visual balance  
+14. Interlocking shapes  
+15. Edge matching"
+"Space and form","Symmetries and illustrations","D","Design a floor plan for a room using congruent hexagonal tiles ensuring that the entire floor is covered without any gaps or overlaps.","1. Congruent
+2. Hexagonal tiles
+3. Floor plan
+4. Tiling
+5. Gaps
+6. Overlaps
+7. Geometry
+8. Symmetry
+9. Area
+10. Pattern
+11. Tessellation
+12. Dimensions
+13. Edge length
+14. Vertex
+15. Arrangement"
+"Space and form","Symmetries and illustrations","D","Draw a large piece of paper to create a tessellated mural using only squares and triangles making sure that each shape connects without leaving any empty spaces.","1. Tessellation  
+2. Mural  
+3. Polyhedra  
+4. Vertex  
+5. Edge  
+6. Shape  
+7. Geometric pattern  
+8. Translation  
+9. Rotation  
+10. Reflection  
+11. Tile  
+12. Area  
+13. Symmetry  
+14. Congruence  
+15. Filling  
+16. Plane   
+17. Transformation  
+18. Adjacent  
+19. Regular polygon"
+"Space and form","Symmetries and illustrations","E","Draw all the lines of symmetry for a regular hexagon and explain how you determined their positions.","1. Line of symmetry
+2. Regular polygon
+3. Vertex
+4. Midpoint
+5. Diagonal
+6. Angle of rotation
+7. Reflection
+8. Symmetrical properties
+9. Axes of symmetry
+10. Geometric construction"
+"Space and form","Symmetries and illustrations","E","Identify whether a regular pentagon has any lines of symmetry and if so illustrate them on a diagram.","- Regular pentagon
+- Lines of symmetry
+- Symmetry
+- Reflection
+- Axis of symmetry
+- Diagonal
+- Vertex
+- Polygon"
+"Space and form","Symmetries and illustrations","E","Create a colorful design using a regular octagon and label all the lines of symmetry you can find in your artwork.","1. Regular octagon
+2. Lines of symmetry
+3. Vertex
+4. Edge
+5. Geometric transformations
+6. Reflection
+7. Rotation
+8. Central symmetry
+9. Diagonal
+10. Interior angle
+11. Polygon
+12. Symmetrical design
+13. Axis of symmetry"
+"Sizes and measurement","Measuring and calculating","B","Measure the length of your desk using paper clips and write down how many paper clips long it is.","1. Measurement  
+2. Length  
+3. Unit of measurement  
+4. Paper clip  
+5. Calibration  
+6. Estimation  
+7. Linear measurement  
+8. Data recording  
+9. Accuracy  
+10. Precision"
+"Sizes and measurement","Measuring and calculating","B","How many paper clips long is your favorite book? Use paper clips to measure it and count them carefully.","1. Measurement
+2. Length
+3. Units
+4. Estimation
+5. Accuracy
+6. Counting
+7. Tool
+8. Calibration
+9. Scale
+10. Standard unit"
+"Sizes and measurement","Measuring and calculating","B","Find three different toys and measure each one using paper clips then record their lengths in a list.","1. Measurement
+2. Length
+3. Units
+4. Non-standard units
+5. Data collection
+6. Recording
+7. Comparison
+8. List
+9. Object
+10. Variable"
+"Sizes and measurement","Recording and comparing quantities","C","Record the weight of a book and a pencil case on a balance scale then write which one is heavier and by how much.","- Weight
+- Balance scale
+- Heavier
+- Measurement
+- Difference
+- Units of measurement (grams, kilograms, etc.)
+- Mass"
+"Sizes and measurement","Recording and comparing quantities","C","Using a balance scale compare the weight of a bag of oranges to a bag of apples and explain which bag has more weight.","1. Balance Scale  
+2. Weight  
+3. Mass  
+4. Comparison  
+5. Equal Arm Balance  
+6. Load  
+7. Measurement  
+8. Calibration  
+9. Gravity  
+10. Resultant Force"
+"Sizes and measurement","Recording and comparing quantities","C","You have a toy car that weighs 150 grams and a toy robot that weighs 200 grams; use a balance scale to find out how many more grams the toy robot weighs than the toy car.","- Weight
+- Balance scale
+- Mass
+- Grams
+- Difference
+- Comparison
+- Measurement"
+"Sizes and measurement","Dealing with units of measurement","D","Convert 250 centimeters to meters.","1. Centimeter
+2. Meter
+3. Conversion
+4. Metric system
+5. Unit of measurement
+6. Scale factor"
+"Sizes and measurement","Dealing with units of measurement","D","A piece of ribbon is 3.5 meters long; how many centimeters is that?","- Meter
+- Centimeter
+- Conversion
+- Measurement
+- Length"
+"Sizes and measurement","Dealing with units of measurement","D","If a pencil measures 15 centimeters how many meters is that expressed in decimal form?","1. Centimeter  
+2. Meter  
+3. Decimal form  
+4. Conversion  
+5. Metric system"
+"Sizes and measurement","Calculating quantities","E","A rectangular garden measures 10 meters by 5 meters and there is a path of 1 meter wide that surrounds the garden; calculate the total perimeter of the garden including the path.","1. Rectangular
+2. Perimeter
+3. Dimensions
+4. Surrounding
+5. Width
+6. Total Perimeter
+7. Area"
+"Sizes and measurement","Calculating quantities","E","A square patio with sides of 4 feet is adjacent to a rectangular area measuring 6 feet by 3 feet; find the perimeter of the combined shape.","1. Square
+2. Rectangle
+3. Perimeter
+4. Adjacent
+5. Side length
+6. Area
+7. Combined shape
+8. Units of measurement"
+"Sizes and measurement","Calculating quantities","E","A swimming pool is shaped like a rectangle measuring 8 meters by 4 meters and it is enclosed by a fence that is 2 meters away from the pool on all sides; determine the perimeter of the fenced area.","- Rectangle
+- Dimensions
+- Perimeter
+- Enclosure
+- Fence
+- Area
+- Length
+- Width
+- Distance"
+"Sizes and measurement","Quantities in factual contexts","F","A rectangular garden measures 12 meters in length and 8 meters in width; calculate the area of the garden in square meters.","1. Rectangle  
+2. Length  
+3. Width  
+4. Area  
+5. Square meters  
+6. Calculation"
+"Sizes and measurement","Quantities in factual contexts","F","A cylindrical water tank has a radius of 3 feet and a height of 10 feet; determine the volume of the tank in cubic feet.","- Cylinder
+- Radius
+- Height
+- Volume
+- Pi (π)
+- Formula"
+"Sizes and measurement","Quantities in factual contexts","F","A triangular playground has a base of 15 meters and a height of 10 meters; find the area of the playground in square meters.","- Triangular
+- Playground
+- Base
+- Height
+- Area
+- Square meters
+- Formula"
+"Sizes and measurement","Measuring and calculating","G","A circular garden has a radius of 5 meters; calculate the circumference and express your answer in both meters and centimeters.","- Circular garden
+- Radius
+- Circumference
+- Formula
+- Meters
+- Centimeters
+- Conversion"
+"Sizes and measurement","Measuring and calculating","G","If the diameter of a swimming pool is 10 feet find the circumference and convert your result into inches.","1. Diameter  
+2. Circumference  
+3. Radius  
+4. Pi (π)  
+5. Conversion  
+6. Inches  
+7. Feet  
+8. Formula"
+"Sizes and measurement","Measuring and calculating","G","A bike tire has a radius of 14 inches; compute the circumference and determine how far the bike travels after one complete revolution rounding your answer to the nearest inch.","1. Radius  
+2. Circumference  
+3. Diameter  
+4. Pi (π)  
+5. Revolution  
+6. Linear distance  
+7. Measurement unit"
+"Sizes and measurement","Recording and comparing quantities","H","A group of students recorded the heights of plants in centimeters after three weeks of growth: 15 22 18 25 and 20; calculate the average height and determine how much each height differs from the average.","- Average
+- Mean
+- Sum
+- Data set
+- Deviation
+- Difference
+- Calculation
+- Measurement
+- Centimeters"
+"Sizes and measurement","Recording and comparing quantities","H","A recipe calls for 250 grams of flour and you have three different brands with weights of 240 260 and 270 grams; compare the weights and identify which brand allows for the least and the most excess flour when measuring out the required amount.","1. Mass
+2. Weight
+3. Excess
+4. Measurement
+5. Comparison
+6. Subtraction
+7. Scale
+8. Precision
+9. Conversion
+10. Capacity"
+"Sizes and measurement","Recording and comparing quantities","H","A survey of monthly water usage in three households shows usage of 150 180 and 210 liters; analyze the data to find the median and discuss what this reveals about the typical water consumption in these households.","1. Median
+2. Data
+3. Analysis
+4. Statistical measures
+5. Distribution
+6. Range
+7. Central tendency
+8. Sample
+9. Household
+10. Liters"
+"Sizes and measurement","Dealing with units of measurement","B","Measure the length of your pencil using centimeters and write down the number you find.","- Length
+- Measure
+- Pencil
+- Centimeters
+- Number
+- Ruler
+- Units
+- Scale
+- Calibration
+- Metric system"
+"Sizes and measurement","Dealing with units of measurement","B","If a book is 10 inches tall and a paper is 8 inches tall which one is taller and by how many inches?","1. Height
+2. Measurement
+3. Comparison
+4. Difference
+5. Units (inches)"
+"Sizes and measurement","Dealing with units of measurement","B","Estimate the width of your desk in inches by comparing it to a ruler then draw a quick sketch of what you measured.","- Estimate
+- Width
+- Inches
+- Ruler
+- Sketch
+- Measurement
+- Scale
+- Comparison
+- Dimensions
+- Proportion"
+"Sizes and measurement","Calculating quantities","C","Sarah has three ribbons: one is 15 inches long another is 20 inches long and the last is 10 inches long; what is the total length of all three ribbons?","1. Ribbons
+2. Length
+3. Inches
+4. Total
+5. Addition"
+"Sizes and measurement","Calculating quantities","C","A gardener measures two pieces of wood for a fence: one is 6 feet long and the other is 9 feet long; how long are they together?","- Length
+- Addition
+- Measurement
+- Units
+- Total"
+"Sizes and measurement","Calculating quantities","C","Tom has a rope that is 25 centimeters long and he cuts another piece that is 30 centimeters long; what is the combined length of the two pieces of rope?","1. Length  
+2. Centimeters  
+3. Combined  
+4. Rope  
+5. Addition"
+"Sizes and measurement","Quantities in factual contexts","D","A bus travels 60 miles in 1 hour; how far will it travel in 2.5 hours at the same speed?","1. Speed
+2. Distance
+3. Time
+4. Rate
+5. Formula (Distance = Speed × Time)"
+"Sizes and measurement","Quantities in factual contexts","D","Maria jogs at a pace of 10 minutes per mile; how long will it take her to run 5 miles?","- Pace
+- Minutes
+- Mile
+- Distance
+- Time"
+"Sizes and measurement","Quantities in factual contexts","D","A car leaves the garage at 2:15 PM and arrives at the park at 3:00 PM; how much time did the car take to reach the park?","- Time
+- Duration
+- Start time
+- End time
+- Total travel time"
+"Sizes and measurement","Dealing with units of measurement","B","Measure the length of your desk in centimeters and write down the measurement.","1. Length  
+2. Measurement  
+3. Centimeters  
+4. Tool (e.g., ruler, tape measure)  
+5. Metric system  
+6. Calibration  
+7. Precision  
+8. Units  
+9. Scale  
+10. Data recording"
+"Sizes and measurement","Dealing with units of measurement","B","Compare the lengths of your pencil and eraser then circle which one is longer and by how many centimeters.","1. Length
+2. Comparison
+3. Measurement
+4. Centimeters
+5. Circled
+6. Eraser
+7. Pencil
+8. Dimension
+9. Linear measurement
+10. Difference"
+"Sizes and measurement","Dealing with units of measurement","B","Find three objects in the classroom measure each in centimeters and make a list from shortest to longest.","1. Measurement
+2. Centimeter
+3. Length
+4. Comparison
+5. Object
+6. List
+7. Sorting
+8. Data
+9. Measurement tools (like ruler or tape measure)  
+10. Accuracy"
+"Sizes and measurement","Calculating quantities","C","A garden plot is 4 cm long and 3 cm wide; what is the area of the garden in square centimeters?","1. Area
+2. Length
+3. Width
+4. Square centimeters
+5. Rectangle"
+"Sizes and measurement","Calculating quantities","C","If a rectangle has a length of 10 cm and a width of 5 cm what is the area of that rectangle?","1. Rectangle  
+2. Length  
+3. Width  
+4. Area  
+5. Square centimeters (cm²)  
+6. Formula"
+"Sizes and measurement","Calculating quantities","C","A picture frame measures 6 cm in height and 2 cm in width; calculate the area of the frame's front in square centimeters.","1. Area
+2. Height
+3. Width
+4. Square centimeters
+5. Rectangle (if applicable)"
+"Sizes and measurement","Dealing with units of measurement","D","Convert 250 centimeters into meters.","1. Centimeter
+2. Meter
+3. Conversion
+4. Metric system
+5. Unit of measurement
+6. Prefixes (e.g., centi-)
+7. Scale factor"
+"Sizes and measurement","Dealing with units of measurement","D","If a backpack weighs 2.5 kilograms how many grams does it weigh?","- Weight
+- Kilogram
+- Gram
+- Conversion
+- Measurement"
+"Sizes and measurement","Dealing with units of measurement","D","A garden is 3 meters long; express its length in centimeters.","1. Length
+2. Meters
+3. Centimeters
+4. Conversion
+5. Metric system"
+"Sizes and measurement","Measuring and calculating","E","Using a graduated cylinder measure the initial water level at 150 mL then submerge a rock and find the new water level at 250 mL; what is the volume of the rock?","1. Graduated cylinder  
+2. Meniscus  
+3. Volume  
+4. Displacement  
+5. Liquid level  
+6. Measurement  
+7. Calibration  
+8. Capacity"
+"Sizes and measurement","Measuring and calculating","E","A small toy figurine raises the water level in a beaker from 200 mL to 315 mL; calculate the volume of the toy figurine based on this displacement.","1. Displacement
+2. Volume
+3. Beaker
+4. Water level
+5. Measurement
+6. Liquid volume
+7. Archimedes' principle
+8. Calculation"
+"Sizes and measurement","Measuring and calculating","E","If a piece of driftwood displaces 80 mL of water when fully submerged determine the volume of the driftwood in cubic centimeters knowing that 1 mL is equivalent to 1 cm³.","- Driftwood
+- Displacement
+- Volume
+- Milliliters (mL)
+- Cubic centimeters (cm³)
+- Submerged"
+"Sizes and measurement","Calculating quantities","F","Calculate the surface area of a rectangular prism measuring 5 cm in length 3 cm in width and 4 cm in height.","- Surface area
+- Rectangular prism
+- Length
+- Width
+- Height
+- Formula"
+"Sizes and measurement","Calculating quantities","F","A cylindrical container has a radius of 3 cm and a height of 10 cm; find the total surface area including the top and bottom.","1. Cylinder
+2. Radius
+3. Height
+4. Surface area
+5. Base area
+6. Lateral area
+7. Area formula
+8. Pi (π)"
+"Sizes and measurement","Calculating quantities","F","Determine the surface area of a composite shape made up of a cube with side length 6 cm and a hemisphere with a radius of 3 cm attached to the top.","1. Surface Area
+2. Composite Shape
+3. Cube
+4. Hemisphere
+5. Side Length
+6. Radius
+7. Formula
+8. Geometry
+9. Curved Surface Area
+10. Total Surface Area"
+"Sizes and measurement","Quantities in factual contexts","G","A ladder leans against a wall forming a right triangle with the ground; if the ladder is 15 feet long and the base is 9 feet away from the wall how tall is the wall?","1. Ladder
+2. Right triangle
+3. Hypotenuse
+4. Base
+5. Height
+6. Pythagorean theorem
+7. Perpendicular
+8. Adjacent side
+9. Opposite side"
+"Sizes and measurement","Quantities in factual contexts","G","A rectangular garden has one side measuring 12 meters and a diagonal path that connects opposite corners; calculate the length of the diagonal path using the Pythagorean theorem.","1. Rectangle  
+2. Diagonal  
+3. Opposite corners  
+4. Pythagorean theorem  
+5. Length  
+6. Sides  
+7. Right triangle  
+8. Hypotenuse  
+9. Square root  
+10. Area"
+"Sizes and measurement","Quantities in factual contexts","G","A right triangle has one leg measuring 8 inches and the hypotenuse measuring 10 inches; find the length of the other leg.","1. Right triangle  
+2. Leg  
+3. Hypotenuse  
+4. Pythagorean theorem  
+5. Square  
+6. Square root  
+7. Equation"
+"Sizes and measurement","Recording and comparing quantities","H","Calculate the mean median and range of the weights (in kg) of five athletes: 72 85 78 90 and 65.","1. Mean  
+2. Median  
+3. Range  
+4. Data set  
+5. Arithmetic operations  
+6. Sorting  
+7. Statistics"
+"Sizes and measurement","Recording and comparing quantities","H","A gardener tracks the heights (in cm) of 8 different sunflower plants: 140 150 145 160 155 175 130 and 165; find the mean median and range of their heights.","1. Mean  
+2. Median  
+3. Range  
+4. Data set  
+5. Heights  
+6. Calculation  
+7. Statistical measures  
+8. Order (for median)  
+9. Difference (for range)  
+10. Average"
+"Sizes and measurement","Recording and comparing quantities","H","Analyze the monthly rainfall (in mm) for a small town over the last six months: 120 95 110 130 140 and 100; calculate the mean median and range of these data points.","1. Mean
+2. Median
+3. Range
+4. Data points
+5. Statistics
+6. Descriptive statistics
+7. Measurement
+8. Summation
+9. Order of data
+10. Difference"
+"Sizes and measurement","Measuring and calculating","D","Use a protractor to measure the angle of the corner of your classroom desk and record the measurement in degrees.","1. Protractor  
+2. Angle  
+3. Degrees  
+4. Measurement  
+5. Vertex  
+6. Arms/Legs  
+7. Baseline  
+8. Quadrant  
+9. Radian (optional)  
+10. Calibration"
+"Sizes and measurement","Measuring and calculating","D","Find an everyday object in your home such as a book or a picture frame and estimate the angle formed at one of its corners then verify your estimation using a protractor.","1. Angle  
+2. Corner  
+3. Estimation  
+4. Protractor  
+5. Measurement  
+6. Degrees  
+7. Right angle  
+8. Acute angle  
+9. Obtuse angle  
+10. Vertex"
+"Sizes and measurement","Measuring and calculating","D","Identify and measure three different angles created by the hands of a clock at 3:00 6:00 and 9:00 using a protractor for accuracy.","1. Angle
+2. Protractor
+3. Degrees
+4. Acute Angle
+5. Obtuse Angle
+6. Straight Angle
+7. Reflex Angle
+8. Vertex
+9. Clock Face
+10. Hour Hand
+11. Minute Hand
+12. Tangent Line"
+"Sizes and measurement","Quantities in factual contexts","F","A map shows a distance of 5 inches between two cities and the scale is 1 inch : 20 miles; calculate the actual distance between the cities in miles.","- Scale
+- Map distance
+- Actual distance
+- Conversion factor
+- Ratio"
+"Sizes and measurement","Quantities in factual contexts","F","If a park on a map is represented as 3 centimeters long with a scale of 1 cm : 50 m determine the real length of the park in meters.","1. Scale  
+2. Map representation  
+3. Centimeters (cm)  
+4. Meters (m)  
+5. Proportionality  
+6. Conversion  
+7. Length  
+8. Distance"
+"Sizes and measurement","Quantities in factual contexts","F","A blueprint of a house indicates a wall measuring 4 feet on the drawing with a scale of 1 inch : 3 feet; find the actual length of the wall in feet.","- Blueprint
+- Wall
+- Scale
+- Drawing
+- Actual length
+- Feet
+- Inches
+- Proportion"
+"Sizes and measurement","Calculating quantities","G","A cyclist travels at a speed of 15 miles per hour; how long will it take to cover a distance of 45 miles?","1. Speed
+2. Distance
+3. Time
+4. Formula
+5. Rate"
+"Sizes and measurement","Calculating quantities","G","A car and a truck start from the same point and travel in opposite directions; if the car travels at 60 miles per hour and the truck at 45 miles per hour how far apart will they be after 2 hours?","- Distance
+- Speed
+- Time
+- Rate
+- Opposite directions
+- Total distance
+- Velocity"
+"Sizes and measurement","Calculating quantities","G","A runner completes a 5-kilometer race in 25 minutes; what was their average speed in miles per hour?","1. Average speed
+2. Distance
+3. Time
+4. Conversion
+5. Miles
+6. Kilometers
+7. Unit conversion (km to miles)
+8. Rate of speed"
+"Data; frequencies and probabilities","Collecting presenting and reading data","B","Look at the pictogram showing the number of apples bananas and oranges; how many more apples are there than oranges?","1. Pictogram  
+2. Quantity  
+3. Apples  
+4. Bananas  
+5. Oranges  
+6. Comparison  
+7. Difference  
+8. Subtraction"
+"Data; frequencies and probabilities","Collecting presenting and reading data","B","The pictogram shows pets in a classroom: cats dogs and birds; which pet has the highest count and how many are there?","1. Pictogram
+2. Count
+3. Data interpretation
+4. Comparison
+5. Frequency
+6. Species
+7. Tally
+8. Chart analysis"
+"Data; frequencies and probabilities","Collecting presenting and reading data","B","Count the total number of fruit represented in the pictogram and write down what the total number of pieces of fruit is.","1. Pictogram  
+2. Total  
+3. Count  
+4. Symbol  
+5. Representation  
+6. Data Interpretation  
+7. Quantitative Analysis  
+8. Items  
+9. Sum"
+"Data; frequencies and probabilities","Collecting presenting and reading data","F","Create a line graph to represent the average daily temperatures (in °F) for each month based on the following data: January 30 February 32 March 45 April 58 May 70 June 80 July 85 August 83 September 75 October 60 November 45 December 35.","1. Line graph
+2. Average
+3. Daily temperatures
+4. Data points
+5. Axis
+6. X-axis
+7. Y-axis
+8. Scale
+9. Labeling
+10. Legend
+11. Plotting
+12. Interpolation
+13. Trend
+14. Data visualization
+15. Temperature conversion (if applicable)"
+"Data; frequencies and probabilities","Collecting presenting and reading data","F","Using the sales data of a bakery over a week (Monday: 50 cupcakes Tuesday: 70 cupcakes Wednesday: 90 cupcakes Thursday: 40 cupcakes Friday: 120 cupcakes Saturday: 150 cupcakes Sunday: 100 cupcakes) construct a line graph and describe the trend in sales throughout the week.","1. Line graph  
+2. Data points  
+3. X-axis  
+4. Y-axis  
+5. Scale  
+6. Trend  
+7. Interpolation  
+8. Axes labels  
+9. Title  
+10. Coordinate system  
+11. Slope  
+12. Interval  
+13. Visualization  
+14. Peaks  
+15. Valleys  
+16. Dataset"
+"Data; frequencies and probabilities","Collecting presenting and reading data","F","Draw a line graph to display the number of books read by students in a month: Week 1: 5 books Week 2: 7 books Week 3: 15 books Week 4: 10 books and analyze which week had the highest reading rate.","- Line graph
+- Data points
+- X-axis
+- Y-axis
+- Scale
+- Title
+- Legend
+- Trend
+- Analysis
+- Reading rate"
+"Data; frequencies and probabilities","Collecting presenting and reading data","E","A pie chart shows the favorite fruits of 100 students: apples (25%) bananas (35%) oranges (20%) and grapes (20%); how many students chose bananas?","- Pie chart
+- Percentage
+- Total
+- Favorites
+- Students
+- Calculation"
+"Data; frequencies and probabilities","Collecting presenting and reading data","E","If in a pie chart representing a class's activity participation 15% of students chose sports what is the percentage of students who didn’t choose sports if there are 40 students in total?","1. Pie chart  
+2. Percentage  
+3. Activity participation  
+4. Students  
+5. Total  
+6. Complementary percentage  
+7. Calculation"
+"Data; frequencies and probabilities","Collecting presenting and reading data","E","In a pie chart depicting the distribution of pets in a neighborhood dogs make up 40% and cats 30%; what proportion of pets do other animals represent if the total pets are 200?","1. Pie chart
+2. Percentage
+3. Distribution
+4. Proportion
+5. Total
+6. Average
+7. Calculation
+8. Remainder
+9. Quantity
+10. Segment"
+"Data; frequencies and probabilities","Collecting presenting and reading data","B","Ask your family members what their favorite fruit is then create a pictograph to show how many people chose each fruit.","1. Pictograph  
+2. Data collection  
+3. Survey  
+4. Tally  
+5. Categories  
+6. Symbols  
+7. Scale  
+8. Visualization  
+9. Frequency  
+10. Representation"
+"Data; frequencies and probabilities","Collecting presenting and reading data","B","Survey your classmates about their favorite colors and use a pictograph to display the results with pictures of colored squares.","1. Survey
+2. Pictograph
+3. Data collection
+4. Respondent
+5. Categories
+6. Tally
+7. Representation
+8. Frequency
+9. Visualization
+10. Interpretation"
+"Data; frequencies and probabilities","Collecting presenting and reading data","B","Conduct a survey to find out how many pets your friends have and draw a pictograph to represent the number of pets owned by each friend.","1. Survey  
+2. Data Collection  
+3. Sample Size  
+4. Respondents  
+5. Pictograph  
+6. Key/Legend  
+7. Representation  
+8. Chart  
+9. Frequency  
+10. Visual Data"
+"Data; frequencies and probabilities","Collecting presenting and reading data","E","A class of 30 students were surveyed about their favorite color: Red (10) Blue (12) Green (5) and Yellow (3); create a frequency table to display these results.","1. Frequency
+2. Frequency table
+3. Survey
+4. Data collection
+5. Categories
+6. Count
+7. Total
+8. Tally marks
+9. Distribution
+10. Representation"
+"Data; frequencies and probabilities","Collecting presenting and reading data","E","After collecting data on their preferred mode of transportation 25 students reported: Bus (8) Car (10) Bicycle (4) and Walking (3); organize this data into a frequency table and determine which mode is most popular.","1. Frequency Table
+2. Data Collection
+3. Mode
+4. Categories
+5. Frequencies
+6. Total Count
+7. Mode of Transportation
+8. Popularity
+9. Distribution
+10. Summary Statistics"
+"Data; frequencies and probabilities","Collecting presenting and reading data","E","In a survey 20 students were asked how many books they read last month resulting in the following counts: 0 books (5) 1 book (8) 2 books (4) and 3 books (3); present these data in a frequency table and explain what the table indicates about reading habits.","1. Frequency
+2. Frequency Table
+3. Mode
+4. Distribution
+5. Data Collection
+6. Class Interval
+7. Cumulative Frequency
+8. Summation
+9. Statistical Analysis
+10. Interpretation"
+"Data; frequencies and probabilities","Collecting presenting and reading data","G","Analyze the given stem-and-leaf plot representing the ages of students in a class to determine the mean age.","1. Stem-and-leaf plot  
+2. Data distribution  
+3. Mean  
+4. Age  
+5. Frequency  
+6. Stem  
+7. Leaf  
+8. Outlier  
+9. Central tendency  
+10. Calculation"
+"Data; frequencies and probabilities","Collecting presenting and reading data","G","From the stem-and-leaf plot that displays the scores of students on a math test find the median score.","1. Stem-and-leaf plot  
+2. Median  
+3. Data set  
+4. Ordered data  
+5. Odd and even numbers (for calculating median)  
+6. Frequency  
+7. Stem  
+8. Leaf  
+9. Distribution"
+"Data; frequencies and probabilities","Collecting presenting and reading data","G","Using the stem-and-leaf plot showing the number of books read by different students identify the mode of the dataset.","1. Stem-and-leaf plot  
+2. Dataset  
+3. Mode  
+4. Frequency  
+5. Stem  
+6. Leaf  
+7. Data distribution  
+8. Central tendency"
+"Data; frequencies and probabilities","Collecting presenting and reading data","E","Design a survey to find out your classmates' favorite fruit collect the data and create a bar graph to display the results.","1. Survey
+2. Questionnaire
+3. Sample
+4. Data collection
+5. Responses
+6. Frequency
+7. Bar graph
+8. Categories
+9. Axes
+10. Tally
+11. Analyzing data
+12. Visualization
+13. Statistics
+14. Interpretation"
+"Data; frequencies and probabilities","Collecting presenting and reading data","E","Conduct a survey asking 10 friends about the number of hours they spend on homework each week then represent the findings with a bar graph.","1. Survey
+2. Sample Size
+3. Data Collection
+4. Quantitative Data
+5. Frequency
+6. Bar Graph
+7. Axis
+8. Categories
+9. Data Representation
+10. Plotting"
+"Data; frequencies and probabilities","Collecting presenting and reading data","E","Gather data on your family’s preferred modes of transportation (car bike walking or public transport) and create a bar graph to visually present the frequency of each choice.","1. Data collection  
+2. Survey  
+3. Frequency  
+4. Bar graph  
+5. Mode of transportation  
+6. Visualization  
+7. Data categorization  
+8. Graph axes  
+9. Labeling  
+10. Chart title"
+"Data; frequencies and probabilities","Comparing and evaluating data","C","Look at the bar chart showing the number of pets owned by different families; which type of pet has the most owners?","- Bar chart
+- Data visualization
+- Categories
+- Frequency
+- Comparison
+- Scale
+- Axes
+- Legend
+- Analysis
+- Count"
+"Data; frequencies and probabilities","Comparing and evaluating data","C","In the school survey results shown in the bar chart identify which snack was chosen by the highest number of students.","- Bar chart
+- Survey results
+- Data interpretation
+- Frequency
+- Comparison
+- Categories
+- Maximum value
+- Visualization
+- Representation
+- Sampling"
+"Data; frequencies and probabilities","Comparing and evaluating data","C","Examine the bar chart of favorite fruits in your class; what is the fruit with the greatest number of votes?","1. Bar chart  
+2. Data visualization  
+3. Categories  
+4. Votes  
+5. Frequency  
+6. Axis  
+7. Legend  
+8. Comparison  
+9. Title  
+10. Scale"
+"Data; frequencies and probabilities","Comparing and evaluating data","G","A group of friends recorded the number of books they read in a month: 3 5 2 8 and 4; calculate the mean and median number of books read.","- Mean
+- Median
+- Data set
+- Total
+- Average
+- Sort
+- Order
+- Central tendency"
+"Data; frequencies and probabilities","Comparing and evaluating data","G","A survey was conducted and the ages of participants were recorded as: 22 25 19 30 28 and 24; find the mean and median age of the participants.","- Mean
+- Median
+- Age
+- Data set
+- Arithmetic mean
+- Central tendency
+- Summation
+- Count"
+"Data; frequencies and probabilities","Comparing and evaluating data","G","In a classroom students scored the following on a recent quiz: 78 85 92 67 88 and 75; determine the mean and median quiz scores.","- Mean
+- Median
+- Quiz scores
+- Arithmetic average
+- Data set
+- Order statistics
+- Central tendency"
+"Data; frequencies and probabilities","Comparing and evaluating data","F","Evaluate the given histogram showing the number of books read by students in a month and determine which student category has the highest frequency.","- Histogram
+- Frequency
+- Categories
+- Data representation
+- Axes
+- Bins
+- Tally
+- Mode
+- Distribution
+- Interval"
+"Data; frequencies and probabilities","Comparing and evaluating data","F","Analyze the histogram that represents daily temperatures over a month and discuss whether the data appears to show a consistent pattern or significant fluctuations.","1. Histogram  
+2. Frequency distribution  
+3. Bin  
+4. Range  
+5. Mean  
+6. Median  
+7. Mode  
+8. Variance  
+9. Standard deviation  
+10. Outlier  
+11. Skewness  
+12. Kurtosis  
+13. Trend  
+14. Fluctuation  
+15. Seasonal variation  
+16. Anomaly  
+17. Data normalization  
+18. Interquartile range (IQR)  
+19. Visual representation  
+20. Descriptive statistics"
+"Data; frequencies and probabilities","Comparing and evaluating data","F","Using the histogram of pets owned by families in your neighborhood compare the frequency of dogs to the frequency of cats and interpret what this might say about pet ownership trends.","1. Histogram  
+2. Frequency  
+3. Pet ownership  
+4. Comparative analysis  
+5. Data interpretation  
+6. Trends  
+7. Variables  
+8. Sample size  
+9. Distribution  
+10. Categories"
+"Data; frequencies and probabilities","Comparing and evaluating data","C","What was the highest temperature recorded in the week shown on the line graph?","1. Line graph  
+2. Temperature  
+3. Axis  
+4. Data points  
+5. Scale  
+6. Maximum value  
+7. Time interval  
+8. Trend  
+9. Units of measurement  
+10. Chart title"
+"Data; frequencies and probabilities","Comparing and evaluating data","C","How many days had a temperature higher than 70°F according to the line graph?","1. Line graph
+2. Temperature
+3. Data points
+4. Y-axis
+5. X-axis
+6. Interval
+7. Threshold
+8. Scale
+9. Greater than/less than
+10. Analysis"
+"Data; frequencies and probabilities","Comparing and evaluating data","C","Calculate the average temperature for the week based on the information displayed in the line graph.","1. Average
+2. Temperature
+3. Line graph
+4. Data points
+5. Axis
+6. Scale
+7. Interval
+8. Sum
+9. Division
+10. Trend"
+"Data; frequencies and probabilities","Comparing and evaluating data","F","Analyze the monthly bar graph of ice cream sales to determine which flavor had the highest sales in summer and by how much compared to the other flavors.","1. Bar graph  
+2. Data analysis  
+3. Sales figures  
+4. Flavors  
+5. Monthly data  
+6. Seasonal trends  
+7. Comparison  
+8. Highest sales  
+9. Difference  
+10. Visualization"
+"Data; frequencies and probabilities","Comparing and evaluating data","F","Compare the monthly sales of two different brands of sneakers shown in the bar graph and calculate the percentage increase in sales for the brand with the higher total.","1. Bar graph  
+2. Monthly sales  
+3. Brands  
+4. Percentage  
+5. Total sales  
+6. Increase  
+7. Calculation  
+8. Comparison"
+"Data; frequencies and probabilities","Comparing and evaluating data","F","Using the bar graph displaying monthly rainfall data identify the month with the least rainfall and explain how it compares to the month with the highest rainfall in terms of the difference in inches.","1. Bar graph
+2. Monthly rainfall
+3. Data representation
+4. Least rainfall
+5. Highest rainfall
+6. Difference
+7. Inches
+8. Comparison
+9. Value
+10. Axis labels"
+"Data; frequencies and probabilities","Comparing and evaluating data","F","Analyze the given histogram to determine whether the data is positively skewed negatively skewed or symmetric and explain your reasoning.","- Histogram
+- Skewness
+- Positive skew
+- Negative skew
+- Symmetric distribution
+- Mode
+- Median
+- Mean
+- Tail
+- Frequency
+- Bimodal
+- Quartiles
+- Outlier
+- Distribution shape"
+"Data; frequencies and probabilities","Comparing and evaluating data","F","Calculate the mean and median of the data represented in the histogram and discuss which measure of central tendency better represents the dataset.","1. Mean
+2. Median
+3. Histogram
+4. Central tendency
+5. Dataset
+6. Outliers
+7. Frequency distribution
+8. Range
+9. Data analysis
+10. Distribution shape"
+"Data; frequencies and probabilities","Comparing and evaluating data","F","Using the histogram provided identify the mode of the data and evaluate what this indicates about the most frequent occurrence in the dataset.","1. Histogram  
+2. Mode  
+3. Dataset  
+4. Frequency  
+5. Data Distribution  
+6. Bimodal/Multimodal  
+7. Range  
+8. Central Tendency  
+9. Outliers  
+10. Sample Size"
+"Data; frequencies and probabilities","Understanding probabilities","D","A bag contains 5 red balls 3 blue balls and 2 green balls; what is the probability of randomly drawing a blue ball?","- Probability
+- Sample Space
+- Favorable Outcomes
+- Total Outcomes
+- Random Experiment
+- Event"
+"Data; frequencies and probabilities","Understanding probabilities","D","If a bag holds 4 yellow balls 6 orange balls and 10 purple balls what is the probability of picking a yellow ball from the bag?","- Probability
+- Event
+- Sample space
+- Favorable outcomes
+- Total outcomes"
+"Data; frequencies and probabilities","Understanding probabilities","D","In a bag with 8 black balls 7 white balls and 5 pink balls what fraction represents the probability of selecting a pink ball at random?","1. Probability  
+2. Random selection  
+3. Favorable outcomes  
+4. Total outcomes  
+5. Fraction  
+6. Event  
+7. Sample space"
+"Data; frequencies and probabilities","Understanding probabilities","H","A basketball player has a 70% free throw success rate and a 60% three-point success rate; what is the probability that he makes both a free throw and a three-pointer in the same game?","1. Probability
+2. Success rate
+3. Independent events
+4. Joint probability
+5. Multiplication rule"
+"Data; frequencies and probabilities","Understanding probabilities","H","A factory produces light bulbs with a 90% quality rate and batteries with an 85% quality rate; if a light bulb and a battery are chosen at random what is the probability that both are of good quality?","1. Probability
+2. Quality rate
+3. Independent events
+4. Joint probability
+5. Random selection
+6. Complement probability"
+"Data; frequencies and probabilities","Understanding probabilities","H","In a game of flipping a coin and rolling a die what is the probability of flipping heads and rolling a four?","1. Probability  
+2. Coin flip  
+3. Die roll  
+4. Sample space  
+5. Independent events  
+6. Outcome  
+7. Joint probability  
+8. Complementary events  
+9. Event  
+10. Intersection"
+"Data; frequencies and probabilities","Understanding probabilities","D","A spinner is divided into 4 equal sections: red blue green and yellow; what is the probability of spinning and landing on blue?","1. Spinner  
+2. Probability  
+3. Equal sections  
+4. Outcomes  
+5. Favorable outcomes  
+6. Total outcomes  
+7. Event"
+"Data; frequencies and probabilities","Understanding probabilities","D","If a spinner has sections of orange pink and purple each colored section is the same size; what fraction represents the probability of landing on pink?","- Spinner
+- Sections
+- Probability
+- Fraction
+- Outcome
+- Equal likelihood"
+"Data; frequencies and probabilities","Understanding probabilities","D","A spinner shows 3 colors: red (2 sections) green (1 section) and blue (1 section); what is the probability of landing on red when the spinner is spun?","- Probability
+- Spinner
+- Sections
+- Outcomes
+- Favorable outcomes
+- Total outcomes
+- Ratio"
+"Data; frequencies and probabilities","Understanding probabilities","H","If you draw two cards consecutively from a standard 52-card deck what is the probability of both cards being hearts?","1. Probability
+2. Event
+3. Sample Space
+4. Conditional Probability
+5. Combinations
+6. Dependent Events
+7. Favorable Outcomes
+8. Total Outcomes
+9. Hypergeometric Distribution"
+"Data; frequencies and probabilities","Understanding probabilities","H","What is the likelihood that you will draw an Ace followed by a King when drawing two cards in succession from a standard deck of playing cards?","1. Probability
+2. Standard deck
+3. Event
+4. Successive events
+5. Conditional probability
+6. Total outcomes
+7. Favorable outcomes
+8. Multiplication rule
+9. Combination
+10. Dependent events"
+"Data; frequencies and probabilities","Understanding probabilities","H","Calculate the probability of drawing two specific cards a Queen of Spades and a Jack of Hearts one after the other from a full deck without replacement.","1. Probability
+2. Event
+3. Outcome
+4. Deck of cards
+5. Replacement
+6. Total outcomes
+7. Favorable outcomes
+8. Conditional probability
+9. Combinations
+10. Permutations"
+"Data; frequencies and probabilities","Combinatorics","E","How many different ways can you arrange three books on a shelf if you have a mystery novel a science fiction book and a biography?","1. Permutation
+2. Arrangement
+3. Factorial
+4. Combinations
+5. Distinct items"
+"Data; frequencies and probabilities","Combinatorics","E","If you have three different desserts—cake pie and ice cream—how many unique orders can you serve them at a party?","1. Permutation  
+2. Combination  
+3. Factorial  
+4. Arrangement  
+5. Sequence  
+6. Unique order  
+7. Distinct objects"
+"Data; frequencies and probabilities","Combinatorics","E","In a race with three athletes—Alex Bella and Charlie—how many different finishing orders are possible?","1. Permutation  
+2. Combinatorics  
+3. Factorial  
+4. Arrangement  
+5. Sequence  
+6. Distinct   
+7. Orderings"
+"Data; frequencies and probabilities","Combinatorics","D","If you flip two coins at the same time list all the possible outcomes and count how many there are.","1. Coin flip
+2. Outcome
+3. Sample space
+4. Probability
+5. Event
+6. Combination
+7. Independent events
+8. Binary outcomes"
+"Data; frequencies and probabilities","Combinatorics","D","Imagine you are tossing two coins for a game; write down every combination of heads (H) and tails (T) that could happen then find the total number of combinations.","1. Probability
+2. Outcome
+3. Sample space
+4. Combination
+5. Event
+6. Independent events
+7. Random experiment"
+"Data; frequencies and probabilities","Combinatorics","D","You and a friend are flipping two coins together; describe all the different results that could appear and calculate the total number of results.","1. Outcomes
+2. Sample Space
+3. Combinations
+4. Events
+5. Probability
+6. Dichotomy
+7. Independent Trials
+8. Counting Principle"
+"Data; frequencies and probabilities","Combinatorics","D","If there are 5 different fruits in a basket how many ways can you choose 2 fruits to make a fruit salad?","- Combinations
+- Permutations
+- Factorial
+- Binomial coefficient
+- Sets
+- Counting Principle
+- Arrangement"
+"Data; frequencies and probabilities","Combinatorics","D","A class of 5 students needs to select 2 representatives for a project; how many combinations of students can be chosen?","1. Combinations  
+2. Permutations  
+3. Factorial  
+4. Binomial coefficient  
+5. Set  
+6. Subset  
+7. Counting principle"
+"Data; frequencies and probabilities","Combinatorics","D","In a game a player can pick 2 out of 5 colored marbles; how many different pairs of marbles can they select?","1. Combination
+2. Permutation
+3. Factorial
+4. Selection
+5. Unique pairs
+6. Total outcomes
+7. Binomial coefficient"
+"Functional relationships (patterns and structures)","Other functional relationships","F","A bacteria culture doubles in size every hour; if it starts with 500 bacteria how many will there be after 4 hours?","1. Bacteria
+2. Culture
+3. Doubles
+4. Size
+5. Hour
+6. Exponential growth
+7. Initial quantity
+8. Time
+9. Final quantity
+10. Mathematical modeling"
+"Functional relationships (patterns and structures)","Other functional relationships","F","A car's value depreciates by 15% each year; if the car is currently worth $20000 what will its value be after 3 years?","1. Depreciation
+2. Percentage
+3. Current value
+4. Future value
+5. Time period
+6. Compound depreciation"
+"Functional relationships (patterns and structures)","Other functional relationships","F","A tree grows 2 inches in the first year 4 inches in the second year and 8 inches in the third year; predict the growth for the fourth year based on this pattern.","1. Sequence
+2. Pattern
+3. Exponential growth
+4. Arithmetic progression
+5. Geometric progression
+6. Prediction
+7. Variable
+8. Function
+9. Rate of growth
+10. Mathematical modeling"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","B","Draw the next two shapes in this pattern: circle square circle square __ __.","- Pattern
+- Sequence
+- Shape
+- Circle
+- Square
+- Repetition
+- Alternation"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","B","Color the missing shapes in the following pattern: triangle triangle circle triangle triangle __ __.","- Pattern
+- Sequence
+- Shape
+- Repetition
+- Completion
+- Prediction"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","B","Look at the pattern of stars and hearts: ★ ♥ ★ ♥ ★. What shape comes next?","1. Pattern Recognition  
+2. Sequence  
+3. Alternating Elements  
+4. Symbolic Representation  
+5. Predictive Analysis  
+6. Iteration  
+7. Geometric Shapes  
+8. Continuation"
+"Functional relationships (patterns and structures)","Assignments and proportionality","C","Draw two sets of fruits that show the ratio of 3 apples to 2 oranges and then create a visual representation of the equivalent ratio of 6 apples to 4 oranges.","1. Ratio
+2. Equivalent Ratio
+3. Visual Representation
+4. Sets
+5. Proportion
+6. Fraction
+7. Graphical Illustration
+8. Scale
+9. Grouping
+10. Visualization"
+"Functional relationships (patterns and structures)","Assignments and proportionality","C","If Jamie can read 4 books in 2 weeks create a bar graph to show how many books she would read in 6 weeks using equivalent ratios.","1. Ratio  
+2. Equivalent Ratios  
+3. Bar Graph  
+4. Scale  
+5. Units  
+6. Proportion  
+7. Data Representation  
+8. Axis  
+9. Intervals  
+10. Quantitative Analysis"
+"Functional relationships (patterns and structures)","Assignments and proportionality","C","Using colored blocks build a model that represents the ratio of 5 blue blocks to 3 yellow blocks and then find and illustrate at least one equivalent ratio.","1. Ratio  
+2. Equivalent ratio  
+3. Proportion  
+4. Model  
+5. Block  
+6. Color coding  
+7. Quantitative analysis  
+8. Comparison  
+9. Representation  
+10. Scale"
+"Functional relationships (patterns and structures)","Linear and other simple functions","D","Create a table of values for the linear function y = 2x + 3 then plot the points on a graph and describe the slope.","1. Linear function
+2. Table of values
+3. Coordinate system
+4. Slope
+5. Y-intercept
+6. X-coordinate
+7. Y-coordinate
+8. Graph
+9. Point plotting
+10. Cartesian plane"
+"Functional relationships (patterns and structures)","Linear and other simple functions","D","A local gym charges a one-time registration fee of $20 and $10 per month; write the equation for the total cost (C) as a function of months (m) make a table of values and graph the function.","1. Function
+2. Equation
+3. Variable
+4. Dependent variable
+5. Independent variable
+6. Cost
+7. Registration fee
+8. Monthly fee
+9. Table of values
+10. Graph
+11. Coordinate plane
+12. Linear function
+13. Slope
+14. Intercept"
+"Functional relationships (patterns and structures)","Linear and other simple functions","D","If a bike rental shop charges $5 for the first hour and $2 for each additional hour find the linear function that represents the cost (C) based on hours (h) plot it and explain the meaning of the slope.","1. Linear function  
+2. Cost (C)  
+3. Hours (h)  
+4. Slope  
+5. Intercept  
+6. Domain  
+7. Range  
+8. Graphing  
+9. Rate of change  
+10. Proportional reasoning"
+"Functional relationships (patterns and structures)","Equations and algebra","E","A video game designer has 45 points; if he earns 12 more points how many points did he start with? Solve for x in the equation x + 12 = 45.","1. Variable
+2. Equation
+3. Solve
+4. Points
+5. Sum
+6. Addition
+7. Isolate
+8. Coefficient"
+"Functional relationships (patterns and structures)","Equations and algebra","E","Maria is saving for a new bike that costs $250; if she currently has $75 how much more money does she need to save? Solve for x in the equation x + 75 = 250.","1. Variable
+2. Equation
+3. Solution
+4. Balance
+5. Addition
+6. Subtraction
+7. Unknown
+8. Total cost"
+"Functional relationships (patterns and structures)","Equations and algebra","E","The temperature outside is 20 degrees Celsius; if it increases by 15 degrees what will the new temperature be? Solve for x in the equation x - 15 = 20.","1. Temperature
+2. Degrees Celsius
+3. Increase
+4. New Temperature
+5. Equation
+6. Solve
+7. Variable (x)
+8. Constant
+9. Algebra"
+"Functional relationships (patterns and structures)","Other functional relationships","F","What is the next term in the sequence 3 7 13 21 and explain the pattern?","1. Sequence  
+2. Term  
+3. Difference  
+4. Pattern  
+5. Arithmetic progression  
+6. Quadratic sequence  
+7. Formula  
+8. Series"
+"Functional relationships (patterns and structures)","Other functional relationships","F","If a savings account starts with $100 and increases by $15 each month what will be the balance after the 6th month?","1. Savings account
+2. Initial amount
+3. Monthly increase
+4. Total amount
+5. Time period
+6. Balance
+7. Arithmetic progression"
+"Functional relationships (patterns and structures)","Other functional relationships","F","Analyze the sequence of triangular numbers: 1 3 6 10 and determine the next number in the sequence.","- Triangular numbers
+- Sequence
+- Pattern
+- Formula
+- Arithmetic progression
+- Summation
+- n-th term
+- Finite series
+- Mathematical induction
+- Graphical representation"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","G","Identify the algebraic rule governing the sequence 3 7 11 15 and use it to find the 8th term.","1. Sequence
+2. Term
+3. Algebraic rule
+4. Linear pattern
+5. Common difference
+6. nth term formula
+7. Arithmetic sequence"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","G","The sequence of perfect squares starts with 1 4 9 and 16; determine the algebraic expression for the nth term and calculate the 6th term.","1. Sequence  
+2. Perfect squares  
+3. nth term  
+4. Algebraic expression  
+5. Formula  
+6. Calculation"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","G","Given the sequence defined by the rule \(a_n = 5n - 2\) find the 10th term and the sum of the first 5 terms.","1. Sequence
+2. Term
+3. \(a_n\)
+4. Index
+5. Formula
+6. Sum
+7. Arithmetic sequence
+8. Evaluation"
+"Functional relationships (patterns and structures)","Assignments and proportionality","H","A recipe calls for 2 cups of flour to make 12 cookies; how many cups of flour would you need to make 30 cookies?","- Ratio
+- Proportion
+- Scaling
+- Conversion
+- Units of measurement
+- Multiplication
+- Division
+- Equivalent fractions"
+"Functional relationships (patterns and structures)","Assignments and proportionality","H","A car travels 240 miles on 8 gallons of gas; how many gallons of gas would be required to travel 600 miles?","- Distance
+- Gallons
+- Fuel efficiency
+- Miles per gallon (MPG)
+- Ratio
+- Proportion
+- Conversion factor"
+"Functional relationships (patterns and structures)","Assignments and proportionality","H","If a poster is designed to be 4 feet wide and 6 feet tall what would be the width of a poster that is 10 feet tall while maintaining the same proportions?","1. Proportions
+2. Aspect Ratio
+3. Scale
+4. Dimensions
+5. Width
+6. Height
+7. Ratio"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","D","Identify the pattern in the 4 times table (4 8 12 16...) and predict the product of 4 and 9.","- Multiplication
+- Times table
+- Pattern
+- Sequence
+- Product
+- Predict
+- Integer"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","D","Using the 7 times table find the missing number in the sequence: 7 14 __ 28 35.","- Sequence
+- Missing number
+- Times table
+- Multiplication
+- Pattern
+- Arithmetic progression"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","D","Look at the 5 times table and explain how you can use it to quickly find the product of 5 and 12.","1. Multiplication
+2. Times table
+3. Product
+4. Factor
+5. Sequence
+6. Scaling
+7. Addition"
+"Functional relationships (patterns and structures)","Equations and algebra","E","A pencil costs $2 less than a notebook and together they cost $6; write an equation to find the cost of the pencil p.","1. Variable
+2. Equation
+3. Cost
+4. Expression
+5. Constants
+6. Algebraic manipulation"
+"Functional relationships (patterns and structures)","Equations and algebra","E","Sarah has twice as many stickers as Tim and together they have 24 stickers; write an equation to determine the number of stickers Tim has t.","1. Variables
+2. Equation
+3. Coefficient
+4. Constant
+5. Formula
+6. Simplification
+7. Substitution
+8. Algebraic expression
+9. Solution
+10. System of equations"
+"Functional relationships (patterns and structures)","Equations and algebra","E","A fruit basket contains x apples and if 5 apples are added there will be a total of 15 apples; write an equation to find the initial number of apples in the basket.","- Variable
+- Equation
+- Total
+- Addition
+- Initial value
+- Unknown quantity
+- Solving for x"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","B","Create a repeating pattern using red blue and yellow colored squares where you use each color in a total of three times.","1. Pattern
+2. Repeating
+3. Color
+4. Square
+5. Sequence
+6. Design
+7. Symmetry
+8. Arrangement
+9. Composition
+10. Tiling"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","B","Draw a pattern with two different shapes such as circles and triangles while making sure the shapes alternate at least five times.","1. Pattern
+2. Shapes
+3. Alternation
+4. Circle
+5. Triangle
+6. Sequence
+7. Repetition
+8. Geometry
+9. Design
+10. Arrangement"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","B","Using only two colors design a simple pattern with three sections ensuring that each section follows the same color order.","1. Pattern
+2. Sections
+3. Colors
+4. Color Order
+5. Design
+6. Symmetry
+7. Repetition
+8. Contrast
+9. Elements
+10. Aesthetics"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","C","What is the next number in the sequence 5 10 15 20 and what would the next two numbers be?","- Sequence
+- Pattern
+- Arithmetic progression
+- Common difference
+- Term
+- Increment
+- Series"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","C","If the pattern is to add 3 what are the next three numbers in the sequence 1 4 7 10?","- Sequence
+- Pattern
+- Addition
+- Terms
+- Numbers
+- Next
+- Increment"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","C","Look at the pattern in the number sequence: 2 4 8 16; can you find the next two numbers?","1. Sequence
+2. Pattern
+3. Exponential
+4. Doubling
+5. Series
+6. Terms
+7. Integer
+8. Progression"
+"Functional relationships (patterns and structures)","Assignments and proportionality","D","Plot the points (2 4) (3 6) (4 8) and (5 10) on a coordinate grid and identify the constant of proportionality.","- Coordinate grid
+- Points
+- X-coordinate
+- Y-coordinate
+- Origin
+- Constant of proportionality
+- Proportional relationship
+- Graphing
+- Ordered pairs"
+"Functional relationships (patterns and structures)","Assignments and proportionality","D","If a recipe requires 4 cups of flour to make 8 cookies graph the points (8 4) and (16 8) to represent the relationship and find the constant of proportionality.","1. Proportionality
+2. Graphing
+3. Coordinate points
+4. Constant of proportionality
+5. Ratio
+6. Linear relationship
+7. Slope
+8. Scaling
+9. Variables
+10. Equation of a line"
+"Functional relationships (patterns and structures)","Assignments and proportionality","D","Write a proportional equation for the points (1 2) (2 4) (3 6) and then plot these points on a coordinate grid to visualize the relationship.","1. Proportional relationship  
+2. Coordinate grid  
+3. Ordered pairs  
+4. Variables  
+5. Equation  
+6. Slope  
+7. y-intercept  
+8. Cartesian plane  
+9. Graphing  
+10. Linear relationship"
+"Functional relationships (patterns and structures)","Equations and algebra","E","A store is selling t-shirts for $15 each; if you spend a total of $120 how many t-shirts did you buy?","1. Price per unit  
+2. Total expenditure  
+3. Quantity  
+4. Division  
+5. Equation  
+6. Cost Calculation  
+7. Budgeting"
+"Functional relationships (patterns and structures)","Equations and algebra","E","A gardening company charges $50 for each tree planted; if you paid a total of $350 how many trees were planted?","- Cost
+- Total
+- Unit price
+- Quantity
+- Equation
+- Division"
+"Functional relationships (patterns and structures)","Equations and algebra","E","You saved $200 for a new bike which costs $50 more than what you currently have; write an equation to find out how much money you originally had.","1. Variables  
+2. Equation  
+3. Cost  
+4. Savings  
+5. Difference  
+6. Total amount  
+7. Algebra"
+"Functional relationships (patterns and structures)","Other functional relationships","F","A local bookstore offers a discount of $2 on each new book; if the first book costs $15 what will be the prices of the next three books in the sequence?","1. Discount
+2. Cost
+3. Sequence
+4. Price
+5. New book"
+"Functional relationships (patterns and structures)","Other functional relationships","F","A car rental service charges an initial fee of $30 and an additional $5 for each hour rented; determine the charge for renting the car for the first five hours.","1. Initial fee
+2. Hourly rate
+3. Total charge
+4. Duration
+5. Rental period"
+"Functional relationships (patterns and structures)","Other functional relationships","F","In a gardening club members plant 3 new trees in the first week and increase their planting by 2 trees each subsequent week; calculate the number of trees planted in the next 4 weeks.","1. Arithmetic sequence
+2. Sequence
+3. Increment
+4. Week
+5. Total
+6. Sum
+7. Formula
+8. Pattern
+9. Calculation
+10. Series"
+"Functional relationships (patterns and structures)","Other functional relationships","G","Identify the common ratio in the geometric sequence 3 6 12 24 and use it to predict the next two terms.","- Geometric sequence
+- Common ratio
+- Terms
+- Predict
+- Sequence"
+"Functional relationships (patterns and structures)","Other functional relationships","G","A car's value decreases by half each year; if its current value is $16000 what will the value be after 3 years in a geometric sequence?","1. Geometric sequence
+2. Common ratio
+3. Exponential decay
+4. Initial value
+5. Term
+6. Value after n years
+7. Depreciation"
+"Functional relationships (patterns and structures)","Other functional relationships","G","Given the geometric sequence where the first term is 5 and the common ratio is 3 calculate the fifth term of the sequence.","1. Geometric Sequence  
+2. First Term  
+3. Common Ratio  
+4. Term  
+5. Formula for nth Term  
+6. Exponentiation  
+7. Sequence"
+"Functional relationships (patterns and structures)","Assignments and proportionality","H","A recipe for 12 cookies requires 3 cups of flour; how much flour is needed for 30 cookies?","1. Proportion
+2. Ratio
+3. Scaling
+4. Conversion
+5. Multiplication
+6. Measurement
+7. Ingredients"
+"Functional relationships (patterns and structures)","Assignments and proportionality","H","A car travels 240 miles using 8 gallons of gas; how many gallons will it need to travel 600 miles?","1. Distance
+2. Fuel consumption
+3. Gallons
+4. Miles per gallon (MPG)
+5. Ratio
+6. Proportion
+7. Unit conversion"
+"Functional relationships (patterns and structures)","Assignments and proportionality","H","A painter can complete a mural in 15 hours; if they work at the same rate how long will it take to finish 4 murals?","1. Painter
+2. Mural
+3. Rate
+4. Time
+5. Work (or Work Rate)
+6. Proportion
+7. Multiplication
+8. Hours"
+"Functional relationships (patterns and structures)","Linear and other simple functions","D","Create a table of values for the linear function \(y = 3x + 2\) using the values of \(x\) from -2 to 2 and then graph the function on a coordinate plane.","- Linear function
+- Table of values
+- Coordinate plane
+- Slope
+- Y-intercept
+- X-coordinate
+- Y-coordinate
+- Graphing
+- Quadrants"
+"Functional relationships (patterns and structures)","Linear and other simple functions","D","A local bakery sells muffins for $2 each and cookies for $1.50 each; write a linear equation representing the total cost \(y\) for buying \(x\) muffins and then generate values for \(x\) from 0 to 4 to graph this equation.","- Linear equation
+- Total cost
+- Variables
+- Coefficients
+- Graph
+- Function
+- Domain
+- Range
+- Ordered pairs"
+"Functional relationships (patterns and structures)","Linear and other simple functions","D","The temperature in degrees Fahrenheit can be estimated by the formula \(F = 9C + 32\) where \(C\) is the temperature in degrees Celsius; create a table of values for this relationship using Celsius values of 0 10 20 and 30 then plot the corresponding Fahrenheit values.","1. Degrees Fahrenheit (F)
+2. Degrees Celsius (C)
+3. Formula
+4. Equation
+5. Table of values
+6. Plot
+7. Coordinate system
+8. Axes
+9. Data visualization
+10. Linear relationship"
+"Functional relationships (patterns and structures)","Equations and algebra","F","Solve for x: 3(x - 4) = 2(x + 5).","1. Variable
+2. Equation
+3. Distribution
+4. Like terms
+5. Combining
+6. Isolation
+7. Solution
+8. Coefficient
+9. Constant"
+"Functional relationships (patterns and structures)","Equations and algebra","F","A school is planning a fundraiser; if the items cost $12 each and the total cost is equal to 4 times the number of items sold solve for y in the equation 12y = 4y + 48.","1. Equation
+2. Variable
+3. Constant
+4. Total Cost
+5. Number of Items
+6. Cost per Item
+7. Solve
+8. Algebra"
+"Functional relationships (patterns and structures)","Equations and algebra","F","If Jamie has twice as many apples as Alex and together they have 36 apples create and solve the equation 2x + x = 36 to find out how many apples Alex has.","1. Variables
+2. Equation
+3. Coefficients
+4. Constants
+5. Algebraic expression
+6. Solution
+7. Substitution
+8. Simplification"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","G","A bakery produces 10 loaves of bread on the first day and increases production by 5 loaves each subsequent day; express the total number of loaves produced on day \( n \) as an algebraic formula and use it to find the number produced on day 7.","- Sequence
+- Arithmetic sequence
+- First term
+- Common difference
+- General term (nth term)
+- Summation
+- Formula
+- Substitution"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","G","The cost of a monthly gym membership starts at $20 and increases by $5 for each additional family member; write an algebraic expression for the total cost based on the number of members and calculate the cost for a family of 4.","- Cost
+- Monthly membership
+- Algebraic expression
+- Family member
+- Total cost
+- Variable
+- Constant
+- Calculation"
+"Functional relationships (patterns and structures)","Recognizing patterns and structures","G","A car rental company charges a base fee of $30 plus $15 for each day the car is rented; create an algebraic formula for the total cost in terms of the number of days \( d \) the car is rented and determine the cost for renting the car for 3 days.","1. Algebraic formula
+2. Total cost
+3. Base fee
+4. Variable
+5. Coefficient
+6. Constant
+7. Rental duration
+8. Expression
+9. Evaluation
+10. Substitute"
