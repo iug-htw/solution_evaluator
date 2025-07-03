@@ -15,7 +15,7 @@ progress_levels = {
     "H": "10th grade (15yo)"
 }
 
-def generate_exercises(exercise_objectives_file, output_file, model="gpt-4o-mini"):
+def generate_exercises(exercise_objectives_file, output_file, model="gpt-4o"):
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=api_key)
