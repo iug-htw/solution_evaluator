@@ -10,36 +10,20 @@ def translate_csv(input_csv, output_csv, target_language, model="gpt-4o-mini"):
     api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=api_key)
 
-    examples = {
-        "Arabic": {
-            "input": "Rationalize: 1⁄(1 + √7)",
-            "output": "بسّط الكسر التالي بحيث لا يحتوي المقام على جذر: ١ / (١ + √٧)" 
-        },
-        "German": {
-            "input": "Rationalize: 1⁄(1 + √7)",
-            "output": "Rationalisiere den Bruch: 1 / (1 + √7)"
-        }
-    }
-
     def translate_text(text):
         prompt = f"""
-        You are a math educator fluent in both English and {target_language}. Your task is to rewrite the following English math exercise into the target language, using accurate mathematical terminology and phrasing that matches how math problems appear in textbooks or classroom worksheets in that language.
-        Do not translate literally. Instead, use math-education-specific vocabulary, especially for instructional verbs like:
-        - "simplify"
-        - "rationalize"
-        - "factor"
-        - "solve"
-        - "circle"
-        - "complete the square"
-        Translate these using their equivalent meaning in math pedagogy as commonly used in schools that teach in {target_language}. 
-        Write the translated instruction as a student would realistically see it in a math workbook.
-        Avoid using markdown formatting. Reply with the translated text only, without any additional commentary, explanation, or formatting.
+        You are a math educator fluent in {target_language}.
+        Your task is to write a math exercise in {target_language} that teaches or assesses the same skill or concept as the exercise below.
+        Use natural phrasing and terminology appropriate for math workbooks written for students in {target_language}.
+        Focus on making the exercise feel like it was originally written in {target_language}, not adapted from another language. Use the same numerical values as the original exercise.
+        Avoid using markdown formatting. Reply with the {target_language} exercise text only, without any additional commentary, explanation, or formatting.
 
-        example:
-        Input: {examples[target_language]['input']}
-        Output: {examples[target_language]['output']}
 
-        Now, translate the following exercise into {target_language}: {text}"""
+        English exercise:
+        {text}
+
+        Now write a new exercise in {target_language} with the same objective."""
+
         response = client.chat.completions.create(
             model=model,
             messages=[
