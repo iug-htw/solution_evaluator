@@ -1,5 +1,6 @@
 import openai
 import google.generativeai as genai
+import anthropic
 import pandas as pd
 import os
 import re
@@ -22,7 +23,8 @@ progress_levels = {
 LLM_MODELS = {
     "gpt-4o-mini": "openai",
     "gemini-1.5-flash": "google",
-    "qwen-plus": "openai"
+    "qwen-plus": "openai",
+    "claude-3-sonnet": "openai"
 }
 
 def get_llm_client(model_name):
@@ -45,6 +47,10 @@ def get_llm_client(model_name):
             base_url="https://dashscope-intl.aliyuncs.com/compatible-mode/v1",
         )
     
+    elif model_name == "claude-3-sonnet":
+        api_key = os.getenv("ANTHROPIC_API_KEY")
+        return anthropic.Anthropic(api_key=api_key)
+
     else:
         raise ValueError(f"Unknown model: {model_name}")
 
@@ -111,6 +117,16 @@ def rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise
             response = client.generate_content(prompt)
             result = response.text.strip()
 
+        elif model == "claude-3-sonnet":
+            completion = client.messages.create(
+                model="claude-sonnet-4-20250514",
+                max_tokens=16000,
+                messages=[
+                    {"role": "user", "content": prompt}
+                ]
+            )
+            result = completion.content.text.strip()
+
         elif model == "gpt-4o-mini" or model == "qwen-plus":
             completion = client.chat.completions.create(
                 model=model,
@@ -170,10 +186,12 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
         "gpt-4o-mini Ranking",
         "gemini-1.5-flash Ranking",
         "qwen-plus Ranking",
+        "claude-3-sonnet Ranking",
         "Majority Vote Ranking",
         "Justification gpt-4o-mini",
         "Justification gemini-1.5-flash",
-        "Justification qwen-plus"
+        "Justification qwen-plus",
+        "Justification claude-3-sonnet"
     ]
 
     # Check if output file exists to determine whether to write headers
@@ -210,7 +228,11 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                 rankings = {}
                 justifications = {}
 
-                for model in LLM_MODELS.keys():
+                judge_models = [m for m in LLM_MODELS if m != current_model]
+                if "claude-3-sonnet" not in judge_models:
+                    judge_models.append("claude-3-sonnet")
+
+                for model in judge_models:
                     judge_response = rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise_terms, model)
 
                     if judge_response != "Error":
@@ -247,10 +269,12 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                     "gpt-4o-mini Ranking": mapped_rankings.get("gpt-4o-mini", {}),
                     "gemini-1.5-flash Ranking": mapped_rankings.get("gemini-1.5-flash", {}),
                     "qwen-plus Ranking": mapped_rankings.get("qwen-plus", {}),
+                    "claude-3-sonnet Ranking": mapped_rankings.get("claude-3-sonnet", {}),
                     "Majority Vote Ranking": best_explanation,
                     "Justification gpt-4o-mini": justifications.get("gpt-4o-mini", ""),
                     "Justification gemini-1.5-flash": justifications.get("gemini-1.5-flash", ""),
-                    "Justification qwen-plus": justifications.get("qwen-plus", "")
+                    "Justification qwen-plus": justifications.get("qwen-plus", ""),
+                    "Justification claude-3-sonnet": justifications.get("claude-3-sonnet", "")
                 }
 
                 # Append new row to CSV file

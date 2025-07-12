@@ -46,7 +46,7 @@ def solve_tasks(input_file, output_file, model="qwen-plus", prompt_prefix="Expla
         for i, row in enumerate(reader):
             if i < progress:
                 continue
-            # if i >= 50:
+            # if i >= 200:
             #     break
             topic_area, topic, progress_level, exercise = row
             prompt = f"{prompt_prefix}: {exercise}"
