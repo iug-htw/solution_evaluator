@@ -125,7 +125,7 @@ def rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise
                     {"role": "user", "content": prompt}
                 ]
             )
-            result = completion.content.text.strip()
+            result = "".join([part.text for part in completion.content]).strip()
 
         elif model == "gpt-4o-mini" or model == "qwen-plus":
             completion = client.chat.completions.create(
@@ -235,10 +235,16 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                 for model in judge_models:
                     judge_response = rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise_terms, model)
 
+                    ranking = None
+                    justification = None
+
                     if judge_response != "Error":
                         response_lines = judge_response.split("\n")
-                        ranking = response_lines[0].replace("**Ranking:** ", "").strip()
-                        justification = response_lines[1].replace("**Justification:** ", "").strip()
+                        for line in response_lines:
+                            if line.strip().startswith("**Ranking:**"):
+                                ranking = line.replace("**Ranking:**", "").strip()
+                            elif line.strip().startswith("**Justification:**"):
+                                justification = line.replace("**Justification:**", "").strip()
 
                         ranking_dict = {pair.split(":")[0].strip(): ordinal_to_int(pair.split(":")[1].strip()) for pair in ranking.strip("[]").split(",")}
                         rankings[model] = ranking_dict

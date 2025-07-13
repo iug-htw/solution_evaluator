@@ -143,32 +143,6 @@ Therefore 27 (base 10) = 11011 (base 2)"
 2. **Simplify the fraction:**  In this case the fraction 7/1000 is already in its simplest form because 7 is a prime number and doesn't share any common factors with 1000 other than 1.
 
 Therefore the simplest form of 0.007 as a fraction is $\boxed{\frac{7}{1000}}$."
-"Numbers and Operations","Understanding and representing numbers","D","Convert 27 (base 10) to base 2","To convert a base 10 number (decimal) to base 2 (binary) you repeatedly divide by 2 and record the remainders.  The remainders read in reverse order form the binary representation.
-
-Here's how to convert 27 to base 2:
-
-1. **Divide by 2:** 27 ÷ 2 = 13 with a remainder of 1.
-2. **Divide the quotient by 2:** 13 ÷ 2 = 6 with a remainder of 1.
-3. **Divide the quotient by 2:** 6 ÷ 2 = 3 with a remainder of 0.
-4. **Divide the quotient by 2:** 3 ÷ 2 = 1 with a remainder of 1.
-5. **Divide the quotient by 2:** 1 ÷ 2 = 0 with a remainder of 1.
-
-Now read the remainders from bottom to top: 1 1 0 1 1.
-
-Therefore 27 (base 10) = 11011 (base 2)"
-"Numbers and Operations","Understanding and representing numbers","D","Write 0.007 as a fraction in simplest form","To write the decimal 0.007 as a fraction follow these steps:
-
-1. **Count the decimal places:**  There are three decimal places after the 7.
-
-2. **Write the number without the decimal point as the numerator:** This gives you 7.
-
-3. **Write 1 followed by the same number of zeros as decimal places as the denominator:** Since there are three decimal places the denominator is 1000.
-
-4. **This gives you the fraction 7/1000.**
-
-5. **Check for simplification:**  7 is a prime number and doesn't share any common factors with 1000 other than 1.  Therefore the fraction is already in its simplest form.
-
-So the answer is $\boxed{7/1000}$"
 "Numbers and Operations","Understanding and representing numbers","D","Represent -5 on a number line","To represent -5 on a number line:
 
 1. **Draw a number line:**  Make a horizontal line.
@@ -3324,34 +3298,6 @@ This is essentially the same as Method 1 but emphasizes the importance of the li
 
 
 All three methods result in four equal areas. Choose the method you find easiest.  Using a ruler ensures accuracy."
-"Geometry","Designs and Drawings","B","Draw a square and divide it into 4 equal parts","There are several ways to divide a square into four equal parts:
-
-**Method 1: Using lines parallel to the sides**
-
-1. **Draw a square:** Use a ruler to draw a perfect square.  Make sure all sides are equal in length.
-2. **Draw a horizontal line:** Draw a straight line across the middle of the square parallel to the top and bottom sides.  This line should intersect the left and right sides exactly halfway.
-3. **Draw a vertical line:** Draw a straight line down the middle of the square parallel to the left and right sides. This line should intersect the top and bottom sides exactly halfway.
-
-The intersecting lines will divide the square into four equal smaller squares.
-
-**Method 2: Using diagonal lines**
-
-1. **Draw a square:** Again start with a perfectly drawn square.
-2. **Draw a diagonal line:** Draw a line from one corner of the square to the opposite corner.
-3. **Draw another diagonal line:** Draw a second diagonal line from the other two corners.
-
-The two intersecting diagonal lines will divide the square into four equal triangles.
-
-
-**Method 3:  Using one diagonal and a horizontal or vertical line**
-
-1. **Draw a square.**
-2. **Draw a diagonal line** from one corner to the opposite corner.
-3. **Draw a line perpendicular to the diagonal** that passes through the center of the square. This line can be either horizontal or vertical depending on which diagonal you chose initially.
-
-This will also divide the square into four equal parts (two triangles and two quadrilaterals).
-
-All three methods result in four equal areas within the original square but the shapes of those areas differ. Choose the method that best suits your needs or preferences.  Remember to use a ruler to ensure accuracy!"
 "Geometry","Designs and Drawings","B","Use a ruler to draw a triangle with 3 straight sides","This task is deceptively simple.  It's not about complex geometry but about understanding the basics of drawing.  Here's how to do it:
 
 1. **Decide on the lengths of your sides:** Choose three lengths for the sides of your triangle.  Make them reasonably sized to fit on your paper.  Let's say you choose 5cm 7cm and 9cm.  *Important Note:* The sum of the lengths of any two sides must be greater than the length of the third side (triangle inequality theorem). If not you won't be able to form a closed triangle.
