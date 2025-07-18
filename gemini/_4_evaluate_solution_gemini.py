@@ -8,7 +8,7 @@ def evaluate_solutions(input_file, terms_file, output_file):
     load_dotenv()
     api_key = os.getenv("GEMINI_API_KEY")
     genai.configure(api_key=api_key)
-    client = genai.GenerativeModel("gemini-1.5-flash")
+    client = genai.GenerativeModel("gemini-2.5-flash")
     
     # Define evaluation criteria
     criteria = [

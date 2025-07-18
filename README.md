@@ -37,7 +37,7 @@ These results highlight **linguistic performance disparities** in LLMs, raising 
 Each of the three main jupyter notebooks correspond to a different LLM model:
 
 - `test_and_eval_pipeline.ipynb` -> `gpt-4o-mini`
-- `test_and_eval_pipeline-gemini.ipynb` -> `gemini-1.5-flash`
+- `test_and_eval_pipeline-gemini.ipynb` -> `gemini-2.5-flash`
 - `test_and_eval_pipeline-qwen.ipynb` -> `qwen-plus`
 
 All notebooks follow the same pipeline logic.
@@ -72,7 +72,7 @@ The pipeline is modular, using a series of helper scripts:
 | Directory    | Content                                                                           |
 | ------------ | --------------------------------------------------------------------------------- |
 | `/`          | Contains main scripts, shared outputs, and output files specific to `gpt-4o-mini` |
-| `/gemini`    | Contains gemini-custom scripts and output files specific to `gemini-1.5-flash`    |
+| `/gemini`    | Contains gemini-custom scripts and output files specific to `gemini-2.5-flash`    |
 | `/qwen_plus` | Contains gemini-custom scripts and output files specific to `qwen-plus`           |
 
 ## 📎 Dependencies

@@ -22,7 +22,7 @@ progress_levels = {
 
 LLM_MODELS = {
     "gpt-4o-mini": "openai",
-    "gemini-1.5-flash": "google",
+    "gemini-2.5-flash": "google",
     "qwen-plus": "openai",
     "claude-3-sonnet": "openai"
 }
@@ -35,10 +35,10 @@ def get_llm_client(model_name):
         api_key = os.getenv("OPENAI_API_KEY")
         return openai.OpenAI(api_key=api_key)
 
-    elif model_name == "gemini-1.5-flash":
+    elif model_name == "gemini-2.5-flash":
         api_key = os.getenv("GEMINI_API_KEY")
         genai.configure(api_key=api_key)
-        return genai.GenerativeModel("gemini-1.5-flash")
+        return genai.GenerativeModel("gemini-2.5-flash")
 
     elif model_name == "qwen-plus":
         api_key = os.getenv("DASHSCOPE_API_KEY")
@@ -113,7 +113,7 @@ def rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise
     """
 
     try:
-        if model == "gemini-1.5-flash":
+        if model == "gemini-2.5-flash":
             response = client.generate_content(prompt)
             result = response.text.strip()
 
@@ -184,12 +184,12 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
         "Best Explanation",
         "Worst Explanation",
         "gpt-4o-mini Ranking",
-        "gemini-1.5-flash Ranking",
+        "gemini-2.5-flash Ranking",
         "qwen-plus Ranking",
         "claude-3-sonnet Ranking",
         "Majority Vote Ranking",
         "Justification gpt-4o-mini",
-        "Justification gemini-1.5-flash",
+        "Justification gemini-2.5-flash",
         "Justification qwen-plus",
         "Justification claude-3-sonnet"
     ]
@@ -273,12 +273,12 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                     "Best Explanation": best_explanation,
                     "Worst Explanation": worst_explanation,
                     "gpt-4o-mini Ranking": mapped_rankings.get("gpt-4o-mini", {}),
-                    "gemini-1.5-flash Ranking": mapped_rankings.get("gemini-1.5-flash", {}),
+                    "gemini-2.5-flash Ranking": mapped_rankings.get("gemini-2.5-flash", {}),
                     "qwen-plus Ranking": mapped_rankings.get("qwen-plus", {}),
                     "claude-3-sonnet Ranking": mapped_rankings.get("claude-3-sonnet", {}),
                     "Majority Vote Ranking": best_explanation,
                     "Justification gpt-4o-mini": justifications.get("gpt-4o-mini", ""),
-                    "Justification gemini-1.5-flash": justifications.get("gemini-1.5-flash", ""),
+                    "Justification gemini-2.5-flash": justifications.get("gemini-2.5-flash", ""),
                     "Justification qwen-plus": justifications.get("qwen-plus", ""),
                     "Justification claude-3-sonnet": justifications.get("claude-3-sonnet", "")
                 }

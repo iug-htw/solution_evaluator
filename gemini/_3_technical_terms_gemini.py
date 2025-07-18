@@ -8,7 +8,7 @@ def extract_technical_terms(input_file, output_file, target_language='en'):
     load_dotenv()
     api_key = os.getenv("GEMINI_API_KEY")
     genai.configure(api_key=api_key)
-    client = genai.GenerativeModel("gemini-1.5-flash")
+    client = genai.GenerativeModel("gemini-2.5-flash")
     
     with open(input_file, mode='r', encoding='utf-8') as infile, open(output_file, mode='w', encoding='utf-8', newline='') as outfile:
         reader = csv.reader(infile)

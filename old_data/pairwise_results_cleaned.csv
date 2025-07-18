@@ -1,4 +1,4 @@
-Exercise Index,Progress Level,gpt-4o-mini Ranking,gemini-1.5-flash Ranking,qwen-plus Ranking,Best,Mid,Worst
+Exercise Index,Progress Level,gpt-4o-mini Ranking,gemini-2.5-flash Ranking,qwen-plus Ranking,Best,Mid,Worst
 0,2nd grade (7yo),"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
 1,2nd grade (7yo),"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
 2,2nd grade (7yo),"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en

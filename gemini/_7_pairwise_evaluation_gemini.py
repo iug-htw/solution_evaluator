@@ -14,7 +14,7 @@ progress_levels = {
     "H": "10th grade (15yo)"
 }
 
-def evaluate_explanations(files, output_file="ranked_explanation_evaluation.csv", model="gemini-1.5-flash"):
+def evaluate_explanations(files, output_file="ranked_explanation_evaluation.csv", model="gemini-2.5-flash"):
     """
     Compares LLM-generated math solutions in different languages using ranking-based evaluation.
 
@@ -30,7 +30,7 @@ def evaluate_explanations(files, output_file="ranked_explanation_evaluation.csv"
     load_dotenv()
     api_key = os.getenv("GEMINI_API_KEY")
     genai.configure(api_key=api_key)
-    client = genai.GenerativeModel("gemini-1.5-flash")
+    client = genai.GenerativeModel("gemini-2.5-flash")
     
     # Load solutions into dataframes
     dfs = {lang: pd.read_csv(file) for lang, file in files.items()}
