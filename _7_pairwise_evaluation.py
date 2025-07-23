@@ -148,7 +148,7 @@ def ordinal_to_int(ordinal_str):
     match = re.match(r"(\d+)", ordinal_str.strip())  # Extract leading digits
     return int(match.group(1)) if match else None  # Convert to int
 
-def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mini", output_dir=""):
+def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mini", output_dir="", tasks_indices=None):
     """
     Compares LLM-generated math solutions using ranking-based evaluation with majority voting.
     Writes results incrementally to CSV after each row.
@@ -206,6 +206,10 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
         for ex_index in range(min_length):
             # if ex_index < 400:
             #     continue         
+
+            if tasks_indices is not None and ex_index not in tasks_indices:
+                continue
+            
             try:
                 print(f"Evaluating exercise {ex_index}...", end=" ")
 
