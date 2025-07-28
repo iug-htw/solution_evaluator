@@ -24,7 +24,7 @@ LLM_MODELS = {
     "gpt-4o-mini": "openai",
     "gemini-2.5-flash": "google",
     "qwen-plus": "openai",
-    "claude-3-sonnet": "openai"
+    "claude-3-5-haiku": "anthropic"
 }
 
 def get_llm_client(model_name):
@@ -47,7 +47,7 @@ def get_llm_client(model_name):
             base_url="https://dashscope-intl.aliyuncs.com/compatible-mode/v1",
         )
     
-    elif model_name == "claude-3-sonnet":
+    elif model_name == "claude-3-5-haiku":
         api_key = os.getenv("ANTHROPIC_API_KEY")
         return anthropic.Anthropic(api_key=api_key)
 
@@ -107,6 +107,7 @@ def rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise
 
     **Ranking Instructions**:
     - Rank the solutions from **1st (best) to 3rd (worst)**.
+    - Provide a short justification for your ranking avoiding bullet points.
     - Format your response strictly as follows:
     **Ranking:** [{shuffled_langs[0]}: X, {shuffled_langs[1]}: Y, {shuffled_langs[2]}: Z]  
     **Justification:** [Short explanation]  
@@ -117,10 +118,10 @@ def rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise
             response = client.generate_content(prompt)
             result = response.text.strip()
 
-        elif model == "claude-3-sonnet":
+        elif model == "claude-3-5-haiku":
             completion = client.messages.create(
-                model="claude-sonnet-4-20250514",
-                max_tokens=16000,
+                model="claude-3-5-haiku-latest",
+                max_tokens=8192,
                 messages=[
                     {"role": "user", "content": prompt}
                 ]
@@ -186,12 +187,12 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
         "gpt-4o-mini Ranking",
         "gemini-2.5-flash Ranking",
         "qwen-plus Ranking",
-        "claude-3-sonnet Ranking",
+        "claude-3-5-haiku Ranking",
         "Majority Vote Ranking",
         "Justification gpt-4o-mini",
         "Justification gemini-2.5-flash",
         "Justification qwen-plus",
-        "Justification claude-3-sonnet"
+        "Justification claude-3-5-haiku"
     ]
 
     # Check if output file exists to determine whether to write headers
@@ -203,10 +204,7 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
         if not file_exists:
             writer.writeheader()  # Write headers only if file is new
 
-        for ex_index in range(min_length):
-            # if ex_index < 400:
-            #     continue         
-
+        for ex_index in range(min_length):       
             if tasks_indices is not None and ex_index not in tasks_indices:
                 continue
             
@@ -233,8 +231,8 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                 justifications = {}
 
                 judge_models = [m for m in LLM_MODELS if m != current_model]
-                if "claude-3-sonnet" not in judge_models:
-                    judge_models.append("claude-3-sonnet")
+                if "claude-3-5-haiku" not in judge_models:
+                    judge_models.append("claude-3-5-haiku")
 
                 for model in judge_models:
                     judge_response = rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise_terms, model)
@@ -247,17 +245,26 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                         for line in response_lines:
                             if line.strip().startswith("**Ranking:**"):
                                 ranking = line.replace("**Ranking:**", "").strip()
-                            elif line.strip().startswith("**Justification:**"):
-                                justification = line.replace("**Justification:**", "").strip()
+                            elif "**justification:**" in line.lower():
+                                justification_start = response_lines.index(line)
+                                justification_raw = "\n".join(response_lines[justification_start:]).split(":", 1)[-1].strip()
+
+                                justification = (
+                                    justification_raw
+                                    .lstrip("*–- ") 
+                                    .replace('"', '""') 
+                                    .replace('""""', '""') 
+                                    .strip()
+                                )
+                                break
 
                         ranking_dict = {pair.split(":")[0].strip(): ordinal_to_int(pair.split(":")[1].strip()) for pair in ranking.strip("[]").split(",")}
                         rankings[model] = ranking_dict
                         justifications[model] = justification
 
                 # Reverse map rankings to the original language names
-                reverse_map = {shuffled_langs[i]: list(files.keys())[i] for i in range(len(shuffled_langs))}
                 mapped_rankings = {
-                    model: {reverse_map[lang]: rank for lang, rank in rankings[model].items()} for model in rankings
+                    model: rankings[model] for model in rankings
                 }
 
                 # Majority voting for best & worst explanation
@@ -276,15 +283,15 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
                     "Progress Level": progress_levels.get(progress_level, "Unknown"),
                     "Best Explanation": best_explanation,
                     "Worst Explanation": worst_explanation,
-                    "gpt-4o-mini Ranking": mapped_rankings.get("gpt-4o-mini", {}),
-                    "gemini-2.5-flash Ranking": mapped_rankings.get("gemini-2.5-flash", {}),
-                    "qwen-plus Ranking": mapped_rankings.get("qwen-plus", {}),
-                    "claude-3-sonnet Ranking": mapped_rankings.get("claude-3-sonnet", {}),
+                    "gpt-4o-mini Ranking": rankings.get("gpt-4o-mini", {}),
+                    "gemini-2.5-flash Ranking": rankings.get("gemini-2.5-flash", {}),
+                    "qwen-plus Ranking": rankings.get("qwen-plus", {}),
+                    "claude-3-5-haiku Ranking": rankings.get("claude-3-5-haiku", {}),
                     "Majority Vote Ranking": best_explanation,
                     "Justification gpt-4o-mini": justifications.get("gpt-4o-mini", ""),
                     "Justification gemini-2.5-flash": justifications.get("gemini-2.5-flash", ""),
                     "Justification qwen-plus": justifications.get("qwen-plus", ""),
-                    "Justification claude-3-sonnet": justifications.get("claude-3-sonnet", "")
+                    "Justification claude-3-5-haiku": justifications.get("claude-3-5-haiku", "")
                 }
 
                 # Append new row to CSV file

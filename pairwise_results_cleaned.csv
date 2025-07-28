@@ -1,629 +1,629 @@
-Exercise Index,Progress Level,gpt-4o-mini Ranking,gemini-2.5-flash Ranking,qwen-plus Ranking,claude-3-sonnet Ranking,Best,Mid,Worst
-0,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-1,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-2,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-3,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,TIE
-4,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}",en,ar,de
-5,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-6,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-7,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-8,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-9,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-10,4th grade (9yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-11,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-12,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-13,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-14,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-15,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-16,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-17,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
-18,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-19,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-20,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-21,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-22,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-23,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-24,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,TIE,en
-25,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-26,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-27,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-28,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-29,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-30,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-31,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-32,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-33,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-34,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-35,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-36,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-37,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-38,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-39,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-40,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,ar
-41,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-42,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-43,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",TIE,en,de
+Exercise Index,Progress Level,gpt-4o-mini Ranking,gemini-2.5-flash Ranking,qwen-plus Ranking,claude-3-5-haiku Ranking,Best,Mid,Worst
+0,2nd grade (7yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+1,2nd grade (7yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,TIE,ar
+2,2nd grade (7yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+3,2nd grade (7yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+4,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
+5,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+6,2nd grade (7yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+7,2nd grade (7yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+8,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
+9,4th grade (9yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",en,ar,de
+10,4th grade (9yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+11,4th grade (9yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+12,4th grade (9yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,de,en
+13,4th grade (9yo),{},"{'ar': 1, 'en': 3, 'de': 2}","{'ar': 1, 'de': 2, 'en': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,de,en
+14,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+15,6th grade (11yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+16,6th grade (11yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+17,6th grade (11yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,TIE,ar
+18,6th grade (11yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+19,6th grade (11yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+20,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+21,6th grade (11yo),{},"{'de': 3, 'en': 2, 'ar': 1}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+22,7th grade (12 yo),{},"{'ar': 1, 'en': 3, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,TIE,de
+23,7th grade (12 yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+24,7th grade (12 yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+25,7th grade (12 yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,ar,de
+26,7th grade (12 yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",en,ar,de
+27,7th grade (12 yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+28,8th grade (13yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+29,8th grade (13yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+30,8th grade (13yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 2, 'en': 3}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
+31,8th grade (13yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+32,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+33,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,TIE
+34,8th grade (13yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}",en,de,ar
+35,9th grade (14yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,TIE,de
+36,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+37,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+38,9th grade (14yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+39,10th grade (15yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",en,de,ar
+40,10th grade (15yo),{},"{'de': 1, 'en': 3, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+41,10th grade (15yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,TIE
+42,10th grade (15yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+43,10th grade (15yo),{},"{'ar': 1, 'en': 3, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,TIE,de
 44,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-45,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-46,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'ar': 1, 'en': 2, 'de': 3}",TIE,en,de
-47,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-48,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",ar,de,en
-49,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-50,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
-51,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-52,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,de,en
-53,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-54,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,TIE,ar
-55,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
-56,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-57,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-58,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-59,6th grade (11yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}",de,ar,en
-60,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,de
-61,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
-62,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-63,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",ar,en,de
-64,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-65,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-66,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,TIE,ar
-67,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-68,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-69,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-70,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-71,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-72,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-73,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-74,9th grade (14yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,ar
-75,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-76,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-77,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-78,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-79,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,de,TIE
-80,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,TIE
-81,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-82,2nd grade (7yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-83,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 3, 'ar': 1}",ar,TIE,de
-84,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-85,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}",en,de,TIE
-86,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-87,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-88,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-89,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,TIE
-90,6th grade (11yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,TIE,en
-91,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-92,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-93,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-94,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}",de,ar,en
-95,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-96,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
-97,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",TIE,TIE,TIE
-98,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-99,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-100,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-101,9th grade (14yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-102,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-103,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-104,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",TIE,TIE,TIE
-105,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-106,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-107,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,de,en
-108,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-109,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-110,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,ar
-111,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-112,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",en,ar,TIE
-113,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-114,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
-115,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-116,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-117,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,ar
-118,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-119,6th grade (11yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-120,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,TIE
+45,2nd grade (7yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}",en,ar,de
+46,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+47,2nd grade (7yo),{},"{'en': 3, 'ar': 1, 'de': 2}","{'en': 2, 'ar': 3, 'de': 1}","{'en': 2, 'ar': 3, 'de': 1}",de,en,ar
+48,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 3, 'de': 2}",en,de,ar
+49,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+50,2nd grade (7yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+51,2nd grade (7yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+52,2nd grade (7yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+53,4th grade (9yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+54,4th grade (9yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,TIE,ar
+55,4th grade (9yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+56,4th grade (9yo),{},"{'ar': 1, 'en': 3, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,TIE,de
+57,4th grade (9yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+58,6th grade (11yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+59,6th grade (11yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+60,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+61,6th grade (11yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,TIE,ar
+62,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+63,7th grade (12 yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+64,7th grade (12 yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,de,ar
+65,7th grade (12 yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 3, 'de': 2}",en,de,ar
+66,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+67,8th grade (13yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,TIE
+68,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+69,8th grade (13yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,de,TIE
+70,8th grade (13yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,TIE,de
+71,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+72,9th grade (14yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+73,9th grade (14yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+74,9th grade (14yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+75,9th grade (14yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+76,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+77,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+78,10th grade (15yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 3, 'en': 2, 'de': 1}","{'ar': 1, 'en': 2, 'de': 3}",de,en,ar
+79,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+80,2nd grade (7yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+81,2nd grade (7yo),{},"{'ar': 2, 'de': 1, 'en': 3}","{'ar': 3, 'de': 1, 'en': 2}","{'ar': 2, 'de': 3, 'en': 1}",de,ar,TIE
+82,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+83,2nd grade (7yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+84,2nd grade (7yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+85,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+86,4th grade (9yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+87,4th grade (9yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 3, 'de': 2}",en,ar,de
+88,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+89,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+90,6th grade (11yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+91,6th grade (11yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+92,6th grade (11yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+93,7th grade (12 yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+94,7th grade (12 yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+95,7th grade (12 yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,TIE
+96,8th grade (13yo),{},"{'ar': 2, 'de': 1, 'en': 3}","{'ar': 3, 'de': 1, 'en': 2}","{'ar': 1, 'de': 2, 'en': 3}",de,TIE,en
+97,8th grade (13yo),{},"{'en': 3, 'ar': 1, 'de': 2}","{'en': 2, 'ar': 1, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",ar,TIE,de
+98,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+99,8th grade (13yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+100,9th grade (14yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,TIE,de
+101,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+102,9th grade (14yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,TIE
+103,10th grade (15yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+104,10th grade (15yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+105,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+106,10th grade (15yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}",en,de,ar
+107,10th grade (15yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+108,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+109,2nd grade (7yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+110,2nd grade (7yo),{},"{'ar': 1, 'en': 3, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",ar,de,TIE
+111,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+112,4th grade (9yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+113,4th grade (9yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+114,4th grade (9yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+115,4th grade (9yo),{},"{'en': 3, 'ar': 1, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+116,4th grade (9yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+117,4th grade (9yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+118,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+119,6th grade (11yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,TIE
+120,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
 121,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-122,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,ar
-123,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,TIE
-124,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-125,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-126,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,TIE,en
-127,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-128,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-129,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-130,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,ar,TIE
-131,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,TIE
-132,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-133,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,ar
-134,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,de,en
-135,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-136,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-137,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-138,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",ar,TIE,de
-139,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-140,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-141,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-142,4th grade (9yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-143,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-144,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-145,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
-146,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+122,7th grade (12 yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,ar,de
+123,7th grade (12 yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+124,7th grade (12 yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+125,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+126,8th grade (13yo),{},"{'ar': 1, 'de': 3, 'en': 2}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,TIE,de
+127,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+128,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+129,8th grade (13yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+130,9th grade (14yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+131,9th grade (14yo),{},"{'de': 1, 'ar': 2, 'en': 3}","{'de': 1, 'ar': 3, 'en': 2}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
+132,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+133,9th grade (14yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+134,10th grade (15yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+135,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+136,10th grade (15yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+137,2nd grade (7yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}",en,de,ar
+138,2nd grade (7yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 3, 'en': 1, 'ar': 2}",en,ar,de
+139,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+140,2nd grade (7yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}",en,ar,de
+141,4th grade (9yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,TIE
+142,4th grade (9yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",TIE,en,de
+143,6th grade (11yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+144,6th grade (11yo),{},"{'de': 2, 'ar': 1, 'en': 3}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",TIE,de,ar
+145,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+146,6th grade (11yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
 147,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-148,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",TIE,en,ar
-149,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-150,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-151,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-152,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-153,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-154,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-155,8th grade (13yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-156,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-157,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-158,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",de,en,TIE
-159,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-160,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-161,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-162,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-163,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-164,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-165,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-166,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
-167,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-168,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-169,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-170,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-171,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-172,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",ar,TIE,de
-173,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-174,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-175,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,en
-176,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-177,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 1, 'ar': 2}",TIE,ar,de
-178,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,ar,en
-179,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-180,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",ar,TIE,de
-181,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-182,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-183,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-184,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-185,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-186,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-187,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",ar,en,TIE
-188,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-189,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-190,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,en
-191,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
-192,9th grade (14yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,de,en
-193,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-194,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-195,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-196,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-197,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-198,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-199,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
-200,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,en
-201,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-202,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-203,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-204,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,de,en
-205,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-206,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",ar,en,de
-207,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-208,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",ar,en,de
-209,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-210,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",ar,en,de
-211,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-212,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-213,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-214,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-215,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-216,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-217,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-218,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-219,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-220,9th grade (14yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-221,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-222,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-223,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-224,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,TIE,en
-225,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-226,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
-227,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-228,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-229,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-230,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-231,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-232,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-233,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",ar,en,de
-234,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-235,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-236,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-237,6th grade (11yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-238,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-239,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-240,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-241,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
-242,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-243,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-244,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-245,9th grade (14yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-246,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-247,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-248,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-249,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-250,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-251,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-252,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-253,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-254,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,en
-255,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-256,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,ar,de
-257,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",de,en,TIE
-258,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-259,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,TIE
-260,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-261,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-262,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-263,6th grade (11yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,ar
-264,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",ar,en,de
-265,6th grade (11yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-266,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-267,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-268,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,ar
-269,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,en
-270,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
-271,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 1, 'ar': 2}",TIE,ar,en
-272,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
-273,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,ar
-274,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-275,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-276,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-277,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-278,9th grade (14yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-279,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-280,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,TIE,en
-281,9th grade (14yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-282,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
-283,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-284,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-285,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
-286,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-287,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-288,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-289,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-290,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",en,de,TIE
-291,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,TIE,en
-292,2nd grade (7yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
-293,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,en,de
-294,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-295,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-296,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,en
-297,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-298,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",ar,en,de
-299,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",TIE,TIE,TIE
-300,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}",de,TIE,en
-301,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-302,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-303,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-304,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-305,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}",de,ar,en
-306,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-307,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-308,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,en
-309,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-310,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-311,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}",TIE,TIE,TIE
-312,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-313,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",de,en,TIE
-314,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-315,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-316,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-317,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-318,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-319,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,TIE
-320,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-321,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,ar,de
-322,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-323,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",ar,en,TIE
-324,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,ar
-325,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-326,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-327,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-328,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-329,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-330,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-331,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-332,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-333,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-334,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-335,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-336,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,en,ar
-337,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,TIE,en
-338,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-339,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-340,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,en,ar
-341,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-342,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-343,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,en
-344,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-345,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,ar
-346,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-347,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-348,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-349,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-350,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-351,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+148,6th grade (11yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,TIE,ar
+149,7th grade (12 yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'de': 1, 'ar': 3, 'en': 2}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+150,7th grade (12 yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+151,7th grade (12 yo),{},"{'de': 1, 'ar': 2, 'en': 3}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
+152,7th grade (12 yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,TIE
+153,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 1, 'en': 3}",en,de,ar
+154,8th grade (13yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+155,8th grade (13yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+156,8th grade (13yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+157,8th grade (13yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}",en,ar,de
+158,9th grade (14yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+159,9th grade (14yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",TIE,TIE,TIE
+160,9th grade (14yo),{},"{'en': 3, 'ar': 1, 'de': 2}","{'en': 3, 'ar': 1, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}",ar,de,en
+161,9th grade (14yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+162,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+163,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+164,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+165,10th grade (15yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 1, 'en': 2}","{'ar': 1, 'de': 2, 'en': 3}",de,en,ar
+166,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+167,10th grade (15yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+168,2nd grade (7yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+169,2nd grade (7yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",en,de,ar
+170,2nd grade (7yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+171,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+172,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
+173,4th grade (9yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}",en,de,ar
+174,4th grade (9yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+175,4th grade (9yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+176,4th grade (9yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+177,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+178,4th grade (9yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+179,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+180,6th grade (11yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+181,6th grade (11yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+182,6th grade (11yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+183,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+184,7th grade (12 yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+185,7th grade (12 yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,ar,de
+186,7th grade (12 yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,ar,de
+187,8th grade (13yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",TIE,en,de
+188,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+189,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+190,8th grade (13yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+191,9th grade (14yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+192,9th grade (14yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+193,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+194,9th grade (14yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 2, 'en': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+195,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+196,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+197,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+198,2nd grade (7yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+199,2nd grade (7yo),{},"{'en': 3, 'ar': 2, 'de': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,TIE
+200,2nd grade (7yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,ar,de
+201,2nd grade (7yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,de,TIE
+202,4th grade (9yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+203,4th grade (9yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+204,4th grade (9yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,de,ar
+205,4th grade (9yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+206,6th grade (11yo),{},"{'en': 3, 'ar': 2, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+207,6th grade (11yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+208,6th grade (11yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+209,6th grade (11yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+210,7th grade (12 yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 1, 'de': 2, 'en': 3}","{'ar': 2, 'en': 1, 'de': 3}",TIE,ar,en
+211,7th grade (12 yo),{},"{'ar': 2, 'de': 1, 'en': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}",en,de,ar
+212,7th grade (12 yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,TIE
+213,7th grade (12 yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+214,7th grade (12 yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+215,7th grade (12 yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+216,8th grade (13yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+217,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+218,8th grade (13yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+219,9th grade (14yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+220,9th grade (14yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'en': 2, 'de': 3}",en,de,ar
+221,9th grade (14yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+222,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+223,10th grade (15yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+224,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'ar': 1, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+225,2nd grade (7yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,TIE,ar
+226,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
+227,2nd grade (7yo),{},"{'ar': 2, 'de': 1, 'en': 3}","{'ar': 2, 'de': 1, 'en': 3}","{'ar': 2, 'de': 3, 'en': 1}",de,ar,en
+228,2nd grade (7yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}",en,ar,de
+229,4th grade (9yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,de,ar
+230,4th grade (9yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}",en,de,ar
+231,4th grade (9yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+232,4th grade (9yo),{},"{'en': 2, 'ar': 1, 'de': 3}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,de
+233,6th grade (11yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+234,6th grade (11yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+235,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+236,6th grade (11yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+237,6th grade (11yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+238,6th grade (11yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+239,7th grade (12 yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'ar': 1, 'en': 3, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",ar,de,en
+240,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+241,8th grade (13yo),{},"{'en': 3, 'ar': 2, 'de': 1}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,TIE
+242,8th grade (13yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+243,8th grade (13yo),{},"{'en': 2, 'ar': 1, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+244,8th grade (13yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+245,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+246,9th grade (14yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}",en,de,ar
+247,9th grade (14yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+248,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+249,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+250,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+251,10th grade (15yo),{},"{'de': 2, 'en': 3, 'ar': 1}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+252,2nd grade (7yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+253,2nd grade (7yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+254,2nd grade (7yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+255,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+256,4th grade (9yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+257,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+258,4th grade (9yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",en,ar,de
+259,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+260,6th grade (11yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+261,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+262,6th grade (11yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+263,6th grade (11yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+264,6th grade (11yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,de,ar
+265,6th grade (11yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+266,7th grade (12 yo),{},"{'de': 3, 'en': 2, 'ar': 1}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+267,7th grade (12 yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+268,7th grade (12 yo),{},"{'de': 1, 'en': 3, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+269,7th grade (12 yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+270,7th grade (12 yo),{},"{'de': 1, 'ar': 2, 'en': 3}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+271,7th grade (12 yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+272,7th grade (12 yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+273,8th grade (13yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+274,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+275,8th grade (13yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+276,8th grade (13yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+277,8th grade (13yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+278,9th grade (14yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+279,9th grade (14yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+280,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+281,9th grade (14yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+282,9th grade (14yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+283,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
+284,10th grade (15yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+285,10th grade (15yo),{},"{'ar': 1, 'de': 3, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,de,TIE
+286,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+287,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+288,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+289,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+290,2nd grade (7yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+291,2nd grade (7yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",en,ar,TIE
+292,2nd grade (7yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+293,2nd grade (7yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+294,2nd grade (7yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+295,2nd grade (7yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+296,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+297,4th grade (9yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+298,4th grade (9yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+299,6th grade (11yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+300,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+301,6th grade (11yo),{},"{'ar': 1, 'de': 3, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,de
+302,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+303,7th grade (12 yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+304,7th grade (12 yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,TIE
+305,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+306,8th grade (13yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+307,8th grade (13yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+308,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+309,9th grade (14yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+310,9th grade (14yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+311,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+312,10th grade (15yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,ar,de
+313,10th grade (15yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",TIE,en,ar
+314,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+315,2nd grade (7yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+316,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+317,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+318,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+319,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
+320,4th grade (9yo),{},"{'de': 1, 'en': 3, 'ar': 2}",{'en': 1},"{'de': 2, 'en': 1, 'ar': 3}",en,TIE,TIE
+321,6th grade (11yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+322,6th grade (11yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+323,6th grade (11yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+324,6th grade (11yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+325,6th grade (11yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",en,de,ar
+326,6th grade (11yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+327,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+328,7th grade (12 yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",en,de,ar
+329,7th grade (12 yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+330,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+331,7th grade (12 yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+332,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+333,8th grade (13yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+334,8th grade (13yo),{},"{'de': 1, 'ar': 2, 'en': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+335,9th grade (14yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+336,9th grade (14yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+337,9th grade (14yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",TIE,en,de
+338,9th grade (14yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,TIE
+339,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+340,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+341,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+342,2nd grade (7yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+343,2nd grade (7yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",en,ar,TIE
+344,2nd grade (7yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+345,2nd grade (7yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+346,4th grade (9yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",en,de,ar
+347,4th grade (9yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",TIE,de,ar
+348,6th grade (11yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+349,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+350,6th grade (11yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+351,6th grade (11yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
 352,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-353,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-354,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-355,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-356,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-357,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-358,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-359,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-360,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-361,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-362,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-363,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-364,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-365,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,ar
-366,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,TIE
-367,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-368,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,ar
-369,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-370,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-371,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-372,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-373,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",de,ar,en
-374,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-375,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-376,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-377,4th grade (9yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-378,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'ar': 1, 'de': 2, 'en': 3}",ar,TIE,de
-379,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-380,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
-381,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-382,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-383,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-384,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,ar,TIE
-385,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-386,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-387,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-388,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,ar
-389,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-390,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-391,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-392,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-393,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-394,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-395,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",de,ar,en
-396,9th grade (14yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-397,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,ar
-398,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-399,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-400,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-401,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-402,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,en,de
-403,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,en
-404,2nd grade (7yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",TIE,TIE,TIE
-405,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-406,2nd grade (7yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-407,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-408,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-409,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-410,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-411,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,ar
-412,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-413,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-414,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-415,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-416,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-417,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-418,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",ar,en,de
-419,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,en,TIE
-420,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-421,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,en,de
+353,7th grade (12 yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,de,ar
+354,7th grade (12 yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+355,7th grade (12 yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,de,ar
+356,7th grade (12 yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+357,7th grade (12 yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+358,8th grade (13yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+359,8th grade (13yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,ar,de
+360,8th grade (13yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+361,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+362,9th grade (14yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 3, 'ar': 1, 'en': 2}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+363,9th grade (14yo),{},"{'de': 2, 'en': 3, 'ar': 1}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",TIE,TIE,TIE
+364,9th grade (14yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'de': 1, 'ar': 2, 'en': 3}","{'de': 2, 'ar': 3, 'en': 1}",TIE,de,en
+365,10th grade (15yo),{},"{'ar': 1, 'de': 3, 'en': 2}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",ar,en,de
+366,10th grade (15yo),{},"{'de': 1, 'en': 3, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,TIE,ar
+367,10th grade (15yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+368,10th grade (15yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,TIE
+369,10th grade (15yo),{},"{'de': 2, 'en': 3, 'ar': 1}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",TIE,de,ar
+370,10th grade (15yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+371,2nd grade (7yo),{},"{'en': 3, 'ar': 2, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'ar': 1, 'de': 3}",TIE,ar,de
+372,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+373,2nd grade (7yo),{},"{'ar': 1, 'en': 3, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",ar,de,TIE
+374,2nd grade (7yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,TIE
+375,4th grade (9yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,de,en
+376,4th grade (9yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,ar,de
+377,4th grade (9yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+378,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+379,4th grade (9yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+380,4th grade (9yo),{},"{'de': 1, 'ar': 2, 'en': 3}","{'de': 1, 'ar': 2, 'en': 3}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
+381,6th grade (11yo),{},"{'ar': 1, 'en': 3, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,TIE,de
+382,6th grade (11yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+383,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",en,de,ar
+384,6th grade (11yo),{},"{'ar': 1, 'en': 3, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+385,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+386,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+387,7th grade (12 yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+388,7th grade (12 yo),{},"{'de': 2, 'en': 3, 'ar': 1}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+389,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+390,7th grade (12 yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+391,8th grade (13yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",ar,en,de
+392,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+393,8th grade (13yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+394,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+395,9th grade (14yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,de,ar
+396,9th grade (14yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,de,ar
+397,9th grade (14yo),{},"{'de': 1, 'ar': 2, 'en': 3}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
+398,9th grade (14yo),{},"{'ar': 1, 'de': 3, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,de
+399,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+400,10th grade (15yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",en,TIE,de
+401,10th grade (15yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+402,10th grade (15yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+403,2nd grade (7yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,ar,de
+404,2nd grade (7yo),{},"{'de': 2, 'en': 3, 'ar': 1}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+405,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+406,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+407,4th grade (9yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,ar,de
+408,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
+409,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+410,4th grade (9yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+411,4th grade (9yo),{},"{'ar': 2, 'de': 1, 'en': 3}","{'ar': 1, 'en': 2, 'de': 3}","{'ar': 1, 'de': 2, 'en': 3}",ar,TIE,en
+412,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+413,6th grade (11yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+414,6th grade (11yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+415,7th grade (12 yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",TIE,en,ar
+416,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+417,7th grade (12 yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+418,7th grade (12 yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,TIE
+419,7th grade (12 yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+420,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+421,8th grade (13yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
 422,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-423,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-424,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-425,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-426,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-427,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-428,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",TIE,en,ar
-429,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-430,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,en
-431,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-432,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-433,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-434,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-435,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
-436,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'ar': 2, 'en': 3}",de,en,ar
-437,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-438,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-439,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
-440,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-441,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,TIE
-442,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-443,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-444,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-445,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-446,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-447,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-448,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-449,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,TIE
-450,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-451,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",ar,en,de
+423,8th grade (13yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+424,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+425,9th grade (14yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+426,9th grade (14yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+427,9th grade (14yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+428,9th grade (14yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+429,10th grade (15yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+430,10th grade (15yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+431,10th grade (15yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+432,10th grade (15yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+433,10th grade (15yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",TIE,de,ar
+434,2nd grade (7yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",en,de,ar
+435,2nd grade (7yo),{},"{'en': 3, 'ar': 1, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,TIE
+436,2nd grade (7yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,de
+437,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+438,4th grade (9yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,ar,de
+439,4th grade (9yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'de': 1, 'en': 3}","{'ar': 1, 'de': 2, 'en': 3}",ar,TIE,en
+440,4th grade (9yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,ar,de
+441,4th grade (9yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,TIE
+442,4th grade (9yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+443,6th grade (11yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+444,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+445,6th grade (11yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+446,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+447,7th grade (12 yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+448,7th grade (12 yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+449,7th grade (12 yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+450,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+451,7th grade (12 yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,de,ar
 452,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-453,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-454,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-455,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-456,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-457,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,TIE
-458,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-459,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-460,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-461,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-462,9th grade (14yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-463,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-464,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-465,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-466,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-467,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 3, 'ar': 3}",de,TIE,TIE
-468,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-469,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-470,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-471,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-472,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-473,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-474,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-475,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-476,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-477,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-478,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,ar
-479,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-480,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
+453,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+454,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+455,8th grade (13yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,TIE
+456,8th grade (13yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,de,ar
+457,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+458,8th grade (13yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+459,9th grade (14yo),{},"{'en': 3, 'ar': 2, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+460,9th grade (14yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+461,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+462,9th grade (14yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+463,10th grade (15yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+464,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+465,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+466,10th grade (15yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+467,2nd grade (7yo),{},"{'ar': 1, 'de': 2, 'en': 3}","{'ar': 1, 'de': 2, 'en': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,de,en
+468,2nd grade (7yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,TIE
+469,2nd grade (7yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+470,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+471,4th grade (9yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 3, 'en': 2}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+472,4th grade (9yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+473,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+474,6th grade (11yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+475,6th grade (11yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,ar,de
+476,6th grade (11yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,ar,de
+477,6th grade (11yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+478,7th grade (12 yo),{},"{'en': 2, 'ar': 1, 'de': 3}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,de
+479,7th grade (12 yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+480,7th grade (12 yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 3, 'de': 2}",en,de,ar
 481,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-482,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,TIE,en
-483,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",ar,en,de
-484,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-485,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-486,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-487,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-488,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-489,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-490,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-491,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-492,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-493,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",en,de,ar
-494,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,ar
-495,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,en
-496,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-497,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-498,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",TIE,ar,en
-499,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,ar,en
-500,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 3, 'ar': 1}",ar,TIE,de
-501,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",ar,en,de
-502,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-503,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-504,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-505,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-506,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-507,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-508,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,TIE,en
-509,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-510,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",ar,TIE,de
-511,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",ar,en,TIE
+482,8th grade (13yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+483,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+484,8th grade (13yo),{},"{'de': 3, 'en': 2, 'ar': 1}","{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}",en,TIE,de
+485,8th grade (13yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,TIE,ar
+486,9th grade (14yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+487,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+488,9th grade (14yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",ar,en,de
+489,10th grade (15yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+490,10th grade (15yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+491,2nd grade (7yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,TIE,ar
+492,2nd grade (7yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",TIE,en,de
+493,2nd grade (7yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,TIE,ar
+494,2nd grade (7yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",de,TIE,ar
+495,2nd grade (7yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+496,2nd grade (7yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}",en,de,ar
+497,4th grade (9yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 3, 'ar': 1, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+498,4th grade (9yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,TIE
+499,4th grade (9yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+500,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
+501,6th grade (11yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+502,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+503,6th grade (11yo),{},"{'ar': 1, 'de': 3, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,de,TIE
+504,6th grade (11yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+505,7th grade (12 yo),{},"{'ar': 2, 'de': 1, 'en': 3}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+506,7th grade (12 yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,TIE,de
+507,7th grade (12 yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",TIE,TIE,TIE
+508,8th grade (13yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,TIE,ar
+509,8th grade (13yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+510,8th grade (13yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+511,8th grade (13yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
 512,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-513,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-514,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-515,9th grade (14yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,ar,TIE
-516,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-517,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
-518,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-519,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-520,2nd grade (7yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,en,de
-521,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-522,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 1, 'ar': 3}",TIE,en,de
-523,4th grade (9yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,de,en
-524,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,ar
-525,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-526,6th grade (11yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-527,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-528,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,TIE,en
-529,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-530,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-531,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-532,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-533,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,de,en
-534,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-535,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",ar,de,en
-536,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-537,8th grade (13yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",de,TIE,ar
-538,9th grade (14yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-539,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,ar,en
-540,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-541,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-542,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,en
-543,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,de,en
-544,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-545,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-546,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}",de,ar,en
-547,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-548,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}",TIE,ar,en
-549,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-550,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,TIE,de
-551,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",TIE,de,ar
-552,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-553,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-554,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-555,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-556,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-557,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-558,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-559,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-560,7th grade (12 yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-561,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-562,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,TIE,en
-563,8th grade (13yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",ar,de,en
-564,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-565,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-566,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-567,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-568,9th grade (14yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 3, 'ar': 1}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
+513,9th grade (14yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+514,9th grade (14yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+515,9th grade (14yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,TIE,ar
+516,10th grade (15yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+517,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,en
+518,2nd grade (7yo),{},"{'de': 1, 'en': 3, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,TIE,ar
+519,2nd grade (7yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+520,2nd grade (7yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+521,4th grade (9yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",en,TIE,de
+522,4th grade (9yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+523,4th grade (9yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+524,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+525,6th grade (11yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",TIE,de,ar
+526,6th grade (11yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+527,6th grade (11yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+528,6th grade (11yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+529,6th grade (11yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+530,6th grade (11yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+531,7th grade (12 yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+532,7th grade (12 yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+533,7th grade (12 yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",en,TIE,de
+534,7th grade (12 yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+535,8th grade (13yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,de,ar
+536,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+537,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+538,9th grade (14yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+539,9th grade (14yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+540,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+541,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+542,2nd grade (7yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+543,2nd grade (7yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+544,2nd grade (7yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+545,2nd grade (7yo),{},"{'ar': 3, 'en': 2, 'de': 1}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+546,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+547,4th grade (9yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+548,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+549,4th grade (9yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+550,4th grade (9yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",en,ar,de
+551,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+552,6th grade (11yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,de,ar
+553,6th grade (11yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+554,6th grade (11yo),{},"{'de': 1, 'en': 3, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,TIE,ar
+555,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+556,7th grade (12 yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+557,7th grade (12 yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,de,ar
+558,7th grade (12 yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+559,7th grade (12 yo),{},"{'de': 3, 'ar': 1, 'en': 2}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",TIE,ar,de
+560,7th grade (12 yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+561,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+562,7th grade (12 yo),{},"{'de': 3, 'ar': 1, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+563,8th grade (13yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+564,8th grade (13yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 3, 'en': 2}",de,en,ar
+565,8th grade (13yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+566,8th grade (13yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+567,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+568,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
 569,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-570,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-571,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",de,TIE,en
+570,10th grade (15yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,TIE,ar
+571,10th grade (15yo),{},"{'de': 3, 'ar': 1, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",TIE,en,ar
 572,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-573,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-574,10th grade (15yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-575,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-576,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}",ar,de,en
-577,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-578,2nd grade (7yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,TIE
-579,2nd grade (7yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}",de,TIE,en
-580,2nd grade (7yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 2, 'ar': 1}","{'ar': 1, 'de': 2, 'en': 3}",ar,de,en
-581,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-582,4th grade (9yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-583,4th grade (9yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-584,4th grade (9yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-585,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-586,6th grade (11yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-587,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-588,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-589,7th grade (12 yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-590,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-591,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,de,en
-592,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
-593,8th grade (13yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,ar,en
-594,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-595,8th grade (13yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-596,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-597,9th grade (14yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-598,10th grade (15yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-599,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-600,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-601,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 1, 'ar': 3}",en,TIE,ar
-602,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
-603,4th grade (9yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'ar': 1, 'de': 2, 'en': 3}",de,ar,en
-604,4th grade (9yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-605,6th grade (11yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 2, 'de': 1, 'ar': 3}",de,ar,TIE
-606,6th grade (11yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,de,en
-607,6th grade (11yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-608,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 3, 'de': 1, 'ar': 2}",de,ar,en
-609,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
-610,7th grade (12 yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,en
-611,7th grade (12 yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-612,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 3, 'ar': 2}",en,ar,de
-613,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}",ar,en,de
-614,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,ar,de
+573,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+574,10th grade (15yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+575,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,TIE
+576,2nd grade (7yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,TIE
+577,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+578,2nd grade (7yo),{},"{'ar': 1, 'en': 2, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
+579,2nd grade (7yo),{},"{'de': 3, 'en': 1, 'ar': 2}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,TIE,ar
+580,2nd grade (7yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+581,4th grade (9yo),{},"{'de': 1, 'ar': 3, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 2, 'en': 3}",de,TIE,ar
+582,4th grade (9yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+583,4th grade (9yo),{},"{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+584,4th grade (9yo),{},"{'ar': 2, 'en': 3, 'de': 1}","{'ar': 3, 'en': 2, 'de': 1}","{'ar': 2, 'en': 1, 'de': 3}",de,ar,TIE
+585,6th grade (11yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+586,6th grade (11yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+587,6th grade (11yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+588,6th grade (11yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+589,7th grade (12 yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
+590,7th grade (12 yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+591,7th grade (12 yo),{},"{'en': 3, 'de': 1, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+592,7th grade (12 yo),{},"{'de': 1, 'ar': 2, 'en': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 1, 'ar': 2, 'en': 3}",de,ar,en
+593,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+594,8th grade (13yo),{},"{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,de,ar
+595,8th grade (13yo),{},"{'ar': 3, 'de': 2, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,ar
+596,9th grade (14yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+597,9th grade (14yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+598,10th grade (15yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+599,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+600,10th grade (15yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}",de,en,ar
+601,10th grade (15yo),{},"{'ar': 1, 'en': 3, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,TIE,de
+602,2nd grade (7yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+603,4th grade (9yo),{},"{'ar': 3, 'de': 1, 'en': 2}","{'ar': 2, 'de': 3, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+604,4th grade (9yo),{},"{'de': 1, 'ar': 2, 'en': 3}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+605,6th grade (11yo),{},"{'ar': 2, 'de': 1, 'en': 3}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 3, 'en': 2}",TIE,TIE,TIE
+606,6th grade (11yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+607,6th grade (11yo),{},"{'en': 2, 'ar': 3, 'de': 1}","{'en': 1, 'ar': 3, 'de': 2}","{'en': 1, 'ar': 2, 'de': 3}",en,TIE,ar
+608,6th grade (11yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,de,ar
+609,7th grade (12 yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 3, 'ar': 2, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}",en,de,ar
+610,7th grade (12 yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+611,7th grade (12 yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 1, 'en': 2, 'de': 3}",en,TIE,de
+612,7th grade (12 yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+613,8th grade (13yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}",en,de,ar
+614,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
 615,8th grade (13yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-616,8th grade (13yo),{},"{'en': 1, 'de': 3, 'ar': 2}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-617,9th grade (14yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
-618,9th grade (14yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 1, 'de': 3, 'ar': 2}",ar,TIE,de
-619,9th grade (14yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",de,en,ar
-620,9th grade (14yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'en': 3, 'de': 2, 'ar': 1}",ar,de,en
-621,9th grade (14yo),{},"{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
-622,9th grade (14yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",ar,en,de
-623,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 2, 'de': 1, 'ar': 3}",de,en,ar
-624,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 3, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}",ar,en,de
-625,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 3, 'de': 2, 'ar': 1}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar
-626,10th grade (15yo),{},"{'en': 2, 'de': 3, 'ar': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,TIE,de
-627,10th grade (15yo),{},"{'en': 3, 'de': 2, 'ar': 1}","{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",TIE,de,ar
+616,8th grade (13yo),{},"{'de': 2, 'en': 1, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",en,de,ar
+617,9th grade (14yo),{},"{'de': 3, 'ar': 1, 'en': 2}","{'de': 3, 'ar': 1, 'en': 2}","{'de': 2, 'ar': 3, 'en': 1}",ar,en,de
+618,9th grade (14yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 2, 'de': 3, 'en': 1}",en,ar,de
+619,9th grade (14yo),{},"{'ar': 3, 'en': 1, 'de': 2}","{'ar': 3, 'en': 1, 'de': 2}","{'ar': 2, 'en': 1, 'de': 3}",en,de,ar
+620,9th grade (14yo),{},"{'en': 3, 'ar': 2, 'de': 1}","{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+621,9th grade (14yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 1, 'en': 2, 'de': 3}",en,ar,de
+622,9th grade (14yo),{},"{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}","{'ar': 2, 'en': 1, 'de': 3}",en,ar,de
+623,10th grade (15yo),{},"{'en': 1, 'ar': 2, 'de': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'ar': 2, 'de': 3}",en,ar,de
+624,10th grade (15yo),{},"{'de': 2, 'ar': 3, 'en': 1}","{'de': 2, 'ar': 3, 'en': 1}","{'de': 1, 'ar': 3, 'en': 2}",en,de,ar
+625,10th grade (15yo),{},"{'en': 2, 'de': 1, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}","{'en': 1, 'de': 2, 'ar': 3}",en,de,ar
+626,10th grade (15yo),{},"{'ar': 2, 'de': 3, 'en': 1}","{'ar': 3, 'de': 2, 'en': 1}","{'ar': 1, 'de': 2, 'en': 3}",en,de,TIE
+627,10th grade (15yo),{},"{'de': 1, 'en': 2, 'ar': 3}","{'de': 2, 'en': 1, 'ar': 3}","{'de': 1, 'en': 2, 'ar': 3}",de,en,ar

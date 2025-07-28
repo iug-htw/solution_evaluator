@@ -19,14 +19,14 @@ def pairwise_results_clean(file_dir="", solving_model=""):
     df = df.sort_values(by='Exercise Index')
 
     # Step 2: Parse ranking strings into dictionaries
-    for model in ['gpt-4o-mini', 'gemini-2.5-flash', 'qwen-plus', 'claude-3-sonnet']:
+    for model in ['gpt-4o-mini', 'gemini-2.5-flash', 'qwen-plus', 'claude-3-5-haiku']:
         df[f'{model} Ranking'] = df[f'{model} Ranking'].apply(parse_ranking)
 
     # Step 3: Determine majority rankings
     best_list, mid_list, worst_list = [], [], []
 
     for _, row in df.iterrows():
-        rankings = [row[f'{model} Ranking'] for model in ['gpt-4o-mini', 'gemini-2.5-flash', 'qwen-plus', 'claude-3-sonnet']]
+        rankings = [row[f'{model} Ranking'] for model in ['gpt-4o-mini', 'gemini-2.5-flash', 'qwen-plus', 'claude-3-5-haiku']]
         
         # Aggregate ranks for each language
         rank_aggregate = {'en': [], 'de': [], 'ar': []}
@@ -61,7 +61,7 @@ def pairwise_results_clean(file_dir="", solving_model=""):
     df['Worst'] = worst_list
 
     # Step 4: Save the processed data
-    df_to_save = df[['Exercise Index', 'Progress Level', 'gpt-4o-mini Ranking', 'gemini-2.5-flash Ranking', 'qwen-plus Ranking', 'claude-3-sonnet Ranking', 'Best', 'Mid', 'Worst']]
+    df_to_save = df[['Exercise Index', 'Progress Level', 'gpt-4o-mini Ranking', 'gemini-2.5-flash Ranking', 'qwen-plus Ranking', 'claude-3-5-haiku Ranking', 'Best', 'Mid', 'Worst']]
     df_to_save.to_csv(out_file, index=False)
 
     # Step 5: Visualize with a heatmap
