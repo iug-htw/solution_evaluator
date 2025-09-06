@@ -4,11 +4,11 @@ import os
 import time
 from dotenv import load_dotenv
 
-def solve_tasks(input_file, output_file, model="gemini-1.5-flash", prompt_prefix="Explain to me how I can solve this task"):
+def solve_tasks(input_file, output_file, model="gemini-2.5-flash", prompt_prefix="Explain to me how I can solve this task"):
     load_dotenv()
     api_key = os.getenv("GEMINI_API_KEY")
     genai.configure(api_key=api_key)
-    client = genai.GenerativeModel("gemini-1.5-flash")
+    client = genai.GenerativeModel("gemini-2.5-flash")
 
     # Load progress cache
     language = input_file.split(".")[0].split("_").pop()
@@ -42,7 +42,7 @@ def solve_tasks(input_file, output_file, model="gemini-1.5-flash", prompt_prefix
         for i, row in enumerate(reader):
             if i < progress:
                 continue
-            # if i >= 50:
+            # if i >= 200:
             #     break
             topic_area, topic, progress_level, exercise = row
             prompt = f"{prompt_prefix}: {exercise}"
