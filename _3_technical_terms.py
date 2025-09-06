@@ -1,3 +1,15 @@
+"""
+_3_technical_terms.py
+
+This script extracts grade-appropriate **technical mathematical terms** from exercises
+to support systematic evaluation of solution quality. It identifies key concepts
+students must understand before solving each problem, excluding trivial or
+instructional terms.
+
+Prompts are localized in English, German, or Arabic to ensure accurate
+context-sensitive extraction.
+"""
+
 from openai import OpenAI
 import csv
 import os
@@ -14,11 +26,48 @@ progress_levels = {
 }
 
 def extract_technical_terms(input_file, output_file, target_language='en', model="gpt-4o-mini"):
+    """
+    Extracts essential technical mathematical terms for each exercise using an LLM.
+
+    Parameters
+    ----------
+    input_file : str
+        Path to the CSV containing exercises.
+        Must include the columns: [Topic Area, Topic, Progress Level, Exercise].
+    output_file : str
+        Path where the enriched CSV with extracted terms will be saved.
+    target_language : str, optional
+        Language of the terms to extract. Options:
+            - 'en' : English
+            - 'de' : German
+            - 'ar' : Arabic
+        Default is 'en'.
+    model : str, optional
+        LLM model to use for extraction. Default is "gpt-4o-mini".
+
+    Behavior
+    --------
+    - Loads math exercises from the input file.
+    - Constructs language-specific prompts tailored to the student’s grade level.
+    - Requests only genuinely necessary, non-obvious terms that might require
+      teacher explanation.
+    - Avoids trivial words (e.g., "solve", "circle") and terms beyond grade level.
+    - Returns an empty list for self-explanatory exercises.
+    - Writes results to a new CSV file with an additional "Technical Terms" column.
+
+    Output
+    ------
+    A CSV file containing the original exercise data plus a column of
+    extracted technical terms per exercise.
+    """
+    
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=api_key)
     
-    with open(input_file, mode='r', encoding='utf-8') as infile, open(output_file, mode='w', encoding='utf-8', newline='') as outfile:
+    with open(input_file, mode='r', encoding='utf-8') as infile, \
+         open(output_file, mode='w', encoding='utf-8', newline='') as outfile:
+        
         reader = csv.reader(infile)
         writer = csv.writer(outfile, quotechar='"', quoting=csv.QUOTE_ALL)
         
@@ -64,15 +113,10 @@ def extract_technical_terms(input_file, output_file, target_language='en', model
                 المسألة: {exercise}
                 """
             
-            # if target_language != 'en':
-            #     prompt += f"The technical terms should be in {target_language}."
-            
             print(f"Extracting technical terms for task {i+1}: {exercise}")
             completion = client.chat.completions.create(
                 model=model,
-                messages=[
-                    {"role": "user", "content": prompt},
-                ]
+                messages=[{"role": "user", "content": prompt}],
             )
             technical_terms = completion.choices[0].message.content.strip()
             writer.writerow(row + [technical_terms])

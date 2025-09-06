@@ -1,0 +1,19 @@
+# Core
+pandas
+numpy
+python-dotenv
+
+# API clients
+openai>=1.0.0
+google-generativeai
+anthropic
+
+# NLP & Text Processing
+nltk
+scikit-learn
+transformers
+tabulate
+
+# Visualization
+matplotlib
+seaborn

@@ -1,3 +1,24 @@
+"""
+_6_justifications_analysis.py
+
+This script analyzes the textual **justifications** produced by LLM judges during
+pairwise evaluation of multilingual math solutions. It applies NLP techniques
+and sentiment/topic modeling to uncover patterns in how solutions are critiqued.
+
+Pipeline role:
+- Consumes raw evaluation justifications from `_4_pairwise_evaluation.py`
+- Identifies common words/phrases (n-grams) used in critiques
+- Performs sentiment analysis (negative, neutral, positive) on justification text
+- Applies topic modeling (LDA) to group justifications into themes
+- Uses GPT-4o-mini to generate a concise research-style conclusion
+
+Key analyses:
+1. **N-gram frequency** (unigrams, bigrams, trigrams)
+2. **Sentiment distribution** (negative/neutral/positive)
+3. **Topic modeling** (recurring themes in justifications)
+4. **Automated GPT summary** of key strengths/weaknesses per language
+"""
+
 import pandas as pd
 import nltk
 import string
@@ -58,8 +79,60 @@ def get_top_ngrams(corpus, ngram_range=(1, 1), n=20):
 def print_ngrams(title, data):
     print(f"\n{title}")
     print(tabulate(data, headers=["N-gram", "Frequency"], tablefmt="github"))
-    
+
+
+# -----------------------------------------------------------------------------------
+# Main Execution
+# -----------------------------------------------------------------------------------
+
 def analyze_justifications_per_language(file_dir="", target_language = 'en'):
+    """
+    Performs a full analysis of LLM justifications for a specific target language.
+
+    Parameters
+    ----------
+    file_dir : str, optional
+        Directory path containing `judge_pairwise_evaluation.csv`.
+        Default is current directory.
+    target_language : str, optional
+        Language code of interest ('en', 'de', 'ar').
+        Default is 'en'.
+
+    Behavior
+    --------
+    1. **Preprocessing**
+       - Extracts justification sentences that explicitly reference the target language.
+       - Removes stopwords and punctuation for clean text analysis.
+
+    2. **N-gram frequency**
+       - Identifies top unigrams, bigrams, and trigrams from cleaned justifications.
+       - Displays them in tables with frequencies.
+
+    3. **Sentiment analysis**
+       - Uses `cardiffnlp/twitter-roberta-base-sentiment` for classification.
+       - Labels each sentence as negative, neutral, or positive.
+       - Prints sample labeled sentences and overall sentiment distribution.
+       - Plots a bar chart of sentiment counts.
+
+    4. **Topic modeling**
+       - Applies Latent Dirichlet Allocation (LDA) to cluster justifications into
+         recurring themes.
+       - Prints top terms for each topic.
+
+    5. **GPT-based conclusion**
+       - Summarizes sentiment, n-gram frequencies, and topic modeling output.
+       - Produces a concise research-style conclusion highlighting
+         key weaknesses/strengths of solutions in the target language.
+
+    Output
+    ------
+    - Tables of top unigrams, bigrams, trigrams (printed to console).
+    - Sentiment-labeled sample sentences and distribution.
+    - Bar plot of sentiment counts.
+    - Topic clusters with top terms.
+    - GPT-4o-mini–generated conclusion summarizing findings.
+    """
+
     df = pd.read_csv(os.path.join(file_dir, "judge_pairwise_evaluation.csv"))
 
     # Stopwords

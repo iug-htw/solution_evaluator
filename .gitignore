@@ -15,3 +15,5 @@ environments.txt
 
 #ignore .env file
 .env
+
+.DS_Store

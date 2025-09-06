@@ -1,3 +1,26 @@
+"""
+_4_pairwise_evaluation.py
+
+This script performs **pairwise evaluation** of multilingual math solutions
+using a panel of LLM judges. For each exercise, three solutions
+(English, German, Arabic) are ranked by different LLMs according to pedagogical
+criteria. Rankings are aggregated with **majority voting** to identify the best
+and worst explanations.
+
+Judges:
+- GPT-4o-mini (OpenAI)
+- Gemini-2.5-Flash (Google)
+- Qwen-Plus (Alibaba Cloud / Dashscope)
+- Claude 3.5 Haiku (Anthropic)
+
+Key features:
+- Randomizes language order per exercise to reduce position bias.
+- Evaluates solutions across multiple LLMs independently.
+- Collects both rankings and short textual justifications.
+- Uses majority vote to resolve disagreements between judges.
+- Results are saved incrementally to CSV for reliability.
+"""
+
 import openai
 import google.generativeai as genai
 import anthropic

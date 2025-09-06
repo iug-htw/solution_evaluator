@@ -1,3 +1,24 @@
+"""
+_4_evaluate_solution.py
+
+This script evaluates AI-generated math solutions across **10 educational criteria** 
+using a 1–10 scoring scale. It incorporates grade-level context and technical 
+terminology extracted in earlier steps. Each solution receives both numeric scores 
+and a brief justification.
+
+Evaluation criteria:
+1. Problem Understanding (Comprehension)
+2. Clarity and Step-by-Step Explanation
+3. Accuracy of Process (Correctness of Steps)
+4. Correctness of Final Answer
+5. Learning Appropriateness
+6. Generalization
+7. Technical Terms Explanation
+8. Addressing Common Errors
+9. Appropriateness Based on Progress Level
+10. Explanation Clarity & Syntax
+"""
+
 from openai import OpenAI
 import csv
 import os
@@ -6,17 +27,38 @@ from dotenv import load_dotenv
 
 def evaluate_solutions(input_file, terms_file, output_file, model="gpt-4o-mini"):
     """
-    Evaluates AI-generated math solutions using an expanded scoring system (1-10 scale) 
-    across multiple criteria.
-    
-    Args:
-    - input_file (str): Path to the CSV file containing solutions.
-    - terms_file (str): Path to the CSV file containing technical terms.
-    - output_file (str): Path to the CSV file where evaluations will be saved.
-    - model (str): LLM model to use for evaluation.
+    Evaluates LLM-generated math solutions against 10 pedagogical criteria.
 
-    Returns:
-    - None (Writes results to CSV file)
+    Parameters
+    ----------
+    input_file : str
+        Path to the CSV file containing exercises and their solutions.
+        Expected columns: [Topic Area, Topic, Progress Level, Exercise, Solution].
+    terms_file : str
+        Path to the CSV file containing technical terms associated with each exercise.
+        Expected columns: [Topic Area, Topic, Progress Level, Exercise, Technical Terms].
+    output_file : str
+        Path where the evaluated results will be saved.
+    model : str, optional
+        The LLM used for evaluation. Default is "gpt-4o-mini".
+
+    Behavior
+    --------
+    - Loads math exercises, solutions, and technical terms.
+    - Builds detailed evaluation prompts tailored to grade level and relevant terms.
+    - Requests numeric scores (1–10) for each of the 10 evaluation criteria.
+    - Collects a short textual justification for transparency.
+    - Implements retry logic for API rate limits (up to 5 retries).
+    - Validates score formatting (10 scores per evaluation).
+    - Saves results with added columns:
+      [Criterion 1 … Criterion 10, Justification].
+
+    Output
+    ------
+    A CSV file where each row contains:
+    - Original exercise data (excluding the raw solution text)
+    - 10 numeric evaluation scores
+    - A short justification for the evaluation
     """
 
     load_dotenv()
