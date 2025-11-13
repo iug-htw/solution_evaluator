@@ -32,7 +32,7 @@ Our results highlight **persistent linguistic bias** in educational AI, undersco
 
 This project was conducted at **HTW Berlin – Hochschule für Technik und Wirtschaft Berlin** within the **KIWI Project**.
 
-- [**Mariam Mahran**](https://mariamkhmahran.github.io/) – Research Assistant, AI & Interpretability - HTW Berlin
+- [**Mariam Mahran**](https://mariamkhmahran.github.io/connect/) – Research Assistant, AI & Interpretability - HTW Berlin
 - [**Prof. Dr. Katharina Simbeck**](https://iug.htw-berlin.de) – Professor of Business Informatics (Information Management) - HTW Berlin
 
 ---
