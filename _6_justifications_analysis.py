@@ -95,7 +95,7 @@ def analyze_justifications_per_language(file_dir="", target_language = 'en'):
         Directory path containing `judge_pairwise_evaluation.csv`.
         Default is current directory.
     target_language : str, optional
-        Language code of interest ('en', 'de', 'ar').
+        Language code of interest (e.g., 'en', 'de', 'ar').
         Default is 'en'.
 
     Behavior
@@ -136,6 +136,7 @@ def analyze_justifications_per_language(file_dir="", target_language = 'en'):
     df = pd.read_csv(os.path.join(file_dir, "judge_pairwise_evaluation.csv"))
 
     # Stopwords
+    # NOTE: could be updated with other stopwords or in case more languages and abbreviations are used
     stop_words = list(stopwords.words("english"))
     custom_stopwords = [
         "solution", "en", "de", "ar", "ranks", "first", "second", "third",

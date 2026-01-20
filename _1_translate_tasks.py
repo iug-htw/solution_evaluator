@@ -12,7 +12,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 
-def translate_csv(input_csv, output_csv, target_language, model="gpt-4o-mini"):
+def translate_csv(input_csv, output_csv, target_language, source_language="English", model="gpt-4o-mini"):
     """
     Translates the 'Exercise' column of a CSV file from English into a target language
     using GPT-4o-mini.
@@ -33,12 +33,15 @@ def translate_csv(input_csv, output_csv, target_language, model="gpt-4o-mini"):
     - Loads exercises from the input file
     - Sends each exercise to the LLM with a translation prompt designed for
       pedagogical clarity
-    - Replaces the English exercise text with the translated version
+    - Replaces the {{source_language}} exercise text with the translated version
     - Saves the updated dataset to the specified output file
     """
 
-    print(f"Translating exercises from English to {target_language}...")
+    print(f"Translating exercises from {source_language} to {target_language}...")
 
+    # The script utilises gpt-4-o-mini through the openAI API by default
+    # For a different openAI model, use the optional `model` parameter for this function
+    # OR Adjust here to utilise a different API
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=api_key)
@@ -52,12 +55,14 @@ def translate_csv(input_csv, output_csv, target_language, model="gpt-4o-mini"):
         Avoid using markdown formatting. Reply with the {target_language} exercise text only, without any additional commentary, explanation, or formatting.
 
 
-        English exercise:
+        {source_language} exercise:
         {text}
 
         Now write a new exercise in {target_language} with the same objective.
         """
-
+        
+        # Sends the prompt to openAI API
+        # Adjust here to utilise a different API
         response = client.chat.completions.create(
             model=model,
             messages=[{"role": "user", "content": prompt}],

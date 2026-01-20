@@ -153,19 +153,34 @@ DASHSCOPE_API_KEY=your_alibaba_key_here
 ANTHROPIC_API_KEY=your_anthropic_key_here
 ```
 
-<!-- ---
+---
+
+## Reproducing the Experiment
+
+This repository includes a detailed, step-by-step guide for reproducing the full multilingual evaluation pipeline, including translation, solution generation, LLM-based judging, and result aggregation.
+
+➡️ See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for full instructions.
+
+---
 
 ## Citation
 
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{mahran2025sae,
-...
-
-
+@inproceedings{MahranSimbeck2025Edu4AI,
+  author    = {Mariam Mahran and Katharina Simbeck},
+  title     = {Investigating Bias: A Multilingual Pipeline for Generating, Solving, and Evaluating Math Problems with LLMs},
+  booktitle = {Proceedings of the 2nd International Workshop on Education for Artificial Intelligence (edu4AI 2025), ECAI},
+  series    = {CEUR Workshop Proceedings},
+  volume    = {4114},
+  year      = {2025},
+  address   = {Bologna, Italy},
+  url       = {https://ceur-ws.org/Vol-4114/6_paper.pdf},
+  issn      = {1613-0073}
+}
 ```
-} -->
+}
 
 ---
 
@@ -174,3 +189,7 @@ If you use this code, please cite:
 This work was carried out as part of the **KIWI Project**, generously funded by the **Federal Ministry of Education and Research (BMBF)**.
 
 We gratefully acknowledge their support, which enabled this research.
+
+---
+
+<p align="center"><i>Multilingual Pipeline for Generating, Solving, and Evaluating Math Problems with LLMs - HTW Berlin, 2025</i></p>
