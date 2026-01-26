@@ -20,22 +20,13 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from collections import Counter
 
+# NOTE: update following array to extend to more llm judges.
+# The fuction uses this array to look up different judges responses in the input csv file,
+# so add the names of your judges here.
+JUDGES = ['gpt-4o-mini', 'gemini-2.5-flash', 'qwen-plus', 'claude-3-5-haiku']
+
 def parse_ranking(ranking_str):
-    """
-    Safely parses a ranking string into a dictionary.
-
-    Parameters
-    ----------
-    ranking_str : str
-        A string representation of a ranking dictionary,
-        e.g. "{'en': 1, 'de': 2, 'ar': 3}"
-
-    Returns
-    -------
-    dict
-        Parsed dictionary of language → rank mappings.
-        Returns an empty dict if parsing fails.
-    """
+    """ Safely parses a ranking string into a dictionary. """
     try:
         return ast.literal_eval(ranking_str)
     except (ValueError, SyntaxError):
@@ -81,28 +72,40 @@ def pairwise_results_clean(file_dir="", solving_model=""):
     - CSV file: `pairwise_results_cleaned.csv`
     - Heatmap: Majority vote rankings by language
     """
+
     # Step 1: Load and sort the data
     in_file = os.path.join(file_dir, "judge_pairwise_evaluation.csv")
     out_file = os.path.join(file_dir, "pairwise_results_cleaned.csv")
-    df = pd.read_csv(in_file)
-    df = df.sort_values(by='Exercise Index')
+    df = pd.read_csv(in_file).sort_values(by="Exercise Index")
 
     # Step 2: Parse ranking strings into dictionaries
-    for model in ['gpt-4o-mini', 'gemini-2.5-flash', 'qwen-plus', 'claude-3-5-haiku']:
+    for model in JUDGES:
         df[f'{model} Ranking'] = df[f'{model} Ranking'].apply(parse_ranking)
 
-    # Step 3: Determine majority rankings
+    # --- Infer languages from the rankings across all judges/rows ---
+    inferred_langs = set()
+    for model in JUDGES:
+        col = f"{model} Ranking"
+        inferred_langs |= set().union(*df[col].dropna().apply(lambda d: d.keys() if isinstance(d, dict) else []))
+
+    # Keep deterministic order
+    inferred_langs = sorted(inferred_langs)
+
     best_list, mid_list, worst_list = [], [], []
 
     for _, row in df.iterrows():
-        rankings = [row[f'{model} Ranking'] for model in ['gpt-4o-mini', 'gemini-2.5-flash', 'qwen-plus', 'claude-3-5-haiku']]
-        
-        # Aggregate ranks for each language
-        rank_aggregate = {'en': [], 'de': [], 'ar': []}
+        rankings = [row[f'{model} Ranking'] for model in JUDGES]
+
+        # --- NEW: dynamic aggregator ---
+        rank_aggregate = {lang: [] for lang in inferred_langs}
+
         for ranking in rankings:
             if not ranking:
                 continue
             for lang, rank in ranking.items():
+                # In case a judge returns a language you haven't seen elsewhere
+                if lang not in rank_aggregate:
+                    rank_aggregate[lang] = []
                 rank_aggregate[lang].append(rank)
         
         # Determine majority rank for each position
@@ -119,18 +122,19 @@ def pairwise_results_clean(file_dir="", solving_model=""):
     df['Worst'] = worst_list
 
     # Step 4: Save the processed data
-    df_to_save = df[['Exercise Index', 'Progress Level',
-                     'gpt-4o-mini Ranking', 'gemini-2.5-flash Ranking',
-                     'qwen-plus Ranking', 'claude-3-5-haiku Ranking',
-                     'Best', 'Mid', 'Worst']]
+    base_cols = ['Exercise Index', 'Progress Level']
+    ranking_cols = [f"{judge} Ranking" for judge in JUDGES]
+    outcome_cols = ['Best', 'Mid', 'Worst']
+
+    df_to_save = df[base_cols + ranking_cols + outcome_cols]
     df_to_save.to_csv(out_file, index=False)
 
     # Step 5: Visualize with a heatmap
     rank_counts = {'Best': Counter(df['Best']), 'Mid': Counter(df['Mid']), 'Worst': Counter(df['Worst'])}
     rank_df = pd.DataFrame(rank_counts).fillna(0).astype(int)
 
-    # Reorder rows for consistent heatmap display
-    rank_df = rank_df.reindex(['en', 'de', 'ar', 'TIE'])
+    heatmap_order = inferred_langs + (["TIE"] if "TIE" in rank_df.index else [])
+    rank_df = rank_df.reindex(heatmap_order).fillna(0).astype(int)
 
     plt.figure(figsize=(8, 6))
     sns.heatmap(rank_df, annot=True, cmap='coolwarm', cbar=False, fmt='d')
@@ -138,3 +142,6 @@ def pairwise_results_clean(file_dir="", solving_model=""):
     plt.xlabel('Ranking Position')
     plt.ylabel('Language')
     plt.show()
+
+if __name__ == "__main__":
+    pairwise_results_clean(file_dir="gpt_4o_mini", solving_model="gpt-4o-mini")

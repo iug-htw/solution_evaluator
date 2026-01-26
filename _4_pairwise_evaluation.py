@@ -12,13 +12,6 @@ Judges:
 - Gemini-2.5-Flash (Google)
 - Qwen-Plus (Alibaba Cloud / Dashscope)
 - Claude 3.5 Haiku (Anthropic)
-
-Key features:
-- Randomizes language order per exercise to reduce position bias.
-- Evaluates solutions across multiple LLMs independently.
-- Collects both rankings and short textual justifications.
-- Uses majority vote to resolve disagreements between judges.
-- Results are saved incrementally to CSV for reliability.
 """
 
 import openai
@@ -50,8 +43,18 @@ LLM_MODELS = {
     "claude-3-5-haiku": "anthropic"
 }
 
+
+# -----------------------------------------------------------------------------------
+# Helper Function
+# -----------------------------------------------------------------------------------
+
 def get_llm_client(model_name):
-    """Returns the appropriate client for each LLM."""
+    """
+    Returns the appropriate client for each LLM.
+
+    NOTE: Extend to more API clients by updating this function
+    """
+
     load_dotenv()
     
     if model_name == "gpt-4o-mini":
@@ -77,6 +80,8 @@ def get_llm_client(model_name):
     else:
         raise ValueError(f"Unknown model: {model_name}")
 
+# NOTE: This function currently supports 3 solutions/languages comparison.
+# In case of more languages added, update the prompt used here accordingly
 def rank_solutions(ex_index, solutions, shuffled_langs, progress_level, exercise_terms, model):
     """
     Gets ranking evaluation from a specific LLM, ensuring explanations properly use and define technical terms.
@@ -172,18 +177,69 @@ def ordinal_to_int(ordinal_str):
     match = re.match(r"(\d+)", ordinal_str.strip())  # Extract leading digits
     return int(match.group(1)) if match else None  # Convert to int
 
+
+# -----------------------------------------------------------------------------------
+# Main Execution
+# -----------------------------------------------------------------------------------
+
 def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mini", output_dir="", tasks_indices=None):
     """
-    Compares LLM-generated math solutions using ranking-based evaluation with majority voting.
-    Writes results incrementally to CSV after each row.
+    Run a held-out, pairwise-style evaluation of multilingual solutions using multiple LLM judges,
+    and write the results to a cumulative CSV file.
 
-    Args:
-    - files (dict): Dictionary of language keys and their corresponding CSV file paths.
-    - technical_terms_files (dict): Dictionary of language keys and their corresponding technical terms CSV file paths.
-    - output_dir (str): Directory path where results should be saved.
+    For each exercise index, this function:
+    - loads the pre-generated solutions for each language (from `files`)
+    - loads the extracted technical terms per exercise (from `technical_terms_files`)
+    - randomizes the order of languages per exercise to reduce position/order bias
+    - asks a panel of judge models (all models in `LLM_MODELS` except `current_model`, plus
+      `claude-3-5-haiku`) to rank the three solutions and provide a short justification
+    - aggregates judge rankings via majority vote for “best” and “worst”
+    - appends a row to `judge_pairwise_evaluation.csv` under `output_dir`
 
-    Returns:
-    - pd.DataFrame: DataFrame containing ranking-based evaluation results.
+    The output file is appended to if it already exists, allowing incremental runs. If it does
+    not exist, a header row is created.
+
+    Parameters
+    ----------
+    files : dict[str, str]
+        Mapping from language label to CSV path containing solutions for that language.
+        Example:
+            {
+              "en": "solutions_en.csv",
+              "de": "solutions_de.csv",
+              "ar": "solutions_ar.csv"
+            }
+        NOTE: to extend to more languages, you simply add a new entry to the files dict
+              Example: { "french": "solutions_fr.csv" }
+
+    technical_terms_files : dict[str, str]
+        Mapping from language label to CSV path containing the extracted technical terms
+        corresponding to the same exercises as `files`.
+        Each CSV is expected to contain a "Technical Terms" column.
+
+    current_model : str, optional
+        The model whose solutions are being evaluated. This model is excluded from the judge
+        panel to avoid “self-judging”.
+        Defaults to "gpt-4o-mini".
+
+    output_dir : str, optional
+        Directory where the output CSV will be created/appended. The file name is fixed:
+        "judge_pairwise_evaluation.csv".
+        Defaults to "" (current working directory).
+
+    tasks_indices : iterable[int] or None, optional
+        Zero-based exercise indices (after header) to evaluate. If None, all exercises up to the
+        shortest dataframe length across languages are evaluated.
+
+    Output format
+    -------------
+    The CSV contains (among others) the following columns:
+    - Exercise Index
+    - Solution 1/2/3 Language (shuffled per exercise)
+    - Progress Level (mapped via `progress_levels`)
+    - Best Explanation / Worst Explanation (majority vote; "TIE" if all judges disagree)
+    - Per-judge rankings for: gpt-4o-mini, gemini-2.5-flash, qwen-plus, claude-3-5-haiku
+    - Per-judge justifications for the same set
     """
     
     output_file = os.path.join(output_dir, "judge_pairwise_evaluation.csv")
@@ -328,3 +384,18 @@ def evaluate_explanations(files, technical_terms_files, current_model="gpt-4o-mi
 
     print(f"Ranking-based evaluation completed. Results saved to {output_file}")
     return pd.read_csv(output_file)
+
+if __name__ == "__main__":
+    solution_files = {
+        "en": "gpt_4o_mini/solutions_en.csv",
+        "de": "gpt_4o_mini/solutions_de.csv",
+        "ar": "gpt_4o_mini/solutions_ar.csv",
+    }
+
+    technical_terms_files = {
+        "en": "technical_terms_en.csv",
+        "de": "technical_terms_de.csv",
+        "ar": "technical_terms_ar.csv",
+    }
+
+    evaluate_explanations(solution_files, technical_terms_files, output_dir="gpt_4o_mini", current_model="gpt-4o-mini")
